@@ -1,0 +1,2565 @@
+<!DOCTYPE html>
+
+<html lang="it">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<title>Le tensioni Egitto-Etiopia e le implicazioni per l'Italia</title>
+<meta content="Scenari di sviluppo tra il rischio di escalation e le opportunità per il Piano Mattei. Orizzonte temporale: giugno 2026 - maggio 2027." name="description"/>
+<link href="https://fonts.googleapis.com" rel="preconnect"/>
+<link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&amp;family=IBM+Plex+Mono:wght@500;600&amp;display=swap" rel="stylesheet"/>
+<style>
+:root{
+  --ivory:#f7f0e6;
+  --ivory-2:#fffaf2;
+  --sand:#d8a94a;
+  --sand-soft:#f3e3bd;
+  --green:#007a4d;
+  --green-soft:#e2f0e8;
+  --red:#c9412d;
+  --red-dark:#8c2f24;
+  --blue:#0e5a78;
+  --blue-dark:#172033;
+  --grey:#4b5563;
+  --line:#ded6c8;
+  --white:#ffffff;
+  --shadow:0 18px 48px rgba(23,32,51,.10);
+  --radius:24px;
+  --max:1180px;
+}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth;scroll-padding-top:92px}
+body{margin:0;font-family:Inter,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;background:var(--ivory);color:var(--blue-dark);line-height:1.65}
+a{color:inherit;text-decoration:none}
+img{max-width:100%;display:block}
+p{margin:0 0 1rem;color:var(--grey)}
+h1,h2,h3,h4{line-height:1.12;margin:0;color:var(--blue-dark);letter-spacing:-.03em}
+h1{font-size:clamp(2.7rem,6vw,6.4rem);max-width:930px}
+h2{font-size:clamp(2.2rem,4.8vw,4.6rem)}
+h3{font-size:clamp(1.45rem,2.2vw,2.05rem)}
+h4{font-size:1.05rem}
+ul{padding-left:1.1rem;margin:.4rem 0 0;color:var(--grey)}
+li{margin:.35rem 0}
+.container{width:min(var(--max),calc(100% - 40px));margin:0 auto}
+.section{padding:110px 0;position:relative;overflow:hidden}
+.section:nth-of-type(even){background:linear-gradient(180deg,var(--ivory-2),var(--ivory))}
+.skip-link{position:absolute;left:-999px;top:12px;background:var(--blue-dark);color:white;padding:.75rem 1rem;border-radius:10px;z-index:1000}
+.skip-link:focus{left:12px}
+.sr-only{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap}
+.site-header{position:fixed;top:0;left:0;right:0;height:76px;display:flex;align-items:center;justify-content:space-between;padding:0 28px;z-index:100;background:rgba(247,240,230,.78);backdrop-filter:blur(18px);border-bottom:1px solid rgba(222,214,200,.72);transition:box-shadow .2s,background .2s}
+.site-header.is-scrolled{box-shadow:0 12px 28px rgba(23,32,51,.08);background:rgba(247,240,230,.94)}
+.brand{display:flex;align-items:center;gap:.75rem;font-weight:800;letter-spacing:-.03em}
+.brand-logo{width:42px;height:42px;border-radius:50%;object-fit:cover;background:white;box-shadow:0 4px 16px rgba(23,32,51,.08)}
+.brand-text{white-space:nowrap}
+.site-nav{display:flex;align-items:center;gap:.5rem;font-size:.86rem;font-weight:700;color:rgba(23,32,51,.76)}
+.site-nav a{padding:.58rem .72rem;border-radius:999px;transition:background .2s,color .2s}
+.site-nav a:hover,.site-nav a.active{background:white;color:var(--blue-dark)}
+.nav-toggle{display:none;background:white;border:1px solid var(--line);border-radius:14px;width:44px;height:44px;align-items:center;justify-content:center;flex-direction:column;gap:4px}
+.nav-toggle span:not(.sr-only){width:20px;height:2px;background:var(--blue-dark);border-radius:3px}
+.eyebrow{font-family:"IBM Plex Mono",monospace;text-transform:uppercase;letter-spacing:.14em;color:var(--blue);font-weight:700;font-size:.78rem;margin-bottom:1rem}
+.subtitle{font-size:clamp(1.25rem,2.4vw,2rem);font-weight:700;color:var(--red-dark);max-width:780px;margin:1.4rem 0}
+.lead{font-size:1.12rem;max-width:770px;color:#384155}
+.btn{display:inline-flex;align-items:center;justify-content:center;gap:.5rem;padding:.95rem 1.25rem;border-radius:999px;font-weight:800;transition:transform .2s,box-shadow .2s,background .2s}
+.btn:hover{transform:translateY(-2px)}
+.btn-primary{background:var(--blue-dark);color:white;box-shadow:0 12px 24px rgba(23,32,51,.18)}
+.btn-secondary{background:rgba(255,255,255,.78);border:1px solid var(--line);color:var(--blue-dark)}
+.card-soft{background:rgba(255,255,255,.74);border:1px solid var(--line);border-radius:var(--radius);box-shadow:var(--shadow);padding:30px}
+.section-header{max-width:840px;margin-bottom:42px}
+.section-header p:last-child{font-size:1.05rem;max-width:760px}
+.section-header.compact{margin-bottom:24px}
+.section-header.compact h3{font-size:2rem}
+.home-section{padding-top:138px;background:radial-gradient(circle at 78% 20%,rgba(216,169,74,.26),transparent 34%),linear-gradient(135deg,#fff7ec,var(--ivory))}
+.home-grid{display:grid;grid-template-columns:minmax(0,1.12fr) minmax(330px,.88fr);gap:48px;align-items:center}
+.home-actions{display:flex;flex-wrap:wrap;gap:12px;margin-top:30px}
+.home-visual{position:relative;padding:18px}
+.home-visual img{border-radius:46%;filter:drop-shadow(0 22px 40px rgba(23,32,51,.16))}
+.visual-tags{display:flex;gap:8px;flex-wrap:wrap;justify-content:center;margin-top:10px}
+.visual-tags span,.monitoring-tags span{background:white;border:1px solid var(--line);padding:.45rem .75rem;border-radius:999px;font-size:.82rem;font-weight:800;color:var(--blue-dark)}
+.home-focus{display:grid;grid-template-columns:repeat(4,1fr);gap:16px;margin-top:60px}
+.home-focus article,.dossier-card,.pmesii-card,.source-card,.premortem-card,.hilp-impact-grid article,.weak-signals-grid article,.process-timeline article{background:rgba(255,255,255,.72);border:1px solid var(--line);border-radius:22px;padding:22px;box-shadow:0 12px 28px rgba(23,32,51,.06)}
+.home-focus span,.process-timeline span,.weak-signals-grid span,.scenario-number,.rank,.driver-code{font-family:"IBM Plex Mono",monospace;color:var(--sand);font-weight:800;display:inline-block;margin-bottom:.8rem}
+.home-focus h3{font-size:1.1rem;margin-bottom:.5rem}
+.method-intro-grid,.current-grid,.hilp-grid{display:grid;grid-template-columns:1.05fr .95fr;gap:24px;align-items:stretch}
+.method-stats{display:grid;grid-template-columns:repeat(2,1fr);gap:14px}
+.method-stats article{background:var(--blue-dark);color:white;border-radius:22px;padding:22px;min-height:118px;display:flex;flex-direction:column;justify-content:flex-end}
+.method-stats strong{font-size:2.8rem;line-height:1;font-family:"IBM Plex Mono",monospace;color:var(--sand)}
+.method-stats span{font-weight:800;color:#f7f0e6}
+.ai-block{display:grid;grid-template-columns:280px 1fr;gap:34px;align-items:center;margin:54px 0;background:var(--blue-dark);color:white;border-radius:32px;padding:32px;box-shadow:var(--shadow)}
+.ai-block p,.ai-block h3,.ai-block h4{color:white}
+.ai-block .eyebrow{color:var(--sand)}
+.ai-visual img{border-radius:50%;border:8px solid rgba(255,255,255,.15);aspect-ratio:1/1;object-fit:cover}
+.human-loop-note{background:rgba(255,255,255,.1);border:1px solid rgba(255,255,255,.18);border-radius:20px;padding:18px;margin-top:18px}
+.process-timeline{display:grid;grid-template-columns:repeat(3,1fr);gap:14px}
+.process-timeline h4{margin-bottom:.4rem}
+.method-note,.current-summary,.drivers-summary,.scenarios-intro,.bibliography-note,.premortem-conclusion,.premortem-monitoring{background:var(--sand-soft);border-left:6px solid var(--sand);border-radius:22px;padding:28px;margin-top:36px}
+.current-grid{grid-template-columns:1fr 330px;margin-top:28px}
+.current-side,.hilp-side{background:var(--blue-dark);color:white;border-radius:24px;padding:28px;align-self:stretch;display:flex;flex-direction:column;justify-content:center}
+.current-side h4,.current-side p,.hilp-side h4,.hilp-side p{color:white}
+.dossier-block,.italy-interest-block,.driver-ranking-block,.key-drivers-block,.hilp-impact-block,.weak-signals-block{margin-top:62px}
+.dossier-grid,.pmesii-grid,.hilp-impact-grid,.weak-signals-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:16px}
+.dossier-tag{font-family:"IBM Plex Mono",monospace;font-size:.72rem;color:var(--blue);font-weight:800;text-transform:uppercase;letter-spacing:.1em}
+.dossier-card.highlight{background:var(--green-soft);border-color:rgba(0,122,77,.22)}
+.italy-interest-block{display:grid;grid-template-columns:.8fr 1.2fr;gap:24px;background:var(--blue-dark);border-radius:32px;padding:34px;color:white}
+.italy-interest-block h3,.italy-interest-block p,.italy-interest-block .eyebrow{color:white}
+.interest-list{display:grid;grid-template-columns:repeat(2,1fr);gap:14px}
+.interest-list article{background:rgba(255,255,255,.10);border:1px solid rgba(255,255,255,.18);border-radius:20px;padding:20px}
+.interest-list h4,.interest-list p{color:white}
+.current-note{border-left-color:var(--red);background:#f8ded6}
+.pmesii-card span{font-family:"IBM Plex Mono",monospace;color:var(--red-dark);font-weight:800;text-transform:uppercase;letter-spacing:.1em;font-size:.74rem}
+.ranking-list{display:grid;gap:12px}
+.ranking-item{display:grid;grid-template-columns:70px 1fr;gap:18px;align-items:center;background:white;border:1px solid var(--line);border-radius:20px;padding:18px}
+.ranking-item.primary{border-color:rgba(0,122,77,.26);background:linear-gradient(90deg,var(--green-soft),white)}
+.rank{font-size:1.6rem;margin:0;color:var(--blue)}
+.key-drivers-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:18px}
+.key-driver-card{border-radius:30px;padding:30px;border:1px solid var(--line);box-shadow:var(--shadow);background:white}
+.key-driver-card.containment{border-color:rgba(0,122,77,.28);background:linear-gradient(160deg,var(--green-soft),white)}
+.key-driver-card.escalation{border-color:rgba(201,65,45,.28);background:linear-gradient(160deg,#f8ded6,white)}
+.driver-code{font-size:1.3rem;color:var(--blue)}
+.driver-axis-label{margin-top:18px;border-top:1px solid rgba(23,32,51,.12);padding-top:14px;font-weight:800;color:var(--blue-dark)}
+.scenario-transition{background:var(--blue-dark);color:white;border-radius:32px;padding:34px;margin-top:48px}
+.scenario-transition h3,.scenario-transition p{color:white}
+.mini-scenario-matrix{display:grid;grid-template-columns:repeat(2,1fr);gap:12px;margin-top:20px}
+.mini-scenario-matrix article{background:rgba(255,255,255,.1);border:1px solid rgba(255,255,255,.16);border-radius:18px;padding:18px}
+.mini-scenario-matrix span{display:block;color:#f7f0e6;font-size:.86rem;margin-bottom:.4rem}
+.scenario-matrix{display:grid;grid-template-columns:220px 1fr 1fr;gap:10px;margin:34px 0 34px}
+.matrix-axis{background:white;border:1px solid var(--line);border-radius:18px;padding:18px;font-weight:800;display:flex;align-items:center;justify-content:center;text-align:center;color:var(--blue-dark)}
+.matrix-axis.side{justify-content:flex-start;text-align:left}
+.matrix-empty{background:transparent}
+.matrix-cell{min-height:136px;border-radius:22px;padding:20px;display:flex;flex-direction:column;justify-content:space-between;border:1px solid var(--line);transition:transform .2s,box-shadow .2s}
+.matrix-cell:hover{transform:translateY(-4px);box-shadow:var(--shadow)}
+.low-risk{--risk:#007a4d;--risk-bg:#e2f0e8}
+.medium-risk{--risk:#0e5a78;--risk-bg:#e3edf1}
+.medium-high-risk{--risk:#b7791f;--risk-bg:#f3e3bd}
+.high-risk{--risk:#c9412d;--risk-bg:#f8ded6}
+.matrix-cell,.scenario-overview-card,.scenario-detail{background:var(--risk-bg);border-color:color-mix(in srgb,var(--risk) 35%,transparent)}
+.matrix-cell span,.scenario-detail .scenario-number,.scenario-overview-card .scenario-number{color:var(--risk)}
+.scenario-overview-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:14px;margin:28px 0 52px}
+.scenario-overview-card{border-radius:24px;padding:22px;border:1px solid;min-height:250px;display:flex;flex-direction:column}
+.scenario-overview-card strong{margin-top:auto;color:var(--risk)}
+.scenario-label{font-family:"IBM Plex Mono",monospace;text-transform:uppercase;letter-spacing:.08em;color:var(--risk);font-size:.72rem;font-weight:800;margin-bottom:.65rem}
+.scenario-detail-list{display:grid;gap:24px}
+.scenario-detail{border-radius:32px;padding:30px;border:1px solid;scroll-margin-top:96px}
+.scenario-detail-header{display:grid;grid-template-columns:64px 1fr;gap:18px;align-items:start;margin-bottom:24px}
+.scenario-detail-grid{display:grid;grid-template-columns:1fr 370px;gap:24px}
+.scenario-implications{background:rgba(255,255,255,.68);border:1px solid rgba(23,32,51,.10);border-radius:24px;padding:22px}
+.hilp-section{background:linear-gradient(180deg,#fbefe9,var(--ivory))}
+.hilp-event-card{background:linear-gradient(135deg,var(--red-dark),#2c1110);color:white;border-radius:34px;padding:36px;box-shadow:var(--shadow)}
+.hilp-event-card h3,.hilp-event-card p,.hilp-event-card .eyebrow{color:white}
+.hilp-event-card .eyebrow{color:#ffd5c8}
+.hilp-risk-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:16px;margin-top:24px}
+.hilp-risk-grid article{background:rgba(255,255,255,.11);border:1px solid rgba(255,255,255,.18);border-radius:22px;padding:20px}
+.hilp-risk-grid span{font-family:"IBM Plex Mono",monospace;text-transform:uppercase;font-weight:800;color:#ffd5c8}
+.hilp-grid{grid-template-columns:1fr 320px;margin-top:34px}
+.hilp-side{background:var(--red-dark)}
+.weak-signals-grid span{color:var(--red)}
+.premortem-assumption{background:var(--blue-dark);border-radius:32px;padding:34px;color:white;box-shadow:var(--shadow)}
+.premortem-assumption h3,.premortem-assumption p,.premortem-assumption .eyebrow{color:white}
+.premortem-assumption .eyebrow{color:var(--sand)}
+.premortem-diagnostic-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:18px;margin-top:36px}
+.premortem-column{display:grid;gap:14px;align-content:start}
+.premortem-column-header{background:white;border:1px solid var(--line);border-radius:24px;padding:20px}
+.premortem-column-header span{font-family:"IBM Plex Mono",monospace;color:var(--red);font-weight:800}
+.premortem-column-header h3{font-size:1.25rem;margin-top:.4rem}
+.premortem-card h4{margin-bottom:.5rem}
+.monitoring-tags{display:flex;gap:10px;flex-wrap:wrap;margin-top:14px}
+.bibliography-group{background:white;border:1px solid var(--line);border-radius:22px;margin:14px 0;overflow:hidden;box-shadow:0 8px 24px rgba(23,32,51,.05)}
+.bibliography-group summary{cursor:pointer;padding:20px 24px;font-weight:800;list-style:none;display:flex;align-items:center;justify-content:space-between}
+.bibliography-group summary::after{content:"+";font-size:1.4rem;color:var(--blue)}
+.bibliography-group[open] summary::after{content:"–"}
+.bibliography-list{display:grid;gap:12px;padding:0 18px 18px}
+.source-card{box-shadow:none;border-radius:18px;padding:18px;background:var(--ivory-2)}
+.source-card h3{font-size:1rem;line-height:1.35;margin-bottom:.6rem}
+.source-meta{font-family:"IBM Plex Mono",monospace;text-transform:uppercase;letter-spacing:.08em;font-size:.7rem;font-weight:800;color:var(--blue);margin-bottom:.5rem}
+.source-card a{display:inline-flex;margin-top:.35rem;font-weight:800;color:var(--red-dark);border-bottom:2px solid currentColor}
+.site-footer{background:var(--blue-dark);color:white;padding:42px 0}
+.site-footer p,.site-footer span,.site-footer a,.site-footer strong{color:white}
+.footer-grid{display:grid;grid-template-columns:1.2fr .8fr auto;gap:24px;align-items:center}
+.back-to-top{position:fixed;right:18px;bottom:18px;width:46px;height:46px;border-radius:50%;border:0;background:var(--blue-dark);color:white;font-size:1.2rem;font-weight:900;box-shadow:var(--shadow);opacity:0;pointer-events:none;transform:translateY(10px);transition:.2s;z-index:80}
+.back-to-top.visible{opacity:1;pointer-events:auto;transform:translateY(0)}
+.reveal{opacity:0;transform:translateY(22px);transition:opacity .7s ease,transform .7s ease}
+.reveal.visible{opacity:1;transform:translateY(0)}
+@media (max-width:1060px){.site-nav{position:fixed;top:76px;left:16px;right:16px;background:rgba(255,250,242,.98);border:1px solid var(--line);box-shadow:var(--shadow);border-radius:24px;display:none;flex-direction:column;align-items:stretch;padding:12px}.site-nav.open{display:flex}.site-nav a{padding:1rem}.nav-toggle{display:flex}.home-grid,.method-intro-grid,.current-grid,.italy-interest-block,.hilp-grid{grid-template-columns:1fr}.home-focus,.scenario-overview-grid{grid-template-columns:repeat(2,1fr)}.process-timeline,.dossier-grid,.pmesii-grid,.hilp-impact-grid,.weak-signals-grid,.premortem-diagnostic-grid{grid-template-columns:repeat(2,1fr)}.ai-block{grid-template-columns:180px 1fr}.scenario-detail-grid{grid-template-columns:1fr}.scenario-matrix{grid-template-columns:170px 1fr 1fr}.footer-grid{grid-template-columns:1fr}}
+@media (max-width:720px){.site-header{padding:0 16px}.brand-text{display:none}.section{padding:76px 0}.container{width:min(100% - 28px,var(--max))}.home-section{padding-top:110px}.home-focus,.method-stats,.process-timeline,.dossier-grid,.pmesii-grid,.key-drivers-grid,.mini-scenario-matrix,.scenario-overview-grid,.hilp-risk-grid,.hilp-impact-grid,.weak-signals-grid,.premortem-diagnostic-grid,.interest-list{grid-template-columns:1fr}.ai-block{grid-template-columns:1fr}.ai-visual{max-width:220px}.scenario-detail-header{grid-template-columns:1fr}.home-actions .btn{width:100%}.footer-grid{text-align:left}}
+@media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}.reveal{opacity:1;transform:none;transition:none}.btn:hover,.matrix-cell:hover{transform:none}}
+
+
+/* === Revisioni richieste: sfondi per sezione, immagini scenario, Cross Impact Matrix === */
+.section:nth-of-type(even){background:initial}
+.home-section{background:radial-gradient(circle at 80% 22%,rgba(216,169,74,.28),transparent 34%),linear-gradient(135deg,#fff7ec 0%,#f7f0e6 58%,#efe2cf 100%)}
+.method-section{background:radial-gradient(circle at 8% 18%,rgba(14,90,120,.11),transparent 30%),linear-gradient(180deg,#f9efe1 0%,#fffaf2 100%)}
+.current-section{background:radial-gradient(circle at 90% 20%,rgba(0,122,77,.10),transparent 28%),linear-gradient(180deg,#f4ead9 0%,#f8f1e6 100%)}
+.drivers-section{background:radial-gradient(circle at 15% 12%,rgba(216,169,74,.16),transparent 28%),linear-gradient(180deg,#fff6e7 0%,#f1e3cc 100%)}
+.scenarios-section{background:radial-gradient(circle at 84% 18%,rgba(201,65,45,.09),transparent 30%),linear-gradient(180deg,#f7f0e6 0%,#efe5d5 100%)}
+.hilp-section{background:radial-gradient(circle at 15% 10%,rgba(201,65,45,.16),transparent 30%),linear-gradient(180deg,#fbefe9 0%,#ecd8d0 100%)}
+.premortem-section{background:radial-gradient(circle at 88% 12%,rgba(14,90,120,.12),transparent 28%),linear-gradient(180deg,#f2eadf 0%,#e8dccd 100%)}
+.bibliography-section{background:radial-gradient(circle at 10% 14%,rgba(0,122,77,.08),transparent 28%),linear-gradient(180deg,#fffaf2 0%,#eee5d7 100%)}
+
+.scenario-art{margin:0 0 26px;border-radius:28px;overflow:hidden;border:1px solid color-mix(in srgb,var(--risk) 35%,transparent);background:rgba(255,255,255,.58);box-shadow:0 16px 36px rgba(23,32,51,.10)}
+.scenario-art img{width:100%;max-height:420px;object-fit:cover;object-position:center}
+.hilp-art{margin:22px 0 4px;border-radius:28px;overflow:hidden;border:1px solid rgba(255,255,255,.20);background:rgba(255,255,255,.08);max-width:560px}
+.hilp-art img{width:100%;max-height:420px;object-fit:cover;object-position:center;mix-blend-mode:normal}
+
+.cross-impact-block{margin:48px 0;padding:30px;border-radius:34px;background:rgba(255,255,255,.68);border:1px solid var(--line);box-shadow:var(--shadow)}
+.matrix-legend{display:flex;gap:10px;flex-wrap:wrap;margin:-8px 0 18px}
+.matrix-legend span{font-family:"IBM Plex Mono",monospace;text-transform:uppercase;letter-spacing:.08em;font-size:.72rem;font-weight:800;border-radius:999px;padding:.45rem .68rem;border:1px solid rgba(23,32,51,.12);background:white}
+.legend-positive{color:#0f7a4e}.legend-negative{color:#c9412d}.legend-neutral{color:#5b6473}.legend-comment{color:#0e5a78}
+/* === Cross Impact Matrix: stili condivisi (colori, celle, indicatori) === */
+.cross-impact-table-wrap{border-radius:22px;border:1px solid var(--line);background:white;box-shadow:inset 0 0 0 1px rgba(255,255,255,.5)}
+.cross-impact-table{border-collapse:separate;border-spacing:0;width:100%;line-height:1.25}
+.cross-impact-table caption{text-align:left;font-weight:800;background:var(--blue-dark);color:white}
+.cross-impact-table th,.cross-impact-table td{border-right:1px solid #e7dece;border-bottom:1px solid #e7dece;text-align:center;vertical-align:middle;background:#fffdf8;position:relative}
+.cross-impact-table thead th{background:#172033;color:white;font-family:"IBM Plex Mono",monospace;font-weight:800}
+.cross-impact-table .sticky-col{text-align:left;background:#fff7ec}
+.cross-impact-table thead .sticky-col{background:#172033;color:white}
+.cross-impact-table .code-col{font-family:"IBM Plex Mono",monospace;font-weight:800;color:var(--blue)}
+.cross-impact-table .driver-col{font-weight:800;color:var(--blue-dark)}
+.cross-impact-table thead .code-col,.cross-impact-table thead .driver-col{color:white}
+.cross-impact-table .matrix-driver-head{cursor:help}
+.cross-impact-table .active-col{font-weight:900;background:#f3e3bd;color:#704a0b}
+.cross-impact-table .passive-row{font-weight:900;background:#e3edf1!important;color:#0e5a78!important}
+.cross-impact-table td.positive{background:#e2f0e8;color:#00643f;font-weight:800}
+.cross-impact-table td.negative{background:#f8ded6;color:#a83a2b;font-weight:800}
+.cross-impact-table td.neutral{background:#f5f1ea;color:#6b7280}
+.cross-impact-table td.diagonal{background:#d8d1c5;color:#8b8173}
+.cross-impact-table .has-comment{outline:2px solid rgba(14,90,120,.25);outline-offset:-2px;cursor:help}
+
+/* === CIM DESKTOP (>=1060px): tabella completamente visibile, nessuno scroll orizzontale ===
+   Usa table-layout:fixed con larghezze proporzionali e font clamp
+   per far stare l'intera matrice 17x17 dentro il container senza scrollbar.
+   Scroll verticale attivo (max-height) con sticky header e sticky cols. */
+@media (min-width:1060px){
+  .cross-impact-table-wrap{
+    overflow-x:visible;
+    overflow-y:auto;
+    max-height:780px;
+  }
+  .cross-impact-table{
+    min-width:0;
+    table-layout:fixed;
+    font-size:clamp(.44rem,.5vw,.7rem);
+  }
+  .cross-impact-table col.col-code  { width:5% }
+  .cross-impact-table col.col-driver{ width:21% }
+  .cross-impact-table col.col-score { width:4.35% }
+  .cross-impact-table caption{
+    position:sticky;
+    top:0;
+    z-index:10;
+    padding:10px 14px;
+  }
+  .cross-impact-table thead th{
+    position:sticky;
+    top:36px;
+    z-index:8;
+    white-space:normal;
+    word-break:break-word;
+    padding:6px 4px;
+    font-size:.65em;
+    line-height:1.1;
+  }
+  .cross-impact-table th,.cross-impact-table td{
+    padding:7px 5px;
+    white-space:normal;
+    overflow-wrap:anywhere;
+  }
+  .cross-impact-table .sticky-col{
+    position:sticky;
+    z-index:7;
+  }
+  .cross-impact-table thead .sticky-col{ z-index:12 }
+  .cross-impact-table .code-col{
+    left:0;
+    text-align:center;
+  }
+  .cross-impact-table .driver-col{
+    left:5%;
+    text-align:left;
+  }
+}
+.matrix-tooltip{position:fixed;z-index:9999;max-width:min(420px,calc(100vw - 32px));background:#172033;color:white;border:1px solid rgba(255,255,255,.14);border-radius:16px;padding:12px 14px;box-shadow:0 18px 42px rgba(23,32,51,.28);font-size:.88rem;line-height:1.4;pointer-events:none;opacity:0;transform:translateY(4px);transition:opacity .12s ease,transform .12s ease}
+.matrix-tooltip.visible{opacity:1;transform:translateY(0)}
+@media (max-width:720px){.cross-impact-block{padding:18px}.scenario-art img,.hilp-art img{max-height:300px}}
+
+
+/* === Ultime revisioni: loghi scenario visibili e tooltip solo in riquadro colorato === */
+.scenario-art{
+  width:min(240px,58vw);
+  margin:0 auto 24px;
+  padding:10px;
+  border-radius:24px;
+  overflow:visible;
+  background:rgba(255,255,255,.62);
+}
+.scenario-art img{
+  width:100%;
+  height:auto;
+  max-height:240px;
+  object-fit:contain;
+  object-position:center;
+  border-radius:18px;
+}
+.hilp-art{
+  width:min(260px,62vw);
+  margin:22px auto 8px;
+  padding:10px;
+  border-radius:24px;
+  overflow:visible;
+  background:rgba(255,255,255,.12);
+}
+.hilp-art img{
+  width:100%;
+  height:auto;
+  max-height:260px;
+  object-fit:contain;
+  object-position:center;
+  border-radius:18px;
+}
+.scenario-detail-header{
+  align-items:center;
+}
+.matrix-tooltip{
+  background:#f3e3bd;
+  color:#172033;
+  border:2px solid #d8a94a;
+  border-left-width:8px;
+  border-radius:18px;
+  box-shadow:0 18px 42px rgba(23,32,51,.24);
+  font-weight:700;
+}
+.matrix-tooltip.tip-positive{
+  background:#e2f0e8;
+  border-color:#007a4d;
+}
+.matrix-tooltip.tip-negative{
+  background:#f8ded6;
+  border-color:#c9412d;
+}
+.matrix-tooltip.tip-neutral{
+  background:#f5f1ea;
+  border-color:#8b8173;
+}
+@media (max-width:720px){
+  .scenario-art{width:min(210px,70vw)}
+  .scenario-art img{max-height:210px}
+  .hilp-art{width:min(230px,72vw)}
+  .hilp-art img{max-height:230px}
+}
+
+
+/* === CIM: tooltip dot indicator === */
+.cross-impact-table .has-comment::after{
+  content:"";
+  position:absolute;
+  right:3px;
+  top:3px;
+  width:5px;
+  height:5px;
+  border-radius:50%;
+  background:currentColor;
+  opacity:.65;
+}
+.matrix-tooltip{
+  position:fixed;
+  z-index:9999;
+  max-width:min(460px,calc(100vw - 32px));
+  color:white;
+  border-radius:16px;
+  padding:12px 14px;
+  box-shadow:0 18px 42px rgba(23,32,51,.28);
+  font-size:.9rem;
+  line-height:1.4;
+  pointer-events:none;
+  opacity:0;
+  transform:translateY(4px);
+  transition:opacity .12s ease,transform .12s ease;
+}
+.matrix-tooltip.visible{opacity:1;transform:translateY(0)}
+.matrix-tooltip.tip-positive{background:#0f6b4d;border:1px solid rgba(255,255,255,.20)}
+.matrix-tooltip.tip-negative{background:#a83a2b;border:1px solid rgba(255,255,255,.20)}
+.matrix-tooltip.tip-neutral{background:#172033;border:1px solid rgba(255,255,255,.18)}
+
+/* === CIM MOBILE: scroll orizzontale con sticky columns corrette ===
+   Strategia:
+   - Il wrapper scorre in X e Y
+   - La tabella ha larghezza fissa minima che la rende scorrevole
+   - code-col: sticky left:0, larghezza fissa 44px
+   - driver-col: sticky left:44px, larghezza fissa 130px su mobile / 160px su tablet
+   - Tutti i th/td sticky hanno background solido per coprire le celle che scorrono sotto
+   - z-index scala: thead corner > thead > sticky body > celle normali
+*/
+@media (max-width:1059px){
+  /* Il cross-impact-block non deve tagliare lo shadow laterale */
+  .cross-impact-block{
+    padding:20px 16px;
+    overflow:visible;
+  }
+  /* Il wrapper è il vero contenitore di scroll */
+  .cross-impact-table-wrap{
+    overflow-x:auto !important;
+    overflow-y:auto !important;
+    max-height:480px !important;
+    -webkit-overflow-scrolling:touch;
+    border-radius:16px;
+    /* Hint visivo: mostra che scorre */
+    background:
+      linear-gradient(to right, white 30%, rgba(255,255,255,0)),
+      linear-gradient(to right, rgba(255,255,255,0), white 70%) 100% 0,
+      radial-gradient(farthest-side at 0 50%, rgba(23,32,51,.12), transparent),
+      radial-gradient(farthest-side at 100% 50%, rgba(23,32,51,.12), transparent) 100% 0;
+    background-repeat:no-repeat;
+    background-color:white;
+    background-size:40px 100%, 40px 100%, 14px 100%, 14px 100%;
+    background-attachment:local, local, scroll, scroll;
+  }
+  /* Tabella: larghezza minima fissa, layout auto per rispettare i contenuti */
+  .cross-impact-table{
+    min-width:860px !important;
+    width:auto !important;
+    table-layout:auto !important;
+    font-size:.72rem;
+    line-height:1.2;
+  }
+  /* Caption sticky in cima */
+  .cross-impact-table caption{
+    position:sticky !important;
+    top:0 !important;
+    z-index:20 !important;
+    padding:8px 12px;
+    font-size:.78rem;
+  }
+  /* Header row: sticky sotto la caption */
+  .cross-impact-table thead th{
+    position:sticky !important;
+    top:36px !important;
+    z-index:15 !important;
+    white-space:nowrap;
+    padding:6px 5px;
+    font-size:.66rem;
+  }
+  /* Tutte le sticky-col nelle righe body */
+  .cross-impact-table .sticky-col{
+    position:sticky !important;
+    z-index:9 !important;
+    background:#fff7ec !important;
+  }
+  /* Header corner cells (thead + sticky-col) devono stare sopra tutto */
+  .cross-impact-table thead .sticky-col{
+    z-index:22 !important;
+    background:#172033 !important;
+  }
+  /* Colonna codice: prima colonna sticky, larghezza compatta */
+  .cross-impact-table .code-col{
+    left:0 !important;
+    min-width:44px !important;
+    width:44px !important;
+  }
+  /* Colonna driver: seconda colonna sticky, ancorata dopo code-col */
+  .cross-impact-table .driver-col{
+    left:44px !important;
+    min-width:160px !important;
+    width:160px !important;
+    /* Bordo destro visibile per separare visivamente dal contenuto scorrevole */
+    border-right:2px solid rgba(23,32,51,.18) !important;
+    box-shadow:4px 0 8px -2px rgba(23,32,51,.10);
+  }
+  /* Celle normali */
+  .cross-impact-table th,.cross-impact-table td{
+    padding:6px 5px;
+  }
+}
+
+@media (max-width:600px){
+  .cross-impact-table{
+    min-width:720px !important;
+    font-size:.65rem;
+  }
+  .cross-impact-table .driver-col{
+    min-width:130px !important;
+    width:130px !important;
+    left:44px !important;
+  }
+  .cross-impact-table thead th{
+    font-size:.6rem;
+    padding:5px 4px;
+  }
+  .cross-impact-table th,.cross-impact-table td{
+    padding:5px 4px;
+  }
+  .cross-impact-table caption{
+    font-size:.72rem;
+  }
+}
+
+
+/* === Modifiche richieste: loghi agente e riposizionamento loghi scenario/HILP === */
+.process-timeline article.agent-logo-card{
+  position:relative;
+  padding-right:72px;
+}
+.agent-card-logo{
+  position:absolute;
+  top:16px;
+  right:16px;
+  width:42px;
+  height:42px;
+  object-fit:cover;
+  border-radius:50%;
+  background:white;
+  border:1px solid rgba(23,32,51,.10);
+  box-shadow:0 8px 18px rgba(23,32,51,.12);
+}
+.scenario-detail-header{
+  grid-template-columns:64px minmax(0,1fr) auto;
+  align-items:start;
+}
+.scenario-detail-header .scenario-art.scenario-header-logo{
+  width:auto;
+  height:clamp(86px,9vw,118px);
+  aspect-ratio:1/1;
+  margin:0 0 0 18px;
+  padding:6px;
+  align-self:start;
+  justify-self:end;
+  border-radius:18px;
+  overflow:visible;
+  background:rgba(255,255,255,.62);
+}
+.scenario-detail-header .scenario-art.scenario-header-logo img{
+  width:100%;
+  height:100%;
+  max-height:none;
+  object-fit:contain;
+  border-radius:14px;
+}
+.hilp-event-card{
+  position:relative;
+  padding-right:clamp(36px,24vw,300px);
+}
+.hilp-event-card .hilp-art.hilp-header-logo{
+  position:absolute;
+  top:32px;
+  right:32px;
+  width:auto;
+  height:clamp(90px,10vw,132px);
+  aspect-ratio:1/1;
+  margin:0;
+  padding:7px;
+  border-radius:20px;
+  background:rgba(255,255,255,.12);
+}
+.hilp-event-card .hilp-art.hilp-header-logo img{
+  width:100%;
+  height:100%;
+  max-height:none;
+  object-fit:contain;
+  border-radius:14px;
+}
+@media (max-width:720px){
+  .process-timeline article.agent-logo-card{padding-right:64px}
+  .agent-card-logo{width:36px;height:36px;top:14px;right:14px}
+  .scenario-detail-header{grid-template-columns:52px 1fr auto;gap:12px}
+  .scenario-detail-header .scenario-art.scenario-header-logo{height:76px;margin-left:8px;padding:5px}
+  .hilp-event-card{padding-right:28px;padding-top:142px}
+  .hilp-event-card .hilp-art.hilp-header-logo{top:28px;left:34px;right:auto;height:92px}
+}
+
+/* === Revisioni: sottotitolo CIM, workflow dinamico, monitoring tag cliccabili === */
+.cross-impact-block .section-header.compact{
+  max-width:none;
+  width:100%;
+  margin-bottom:24px;
+}
+.cross-impact-block .section-header.compact p:last-child{
+  max-width:none;
+  width:100%;
+  margin-right:0;
+  text-align:left;
+}
+
+.process-timeline{
+  position:relative;
+  grid-template-columns:repeat(4,minmax(0,1fr));
+  gap:22px 28px;
+  counter-reset:workflow-step;
+}
+.process-timeline article{
+  position:relative;
+  min-height:176px;
+  padding:24px 22px 22px;
+  border-radius:24px;
+  background:linear-gradient(145deg,rgba(255,255,255,.90),rgba(255,250,242,.72));
+  border:1px solid rgba(14,90,120,.16);
+  box-shadow:0 14px 32px rgba(23,32,51,.08);
+  transition:transform .2s ease,box-shadow .2s ease,border-color .2s ease;
+}
+.process-timeline article:hover{
+  transform:translateY(-4px);
+  border-color:rgba(14,90,120,.34);
+  box-shadow:0 20px 42px rgba(23,32,51,.12);
+}
+.process-timeline article::before{
+  content:"";
+  position:absolute;
+  left:22px;
+  right:22px;
+  top:0;
+  height:5px;
+  border-radius:999px;
+  background:linear-gradient(90deg,var(--blue),var(--sand));
+  transform:translateY(-1px);
+}
+.process-timeline article::after{
+  content:"→";
+  position:absolute;
+  top:50%;
+  right:-24px;
+  transform:translateY(-50%);
+  width:28px;
+  height:28px;
+  border-radius:50%;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  background:var(--blue-dark);
+  color:white;
+  font-weight:900;
+  box-shadow:0 8px 18px rgba(23,32,51,.16);
+  z-index:2;
+}
+.process-timeline article:nth-child(4n)::after,
+.process-timeline article:last-child::after{
+  content:"";
+  width:0;
+  height:0;
+  box-shadow:none;
+  background:transparent;
+}
+.process-timeline article:nth-child(4n)::before{
+  background:linear-gradient(90deg,var(--blue),var(--red));
+}
+.process-timeline span{
+  display:inline-flex;
+  align-items:center;
+  justify-content:center;
+  width:42px;
+  height:42px;
+  margin-bottom:1rem;
+  border-radius:50%;
+  background:var(--blue-dark);
+  color:var(--sand);
+  border:2px solid rgba(216,169,74,.35);
+}
+.process-timeline h4{
+  font-size:1.02rem;
+  margin-bottom:.55rem;
+}
+.process-timeline p{
+  font-size:.92rem;
+}
+.process-timeline article.agent-logo-card{
+  padding-right:76px;
+}
+.process-timeline article.agent-logo-card .agent-card-logo{
+  top:22px;
+  right:20px;
+}
+
+.premortem-monitoring > p{
+  max-width:760px;
+  margin:.7rem 0 1rem;
+  color:#384155;
+  font-weight:700;
+}
+.monitoring-tags a{
+  background:white;
+  border:1px solid var(--line);
+  padding:.45rem .75rem;
+  border-radius:999px;
+  font-size:.82rem;
+  font-weight:800;
+  color:var(--blue-dark);
+  display:inline-flex;
+  align-items:center;
+  gap:.35rem;
+  transition:transform .18s ease,box-shadow .18s ease,border-color .18s ease,color .18s ease;
+}
+.monitoring-tags a::after{
+  content:"↗";
+  font-size:.72rem;
+  color:var(--blue);
+}
+.monitoring-tags a:hover{
+  transform:translateY(-2px);
+  border-color:rgba(14,90,120,.32);
+  box-shadow:0 10px 22px rgba(23,32,51,.10);
+  color:var(--blue);
+}
+
+@media (max-width:1060px){
+  .process-timeline{grid-template-columns:repeat(2,minmax(0,1fr));gap:20px 26px}
+  .process-timeline article:nth-child(4n)::after{content:"→";width:28px;height:28px;background:var(--blue-dark);box-shadow:0 8px 18px rgba(23,32,51,.16)}
+  .process-timeline article:nth-child(2n)::after,.process-timeline article:last-child::after{content:"";width:0;height:0;background:transparent;box-shadow:none}
+}
+@media (max-width:720px){
+  .process-timeline{grid-template-columns:1fr;gap:34px}
+  .process-timeline article{min-height:auto}
+  .process-timeline article::after,
+  .process-timeline article:nth-child(2n)::after,
+  .process-timeline article:nth-child(4n)::after{
+    content:"↓";
+    top:auto;
+    right:auto;
+    left:50%;
+    bottom:-31px;
+    transform:translateX(-50%);
+    width:28px;
+    height:28px;
+    background:var(--blue-dark);
+    box-shadow:0 8px 18px rgba(23,32,51,.16);
+  }
+  .process-timeline article:last-child::after{content:"";width:0;height:0;background:transparent;box-shadow:none}
+  .process-timeline article.agent-logo-card{padding-right:66px}
+}
+
+/* === Revisioni finali: card monitoring con logo news, colore rosso chiaro sfumato, workflow collegato === */
+.premortem-monitoring{
+  position:relative;
+  overflow:hidden;
+  padding:30px 34px;
+  padding-right:clamp(130px,18vw,210px);
+  background:
+    radial-gradient(circle at 96% 8%,rgba(255,255,255,.72),transparent 24%),
+    linear-gradient(135deg,#fff7f4 0%,#f8ded6 48%,#f2c9bf 100%) !important;
+  border-left:6px solid var(--red) !important;
+  border-top:1px solid rgba(201,65,45,.18);
+  border-right:1px solid rgba(201,65,45,.18);
+  border-bottom:1px solid rgba(201,65,45,.18);
+  box-shadow:0 18px 44px rgba(140,47,36,.12);
+}
+.premortem-monitoring h3{
+  padding-right:88px;
+}
+.monitoring-news-logo{
+  position:absolute;
+  top:24px;
+  right:28px;
+  width:clamp(58px,7vw,86px);
+  height:clamp(58px,7vw,86px);
+  object-fit:contain;
+  border-radius:18px;
+  background:rgba(255,255,255,.62);
+  border:1px solid rgba(201,65,45,.18);
+  box-shadow:0 12px 26px rgba(140,47,36,.15);
+  padding:6px;
+}
+
+/* Workflow: layout a serpentina a 3 colonne con connettori continui tra tutte le 13 card. */
+.process-timeline{
+  grid-template-columns:repeat(3,minmax(0,1fr)) !important;
+  gap:34px 40px !important;
+  align-items:stretch;
+}
+.process-timeline article{
+  min-height:178px;
+}
+.process-timeline article:nth-child(1){order:1}
+.process-timeline article:nth-child(2){order:2}
+.process-timeline article:nth-child(3){order:3}
+.process-timeline article:nth-child(4){order:6}
+.process-timeline article:nth-child(5){order:5}
+.process-timeline article:nth-child(6){order:4}
+.process-timeline article:nth-child(7){order:7}
+.process-timeline article:nth-child(8){order:8}
+.process-timeline article:nth-child(9){order:9}
+.process-timeline article:nth-child(10){order:12}
+.process-timeline article:nth-child(11){order:11}
+.process-timeline article:nth-child(12){order:10}
+.process-timeline article:nth-child(13){order:13;grid-column:1 / 2}
+.process-timeline article::after{
+  content:"→" !important;
+  top:50% !important;
+  right:-34px !important;
+  bottom:auto !important;
+  left:auto !important;
+  transform:translateY(-50%) !important;
+  width:30px !important;
+  height:30px !important;
+  background:var(--blue-dark) !important;
+  box-shadow:0 8px 18px rgba(23,32,51,.16) !important;
+  color:white !important;
+}
+.process-timeline article:nth-child(4)::after,
+.process-timeline article:nth-child(5)::after,
+.process-timeline article:nth-child(10)::after,
+.process-timeline article:nth-child(11)::after{
+  content:"←" !important;
+  right:auto !important;
+  left:-34px !important;
+}
+.process-timeline article:nth-child(3)::after,
+.process-timeline article:nth-child(6)::after,
+.process-timeline article:nth-child(9)::after,
+.process-timeline article:nth-child(12)::after{
+  content:"↓" !important;
+  top:auto !important;
+  right:auto !important;
+  left:50% !important;
+  bottom:-32px !important;
+  transform:translateX(-50%) !important;
+}
+.process-timeline article:nth-child(13)::after{
+  content:"" !important;
+  width:0 !important;
+  height:0 !important;
+  background:transparent !important;
+  box-shadow:none !important;
+}
+.process-timeline article:nth-child(3),
+.process-timeline article:nth-child(6),
+.process-timeline article:nth-child(9),
+.process-timeline article:nth-child(12){
+  border-color:rgba(201,65,45,.28);
+}
+
+@media (max-width:1060px){
+  .process-timeline{
+    grid-template-columns:repeat(2,minmax(0,1fr)) !important;
+    gap:34px 38px !important;
+  }
+  .process-timeline article{order:initial !important;grid-column:auto !important}
+  .process-timeline article:nth-child(odd)::after{
+    content:"→" !important;
+    top:50% !important;
+    right:-32px !important;
+    bottom:auto !important;
+    left:auto !important;
+    transform:translateY(-50%) !important;
+    width:30px !important;
+    height:30px !important;
+    background:var(--blue-dark) !important;
+    box-shadow:0 8px 18px rgba(23,32,51,.16) !important;
+  }
+  .process-timeline article:nth-child(even)::after{
+    content:"↓" !important;
+    top:auto !important;
+    right:auto !important;
+    left:50% !important;
+    bottom:-32px !important;
+    transform:translateX(-50%) !important;
+    width:30px !important;
+    height:30px !important;
+    background:var(--blue-dark) !important;
+    box-shadow:0 8px 18px rgba(23,32,51,.16) !important;
+  }
+  .process-timeline article:nth-child(13)::after{
+    content:"" !important;
+    width:0 !important;
+    height:0 !important;
+    background:transparent !important;
+    box-shadow:none !important;
+  }
+}
+@media (max-width:720px){
+  .premortem-monitoring{
+    padding:96px 24px 26px;
+  }
+  .premortem-monitoring h3{padding-right:0}
+  .monitoring-news-logo{
+    top:22px;
+    right:auto;
+    left:24px;
+    width:60px;
+    height:60px;
+  }
+  .process-timeline{
+    grid-template-columns:1fr !important;
+    gap:34px !important;
+  }
+  .process-timeline article{order:initial !important;grid-column:auto !important}
+  .process-timeline article::after,
+  .process-timeline article:nth-child(odd)::after,
+  .process-timeline article:nth-child(even)::after,
+  .process-timeline article:nth-child(3)::after,
+  .process-timeline article:nth-child(6)::after,
+  .process-timeline article:nth-child(9)::after,
+  .process-timeline article:nth-child(12)::after{
+    content:"↓" !important;
+    top:auto !important;
+    right:auto !important;
+    left:50% !important;
+    bottom:-31px !important;
+    transform:translateX(-50%) !important;
+    width:28px !important;
+    height:28px !important;
+    background:var(--blue-dark) !important;
+    box-shadow:0 8px 18px rgba(23,32,51,.16) !important;
+  }
+  .process-timeline article:nth-child(13)::after{
+    content:"" !important;
+    width:0 !important;
+    height:0 !important;
+    background:transparent !important;
+    box-shadow:none !important;
+  }
+}
+
+
+/* === Modifiche richieste 2026-06-10 === */
+.brand-text{
+  max-width:none;
+  white-space:nowrap;
+  line-height:1.05;
+  font-size:clamp(.78rem,1.05vw,.96rem);
+}
+.home-content h1 span{
+  display:inline-block;
+}
+#home .subtitle{
+  position:relative;
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  gap:18px;
+  padding-right:0;
+  max-width:860px;
+}
+#home .subtitle > span{
+  display:block;
+  flex:1 1 auto;
+}
+.subtitle-logo{
+  flex:0 0 auto;
+  width:clamp(58px,7vw,92px);
+  height:clamp(58px,7vw,92px);
+  object-fit:contain;
+  border-radius:50%;
+  background:rgba(255,255,255,.72);
+  border:1px solid rgba(23,32,51,.10);
+  box-shadow:0 14px 30px rgba(23,32,51,.12);
+  padding:6px;
+  margin-inline-start:12px;
+}
+.current-section{
+  background:radial-gradient(circle at 88% 18%,rgba(0,122,77,.16),transparent 30%),linear-gradient(180deg,#eef7f1 0%,#e2f0e8 52%,#f8f1e6 100%) !important;
+}
+.drivers-section{
+  background:radial-gradient(circle at 12% 12%,rgba(216,169,74,.24),transparent 30%),linear-gradient(180deg,#fff8e9 0%,#f3e3bd 52%,#f1e3cc 100%) !important;
+}
+.scenario-matrix .matrix-cell{
+  gap:.45rem;
+  justify-content:flex-start;
+  min-height:210px;
+}
+.scenario-matrix .matrix-cell .scenario-number{
+  margin-bottom:.35rem;
+}
+.scenario-matrix .matrix-cell h3{
+  font-size:clamp(1.12rem,1.8vw,1.45rem);
+  margin:.1rem 0 .35rem;
+}
+.scenario-matrix .matrix-cell p{
+  margin-bottom:.45rem;
+}
+.scenario-matrix .matrix-cell strong{
+  margin-top:auto;
+  color:var(--risk);
+}
+.scenario-overview-grid{
+  grid-template-columns:minmax(260px,420px);
+}
+.premortem-column{
+  position:relative;
+}
+.premortem-column .premortem-card{
+  position:relative;
+}
+.premortem-column .premortem-card:not(:first-of-type)::before{
+  content:"";
+  position:absolute;
+  left:50%;
+  top:-15px;
+  width:2px;
+  height:15px;
+  background:linear-gradient(180deg,var(--blue),var(--sand));
+  transform:translateX(-50%);
+  z-index:1;
+}
+.premortem-column .premortem-card:not(:last-of-type)::after{
+  content:"↓";
+  position:absolute;
+  left:50%;
+  bottom:-23px;
+  width:26px;
+  height:26px;
+  border-radius:50%;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  background:var(--blue-dark);
+  color:white;
+  font-weight:900;
+  transform:translateX(-50%);
+  box-shadow:0 8px 18px rgba(23,32,51,.16);
+  z-index:2;
+}
+@media (max-width:720px){
+  .brand-text{display:none}
+  #home .subtitle{align-items:flex-start}
+  .subtitle-logo{width:58px;height:58px;margin-top:2px}
+}
+
+/* === Scenario matrix: layout 2x2 preservato su mobile ===
+   Struttura HTML (9 figli diretti di .scenario-matrix):
+   1) div.matrix-empty
+   2) div.matrix-axis.top   "Regionalizzazione contenuta"
+   3) div.matrix-axis.top   "Regionalizzazione elevata"
+   4) div.matrix-axis.side  "Mediazione esterna efficace"
+   5) a.matrix-cell.low-risk         Scenario 01
+   6) a.matrix-cell.medium-high-risk Scenario 02
+   7) div.matrix-axis.side  "Mediazione esterna debole"
+   8) a.matrix-cell.medium-risk      Scenario 03
+   9) a.matrix-cell.high-risk        Scenario 04
+
+   Layout mobile: griglia 3 colonne (asse-Y stretto | cella | cella)
+   con etichette top nella riga 1 e assi side verticali nella col 1.
+*/
+@media (max-width:720px){
+
+  /* Griglia: colonna asse-Y stretta, due colonne celle uguali */
+  .scenario-matrix{
+    display: grid;
+    grid-template-columns: 28px 1fr 1fr;
+    grid-template-rows: auto 1fr 1fr;
+    gap: 6px;
+    margin: 20px 0;
+  }
+
+  /* 1) Angolo vuoto */
+  .scenario-matrix > :nth-child(1){
+    display: block;
+    grid-column: 1;
+    grid-row: 1;
+    background: transparent;
+    border: none;
+    padding: 0;
+  }
+
+  /* 2) Asse X sinistra: "Regionalizzazione contenuta" */
+  .scenario-matrix > :nth-child(2){
+    grid-column: 2;
+    grid-row: 1;
+    padding: 6px 8px;
+    font-size: .65rem;
+    line-height: 1.2;
+    border-radius: 10px;
+    justify-content: center;
+    text-align: center;
+    min-height: 0;
+  }
+
+  /* 3) Asse X destra: "Regionalizzazione elevata" */
+  .scenario-matrix > :nth-child(3){
+    grid-column: 3;
+    grid-row: 1;
+    padding: 6px 8px;
+    font-size: .65rem;
+    line-height: 1.2;
+    border-radius: 10px;
+    justify-content: center;
+    text-align: center;
+    min-height: 0;
+  }
+
+  /* 4) Asse Y alto: "Mediazione esterna efficace" — verticale */
+  .scenario-matrix > :nth-child(4){
+    grid-column: 1;
+    grid-row: 2;
+    writing-mode: vertical-rl;
+    text-orientation: mixed;
+    transform: rotate(180deg);
+    padding: 8px 4px;
+    font-size: .6rem;
+    line-height: 1.2;
+    border-radius: 10px;
+    justify-content: center;
+    text-align: center;
+    min-height: 0;
+  }
+
+  /* 5) Scenario 01 */
+  .scenario-matrix > :nth-child(5){
+    grid-column: 2;
+    grid-row: 2;
+  }
+
+  /* 6) Scenario 02 */
+  .scenario-matrix > :nth-child(6){
+    grid-column: 3;
+    grid-row: 2;
+  }
+
+  /* 7) Asse Y basso: "Mediazione esterna debole" — verticale */
+  .scenario-matrix > :nth-child(7){
+    grid-column: 1;
+    grid-row: 3;
+    writing-mode: vertical-rl;
+    text-orientation: mixed;
+    transform: rotate(180deg);
+    padding: 8px 4px;
+    font-size: .6rem;
+    line-height: 1.2;
+    border-radius: 10px;
+    justify-content: center;
+    text-align: center;
+    min-height: 0;
+  }
+
+  /* 8) Scenario 03 */
+  .scenario-matrix > :nth-child(8){
+    grid-column: 2;
+    grid-row: 3;
+  }
+
+  /* 9) Scenario 04 */
+  .scenario-matrix > :nth-child(9){
+    grid-column: 3;
+    grid-row: 3;
+  }
+
+  /* Celle: dimensioni ridotte per stare nello spazio mobile */
+  .scenario-matrix .matrix-cell{
+    min-height: 0;
+    padding: 10px 8px;
+    border-radius: 12px;
+    gap: .25rem;
+  }
+  .scenario-matrix .matrix-cell .scenario-number{
+    font-size: .78rem;
+    margin-bottom: .15rem;
+  }
+  .scenario-matrix .matrix-cell .scenario-label{
+    font-size: .56rem;
+    letter-spacing: .03em;
+    margin-bottom: .15rem;
+  }
+  .scenario-matrix .matrix-cell h3{
+    font-size: .8rem;
+    margin: 0 0 .2rem;
+    letter-spacing: -.02em;
+    line-height: 1.15;
+  }
+  .scenario-matrix .matrix-cell p{
+    font-size: .66rem;
+    margin-bottom: .15rem;
+    line-height: 1.3;
+  }
+  .scenario-matrix .matrix-cell strong{
+    font-size: .62rem;
+    margin-top: auto;
+  }
+}
+
+
+/* === Feed RSS dinamico: Segnali contrari da monitorare === */
+.monitoring-tags button.monitoring-feed-btn{
+  background:white;
+  border:1px solid var(--line);
+  padding:.45rem .75rem;
+  border-radius:999px;
+  font-size:.82rem;
+  font-weight:800;
+  color:var(--blue-dark);
+  display:inline-flex;
+  align-items:center;
+  gap:.35rem;
+  cursor:pointer;
+  font-family:inherit;
+  transition:transform .18s ease,box-shadow .18s ease,border-color .18s ease,color .18s ease,background .18s ease;
+}
+.monitoring-tags button.monitoring-feed-btn::after{
+  content:"RSS";
+  font-family:"IBM Plex Mono",monospace;
+  font-size:.62rem;
+  letter-spacing:.06em;
+  color:var(--blue);
+  background:var(--green-soft);
+  border-radius:999px;
+  padding:.12rem .32rem;
+}
+.monitoring-tags button.monitoring-feed-btn:hover,
+.monitoring-tags button.monitoring-feed-btn.active{
+  transform:translateY(-2px);
+  border-color:rgba(14,90,120,.32);
+  box-shadow:0 10px 22px rgba(23,32,51,.10);
+  color:var(--blue);
+  background:#fffdf8;
+}
+.monitoring-tags button.monitoring-feed-btn.active{
+  border-color:rgba(201,65,45,.35);
+  background:#fff7f4;
+}
+
+.rss-monitoring-panel{
+  margin-top:22px;
+  background:rgba(255,255,255,.70);
+  border:1px solid rgba(201,65,45,.18);
+  border-radius:22px;
+  padding:18px;
+  box-shadow:0 12px 28px rgba(140,47,36,.08);
+}
+.rss-monitoring-header{
+  display:flex;
+  align-items:flex-start;
+  justify-content:space-between;
+  gap:18px;
+  margin-bottom:14px;
+}
+.rss-kicker{
+  font-family:"IBM Plex Mono",monospace;
+  text-transform:uppercase;
+  letter-spacing:.12em;
+  color:var(--red-dark);
+  font-weight:800;
+  font-size:.68rem;
+  margin:0 0 .35rem;
+}
+.rss-monitoring-header h4{
+  font-size:1.12rem;
+}
+#rssMonitoringStatus{
+  flex:0 0 auto;
+  font-family:"IBM Plex Mono",monospace;
+  font-size:.72rem;
+  font-weight:800;
+  color:var(--blue);
+  background:white;
+  border:1px solid var(--line);
+  border-radius:999px;
+  padding:.36rem .58rem;
+}
+.rss-news-ticker{
+  --rss-row-h:46px;
+  --rss-rows:5;
+  overflow:hidden;
+  border-radius:16px;
+  background:var(--blue-dark);
+  border:1px solid rgba(23,32,51,.12);
+  max-height:calc(var(--rss-row-h) * var(--rss-rows));
+}
+.rss-news-track{
+  display:block;
+  color:white;
+}
+.rss-news-track.is-ready{
+  animation:rss-news-scroll-vertical var(--rss-scroll-duration,45s) linear infinite;
+}
+.rss-news-track a{
+  display:block;
+  height:var(--rss-row-h);
+  line-height:var(--rss-row-h);
+  padding:0 18px;
+  white-space:nowrap;
+  overflow:hidden;
+  text-overflow:ellipsis;
+  color:white;
+  font-weight:800;
+  border-bottom:1px solid rgba(255,255,255,.08);
+}
+/* Tag lingua originale: piccola pillola monocromatica accanto al titolo */
+.rss-lang-tag{
+  display:inline-block;
+  font-size:.65em;
+  font-weight:700;
+  font-family:"IBM Plex Mono",monospace;
+  letter-spacing:.04em;
+  color:rgba(255,255,255,.55);
+  background:rgba(255,255,255,.1);
+  border-radius:4px;
+  padding:0 4px;
+  line-height:1.6;
+  vertical-align:middle;
+  margin-left:2px;
+}
+.rss-placeholder{
+  display:block;
+  color:white;
+  font-weight:800;
+  padding:13px 18px;
+}
+.rss-news-track a::before{
+  content:"\2022";
+  color:var(--sand);
+  margin-right:12px;
+}
+.rss-news-track a:hover{
+  text-decoration:underline;
+  background:rgba(255,255,255,.06);
+}
+.rss-news-ticker:hover .rss-news-track.is-ready{
+  animation-play-state:paused;
+}
+@keyframes rss-news-scroll-vertical{
+  from{transform:translateY(0)}
+  to{transform:translateY(-50%)}
+}
+@media (max-width:720px){
+  .rss-monitoring-header{flex-direction:column}
+  #rssMonitoringStatus{align-self:flex-start}
+  .rss-news-ticker{--rss-row-h:42px}
+}
+@media (prefers-reduced-motion:reduce){
+  .rss-news-track.is-ready{animation:none}
+  .rss-news-ticker{overflow-y:auto}
+}
+
+
+/* === Aggiornamenti richiesti: home/header/feed RSS === */
+.brand-text{
+  max-width:none !important;
+  white-space:nowrap !important;
+  line-height:1.05;
+  font-size:clamp(.78rem,1.05vw,.98rem);
+}
+.home-content h1 span{
+  display:inline-block;
+  white-space:nowrap;
+}
+#home .subtitle{
+  display:block;
+  max-width:none;
+}
+#home .subtitle > span{
+  display:inline;
+  white-space:nowrap;
+}
+.subtitle-logo{
+  display:none !important;
+}
+.scenario-overview-grid:empty{
+  display:none;
+  margin:0;
+}
+@media (max-width:1060px){
+  .brand-text{font-size:.78rem}
+}
+@media (max-width:720px){
+  .brand-text{display:none}
+  .home-content h1 span{white-space:normal}
+  #home .subtitle > span{white-space:normal}
+}
+
+
+/* === RESPONSIVE IMPROVEMENTS: self-contained build === */
+
+/* Fix: nav mobile overflow */
+@media (max-width:1060px){
+  .site-nav{
+    max-height: calc(100vh - 76px);
+    overflow-y: auto;
+  }
+}
+
+/* Fix: home section on mobile — immagine visibile ma compatta */
+@media (max-width:720px){
+  .home-grid{
+    grid-template-columns: 1fr;
+  }
+  .home-visual{
+    display: flex;
+    justify-content: center;
+    padding: 10px 0 0;
+  }
+  .home-visual img{
+    width: min(200px, 55vw);
+  }
+}
+
+/* Fix: bibliography on mobile */
+@media (max-width:720px){
+  .bibliography-group summary{
+    font-size:.92rem;
+    padding:16px 18px;
+  }
+  .bibliography-list{
+    padding:0 14px 14px;
+  }
+}
+
+/* Improve: RSS ticker mobile */
+@media (max-width:720px){
+  .rss-news-track a{
+    height: auto;
+    min-height: var(--rss-row-h);
+    line-height: 1.4;
+    padding: 10px 14px;
+    white-space: normal;
+    overflow: visible;
+    text-overflow: clip;
+  }
+  .rss-news-ticker{
+    max-height: calc(var(--rss-row-h) * var(--rss-rows) * 1.5);
+  }
+}
+
+/* Fix: footer mobile */
+@media (max-width:720px){
+  .footer-grid{
+    grid-template-columns: 1fr;
+    gap: 16px;
+  }
+}
+
+/* Fix: scenario detail mobile — logo scenario visibile come badge nell'header */
+@media (max-width:720px){
+  .scenario-detail-grid{
+    grid-template-columns: 1fr;
+  }
+  /* Header: numero + testo + logo in fila flex */
+  .scenario-detail-header{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    gap: 10px;
+  }
+  .scenario-detail-header > .scenario-number{
+    flex: 0 0 auto;
+  }
+  .scenario-detail-header > div{
+    flex: 1 1 0;
+    min-width: 0;
+  }
+  /* Logo scenario: visibile, dimensione compatta */
+  .scenario-detail-header .scenario-art.scenario-header-logo{
+    display: block !important;
+    flex: 0 0 auto;
+    width: 64px !important;
+    height: 64px !important;
+    margin: 0 !important;
+    padding: 5px !important;
+    align-self: flex-start;
+  }
+  .scenario-detail-header .scenario-art.scenario-header-logo img{
+    width: 100%;
+    height: 100%;
+    max-height: none !important;
+  }
+  /* HILP card: immagine non più assoluta, torna nel flusso */
+  .hilp-event-card{
+    padding-right: 24px !important;
+    padding-top: 28px !important;
+  }
+  .hilp-event-card .hilp-art.hilp-header-logo{
+    position: static !important;
+    display: block;
+    width: min(110px, 36vw) !important;
+    height: auto !important;
+    aspect-ratio: 1/1;
+    margin: 0 0 16px 0 !important;
+  }
+}
+
+/* Fix: italy-interest-block on mobile */
+@media (max-width:720px){
+  .italy-interest-block{
+    grid-template-columns: 1fr;
+    gap: 20px;
+    padding: 24px;
+  }
+  .interest-list{
+    grid-template-columns: 1fr;
+  }
+}
+
+/* Fix: premortem diagnostic on medium screens */
+@media (max-width:900px) and (min-width:721px){
+  .premortem-diagnostic-grid{
+    grid-template-columns: repeat(2,1fr);
+  }
+}
+
+/* Improve: monitoring tags on small mobile */
+@media (max-width:480px){
+  .monitoring-tags button.monitoring-feed-btn{
+    font-size:.76rem;
+    padding:.38rem .62rem;
+  }
+}
+
+/* Fix: cards stacking on very small screens */
+@media (max-width:480px){
+  .dossier-grid,
+  .pmesii-grid,
+  .hilp-impact-grid,
+  .weak-signals-grid,
+  .key-drivers-grid,
+  .home-focus{
+    grid-template-columns: 1fr;
+  }
+  /* Agent logo cards: padding ridotto per non far uscire il logo */
+  .process-timeline article.agent-logo-card{
+    padding-right: 54px;
+  }
+  .agent-card-logo{
+    width: 34px;
+    height: 34px;
+    top: 12px;
+    right: 10px;
+  }
+}
+
+</style>
+</head>
+<body>
+<a class="skip-link" href="#main">Salta al contenuto</a>
+<header class="site-header" data-header="">
+<a aria-label="Torna alla Home" class="brand" href="#home">
+<img alt="Logo del sito" class="brand-logo" src="assets/logo-sito.png"/>
+<span class="brand-text">Le tensioni Egitto-Etiopia e le implicazioni per l'Italia</span>
+</a>
+<button aria-controls="site-nav" aria-expanded="false" class="nav-toggle" data-nav-toggle="" type="button">
+<span></span><span></span><span></span>
+<span class="sr-only">Apri menu</span>
+</button>
+<nav class="site-nav" data-nav="" id="site-nav">
+<a href="#home">Home</a>
+<a href="#nota-metodologica">Nota metodologica</a>
+<a href="#situazione-attuale">Situazione attuale</a>
+<a href="#driver">Driver</a>
+<a href="#scenari">Scenari</a>
+<a href="#scenario-hilp">Scenario HILP</a>
+<a href="#analisi-premortem">Premortem</a>
+<a href="#bibliografia">Lista fonti</a>
+</nav>
+</header>
+<main id="main">
+<section class="section home-section" id="home">
+<div class="container home-grid">
+<div class="home-content reveal">
+<p class="eyebrow">Analisi di scenario | Giugno 2026 – Maggio 2027</p>
+<h1>Le tensioni tra Egitto ed Etiopia e le implicazioni per gli interessi italiani</h1>
+<p class="subtitle">Scenari di sviluppo tra il rischio di escalation e le opportunità per il Piano Mattei</p>
+<p class="lead">Quali sono gli scenari di evoluzione delle relazioni tra Egitto ed Etiopia nei prossimi dodici mesi e quali implicazioni potrebbero avere per gli interessi italiani nel quadrante Mar Rosso–Corno d’Africa?</p>
+<div class="home-actions">
+<a class="btn btn-primary" href="#scenari">Esplora gli scenari</a>
+<a class="btn btn-secondary" href="#nota-metodologica">Leggi la nota metodologica</a>
+</div>
+</div>
+<div class="home-visual reveal">
+<img alt="Illustrazione con riferimenti a Egitto, Etiopia, Nilo e Italia" src="assets/logo-sito.png"/>
+</div>
+</div>
+</section>
+<section class="section method-section" id="nota-metodologica">
+<div class="container">
+<div class="section-header reveal">
+<p class="eyebrow">Metodo</p>
+<h2>Nota metodologica</h2>
+<p>Un processo analitico strutturato, human-in-the-loop e orientato alla costruzione di scenari alternativi.</p>
+</div>
+<div class="method-intro-grid reveal">
+<div class="method-copy card-soft">
+<h3>Come è stata costruita l’analisi</h3>
+<p>Il lavoro è stato sviluppato attraverso una sequenza strutturata di tecniche analitiche applicate alle tensioni tra Egitto ed Etiopia, ai loro possibili sviluppi nei prossimi dodici mesi e alle implicazioni per gli interessi italiani, a partire dal Piano Mattei.</p>
+<p>Il processo ha permesso di muoversi dalla lettura della situazione attuale alla generazione di quattro futuri alternativi, fino alla valutazione critica dei risultati analitici.</p>
+</div>
+<div aria-label="Numeri chiave della metodologia" class="method-stats">
+<article><strong>58</strong><span>documenti raccolti</span></article>
+<article><strong>168</strong><span>claim estratti</span></article>
+<article><strong>100</strong><span>claim validati</span></article>
+<article><strong>17</strong><span>driver selezionati</span></article>
+<article><strong>2</strong><span>driver di rilievo</span></article>
+<article><strong>4</strong><span>scenari alternativi</span></article>
+</div>
+</div>
+<div class="ai-block reveal">
+<div class="ai-visual"><img alt="Agente IA Analista" src="assets/agente-stilizzato.png"/></div>
+<div class="ai-copy">
+<p class="eyebrow">Analisi assistita dall'IA</p>
+<h3>Il ruolo dell’agente “Analista”</h3>
+<p>Per supportare le tecniche analitiche previste è stato istruito un agente IA dedicato, denominato “Analista”, specializzato in geopolitica, analisi prospettica e tecniche analitiche strutturate.</p>
+<p>L’approccio adottato è stato rigorosamente antropocentrico: l’intelligenza artificiale è stata utilizzata come strumento di supporto e potenziamento dell’analista, non come suo sostituto.</p>
+<div class="human-loop-note"><h4>Human-in-the-loop</h4><p>Ogni output generato dall’agente è stato vagliato, corretto e validato dagli analisti prima di essere integrato nelle fasi successive del lavoro.</p></div>
+</div>
+</div>
+<div class="process-block reveal">
+<div class="section-header compact"><p class="eyebrow">Processo</p><h3>Le 13 fasi del lavoro</h3></div>
+<div class="process-timeline">
+<article><span>01</span><h4>Brainstorming strutturato</h4><p>Definizione del tema e delle modalità di lavoro.</p></article>
+<article><span>02</span><h4>Tecnica AIMS</h4><p>Identificazione di audience, issue, message e storyline.</p></article>
+<article class="agent-logo-card"><img alt="Logo agente Analista" class="agent-card-logo" src="assets/agente-stilizzato.png"/><span>03</span><h4>Issue Redefinition</h4><p>Ridefinizione del problema nella domanda analitica guida.</p></article>
+<article><span>04</span><h4>Ricerca fonti</h4><p>Raccolta e valutazione di documenti utili al quesito analitico.</p></article>
+<article class="agent-logo-card"><img alt="Logo agente Analista" class="agent-card-logo" src="assets/agente-stilizzato.png"/><span>05</span><h4>Estrazione claim</h4><p>Individuazione delle informazioni rilevanti per l’analisi.</p></article>
+<article class="agent-logo-card"><img alt="Logo agente Analista" class="agent-card-logo" src="assets/agente-stilizzato.png"/><span>06</span><h4>Quality of Information Check</h4><p>Verifica dei claim e selezione delle informazioni più solide.</p></article>
+<article class="agent-logo-card"><img alt="Logo agente Analista" class="agent-card-logo" src="assets/agente-stilizzato.png"/><span>07</span><h4>Stato attuale</h4><p>Sintesi del quadro di partenza rispetto alla domanda analitica.</p></article>
+<article class="agent-logo-card"><img alt="Logo agente Analista" class="agent-card-logo" src="assets/agente-stilizzato.png"/><span>08</span><h4>Driver di cambiamento</h4><p>Identificazione dei fattori di possibile evoluzione del contesto.</p></article>
+<article class="agent-logo-card"><img alt="Logo agente Analista" class="agent-card-logo" src="assets/agente-stilizzato.png"/><span>09</span><h4>Cross Impact Matrix</h4><p>Valutazione dell’influenza reciproca tra i driver selezionati.</p></article>
+<article class="agent-logo-card"><img alt="Logo agente Analista" class="agent-card-logo" src="assets/agente-stilizzato.png"/><span>10</span><h4>Futuri alternativi</h4><p>Costruzione di quattro scenari plausibili e distinti.</p></article>
+<article class="agent-logo-card"><img alt="Logo agente Analista" class="agent-card-logo" src="assets/agente-stilizzato.png"/><span>11</span><h4>Avvocato del diavolo</h4><p>Stress test critico delle implicazioni strategiche per l’Italia.</p></article>
+<article class="agent-logo-card"><img alt="Logo agente Analista" class="agent-card-logo" src="assets/agente-stilizzato.png"/><span>12</span><h4>Analisi HILP</h4><p>Identificazione di un evento ad alto impatto e bassa probabilità.</p></article>
+<article class="agent-logo-card"><img alt="Logo agente Analista" class="agent-card-logo" src="assets/agente-stilizzato.png"/><span>13</span><h4>Analisi premortem</h4><p>Verifica delle assunzioni dello scenario più favorevole.</p></article>
+</div>
+</div>
+</div>
+</section>
+<section class="section current-section" id="situazione-attuale">
+<div class="container">
+<div class="section-header reveal"><p class="eyebrow">Quadro di partenza</p><h2>Situazione attuale</h2><p>Una rivalità che dal bacino del Nilo si proietta sul Corno d’Africa e sul Mar Rosso.</p></div>
+<div class="current-summary reveal"><h3>In sintesi</h3><p>La rivalità Egitto-Etiopia non è più solo una disputa sulla gestione delle acque del Nilo. La GERD resta il fulcro simbolico e operativo della tensione, ma il confronto si è esteso al Sudan, al Corno d’Africa, alla competizione per l’accesso al mare e alla sicurezza del Mar Rosso. Per l’Italia, il dossier incide su Piano Mattei, rotte commerciali, energia, migrazioni e credibilità diplomatica.</p></div>
+<div class="current-grid reveal">
+<article class="current-main card-soft"><h3>Dal contenzioso idrico alla competizione regionale</h3><p>Allo stato attuale, i rapporti tra Egitto ed Etiopia sono segnati da una rivalità strutturale che ha nella Grand Ethiopian Renaissance Dam il suo fulcro più visibile, ma che ormai eccede la dimensione strettamente idrica.</p><p>Per Addis Abeba, la GERD rappresenta un’infrastruttura strategica di sovranità, sviluppo, elettrificazione e prestigio nazionale. Per Il Cairo, invece, la gestione della diga tocca una questione di sicurezza nazionale, legata alla tenuta agricola, sociale ed economica dell’Egitto.</p><p>Il nodo principale resta l’assenza di un accordo vincolante sul riempimento e sulla gestione della diga, soprattutto in caso di siccità prolungate.</p></article>
+<aside class="current-side"><h4>Nodo centrale</h4><p>La GERD è il punto di contatto tra due narrazioni incompatibili: sicurezza idrica egiziana e sovranità energetica etiope.</p></aside>
+</div>
+<div class="dossier-block reveal"><div class="section-header compact"><p class="eyebrow">Dossier regionali</p><h3>La regionalizzazione della crisi</h3></div><div class="dossier-grid">
+<article class="dossier-card"><span class="dossier-tag">Nilo</span><h4>GERD</h4><p>La diga resta il fulcro più visibile della rivalità: per l’Etiopia è sovranità energetica, per l’Egitto sicurezza idrica nazionale.</p></article>
+<article class="dossier-card"><span class="dossier-tag">Sudan</span><h4>Guerra civile</h4><p>Il conflitto sudanese indebolisce un attore chiave del bacino del Nilo e apre nuovi spazi di competizione indiretta.</p></article>
+<article class="dossier-card"><span class="dossier-tag">Corno d’Africa</span><h4>Somalia e Somaliland</h4><p>La ricerca etiope di accesso al mare e il rafforzamento dei legami Egitto-Somalia ampliano la geografia della crisi.</p></article>
+<article class="dossier-card"><span class="dossier-tag">Snodi regionali</span><h4>Eritrea e Gibuti</h4><p>Eritrea e Gibuti assumono rilievo crescente negli equilibri tra Cairo e Addis Abeba, soprattutto per accesso al mare e sicurezza regionale.</p></article>
+<article class="dossier-card"><span class="dossier-tag">Competizione esterna</span><h4>Attori internazionali</h4><p>Emirati, Turchia, Arabia Saudita, Cina, Stati Uniti, UE e UA influenzano la crisi, ma la mediazione resta frammentata.</p></article>
+<article class="dossier-card highlight"><span class="dossier-tag">Italia</span><h4>Interessi strategici</h4><p>Piano Mattei, energia, migrazioni, Suez-Mar Rosso e credibilità diplomatica rendono il dossier rilevante per Roma.</p></article>
+</div></div>
+<div class="italy-interest-block reveal"><div><p class="eyebrow">Interessi italiani</p><h3>Perché il dossier riguarda Roma</h3><p>L’Italia ha interesse a preservare simultaneamente la solidità del rapporto con l’Egitto e il progressivo consolidamento della cooperazione con l’Etiopia. Tuttavia, l’intreccio tra bacino del Nilo, Corno d’Africa e Mar Rosso riduce gli spazi di neutralità.</p></div><div class="interest-list"><article><h4>Piano Mattei</h4><p>Egitto ed Etiopia sono partner rilevanti della proiezione italiana in Africa.</p></article><article><h4>Suez e Mar Rosso</h4><p>La sicurezza delle rotte commerciali euro-mediterranee dipende dalla stabilità dell’area.</p></article><article><h4>Energia</h4><p>La stabilità egiziana incide sul ruolo del Cairo come hub energetico regionale.</p></article><article><h4>Migrazioni</h4><p>La crisi può avere effetti sulle politiche migratorie regionali e sulla cooperazione con Roma.</p></article></div></div>
+<div class="method-note current-note reveal"><h3>Perché monitorare</h3><p>Il monitoraggio della relazione Egitto-Etiopia assume per l’Italia un valore che travalica la dimensione regionale: incide sulla sicurezza energetica nazionale, sulla resilienza delle catene logistiche euro-mediterranee, sulla stabilità di partner africani prioritari e sulla credibilità della proiezione politico-diplomatica italiana.</p></div>
+</div>
+</section>
+<section class="section drivers-section" id="driver">
+<div class="container">
+<div class="section-header reveal"><p class="eyebrow">Fattori di cambiamento</p><h2>Driver</h2><p>Le forze politiche, militari, economiche, sociali, informative e infrastrutturali che possono orientare l’evoluzione della rivalità.</p></div>
+<div class="drivers-summary reveal"><h3>In sintesi</h3><p>L’analisi ha individuato 17 driver di cambiamento, organizzati secondo le categorie PMESII. Attraverso una Cross Impact Matrix sono stati selezionati i due driver di maggiore rilievo sistemico: la capacità di mediazione esterna e la regionalizzazione della rivalità Egitto-Etiopia.</p></div>
+<div class="pmesii-block reveal"><div class="section-header compact"><p class="eyebrow">PMESII</p><h3>I 17 driver di cambiamento</h3></div><div class="pmesii-grid">
+<article class="pmesii-card"><span>Political</span><ul><li>Securitizzazione della GERD</li><li>Regionalizzazione della rivalità Egitto-Etiopia</li><li>Capacità di mediazione esterna</li><li>Vincoli domestici dei due regimi</li></ul></article>
+<article class="pmesii-card"><span>Military</span><ul><li>Militarizzazione indiretta del Corno d’Africa</li><li>Instabilità interna etiope</li><li>Guerra in Sudan e vuoto di coordinamento</li></ul></article>
+<article class="pmesii-card"><span>Economic</span><ul><li>Fragilità economica egiziana</li><li>Bisogno etiope di crescita, energia e accesso al mare</li><li>Vulnerabilità delle rotte Suez-Mar Rosso</li></ul></article>
+<article class="pmesii-card"><span>Social</span><ul><li>Stress idrico-alimentare e sensibilità pubblica</li><li>Spostamenti forzati e pressione migratoria</li></ul></article>
+<article class="pmesii-card"><span>Information</span><ul><li>Opacità dei dati GERD</li><li>Narrative nazionaliste e delegittimazione reciproca</li></ul></article>
+<article class="pmesii-card"><span>Infrastructure</span><ul><li>Regime operativo della GERD</li><li>Corridoi portuali e basi nel Golfo di Aden</li><li>Infrastrutture energetiche e logistiche egiziane</li></ul></article>
+</div></div>
+<div class="cross-impact-block reveal" id="cross-impact-matrix">
+<div class="section-header compact">
+<p class="eyebrow">Cross Impact Matrix</p>
+<h3>Tabella interattiva dei driver</h3>
+<p>La tabella riproduce la Cross Impact Matrix, una matrice di impatto incrociato nel quale ognuno dei 17 driver di cambiamento è stato valutato in base alla sua capacità di rafforzare o ridurre gli altri driver del sistema, con valori compresi tra -3 e +3 (valore 0 se il driver è ininfluente su un altro driver). Il criterio non si è limitato a misurare l’importanza isolata di ciascun fattore, ma ha considerato il suo peso sistemico: da un lato l’influenza, cioè la capacità di produrre effetti su altri driver; dall’altro la dipendenza, cioè il grado in cui quel driver è a sua volta condizionato da altri driver. Scorrendo col cursore sui singoli punteggi è visibile una spiegazione sintetica del rapporto tra i driver.</p>
+</div>
+<div aria-label="Legenda della Cross Impact Matrix" class="matrix-legend">
+<span class="legend-positive">Rafforza</span>
+<span class="legend-negative">Riduce</span>
+<span class="legend-neutral">Neutro</span>
+<span class="legend-comment">Commento disponibile</span>
+</div>
+<div aria-label="Cross Impact Matrix interattiva aggiornata" class="cross-impact-table-wrap"><table class="cross-impact-table">
+<colgroup><col class="col-code"/><col class="col-driver"/><col class="col-score"/><col class="col-score"/><col class="col-score"/><col class="col-score"/><col class="col-score"/><col class="col-score"/><col class="col-score"/><col class="col-score"/><col class="col-score"/><col class="col-score"/><col class="col-score"/><col class="col-score"/><col class="col-score"/><col class="col-score"/><col class="col-score"/><col class="col-score"/><col class="col-score"/><col class="col-score"/></colgroup>
+<caption>Driver riga -&gt; driver colonna: effetto del driver di riga sul driver di colonna. Passa sulle celle evidenziate per leggere il commento.</caption>
+<thead><tr>
+<th class="sticky-col code-col">Codice</th>
+<th class="sticky-col driver-col">Driver</th>
+<th class="matrix-driver-head has-comment" data-tooltip="Securitizzazione della GERD">D1</th>
+<th class="matrix-driver-head has-comment" data-tooltip="Regionalizzazione della rivalita Egitto-Etiopia">D2</th>
+<th class="matrix-driver-head has-comment" data-tooltip="Capacità di mediazione esterna">D3</th>
+<th class="matrix-driver-head has-comment" data-tooltip="Vincoli domestici dei due regimi">D4</th>
+<th class="matrix-driver-head has-comment" data-tooltip="Militarizzazione indiretta del Corno d'Africa">D5</th>
+<th class="matrix-driver-head has-comment" data-tooltip="Instabilita interna etiope">D6</th>
+<th class="matrix-driver-head has-comment" data-tooltip="Guerra in Sudan e vuoto di coordinamento">D7</th>
+<th class="matrix-driver-head has-comment" data-tooltip="Fragilità economica egiziana">D8</th>
+<th class="matrix-driver-head has-comment" data-tooltip="Bisogno etiope di crescita, energia e accesso al mare">D9</th>
+<th class="matrix-driver-head has-comment" data-tooltip="Vulnerabilita delle rotte Suez-Mar Rosso">D10</th>
+<th class="matrix-driver-head has-comment" data-tooltip="Stress idrico-alimentare e sensibilita pubblica">D11</th>
+<th class="matrix-driver-head has-comment" data-tooltip="Spostamenti forzati e pressione migratoria">D12</th>
+<th class="matrix-driver-head has-comment" data-tooltip="Opacità dei dati GERD">D13</th>
+<th class="matrix-driver-head has-comment" data-tooltip="Narrative nazionaliste e delegittimazione reciproca">D14</th>
+<th class="matrix-driver-head has-comment" data-tooltip="Regime operativo della GERD">D15</th>
+<th class="matrix-driver-head has-comment" data-tooltip="Corridoi portuali e basi nel Golfo di Aden">D16</th>
+<th class="matrix-driver-head has-comment" data-tooltip="Infrastrutture energetiche e logistiche egiziane">D17</th>
+<th class="active-col">ATTIVI</th>
+</tr></thead>
+<tbody>
+<tr>
+<th class="sticky-col code-col">D1</th>
+<th class="sticky-col driver-col">Securitizzazione della GERD</th>
+<td class="diagonal"></td>
+<td class="positive has-comment" data-tooltip="La lettura della GERD come questione di sicurezza nazionale spinge il confronto oltre il tavolo tecnico.">2</td>
+<td class="negative has-comment" data-tooltip="La securitizzazione riduce lo spazio politico per accettare facilitazioni esterne percepite come vincolanti.">-2</td>
+<td class="positive has-comment" data-tooltip="Aumenta il costo domestico della flessibilita per entrambe le leadership.">2</td>
+<td class="positive has-comment" data-tooltip="Rende più plausibili segnali di deterrenza e cooperazioni militari indirette.">2</td>
+<td class="neutral">0</td>
+<td class="neutral">0</td>
+<td class="neutral">0</td>
+<td class="neutral">0</td>
+<td class="neutral">0</td>
+<td class="neutral">0</td>
+<td class="neutral">0</td>
+<td class="positive has-comment" data-tooltip="La sensibilitàsecuritaria rende più costoso condividere dati idrologici e operativi.">2</td>
+<td class="positive has-comment" data-tooltip="Alimenta frame pubblici di minaccia esistenziale e diritti non negoziabili.">2</td>
+<td class="negative has-comment" data-tooltip="Complica la normalizzazione tecnica del regime operativo della diga.">-1</td>
+<td class="neutral">0</td>
+<td class="neutral">0</td>
+<td class="active-col">13</td>
+</tr>
+<tr>
+<th class="sticky-col code-col">D2</th>
+<th class="sticky-col driver-col">Regionalizzazione della rivalita Egitto-Etiopia</th>
+<td class="positive has-comment" data-tooltip="La moltiplicazione dei teatri aumenta la lettura strategica del dossier GERD.">2</td>
+<td class="diagonal"></td>
+<td class="negative has-comment" data-tooltip="Più teatri e attori rendono piu difficile una mediazione focalizzata e accettabile.">-2</td>
+<td class="neutral">0</td>
+<td class="positive has-comment" data-tooltip="La rivalità regionalizzata si traduce soprattutto in posture militari indirette e partner locali.">3</td>
+<td class="neutral">0</td>
+<td class="positive has-comment" data-tooltip="Il Sudan diventa più esposto a logiche di allineamento e competizione tra le parti.">1</td>
+<td class="neutral">0</td>
+<td class="neutral">0</td>
+<td class="positive has-comment" data-tooltip="L'estensione verso Mar Rosso e Golfo di Aden aumenta rischio percepito sulle rotte.">2</td>
+<td class="neutral">0</td>
+<td class="positive has-comment" data-tooltip="Crisi indirette nei teatri regionali possono produrre nuovi movimenti forzati.">2</td>
+<td class="neutral">0</td>
+<td class="positive has-comment" data-tooltip="La competizione su più fronti offre materiale a narrazioni ostili.">1</td>
+<td class="neutral">0</td>
+<td class="positive has-comment" data-tooltip="Porti e basi diventano nodi concreti della competizione regionale.">2</td>
+<td class="neutral">0</td>
+<td class="active-col">15</td>
+</tr>
+<tr>
+<th class="sticky-col code-col">D3</th>
+<th class="sticky-col driver-col">Capacità di mediazione esterna</th>
+<td class="negative has-comment" data-tooltip="Una mediazione efficace può desecuritizzare parti del dossier tramite procedure tecniche.">-2</td>
+<td class="negative has-comment" data-tooltip="Formati accettati dalle parti possono contenere la dispersione della crisi su altri teatri.">-2</td>
+<td class="diagonal"></td>
+<td class="negative has-comment" data-tooltip="Offre copertura politica limitata per compromessi domestici difficili.">-1</td>
+<td class="negative has-comment" data-tooltip="Riduce incentivi e spazio per deterrenza indiretta.">-2</td>
+<td class="neutral">0</td>
+<td class="neutral">0</td>
+<td class="neutral">0</td>
+<td class="neutral">0</td>
+<td class="negative has-comment" data-tooltip="Il contenimento diplomatico abbassa il rischio percepito sulle rotte.">-1</td>
+<td class="neutral">0</td>
+<td class="negative has-comment" data-tooltip="La de-escalation riduce una parte dei fattori di pressione regionale.">-1</td>
+<td class="negative has-comment" data-tooltip="Meccanismi terzi possono migliorare data-sharing e verifica.">-2</td>
+<td class="negative has-comment" data-tooltip="Una facilitazione credibile riduce il rendimento delle narrative delegittimanti.">-2</td>
+<td class="positive has-comment" data-tooltip="Puo sostenere protocolli e confidence-building sul regime operativo della GERD.">2</td>
+<td class="negative has-comment" data-tooltip="Può attenuare la trasformazione dei corridoi portuali in dossier securitario.">-1</td>
+<td class="neutral">0</td>
+<td class="active-col">16</td>
+</tr>
+<tr>
+<th class="sticky-col code-col">D4</th>
+<th class="sticky-col driver-col">Vincoli domestici dei due regimi</th>
+<td class="positive has-comment" data-tooltip="Pressioni interne rendono più conveniente usare il linguaggio di sicurezza nazionale.">2</td>
+<td class="positive has-comment" data-tooltip="Le leadership possono esternalizzare tensioni domestiche su dossier regionali.">1</td>
+<td class="negative has-comment" data-tooltip="La pressione interna riduce margini per accettare compromessi mediati.">-1</td>
+<td class="diagonal"></td>
+<td class="positive has-comment" data-tooltip="Aumenta l utilita politica di segnali di fermezza e deterrenza indiretta.">1</td>
+<td class="neutral">0</td>
+<td class="neutral">0</td>
+<td class="positive has-comment" data-tooltip="Posture rigide possono aumentare costi economici o ritardare aggiustamenti.">1</td>
+<td class="neutral">0</td>
+<td class="neutral">0</td>
+<td class="neutral">0</td>
+<td class="neutral">0</td>
+<td class="positive has-comment" data-tooltip="Riduce incentivi a trasparenza se i dati possono essere letti come concessione.">1</td>
+<td class="positive has-comment" data-tooltip="La mobilitazione domestica e il nazionalismo si rafforzano reciprocamente.">3</td>
+<td class="negative has-comment" data-tooltip="Complica regole operative percepite come concessioni politiche.">-1</td>
+<td class="neutral">0</td>
+<td class="neutral">0</td>
+<td class="active-col">11</td>
+</tr>
+<tr>
+<th class="sticky-col code-col">D5</th>
+<th class="sticky-col driver-col">Militarizzazione indiretta del Corno d'Africa</th>
+<td class="positive has-comment" data-tooltip="La militarizzazione conferma la lettura della disputa come minaccia strategica.">2</td>
+<td class="positive has-comment" data-tooltip="Partnership militari e intelligence spostano la rivalita su piu teatri.">2</td>
+<td class="negative has-comment" data-tooltip="La logica di deterrenza rende meno credibili o meno appetibili i canali di mediazione.">-2</td>
+<td class="neutral">0</td>
+<td class="diagonal"></td>
+<td class="neutral">0</td>
+<td class="positive has-comment" data-tooltip="Attori sudanesi possono diventare piu rilevanti in logiche di proxy alignment.">1</td>
+<td class="neutral">0</td>
+<td class="neutral">0</td>
+<td class="positive has-comment" data-tooltip="Presenza e cooperazione militare aumentano rischio percepito attorno a Bab el-Mandeb e Mar Rosso.">2</td>
+<td class="neutral">0</td>
+<td class="positive has-comment" data-tooltip="Incidenti o pressione militare indiretta possono spingere movimenti regionali.">2</td>
+<td class="neutral">0</td>
+<td class="positive has-comment" data-tooltip="Le mosse militari forniscono evidenze simboliche alle narrative ostili.">2</td>
+<td class="neutral">0</td>
+<td class="positive has-comment" data-tooltip="Basi e corridoi diventano piu strategici se associati a posture militari.">2</td>
+<td class="neutral">0</td>
+<td class="active-col">15</td>
+</tr>
+<tr>
+<th class="sticky-col code-col">D6</th>
+<th class="sticky-col driver-col">Instabilita interna etiope</th>
+<td class="positive has-comment" data-tooltip="Addis Abeba può usare dossier esterni per consolidamento politico se la coesione interna peggiora.">1</td>
+<td class="positive has-comment" data-tooltip="La fragilità interna puo riversarsi nei rapporti con Eritrea, Somalia e Sudan.">1</td>
+<td class="negative has-comment" data-tooltip="Instabilità interna riduce prevedibilita e capacita negoziale.">-1</td>
+<td class="positive has-comment" data-tooltip="Aumenta vincoli e incentivi domestici della leadership etiope.">2</td>
+<td class="positive has-comment" data-tooltip="Crisi interne possono richiamare supporti di sicurezza o provocare deterrenza regionale.">1</td>
+<td class="diagonal"></td>
+<td class="neutral">0</td>
+<td class="neutral">0</td>
+<td class="positive has-comment" data-tooltip="Rafforza la necessità politica di crescita, energia e successi logistici.">1</td>
+<td class="neutral">0</td>
+<td class="neutral">0</td>
+<td class="positive has-comment" data-tooltip="Conflitti interni sono tra i principali motori di IDP e movimenti transfrontalieri.">3</td>
+<td class="neutral">0</td>
+<td class="positive has-comment" data-tooltip="La competizione narrativa puo essere usata per aggregare consenso.">1</td>
+<td class="negative has-comment" data-tooltip="Riduce capacita amministrativa e affidabilita percepita nella gestione ordinaria della diga.">-1</td>
+<td class="positive has-comment" data-tooltip="Accesso al mare e corridoi possono diventare compensazioni strategiche alla fragilita interna.">1</td>
+<td class="neutral">0</td>
+<td class="active-col">13</td>
+</tr>
+<tr>
+<th class="sticky-col code-col">D7</th>
+<th class="sticky-col driver-col">Guerra in Sudan e vuoto di coordinamento</th>
+<td class="positive has-comment" data-tooltip="Il vuoto sudanese aumenta la percezione egiziana di vulnerabilitàstrategica.">1</td>
+<td class="positive has-comment" data-tooltip="Il Sudan collega direttamente bacino del Nilo, confini e competizione regionale.">2</td>
+<td class="negative has-comment" data-tooltip="Il collasso di un attore-cuscinetto rende piu complessa la mediazione.">-1</td>
+<td class="positive has-comment" data-tooltip="Flussi, confine e sicurezza aumentano pressione domestica soprattutto sul Cairo.">1</td>
+<td class="positive has-comment" data-tooltip="La guerra apre spazi per supporti indiretti, intelligence e allineamenti.">2</td>
+<td class="neutral">0</td>
+<td class="diagonal"></td>
+<td class="positive has-comment" data-tooltip="I costi di rifugiati e instabilita regionale gravano sull economia egiziana.">1</td>
+<td class="neutral">0</td>
+<td class="positive has-comment" data-tooltip="Lo spillover regionale contribuisce al rischio percepito sulle connessioni Mar Rosso.">1</td>
+<td class="neutral">0</td>
+<td class="positive has-comment" data-tooltip="Il conflitto sudanese e un generatore diretto di spostamenti forzati.">3</td>
+<td class="positive has-comment" data-tooltip="La perdita di coordinamento tecnico con Khartoum aumenta opacita sul bacino.">1</td>
+<td class="positive has-comment" data-tooltip="Accuse di supporto esterno o proxy alimentano narrazioni ostili.">1</td>
+<td class="neutral">0</td>
+<td class="neutral">0</td>
+<td class="neutral">0</td>
+<td class="active-col">14</td>
+</tr>
+<tr>
+<th class="sticky-col code-col">D8</th>
+<th class="sticky-col driver-col">Fragilità economica egiziana</th>
+<td class="positive has-comment" data-tooltip="Minore tolleranza a shock idrici percepiti spinge il Cairo verso frame securitari.">1</td>
+<td class="neutral">0</td>
+<td class="positive has-comment" data-tooltip="Dipendenza da sostegno esterno puo aumentare disponibilita a canali di contenimento.">1</td>
+<td class="positive has-comment" data-tooltip="Pressioni su prezzi, valuta e occupazione restringono il margine politico del regime.">2</td>
+<td class="neutral">0</td>
+<td class="neutral">0</td>
+<td class="neutral">0</td>
+<td class="diagonal"></td>
+<td class="neutral">0</td>
+<td class="positive has-comment" data-tooltip="La perdita di ricavi Suez o costi logistici diventa piu sensibile in un quadro fragile.">1</td>
+<td class="positive has-comment" data-tooltip="Fragilità economica amplifica shock su pane, grano e redditi agricoli.">2</td>
+<td class="positive has-comment" data-tooltip="Pressioni economiche possono irrigidire gestione rifugiati e alimentare mobilita indiretta.">1</td>
+<td class="neutral">0</td>
+<td class="positive has-comment" data-tooltip="La retorica esterna puo fungere da valvola politica in fasi economiche difficili.">1</td>
+<td class="neutral">0</td>
+<td class="neutral">0</td>
+<td class="positive has-comment" data-tooltip="Aumenta il peso strategico di asset capaci di attrarre valuta e investimenti.">1</td>
+<td class="active-col">10</td>
+</tr>
+<tr>
+<th class="sticky-col code-col">D9</th>
+<th class="sticky-col driver-col">Bisogno etiope di crescita, energia e accesso al mare</th>
+<td class="positive has-comment" data-tooltip="La centralita di GERD e accesso al mare rende Addis Abeba meno incline a concessioni percepite come limitanti.">1</td>
+<td class="positive has-comment" data-tooltip="La ricerca di accesso al mare trasferisce la rivalita su Somalia, Somaliland, Gibuti ed Eritrea.">2</td>
+<td class="negative has-comment" data-tooltip="Forti interessi di sviluppo possono ridurre appetito per mediazioni percepite come freno.">-1</td>
+<td class="positive has-comment" data-tooltip="Successi energetici e logistici diventano risorse di legittimazione interna.">1</td>
+<td class="positive has-comment" data-tooltip="Corridoi e porti strategici possono richiedere garanzie e protezione di sicurezza.">1</td>
+<td class="neutral">0</td>
+<td class="neutral">0</td>
+<td class="neutral">0</td>
+<td class="diagonal"></td>
+<td class="neutral">0</td>
+<td class="neutral">0</td>
+<td class="neutral">0</td>
+<td class="neutral">0</td>
+<td class="positive has-comment" data-tooltip="La narrativa di sovranita e sviluppo rafforza delegittimazione delle pretese egiziane.">2</td>
+<td class="positive has-comment" data-tooltip="La necessita di energia rende centrale l operativita della GERD.">3</td>
+<td class="positive has-comment" data-tooltip="L accesso al mare e il bisogno logistico sono motori diretti dei corridoi portuali.">3</td>
+<td class="neutral">0</td>
+<td class="active-col">14</td>
+</tr>
+<tr>
+<th class="sticky-col code-col">D10</th>
+<th class="sticky-col driver-col">Vulnerabilita delle rotte Suez-Mar Rosso</th>
+<td class="neutral">0</td>
+<td class="positive has-comment" data-tooltip="Shock sulle rotte spingono gli attori a leggere il quadrante in chiave regionale.">1</td>
+<td class="positive has-comment" data-tooltip="Costi commerciali elevati creano incentivo esterno al contenimento diplomatico.">1</td>
+<td class="positive has-comment" data-tooltip="Per il Cairo, ricavi Suez e sicurezza del Mar Rosso incidono sulla pressione politica.">1</td>
+<td class="positive has-comment" data-tooltip="La vulnerabilita marittima incentiva cooperazioni di sicurezza e deterrenza.">1</td>
+<td class="neutral">0</td>
+<td class="neutral">0</td>
+<td class="positive has-comment" data-tooltip="Minori introiti Suez e maggiori costi logistici aggravano vulnerabilita egiziane.">2</td>
+<td class="neutral">0</td>
+<td class="diagonal"></td>
+<td class="neutral">0</td>
+<td class="positive has-comment" data-tooltip="Instabilita lungo rotte e porti puo sommarsi a pressioni umanitarie regionali.">1</td>
+<td class="neutral">0</td>
+<td class="neutral">0</td>
+<td class="neutral">0</td>
+<td class="neutral">0</td>
+<td class="positive has-comment" data-tooltip="Aumenta il valore e la vulnerabilita degli asset egiziani legati a Suez, porti e gas.">2</td>
+<td class="active-col">9</td>
+</tr>
+<tr>
+<th class="sticky-col code-col">D11</th>
+<th class="sticky-col driver-col">Stress idrico-alimentare e sensibilita pubblica</th>
+<td class="positive has-comment" data-tooltip="Stress idrico-alimentare trasforma rischi tecnici in minaccia percepita alla sicurezza nazionale.">3</td>
+<td class="neutral">0</td>
+<td class="positive has-comment" data-tooltip="La gravita del rischio puo creare domanda di meccanismi tecnici terzi.">1</td>
+<td class="positive has-comment" data-tooltip="Prezzi alimentari e danni agricoli aumentano pressione sulle leadership.">2</td>
+<td class="neutral">0</td>
+<td class="neutral">0</td>
+<td class="neutral">0</td>
+<td class="positive has-comment" data-tooltip="Shock alimentari aggravano inflazione e fragilita macro-sociale egiziana.">2</td>
+<td class="neutral">0</td>
+<td class="neutral">0</td>
+<td class="diagonal"></td>
+<td class="positive has-comment" data-tooltip="Stress idrico e alimentare contribuiscono a mobilita interna o regionale.">1</td>
+<td class="positive has-comment" data-tooltip="Quando lo stress cresce, l assenza di dati affidabili diventa piu destabilizzante.">1</td>
+<td class="positive has-comment" data-tooltip="La sofferenza sociale rende piu potenti le narrazioni di colpa e vittimizzazione.">2</td>
+<td class="positive has-comment" data-tooltip="Aumenta la rilevanza pratica di regole su siccita, piene e rilasci.">1</td>
+<td class="neutral">0</td>
+<td class="neutral">0</td>
+<td class="active-col">13</td>
+</tr>
+<tr>
+<th class="sticky-col code-col">D12</th>
+<th class="sticky-col driver-col">Spostamenti forzati e pressione migratoria</th>
+<td class="neutral">0</td>
+<td class="positive has-comment" data-tooltip="Movimenti regionali collegano crisi locali e competizione politica piu ampia.">1</td>
+<td class="positive has-comment" data-tooltip="Pressione umanitaria puo attivare attori esterni e formati di contenimento.">1</td>
+<td class="positive has-comment" data-tooltip="Rifugiati e IDP aumentano pressioni domestiche e amministrative.">1</td>
+<td class="positive has-comment" data-tooltip="Flussi e confini fragili possono giustificare posture di sicurezza.">1</td>
+<td class="neutral">0</td>
+<td class="neutral">0</td>
+<td class="positive has-comment" data-tooltip="Accoglienza, lavoro informale e servizi pubblici pesano sulle finanze egiziane.">1</td>
+<td class="neutral">0</td>
+<td class="neutral">0</td>
+<td class="positive has-comment" data-tooltip="Movimenti forzati possono aggravare pressione su cibo, acqua e servizi.">1</td>
+<td class="diagonal"></td>
+<td class="neutral">0</td>
+<td class="positive has-comment" data-tooltip="La competizione politica puo strumentalizzare rifugiati e responsabilita della crisi.">1</td>
+<td class="neutral">0</td>
+<td class="neutral">0</td>
+<td class="neutral">0</td>
+<td class="active-col">7</td>
+</tr>
+<tr>
+<th class="sticky-col code-col">D13</th>
+<th class="sticky-col driver-col">Opacità dei dati GERD</th>
+<td class="positive has-comment" data-tooltip="La mancanza di dati condivisi e un moltiplicatore diretto di sospetto strategico.">3</td>
+<td class="positive has-comment" data-tooltip="Incidenti informativi possono essere usati in teatri regionali e multilaterali.">1</td>
+<td class="negative has-comment" data-tooltip="Senza base informativa comune, i mediatori faticano a proporre formule verificabili.">-2</td>
+<td class="positive has-comment" data-tooltip="L'incertezza sui dati aumenta il costo politico di mostrarsi flessibili.">1</td>
+<td class="positive has-comment" data-tooltip="Misperception e allarmi tecnici possono attivare deterrenza indiretta.">1</td>
+<td class="neutral">0</td>
+<td class="neutral">0</td>
+<td class="neutral">0</td>
+<td class="neutral">0</td>
+<td class="neutral">0</td>
+<td class="positive has-comment" data-tooltip="L'opacità rende piu difficile anticipare piene, siccita e impatti agricoli.">1</td>
+<td class="neutral">0</td>
+<td class="diagonal"></td>
+<td class="positive has-comment" data-tooltip="Vuoti informativi vengono riempiti da accuse e narrative ostili.">2</td>
+<td class="negative has-comment" data-tooltip="Indebolisce la stabilizzazione del regime operativo ordinario della diga.">-2</td>
+<td class="neutral">0</td>
+<td class="neutral">0</td>
+<td class="active-col">13</td>
+</tr>
+<tr>
+<th class="sticky-col code-col">D14</th>
+<th class="sticky-col driver-col">Narrative nazionaliste e delegittimazione reciproca</th>
+<td class="positive has-comment" data-tooltip="Narrative identitarie trasformano il dossier in questione non negoziabile.">2</td>
+<td class="positive has-comment" data-tooltip="La delegittimazione reciproca facilita l estensione della rivalita ad altri teatri.">1</td>
+<td class="negative has-comment" data-tooltip="Mediatori e compromessi vengono esposti ad accuse di parzialita o tradimento.">-2</td>
+<td class="positive has-comment" data-tooltip="Opinioni pubbliche mobilitate stringono i vincoli domestici delle leadership.">3</td>
+<td class="positive has-comment" data-tooltip="Retorica ostile puo giustificare segnali di deterrenza.">1</td>
+<td class="neutral">0</td>
+<td class="neutral">0</td>
+<td class="neutral">0</td>
+<td class="neutral">0</td>
+<td class="neutral">0</td>
+<td class="neutral">0</td>
+<td class="neutral">0</td>
+<td class="positive has-comment" data-tooltip="La sfiducia pubblica riduce disponibilita politica allo scambio dati.">1</td>
+<td class="diagonal"></td>
+<td class="negative has-comment" data-tooltip="Complica l accettazione di regole tecniche presentabili come compromesso.">-1</td>
+<td class="neutral">0</td>
+<td class="neutral">0</td>
+<td class="active-col">11</td>
+</tr>
+<tr>
+<th class="sticky-col code-col">D15</th>
+<th class="sticky-col driver-col">Regime operativo della GERD</th>
+<td class="positive has-comment" data-tooltip="La gestione ordinaria della diga rende ogni rilascio o trattenuta politicamente leggibile.">2</td>
+<td class="neutral">0</td>
+<td class="positive has-comment" data-tooltip="La complessita operativa crea domanda di protocolli e facilitazione tecnica.">1</td>
+<td class="positive has-comment" data-tooltip="Eventi operativi visibili possono generare pressione domestica rapida.">1</td>
+<td class="neutral">0</td>
+<td class="neutral">0</td>
+<td class="neutral">0</td>
+<td class="neutral">0</td>
+<td class="neutral">0</td>
+<td class="neutral">0</td>
+<td class="positive has-comment" data-tooltip="Rilasci, piene e siccita incidono direttamente sulla sensibilita idrico-alimentare.">2</td>
+<td class="neutral">0</td>
+<td class="positive has-comment" data-tooltip="Senza protocolli robusti, l operativita quotidiana moltiplica i bisogni di dati condivisi.">2</td>
+<td class="positive has-comment" data-tooltip="Eventi operativi controversi possono essere narrativizzati come ostili.">1</td>
+<td class="diagonal"></td>
+<td class="neutral">0</td>
+<td class="neutral">0</td>
+<td class="active-col">9</td>
+</tr>
+<tr>
+<th class="sticky-col code-col">D16</th>
+<th class="sticky-col driver-col">Corridoi portuali e basi nel Golfo di Aden</th>
+<td class="positive has-comment" data-tooltip="I corridoi possono essere letti come parte di un accerchiamento strategico piu ampio.">1</td>
+<td class="positive has-comment" data-tooltip="Accesso al mare, Berbera, Gibuti e basi sono il principale vettore di regionalizzazione.">3</td>
+<td class="negative has-comment" data-tooltip="Contese portuali e basi complicano il perimetro di mediazione.">-1</td>
+<td class="positive has-comment" data-tooltip="Accesso al mare e sovranita logistica sono politicamente salienti ad Addis e al Cairo.">1</td>
+<td class="positive has-comment" data-tooltip="Corridoi e basi generano esigenze di protezione, deterrenza e partnership militari.">2</td>
+<td class="neutral">0</td>
+<td class="neutral">0</td>
+<td class="neutral">0</td>
+<td class="positive has-comment" data-tooltip="Rafforzano la possibilita etiope di perseguire autonomia logistica e crescita.">2</td>
+<td class="positive has-comment" data-tooltip="La competizione nel Golfo di Aden aumenta rischio percepito sulle rotte.">1</td>
+<td class="neutral">0</td>
+<td class="neutral">0</td>
+<td class="neutral">0</td>
+<td class="positive has-comment" data-tooltip="La disputa su porti e sovranita alimenta narrative nazionaliste.">1</td>
+<td class="neutral">0</td>
+<td class="diagonal"></td>
+<td class="neutral">0</td>
+<td class="active-col">12</td>
+</tr>
+<tr>
+<th class="sticky-col code-col">D17</th>
+<th class="sticky-col driver-col">Infrastrutture energetiche e logistiche egiziane</th>
+<td class="positive has-comment" data-tooltip="Il valore strategico degli asset egiziani rende piu sensibile il Cairo a instabilita regionale.">1</td>
+<td class="positive has-comment" data-tooltip="Suez, porti e gas collegano il dossier Nilo al Mediterraneo allargato e al Mar Rosso.">1</td>
+<td class="positive has-comment" data-tooltip="Partner esterni hanno interesse a contenere crisi che minacciano asset logistici ed energetici.">1</td>
+<td class="neutral">0</td>
+<td class="positive has-comment" data-tooltip="La protezione di asset strategici può incentivare cooperazione di sicurezza.">1</td>
+<td class="neutral">0</td>
+<td class="neutral">0</td>
+<td class="positive has-comment" data-tooltip="Asset energetici e logistici sono leve di resilienza ma anche esposizioni economiche.">1</td>
+<td class="neutral">0</td>
+<td class="positive has-comment" data-tooltip="La centralita di Suez e porti aumenta il costo sistemico di shock nel Mar Rosso.">2</td>
+<td class="neutral">0</td>
+<td class="neutral">0</td>
+<td class="neutral">0</td>
+<td class="neutral">0</td>
+<td class="neutral">0</td>
+<td class="neutral">0</td>
+<td class="diagonal"></td>
+<td class="active-col">7</td>
+</tr>
+<tr>
+<th class="sticky-col code-col passive-row"></th>
+<th class="sticky-col driver-col passive-row">PASSIVI</th>
+<td class="passive-row">24</td>
+<td class="passive-row">20</td>
+<td class="passive-row">21</td>
+<td class="passive-row">19</td>
+<td class="passive-row">19</td>
+<td class="passive-row">0</td>
+<td class="passive-row">2</td>
+<td class="passive-row">8</td>
+<td class="passive-row">3</td>
+<td class="passive-row">10</td>
+<td class="passive-row">6</td>
+<td class="passive-row">14</td>
+<td class="passive-row">10</td>
+<td class="passive-row">22</td>
+<td class="passive-row">12</td>
+<td class="passive-row">9</td>
+<td class="passive-row">3</td>
+<td class="active-col passive-row"></td>
+</tr>
+</tbody></table></div>
+</div>
+<div class="driver-ranking-block reveal"><div class="section-header compact"><p class="eyebrow">Peso sistemico</p><h3>I driver più rilevanti nella Cross Impact Matrix</h3></div><div class="ranking-list">
+<article class="ranking-item primary"><span class="rank">01</span><div><h4>Capacità di mediazione esterna</h4><p>Leva di contenimento sistemica. Valore dell'influenza sugli altri driver: 16.</p></div></article>
+<article class="ranking-item primary"><span class="rank">02</span><div><h4>Regionalizzazione della rivalità Egitto-Etiopia</h4><p>Nodo sistemico. Valore dell'influenza sugli altri driver: 15.</p></div></article>
+<article class="ranking-item"><span class="rank">03</span><div><h4>Militarizzazione indiretta del Corno d’Africa</h4><p>Nodo sistemico. Valore dell'influenza sugli altri driver: 15.</p></div></article>
+<article class="ranking-item"><span class="rank">04</span><div><h4>Bisogno etiope di crescita, energia e accesso al mare</h4><p>Driver leva. Valore dell'influenza sugli altri driver: 14.</p></div></article>
+<article class="ranking-item"><span class="rank">05</span><div><h4>Guerra in Sudan e vuoto di coordinamento</h4><p>Driver leva. Valore dell'influenza sugli altri driver: 14.</p></div></article>
+</div>
+<div class="key-drivers-block reveal"><div class="section-header compact"><p class="eyebrow">Driver di rilievo</p><h3>I due assi della matrice scenariale</h3></div><div class="key-drivers-grid"><article class="key-driver-card containment"><span class="driver-code">D3</span><h4>Capacità di mediazione esterna</h4><p>È il principale driver di contenimento. Può ridurre la connotazione securitaria della GERD, favorire lo scambio di dati tecnici, offrire copertura politica a compromessi limitati e contenere la militarizzazione indiretta.</p><div class="driver-axis-label">Mediazione debole ←→ Mediazione efficace</div></article><article class="key-driver-card escalation"><span class="driver-code">D2</span><h4>Regionalizzazione della rivalità</h4><p>È il principale vettore di aggravamento. Trasforma la disputa sulla GERD in una competizione più ampia nel Corno d’Africa e nel Mar Rosso, includendo Somalia, Somaliland, Eritrea, Sudan, Gibuti, corridoi portuali e accordi di sicurezza.</p><div class="driver-axis-label">Regionalizzazione contenuta ←→ Regionalizzazione elevata</div></article></div></div>
+</div></div>
+</section>
+<section class="section scenarios-section" id="scenari">
+<div class="container">
+<div class="section-header reveal"><p class="eyebrow">Futuri alternativi</p><h2>Scenari</h2><p>Quattro traiettorie plausibili per l’evoluzione delle relazioni tra Egitto ed Etiopia e le relative implicazioni per gli interessi italiani al maggio 2027.</p></div>
+<div class="scenarios-intro reveal"><h3>Come leggere gli scenari</h3><p>Gli scenari non rappresentano previsioni, ma futuri plausibili, alternativi e coerenti internamente. Sono costruiti incrociando due driver principali: la capacità di mediazione esterna e il grado di regionalizzazione della rivalità Egitto-Etiopia.</p></div>
+<div aria-label="Matrice degli scenari" class="scenario-matrix reveal"><div class="matrix-empty"></div><div class="matrix-axis top">Regionalizzazione contenuta</div><div class="matrix-axis top">Regionalizzazione elevata</div><div class="matrix-axis side">Mediazione esterna efficace</div><a class="matrix-cell low-risk" href="#scenario-1"><span class="scenario-number">01</span><p class="scenario-label">Scenario più favorevole</p><h3>Una diga alla crisi</h3><p>Mediazione efficace e regionalizzazione contenuta.</p><strong>Rischio per l’Italia: basso</strong></a><a class="matrix-cell medium-high-risk" href="#scenario-2"><span class="scenario-number">02</span><p class="scenario-label">Scenario più probabile</p><h3>Sul filo del rasoio</h3><p>Mediazione efficace e regionalizzazione elevata.</p><strong>Rischio per l’Italia: medio-alto</strong></a><div class="matrix-axis side">Mediazione esterna debole</div><a class="matrix-cell medium-risk" href="#scenario-3"><span class="scenario-number">03</span><p class="scenario-label">Scenario di continuità</p><h3>Stallo sul Nilo</h3><p>Mediazione debole e regionalizzazione contenuta.</p><strong>Rischio per l’Italia: medio</strong></a><a class="matrix-cell high-risk" href="#scenario-4"><span class="scenario-number">04</span><p class="scenario-label">Scenario meno favorevole</p><h3>Escalation regionale</h3><p>Mediazione debole e regionalizzazione elevata.</p><strong>Rischio per l’Italia: alto</strong></a></div>
+<div class="scenario-detail-list">
+<article class="scenario-detail low-risk reveal" id="scenario-1"><div class="scenario-detail-header"><span class="scenario-number">01</span><div><p class="scenario-label">Scenario più favorevole per l’Italia</p><h3>Una diga alla crisi</h3><p>Mediazione esterna efficace e regionalizzazione contenuta.</p></div><figure class="scenario-art scenario-header-logo"><img alt="Illustrazione dello scenario Una diga alla crisi" src="assets/scenario-1.png"/></figure></div><div class="scenario-detail-grid"><div><h4>Descrizione</h4><p>La rivalità tra Egitto ed Etiopia resta strutturale, ma viene riportata entro un perimetro prevalentemente tecnico-diplomatico. Un formato di mediazione sostenuto da attori esterni riesce a ottenere un’intesa limitata su scambio dati, gestione delle siccità, comunicazioni preventive e procedure operative della GERD.</p><p>Somalia, Eritrea, Sudan e corridoi portuali restano fattori di tensione, ma non diventano il teatro principale della competizione. Il rischio di escalation non scompare, ma viene gestito.</p></div><aside class="scenario-implications"><h4>Implicazioni per l’Italia</h4><ul><li>Piano Mattei favorito da relazioni bilanciate con Cairo e Addis Abeba.</li><li>Impatto minimo o trascurabile sui flussi migratori.</li><li>Maggiore prevedibilità per rotte Mar Rosso–Suez e investimenti.</li><li>Contesto favorevole per cooperazione energetica e infrastrutturale.</li></ul></aside></div></article>
+<article class="scenario-detail medium-high-risk reveal" id="scenario-2"><div class="scenario-detail-header"><span class="scenario-number">02</span><div><p class="scenario-label">Scenario più probabile</p><h3>Sul filo del rasoio</h3><p>Mediazione esterna efficace e regionalizzazione elevata.</p></div><figure class="scenario-art scenario-header-logo"><img alt="Illustrazione dello scenario Sul filo del rasoio" src="assets/scenario-2.png"/></figure></div><div class="scenario-detail-grid"><div><h4>Descrizione</h4><p>La mediazione esterna evita una crisi frontale sulla GERD, ma non impedisce che la rivalità si allarghi al Corno d’Africa. Il confronto politico si sposta su Somalia, Somaliland, Eritrea, Gibuti, Sudan e accesso al mare per Addis Abeba.</p><p>Sul Nilo si riduce l’opacità, mentre nel Mar Rosso e nel Golfo di Aden aumentano posture militari, accordi di sicurezza competitivi e visite diplomatiche.</p></div><aside class="scenario-implications"><h4>Implicazioni per l’Italia</h4><ul><li>Piano Mattei praticabile, ma più politicizzato.</li><li>Possibile aumento indiretto dei flussi migratori.</li><li>Rotte aperte ma più vulnerabili a shock e costi assicurativi.</li><li>Maggiore volatilità energetica e possibili pressioni sui prezzi.</li></ul></aside></div></article>
+<article class="scenario-detail medium-risk reveal" id="scenario-3"><div class="scenario-detail-header"><span class="scenario-number">03</span><div><p class="scenario-label">Scenario di maggiore continuità</p><h3>Stallo sul Nilo</h3><p>Mediazione esterna debole e regionalizzazione contenuta.</p></div><figure class="scenario-art scenario-header-logo"><img alt="Illustrazione dello scenario Stallo sul Nilo" src="assets/scenario-3.png"/></figure></div><div class="scenario-detail-grid"><div><h4>Descrizione</h4><p>La mediazione esterna si indebolisce o resta frammentata, ma la rivalità non si regionalizza in modo marcato. Egitto ed Etiopia tornano a una postura di sfiducia bilaterale centrata sulla GERD e sul regime operativo della diga.</p><p>La crisi resta trattenuta, opaca e riattivabile. La regionalizzazione è contenuta non per fiducia reciproca, ma per prudenza e per i costi attesi dell’escalation.</p></div><aside class="scenario-implications"><h4>Implicazioni per l’Italia</h4><ul><li>Piano Mattei proseguibile, ma con maggiore rischio reputazionale.</li><li>Flussi migratori legati soprattutto a crisi già attive.</li><li>Sicurezza economico-commerciale meno esposta rispetto agli scenari regionalizzati.</li><li>Necessario monitorare stabilità interna egiziana e stress idrico.</li></ul></aside></div></article>
+<article class="scenario-detail high-risk reveal" id="scenario-4"><div class="scenario-detail-header"><span class="scenario-number">04</span><div><p class="scenario-label">Scenario meno favorevole per l’Italia</p><h3>Escalation regionale</h3><p>Mediazione esterna debole e regionalizzazione elevata.</p></div><figure class="scenario-art scenario-header-logo"><img alt="Illustrazione dello scenario Escalation regionale" src="assets/scenario-4.png"/></figure></div><div class="scenario-detail-grid"><div><h4>Descrizione</h4><p>La mediazione esterna fallisce o viene percepita come parziale, mentre la rivalità Egitto-Etiopia si regionalizza rapidamente. Il confronto si manifesta attraverso attività sotto soglia, accordi di sicurezza, intelligence, pressioni diplomatiche, sostegno a partner locali e campagne d’influenza.</p><p>Somalia, Somaliland, Eritrea, Sudan e Gibuti diventano spazi di competizione. Il Mar Rosso assume una funzione di moltiplicatore strategico e la crisi diventa sistemica, intermittente e difficile da contenere.</p></div><aside class="scenario-implications"><h4>Implicazioni per l’Italia</h4><ul><li>Piano Mattei esposto a polarizzazione regionale.</li><li>Possibile crescita dei flussi per effetto combinato delle crisi.</li><li>Aumento del rischio percepito su Suez, Mar Rosso e Bab el-Mandeb.</li><li>Necessario contingency planning logistico-energetico.</li></ul></aside></div></article>
+</div>
+</div>
+</section>
+<section class="section hilp-section" id="scenario-hilp">
+<div class="container">
+<div class="section-header reveal"><p class="eyebrow">High Impact – Low Probability</p><h2>Scenario HILP</h2><p>Un evento a bassa probabilità ma ad alto impatto, capace di alterare radicalmente il quadro strategico.</p></div>
+<div class="hilp-event-card reveal"><p class="eyebrow">Evento HILP identificato</p><figure class="hilp-art hilp-header-logo"><img alt="Illustrazione dello scenario HILP" class="hilp-art-img" src="assets/hilp.png"/></figure><h3>Grave incidente infrastrutturale alla GERD</h3><p>Rilascio incontrollato di acqua verso valle e immediata politicizzazione dell’evento come atto ostile o sabotaggio.</p><div class="hilp-risk-grid"><article><span>Low probability</span><p>La documentazione raccolta non contiene evidenze solide di un imminente collasso strutturale della diga o di una decisione deliberata di colpirla.</p></article><article><span>High impact</span><p>L’evento trasformerebbe la controversia sul Nilo da crisi politico-operativa a crisi infrastrutturale maggiore, con effetti immediati su Sudan, Egitto, Corno d’Africa e Mar Rosso.</p></article></div></div>
+<div class="hilp-grid reveal"><article class="hilp-main card-soft"><h3>Descrizione dell’evento</h3><p>Lo scenario HILP si aprirebbe con un’anomalia grave nella gestione o nella sicurezza fisica della GERD: un cedimento parziale di componenti idrauliche, un malfunzionamento critico durante una fase di piena, un danno intenzionale attribuito a sabotaggio, oppure una combinazione tra evento tecnico e clima estremo.</p><p>L’elemento decisivo non sarebbe soltanto il danno materiale, ma la perdita improvvisa di controllo sul regime dei rilasci. Una massa d’acqua non pienamente prevedibile si riverserebbe verso valle, colpendo anzitutto il Sudan.</p><p>La crisi passerebbe rapidamente dal piano tecnico a quello politico. In assenza di trasparenza condivisa, ogni ritardo informativo verrebbe interpretato come occultamento.</p></article><aside class="hilp-side"><h4>Assunzione rotta</h4><p>I quattro scenari principali assumono che la GERD resti fisicamente integra e gestibile come oggetto di disputa politica, tecnica e strategica. Lo scenario HILP rompe questa assunzione.</p></aside></div>
+<div class="hilp-impact-block reveal"><div class="section-header compact"><p class="eyebrow">Interessi italiani</p><h3>Impatto potenziale per l’Italia</h3></div><div class="hilp-impact-grid"><article><h4>Piano Mattei</h4><p>Il Piano rischierebbe di passare da piattaforma di cooperazione e sviluppo a strumento anche di crisis response, ricostruzione, resilienza idrica, assistenza tecnica e stabilizzazione.</p></article><article><h4>Migrazioni</h4><p>Uno shock idrologico in Sudan potrebbe sommarsi a una crisi umanitaria già acuta, aumentando movimenti forzati verso Egitto, Etiopia, Sud Sudan, Nord Africa e Mediterraneo.</p></article><article><h4>Suez e Mar Rosso</h4><p>Una regionalizzazione militare della crisi potrebbe aumentare premi assicurativi, deviazioni preventive delle rotte e pressioni sulle catene logistiche.</p></article><article><h4>Energia</h4><p>L’Egitto resterebbe essenziale, ma potrebbe diventare meno prevedibile come hub energetico e logistico.</p></article></div></div>
+<div class="weak-signals-block reveal"><div class="section-header compact"><p class="eyebrow">Weak signals</p><h3>Segnali deboli da monitorare</h3><p>Condizioni già osservabili che potrebbero indicare, seppur debolmente, un possibile sviluppo verso l’evento HILP.</p></div><div class="weak-signals-grid"><article><span>01</span><h4>Assenza di accordo vincolante</h4><p>Persistente mancanza di regole condivise su piena, siccità e rilasci anomali.</p></article><article><span>02</span><h4>Opacità dei dati operativi</h4><p>Ritardi o informazioni non verificabili su livelli d’invaso, rilasci e protocolli.</p></article><article><span>03</span><h4>Mancanza di verifica indipendente</h4><p>Assenza di meccanismi accettati per early warning e gestione degli incidenti.</p></article><article><span>04</span><h4>Accuse sulla gestione della diga</h4><p>Denunce egiziane su una gestione ritenuta sconsiderata o destabilizzante.</p></article><article><span>05</span><h4>Debolezza del Sudan</h4><p>Ridotta capacità di mediazione, monitoraggio e risposta sul bacino del Nilo.</p></article><article><span>06</span><h4>Securitizzazione della GERD</h4><p>La diga viene letta come questione di sicurezza nazionale da entrambe le parti.</p></article><article><span>07</span><h4>Narrative nazionaliste</h4><p>La GERD è descritta come minaccia esistenziale o simbolo intoccabile di sovranità.</p></article><article><span>08</span><h4>Regionalizzazione della rivalità</h4><p>Intreccio crescente tra GERD, Somalia, Somaliland, Eritrea e sicurezza del Mar Rosso.</p></article><article><span>09</span><h4>Eventi climatici estremi</h4><p>Piene o siccità rendono più sensibile ogni scelta operativa della diga.</p></article></div></div>
+</div>
+</section>
+<section class="section premortem-section" id="analisi-premortem">
+<div class="container">
+<div class="section-header reveal"><p class="eyebrow">Stress test analitico</p><h2>Analisi premortem</h2><p>Un esercizio riflessivo e autocritico per individuare assunzioni fragili, driver sottovalutati e bias cognitivi.</p></div>
+<div class="premortem-assumption reveal"><p class="eyebrow">Assunzione di partenza</p><h3>Maggio 2027: lo scenario favorevole è fallito</h3><p>“Una diga alla crisi” non si è realizzato. La rivalità Egitto-Etiopia non è stata contenuta entro un perimetro tecnico-diplomatico, ma si è regionalizzata, rendendo più esposti gli interessi italiani nel Mar Rosso–Corno d’Africa.</p></div>
+<div class="premortem-diagnostic-grid reveal"><section class="premortem-column"><div class="premortem-column-header"><span>01</span><h3>Quattro assunzioni sbagliate</h3></div><article class="premortem-card"><h4>La mediazione esterna avrebbe contenuto la crisi</h4><p>È stata forse sovrastimata la capacità di attori esterni di agire in modo coerente su dossier come Somalia, Sudan, Somaliland, Eritrea, Gibuti e Mar Rosso.</p></article><article class="premortem-card"><h4>La GERD poteva tornare a essere un dossier tecnico</h4><p>Data-sharing e protocolli operativi non sono bastati a neutralizzare la dimensione politica.</p></article><article class="premortem-card"><h4>La regionalizzazione sarebbe rimasta contenuta</h4><p>La rivalità era già intrecciata con accesso etiope al mare, Somalia-Somaliland, guerra in Sudan e interessi nel Mar Rosso.</p></article><article class="premortem-card"><h4>Le fragilità interne avrebbero favorito prudenza</h4><p>Le pressioni domestiche potevano invece irrigidire le posture negoziali.</p></article></section><section class="premortem-column"><div class="premortem-column-header"><span>02</span><h3>Quattro driver sottovalutati</h3></div><article class="premortem-card"><h4>Militarizzazione indiretta del Corno d’Africa</h4><p>Accordi di sicurezza, training, intelligence e posture indirette potevano bastare a far collassare lo scenario favorevole.</p></article><article class="premortem-card"><h4>Bisogno etiope di crescita, energia e accesso al mare</h4><p>L’accesso al mare è una leva strutturale di sviluppo, autonomia logistica e status regionale.</p></article><article class="premortem-card"><h4>Guerra in Sudan e vuoto di coordinamento</h4><p>La crisi sudanese riduce il coordinamento tecnico sul Nilo e apre spazi di competizione indiretta.</p></article><article class="premortem-card"><h4>Fragilità economica egiziana</h4><p>Shock su Suez, inflazione, pressione valutaria o costi dei rifugiati possono irrigidire la postura egiziana.</p></article></section><section class="premortem-column"><div class="premortem-column-header"><span>03</span><h3>Quattro bias cognitivi</h3></div><article class="premortem-card"><h4>Anchoring sulla struttura 2x2</h4><p>La matrice può aver semplificato eccessivamente il quadro.</p></article><article class="premortem-card"><h4>WYSIATI</h4><p>L’analisi può aver trattato ciò che era documentato nelle fonti aperte come se fosse tutto ciò che contava.</p></article><article class="premortem-card"><h4>Overconfidence procedurale e mirror imaging</h4><p>Soluzioni tecniche corrette non sono automaticamente politicamente accettabili.</p></article><article class="premortem-card"><h4>Availability bias sugli incentivi alla de-escalation</h4><p>Il costo visibile di una crisi può indurre a sovrastimare gli incentivi al contenimento.</p></article></section></div>
+<div class="premortem-conclusion reveal"><h3>Conclusione autocritica</h3><p>Se “Una diga alla crisi” si fosse rivelato completamente sbagliato, l’errore principale non sarebbe stato aver immaginato uno scenario impossibile. Lo scenario resta plausibile, ma presenta un’elevata condizionalità: alcune condizioni favorevoli erano fragili, reversibili e dipendenti da fattori esterni al tavolo GERD.</p><p>Non basta chiedersi se la mediazione sia efficace o se la regionalizzazione sia contenuta. Occorre valutare la qualità della mediazione, la sua coerenza, la capacità di collegare la GERD agli altri dossier di attrito e la pressione esercitata dagli altri driver.</p></div>
+<div class="premortem-monitoring reveal">
+<img alt="Logo news" class="monitoring-news-logo" src="assets/logo-news.png"/>
+<h3>Segnali contrari da monitorare</h3>
+<p>Seleziona l'argomento per caricare i titoli delle notizie di rilievo più recenti.</p>
+<div aria-label="Feed RSS dei segnali contrari da monitorare" class="monitoring-tags" role="tablist">
+<button aria-selected="true" class="monitoring-feed-btn active" data-feed-key="egypt-somalia" role="tab" type="button">Accordi Egitto-Somalia</button>
+<button aria-selected="false" class="monitoring-feed-btn" data-feed-key="somaliland" role="tab" type="button">Dossier Somaliland</button>
+<button aria-selected="false" class="monitoring-feed-btn" data-feed-key="ethiopia-sea-access" role="tab" type="button">Accesso etiope al mare</button>
+<button aria-selected="false" class="monitoring-feed-btn" data-feed-key="egypt-economy" role="tab" type="button">Fragilità economica</button>
+<button aria-selected="false" class="monitoring-feed-btn" data-feed-key="gerd-opacity" role="tab" type="button">Opacità GERD</button>
+</div>
+<div class="rss-monitoring-panel" id="rssMonitoringPanel">
+<div class="rss-monitoring-header">
+<div>
+<p class="rss-kicker">Feed RSS</p>
+<h4 id="rssMonitoringTitle">Accordi Egitto-Somalia</h4>
+</div>
+<span id="rssMonitoringStatus">Caricamento...</span>
+</div>
+<div aria-live="polite" class="rss-news-ticker">
+<div class="rss-news-track" id="rssNewsTrack">
+<span class="rss-placeholder">Caricamento delle notizie...</span>
+</div>
+</div>
+</div>
+</div></div>
+</section>
+<section class="section bibliography-section" id="bibliografia">
+<div class="container">
+<div class="section-header reveal"><p class="eyebrow">Fonti</p><h2>Lista fonti</h2><p>Il corpus documentale utilizzato per costruire l’analisi, definire lo stato attuale, individuare i driver, elaborare gli scenari e valutare le implicazioni per l’Italia.</p></div>
+<div class="bibliography-note reveal"><h3>Corpus documentale</h3><p>Il corpus include contributi accademici, analisi di think tank, documenti istituzionali, report parlamentari, fonti ministeriali, dati economici, approfondimenti giornalistici e studi specialistici su GERD, bacino del Nilo, Corno d’Africa, Mar Rosso, Piano Mattei, flussi migratori, sicurezza energetica e rotte commerciali.</p></div>
+<div class="bibliography-groups reveal">
+<details class="bibliography-group" open=""><summary>GERD, Nilo e dispute idriche</summary><div class="bibliography-list"><article class="source-card"><p class="source-meta">British Journal of Interdisciplinary Research · 2025</p><h3>Agaba Halidu, “From colonial agreements to contemporary conflict: the Nile waters treaties and the Egypt-Ethiopia GERD crisis”</h3><a href="https://britishjir.org/index.php/bjir/article/view/53/39" rel="noopener" target="_blank">Apri fonte</a></article><article class="source-card"><p class="source-meta">Chatham House / Cascades · aprile 2025</p><h3>“The Nile Basin. Climate change, water and future cooperation”</h3><a href="https://www.preventionweb.net/media/106306/download?startDownload=20260528" rel="noopener" target="_blank">Apri fonte</a></article><article class="source-card"><p class="source-meta">Atlantic Council · 10 novembre 2025</p><h3>Alessia Melcangi, “The Nile at a crossroads”</h3><a href="https://www.atlanticcouncil.org/blogs/menasource/the-nile-at-a-crossroads-navigating-the-gerd-dispute-as-egypts-floodwaters-rise/" rel="noopener" target="_blank">Apri fonte</a></article><article class="source-card"><p class="source-meta">IDE Policy Brief · 27 febbraio 2026</p><h3>Husam Darwisheh, “From water dispute to security risk”</h3><a href="https://www.ide.go.jp/library/Japanese/Publish/Reports/AjikenPolicyBrief/pdf/269.pdf" rel="noopener" target="_blank">Apri fonte</a></article><article class="source-card"><p class="source-meta">HCSS · maggio 2026</p><h3>Michelle Reitano, “Bridge over troubled water”</h3><a href="https://hcss.nl/wp-content/uploads/2026/05/Bridge-over-Troubled-Water-HCSS-2026.pdf" rel="noopener" target="_blank">Apri fonte</a></article></div></details>
+<details class="bibliography-group"><summary>Egitto: politica, economia, energia</summary><div class="bibliography-list"><article class="source-card"><p class="source-meta">IEMed · 2025</p><h3>Alessia Melcangi, “Egypt: Internal Politics and Economic Woes”</h3><a href="https://www.iemed.org/wp-content/uploads/2025/06/Egypt_Internal_Policitcs_Melcangi_IEMedYearbook2025.pdf" rel="noopener" target="_blank">Apri fonte</a></article><article class="source-card"><p class="source-meta">ISPI · 7 ottobre 2025</p><h3>Giuseppe Dentice, “Egitto: un complesso equilibrismo”</h3><a href="https://www.ispionline.it/it/pubblicazione/egitto-un-complesso-equilibrismo-222958" rel="noopener" target="_blank">Apri fonte</a></article><article class="source-card"><p class="source-meta">ENI · 2025</p><h3>“Annual Report”</h3><a href="https://www.eni.com/content/dam/enicom/documents/eng/reports/2025/ar-2025/Annual-Report-2025.pdf" rel="noopener" target="_blank">Apri fonte</a></article><article class="source-card"><p class="source-meta">Reuters · 7 aprile 2026</p><h3>“Italy’s Eni discovers 2 trillion cubic feet of gas offshore Egypt”</h3><a href="https://www.reuters.com/business/energy/italys-eni-discovers-2-trillion-cubic-feet-gas-offshore-egypt-2026-04-07/" rel="noopener" target="_blank">Apri fonte</a></article></div></details>
+<details class="bibliography-group"><summary>Etiopia: politica, economia, sviluppo</summary><div class="bibliography-list"><article class="source-card"><p class="source-meta">Council on Foreign Relations · 18 febbraio 2026</p><h3>“Conflict in Ethiopia”</h3><a href="https://www.cfr.org/global-conflict-tracker/conflict/conflict-ethiopia#Background-0" rel="noopener" target="_blank">Apri fonte</a></article><article class="source-card"><p class="source-meta">MAECI · 21 maggio 2026</p><h3>“Scheda di sintesi – Osservatorio economico – Etiopia”</h3><a href="https://www.infomercatiesteri.it/public/osservatorio/schede-sintesi/etiopia_11.pdf" rel="noopener" target="_blank">Apri fonte</a></article><article class="source-card"><p class="source-meta">UNDP · gennaio 2025</p><h3>“Financing Ethiopia’s Green Transition”</h3><a href="https://www.undp.org/sites/g/files/zskgke326/files/2025-02/undp-working_paper_series-financing_ethiopias_green_transition_final.pdf" rel="noopener" target="_blank">Apri fonte</a></article></div></details>
+<details class="bibliography-group"><summary>Corno d’Africa, Sudan, Somalia, Somaliland e Mar Rosso</summary><div class="bibliography-list"><article class="source-card"><p class="source-meta">LUISS Mediterranean Platform · 2026</p><h3>“The Red Sea: Divided by Water, United by Opportunities”</h3><a href="https://mp.luiss.it/wp-content/uploads/2026/02/E-Book_Red-Sea_Final-ENG_compressed.pdf" rel="noopener" target="_blank">Apri fonte</a></article><article class="source-card"><p class="source-meta">E-International Relations · 13 aprile 2025</p><h3>Federico Donelli, “Ethiopia Somalia Tensions Power Dynamics and Extra Regional Actors in the Red Sea Region”</h3><a href="https://www.e-ir.info/pdf/108031" rel="noopener" target="_blank">Apri fonte</a></article><article class="source-card"><p class="source-meta">Reuters · 10 febbraio 2026</p><h3>Giulia Paravicini, Reade Levinson, “Ethiopia builds secret camp to train Sudan RSF fighters sources say”</h3><a href="https://www.reuters.com/investigations/ethiopia-builds-secret-camp-train-sudan-rsf-fighters-say-2026-02-10/" rel="noopener" target="_blank">Apri fonte</a></article><article class="source-card"><p class="source-meta">ICE · 1 febbraio 2025</p><h3>“L’impatto della crisi del Mar Rosso sull’interscambio commerciale italiano e mondiale”</h3><a href="https://www.ice.it/it/sites/default/files/inline-files/Impatto-Crisi-Mar-Rosso_AgenziaICE.pdf" rel="noopener" target="_blank">Apri fonte</a></article></div></details>
+<details class="bibliography-group"><summary>Piano Mattei, interessi italiani e cooperazione</summary><div class="bibliography-list"><article class="source-card"><p class="source-meta">Camera dei Deputati · aggiornato al 17 aprile 2026</p><h3>“Iniziative italiane per l’Africa”</h3><a href="https://temi.camera.it/leg19/temi/iniziative-italiane-per-l-africa-piano-mattei.html" rel="noopener" target="_blank">Apri fonte</a></article><article class="source-card"><p class="source-meta">Senato e Camera · giugno 2025</p><h3>“Relazione sullo stato di attuazione del Piano Mattei”</h3><a href="https://documenti.camera.it/leg19/dossier/pdf/ES0282.pdf?_1753265458955" rel="noopener" target="_blank">Apri fonte</a></article><article class="source-card"><p class="source-meta">Atlantic Council · 29 luglio 2024</p><h3>“The Mattei Plan is an opportunity for North Africa”</h3><a href="https://www.atlanticcouncil.org/blogs/menasource/mattei-plan-north-africa-italy/" rel="noopener" target="_blank">Apri fonte</a></article><article class="source-card"><p class="source-meta">IAI · luglio 2025</p><h3>“Italy-Africa Digital Partnership under the Mattei Plan”</h3><a href="https://www.esteri.it/wp-content/uploads/2025/09/Italy-Africa-Digital-Partnershi_IAI.pdf" rel="noopener" target="_blank">Apri fonte</a></article></div></details>
+<details class="bibliography-group"><summary>Migrazioni e sicurezza</summary><div class="bibliography-list"><article class="source-card"><p class="source-meta">Ministero dell’Interno · 2021–2026</p><h3>“Cruscotto statistico giornaliero”</h3><p>Serie di cruscotti statistici utilizzati per il monitoraggio dei flussi migratori e delle dinamiche di arrivo in Italia.</p></article><article class="source-card"><p class="source-meta">DIS · 2 marzo 2026</p><h3>“Relazione al Parlamento 2026”</h3><a href="https://www.sicurezzanazionale.gov.it/data/cms/posts/1163/attachments/4d8b721a-3c8f-456c-9bce-cbe649e7522b/download?view=true" rel="noopener" target="_blank">Apri fonte</a></article><article class="source-card"><p class="source-meta">EPRS · gennaio 2026</p><h3>“Mapping threats to peace and democracy worldwide”</h3><a href="https://www.europarl.europa.eu/RegData/etudes/STUD/2026/782582/EPRS_STU(2026)782582_EN.pdf" rel="noopener" target="_blank">Apri fonte</a></article></div></details>
+</div>
+</div>
+</section>
+</main>
+<footer class="site-footer">
+<div class="container footer-grid">
+<div><strong>Le tensioni tra Egitto ed Etiopia</strong><p>Scenari di sviluppo tra rischio di escalation e opportunità per il Piano Mattei.</p></div>
+<div><span>Orizzonte temporale</span><p>Giugno 2026 – Maggio 2027</p></div>
+<div><a href="#home">Torna all’inizio ↑</a></div>
+</div>
+</footer>
+<button aria-label="Torna in alto" class="back-to-top" data-back-to-top="">↑</button>
+<script>
+﻿const header = document.querySelector('[data-header]');
+const nav = document.querySelector('[data-nav]');
+const navToggle = document.querySelector('[data-nav-toggle]');
+const backToTop = document.querySelector('[data-back-to-top]');
+
+function onScroll() {
+  const y = window.scrollY || document.documentElement.scrollTop;
+  header?.classList.toggle('is-scrolled', y > 8);
+  backToTop?.classList.toggle('visible', y > 700);
+}
+
+window.addEventListener('scroll', onScroll, { passive: true });
+onScroll();
+
+navToggle?.addEventListener('click', () => {
+  const open = nav?.classList.toggle('open');
+  navToggle.setAttribute('aria-expanded', String(Boolean(open)));
+});
+
+nav?.querySelectorAll('a').forEach(link => {
+  link.addEventListener('click', () => {
+    nav.classList.remove('open');
+    navToggle?.setAttribute('aria-expanded', 'false');
+  });
+});
+
+backToTop?.addEventListener('click', () =>
+  window.scrollTo({ top: 0, behavior: 'smooth' })
+);
+
+const sections = [...document.querySelectorAll('main section[id]')];
+const navLinks = [...document.querySelectorAll('.site-nav a')];
+
+const activeObserver = new IntersectionObserver(
+  entries => {
+    entries.forEach(entry => {
+      if (entry.isIntersecting) {
+        const id = entry.target.getAttribute('id');
+        navLinks.forEach(link =>
+          link.classList.toggle('active', link.getAttribute('href') === `#${id}`)
+        );
+      }
+    });
+  },
+  { rootMargin: '-35% 0px -55% 0px', threshold: 0 }
+);
+
+sections.forEach(section => activeObserver.observe(section));
+
+const revealEls = document.querySelectorAll('.reveal');
+const revealObserver = new IntersectionObserver(
+  entries => {
+    entries.forEach(entry => {
+      if (entry.isIntersecting) {
+        entry.target.classList.add('visible');
+        revealObserver.unobserve(entry.target);
+      }
+    });
+  },
+  { threshold: 0.12 }
+);
+
+revealEls.forEach(el => revealObserver.observe(el));
+
+const tooltipTargets = document.querySelectorAll(
+  '.cross-impact-table .has-comment[data-tooltip]'
+);
+
+tooltipTargets.forEach(el => el.removeAttribute('title'));
+
+let matrixTooltip;
+
+function ensureMatrixTooltip() {
+  if (!matrixTooltip) {
+    matrixTooltip = document.createElement('div');
+    matrixTooltip.className = 'matrix-tooltip';
+    document.body.appendChild(matrixTooltip);
+  }
+  return matrixTooltip;
+}
+
+function setTooltipTone(sourceCell) {
+  if (!matrixTooltip) return;
+  matrixTooltip.classList.remove('tip-positive', 'tip-negative', 'tip-neutral');
+
+  if (sourceCell.classList.contains('positive')) {
+    matrixTooltip.classList.add('tip-positive');
+  } else if (sourceCell.classList.contains('negative')) {
+    matrixTooltip.classList.add('tip-negative');
+  } else {
+    matrixTooltip.classList.add('tip-neutral');
+  }
+}
+
+function positionMatrixTooltip(event) {
+  if (!matrixTooltip) return;
+
+  const margin = 14;
+  const rect = matrixTooltip.getBoundingClientRect();
+  let left = event.clientX + margin;
+  let top = event.clientY + margin;
+
+  if (left + rect.width > window.innerWidth - margin) {
+    left = event.clientX - rect.width - margin;
+  }
+
+  if (top + rect.height > window.innerHeight - margin) {
+    top = event.clientY - rect.height - margin;
+  }
+
+  matrixTooltip.style.left = `${Math.max(margin, left)}px`;
+  matrixTooltip.style.top = `${Math.max(margin, top)}px`;
+}
+
+tooltipTargets.forEach(el => {
+  el.addEventListener('mouseenter', event => {
+    const tip = ensureMatrixTooltip();
+    tip.textContent = el.getAttribute('data-tooltip') || '';
+    setTooltipTone(el);
+    tip.classList.add('visible');
+    positionMatrixTooltip(event);
+  });
+
+  el.addEventListener('mousemove', positionMatrixTooltip);
+  el.addEventListener('mouseleave', () => matrixTooltip?.classList.remove('visible'));
+});
+
+/* =========================
+   RSS monitoring (GitHub Pages)
+   =========================
+   Le notizie non vengono più scaricate dal browser tramite proxy o
+   funzioni serverless: una GitHub Action le raccoglie periodicamente
+   lato server e committa "data/news.json" già filtrato per tematica.
+   Il frontend legge solo quel file statico (stessa origine):
+   zero CORS, zero 403/429 per i visitatori. */
+
+const monitoringFeedButtons = [
+  ...document.querySelectorAll('.monitoring-feed-btn[data-feed-key]')
+];
+const rssMonitoringTitle = document.getElementById('rssMonitoringTitle');
+const rssMonitoringStatus = document.getElementById('rssMonitoringStatus');
+const rssNewsTrack = document.getElementById('rssNewsTrack');
+
+const RSS_DATA_URL = 'data/news.json';
+const RSS_MAX_ITEMS = 20;       // massimo risultati per tematica
+const RSS_VISIBLE_ROWS = 5;     // notizie visibili contemporaneamente
+const RSS_SECONDS_PER_ITEM = 3; // velocità dello scorrimento verticale
+const RSS_REDUCED_MOTION = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+
+const MONITORING_TOPICS = {
+  'egypt-somalia': 'Accordi Egitto-Somalia',
+  somaliland: 'Dossier Somaliland',
+  'ethiopia-sea-access': 'Accesso etiope al mare',
+  'egypt-economy': 'Fragilità economica egiziana',
+  'gerd-opacity': 'Opacità sui rilasci GERD'
+};
+
+let rssDataCache = null;
+let rssDataPromise = null;
+let activeTopic = null;
+
+function getTopicFromButton(button) {
+  return button?.dataset?.feedKey || 'egypt-somalia';
+}
+
+function getTopicTitle(topic, button) {
+  return MONITORING_TOPICS[topic] || button?.textContent?.trim() || 'Notizie monitorate';
+}
+
+function setRssLoadingState(title) {
+  if (rssMonitoringTitle) rssMonitoringTitle.textContent = title || 'Notizie monitorate';
+  if (rssMonitoringStatus) rssMonitoringStatus.textContent = 'Caricamento...';
+
+  if (rssNewsTrack) {
+    rssNewsTrack.classList.remove('is-ready');
+    rssNewsTrack.innerHTML =
+      '<span class="rss-placeholder">Caricamento delle notizie...</span>';
+  }
+}
+
+function sanitizeRssText(value) {
+  const temp = document.createElement('span');
+  temp.textContent = value || '';
+  return temp.innerHTML;
+}
+
+// Previene attacchi XSS e supporta sia link assoluti che percorsi relativi
+function sanitizeUrl(value) {
+  const temp = document.createElement('span');
+  temp.textContent = value || '';
+  let cleanUrl = temp.innerHTML.replace(/"/g, '&quot;').trim();
+
+  const isValidScheme = cleanUrl.startsWith('http://') ||
+                        cleanUrl.startsWith('https://') ||
+                        cleanUrl.startsWith('/');
+
+  if (cleanUrl !== '#' && !isValidScheme) {
+    return '#';
+  }
+  return cleanUrl;
+}
+
+function formatRssDate(value) {
+  const date = value ? new Date(value) : null;
+  if (!date || Number.isNaN(date.getTime())) return 'Data n.d.';
+
+  const day = String(date.getUTCDate()).padStart(2, '0');
+  const month = String(date.getUTCMonth() + 1).padStart(2, '0');
+  const year = date.getUTCFullYear();
+
+  return `${day}/${month}/${year}`;
+}
+
+function getItemTimestamp(item) {
+  const raw = item?.pubDate || item?.date || item?.published || item?.published_at;
+  const timestamp = raw ? new Date(raw).getTime() : 0;
+  return Number.isNaN(timestamp) ? 0 : timestamp;
+}
+
+function dedupeRssItems(items) {
+  const seen = new Set();
+  const unique = [];
+
+  items.forEach(item => {
+    const key = (item?.link || item?.guid || item?.title || '').trim().toLowerCase();
+    if (!key || seen.has(key)) return;
+    seen.add(key);
+    unique.push(item);
+  });
+
+  return unique;
+}
+
+function formatUpdatedAt(isoString) {
+  const date = isoString ? new Date(isoString) : null;
+  if (!date || Number.isNaN(date.getTime())) return '';
+
+  return date.toLocaleString('it-IT', {
+    day: '2-digit',
+    month: '2-digit',
+    hour: '2-digit',
+    minute: '2-digit'
+  });
+}
+
+// Mappa codice lingua → etichetta leggibile in italiano
+const LANG_LABEL = {
+  en: 'EN', it: 'IT', ar: 'AR', fr: 'FR', es: 'ES',
+  de: 'DE', pt: 'PT', am: 'AM', so: 'SO', sw: 'SW',
+  tr: 'TR', zh: 'ZH',
+};
+
+function renderRssItems(items, options = {}) {
+  if (!rssNewsTrack) return false;
+
+  const visibleItems = dedupeRssItems(items || [])
+    .sort((a, b) => getItemTimestamp(b) - getItemTimestamp(a))
+    .slice(0, RSS_MAX_ITEMS);
+
+  if (!visibleItems.length) {
+    rssNewsTrack.innerHTML =
+      '<span class="rss-placeholder">Nessuna notizia disponibile per questo argomento.</span>';
+    rssNewsTrack.classList.remove('is-ready');
+    if (rssMonitoringStatus) rssMonitoringStatus.textContent = '0 notizie coerenti';
+    return false;
+  }
+
+  const links = visibleItems
+    .map(item => {
+      const date = sanitizeRssText(
+        formatRssDate(item.pubDate || item.date || item.published || item.published_at)
+      );
+      // Usa il titolo tradotto in italiano se disponibile, altrimenti il titolo originale
+      const displayTitle = sanitizeRssText(
+        (item.titleIt || item.title || 'Notizia senza titolo')
+      );
+      const cleanSource = sanitizeRssText(item.source || 'Fonte n.d.');
+      const link = sanitizeUrl(item.link || '#');
+
+      // Mostra la lingua originale solo se diversa dall'italiano
+      const lang = (item.lang || 'en').toLowerCase();
+      const langTag = (lang !== 'it' && LANG_LABEL[lang])
+        ? ` <span class="rss-lang-tag">(${LANG_LABEL[lang]})</span>`
+        : '';
+
+      return `<a href="${link}" target="_blank" rel="noopener noreferrer">${date} - ${displayTitle}${langTag} - ${cleanSource}</a>`;
+    })
+    .join('');
+
+  // Scorrimento VERTICALE: se le notizie superano le righe visibili,
+  // duplichiamo la lista una volta (loop senza scatti con translateY -50%)
+  // e calcoliamo la durata in base al numero di notizie.
+  if (visibleItems.length > RSS_VISIBLE_ROWS && !RSS_REDUCED_MOTION) {
+    rssNewsTrack.innerHTML = links + links;
+    rssNewsTrack.style.setProperty(
+      '--rss-scroll-duration',
+      `${visibleItems.length * RSS_SECONDS_PER_ITEM}s`
+    );
+    rssNewsTrack.classList.add('is-ready');
+  } else {
+    // 5 o meno notizie (o utente con riduzione animazioni): lista statica
+    rssNewsTrack.innerHTML = links;
+    rssNewsTrack.classList.remove('is-ready');
+  }
+
+  if (rssMonitoringStatus) {
+    const updatedAt = formatUpdatedAt(options.generatedAt);
+    const updatedText = updatedAt ? ` · agg. ${updatedAt}` : '';
+    rssMonitoringStatus.textContent =
+      `${visibleItems.length} notizie${updatedText}`;
+  }
+
+  return true;
+}
+
+var _EMBEDDED_NEWS = {"generatedAt": null, "feedsChecked": 0, "feedsAttempted": 10, "topics": {"egypt-somalia": {"title": "Accordi Egitto-Somalia", "items": []}, "somaliland": {"title": "Dossier Somaliland", "items": []}, "ethiopia-sea-access": {"title": "Accesso etiope al mare", "items": []}, "egypt-economy": {"title": "Fragilità economica egiziana", "items": []}, "gerd-opacity": {"title": "Opacità sui rilasci GERD", "items": []}}};
+
+async function fetchRssData() {
+  if (rssDataCache) return rssDataCache;
+
+  // Una sola richiesta condivisa anche con click multipli ravvicinati
+  if (!rssDataPromise) {
+    rssDataPromise = fetch(`${RSS_DATA_URL}?t=${Date.now()}`, {
+      headers: { Accept: 'application/json' }
+    })
+      .then(response => {
+        if (!response.ok) throw new Error(`HTTP ${response.status}`);
+        return response.json();
+      })
+      .then(data => {
+        rssDataCache = data;
+        return data;
+      })
+      .catch(error => {
+        rssDataPromise = null; // consenti un nuovo tentativo al prossimo click
+        // Fallback to embedded data if available
+        if (typeof _EMBEDDED_NEWS !== 'undefined' && _EMBEDDED_NEWS && _EMBEDDED_NEWS.topics) {
+          rssDataCache = _EMBEDDED_NEWS;
+          return _EMBEDDED_NEWS;
+        }
+        throw error;
+      });
+  }
+
+  return rssDataPromise;
+}
+
+async function loadMonitoringFeed(button) {
+  const topic = getTopicFromButton(button);
+  const title = getTopicTitle(topic, button);
+
+  activeTopic = topic;
+
+  monitoringFeedButtons.forEach(btn => {
+    const isActive = btn === button;
+    btn.classList.toggle('active', isActive);
+    btn.setAttribute('aria-selected', String(isActive));
+  });
+
+  setRssLoadingState(title);
+
+  try {
+    const data = await fetchRssData();
+
+    // L'utente potrebbe aver cambiato tab durante il fetch iniziale
+    if (activeTopic !== topic) return;
+
+    const topicData = data?.topics?.[topic];
+
+    if (rssMonitoringTitle) {
+      rssMonitoringTitle.textContent = topicData?.title || title;
+    }
+
+    renderRssItems(topicData?.items || [], {
+      feedsChecked: data?.feedsChecked,
+      feedsAttempted: data?.feedsAttempted,
+      generatedAt: data?.generatedAt
+    });
+  } catch (error) {
+    if (activeTopic !== topic) return;
+
+    console.error('Errore nel caricamento delle notizie monitorate:', error);
+
+    if (rssNewsTrack) {
+      rssNewsTrack.innerHTML =
+        '<span class="rss-placeholder">Notizie temporaneamente non disponibili.</span>';
+      rssNewsTrack.classList.remove('is-ready');
+    }
+
+    if (rssMonitoringStatus) rssMonitoringStatus.textContent = 'Errore feed';
+  }
+}
+
+monitoringFeedButtons.forEach(button => {
+  button.addEventListener('click', () => loadMonitoringFeed(button));
+});
+
+if (monitoringFeedButtons.length) {
+  loadMonitoringFeed(monitoringFeedButtons[0]);
+}
+
+</script>
+</body>
+</html>
