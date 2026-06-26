@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-26T17:13:19.207Z",
+  "generatedAt": "2026-06-26T22:48:53.591Z",
   "feedsChecked": 8,
   "feedsAttempted": 10,
   "topics": {
@@ -93,145 +93,46 @@
           "titleIt": "Kenya: Amnesty Condemns Uganda Over Karua Detention and Deportation"
         },
         {
-          "title": "Houthi Leader Warns Israel Over Somaliland Plan",
-          "link": "https://diplomat.so/articles/1506/Houthi-Leader-Warns-Israel-Over-Somaliland-Plan",
-          "source": "diplomat.so",
-          "pubDate": "2026-06-26T02:00:00Z",
+          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
+          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
+          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
+          "pubDate": "Saturday, May 16, 2026 - 00:08",
+          "source": "Crisis Group",
           "lang": "en",
-          "description": "",
-          "titleIt": "Houthi Leader Warns Israel Over Somaliland Plan"
-        },
-        {
-          "title": "Somalia , federalism and Jubaland",
-          "link": "https://www.thenewhumanitarian.org/analysis/2013/04/16/somalia-federalism-and-jubaland",
-          "source": "thenewhumanitarian.org",
-          "pubDate": "2026-06-25T16:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Somalia , federalism and Jubaland"
-        },
-        {
-          "title": "Ethiopia is not being  dragged into war  | Opinions",
-          "link": "https://www.aljazeera.com/opinions/2026/6/25/ethiopia-is-not-being-dragged-into-war",
-          "source": "aljazeera.com",
-          "pubDate": "2026-06-25T07:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia is not being  dragged into war  | Opinions"
-        },
-        {
-          "title": "Abiy turns to Nile and Red Sea ambitions after Ethiopia election landslide",
-          "link": "https://www.zawya.com/en/economy/africa/abiy-turns-to-nile-and-red-sea-ambitions-after-ethiopia-election-landslide-lc65kwng",
-          "source": "zawya.com",
-          "pubDate": "2026-06-25T05:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Abiy turns to Nile and Red Sea ambitions after Ethiopia election landslide"
-        },
-        {
-          "title": "Report : Israeli forces deployed to Somaliland in covert mission after recognition of breakaway territory",
-          "link": "https://www.globalsecurity.org/military/library/news/2026/06/mil-260624-presstv02.htm",
-          "source": "globalsecurity.org",
-          "pubDate": "2026-06-24T14:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Report : Israeli forces deployed to Somaliland in covert mission after recognition of breakaway territory"
-        },
-        {
-          "title": "Speech : Seize the opportunity for decisive action in Somalia",
-          "link": "http://www.philippinetimes.com/news/279143429/speech-seize-the-opportunity-for-decisive-action-in-somalia",
-          "source": "philippinetimes.com",
-          "pubDate": "2026-06-24T02:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Speech : Seize the opportunity for decisive action in Somalia"
-        },
-        {
-          "title": "Speech : Seize the opportunity for decisive action in Somalia",
-          "link": "http://www.arabherald.com/news/279143429/speech-seize-the-opportunity-for-decisive-action-in-somalia",
-          "source": "arabherald.com",
-          "pubDate": "2026-06-23T23:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Speech : Seize the opportunity for decisive action in Somalia"
-        },
-        {
-          "title": "Speech : Seize the opportunity for decisive action in Somalia",
-          "link": "http://www.heraldglobe.com/news/279143429/speech-seize-the-opportunity-for-decisive-action-in-somalia",
-          "source": "heraldglobe.com",
-          "pubDate": "2026-06-23T22:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Speech : Seize the opportunity for decisive action in Somalia"
-        },
-        {
-          "title": "Ansarullah Official Issues Stark Warning Over Alleged Israeli Naval Presence Near Somalia",
-          "link": "https://wardheernews.com/ansarullah-official-issues-stark-warning-over-alleged-israeli-naval-presence-near-somalia/",
-          "source": "wardheernews.com",
-          "pubDate": "2026-06-23T22:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ansarullah Official Issues Stark Warning Over Alleged Israeli Naval Presence Near Somalia"
-        },
-        {
-          "title": "Speech : Seize the opportunity for decisive action in Somalia",
-          "link": "http://www.africaleader.com/news/279143429/speech-seize-the-opportunity-for-decisive-action-in-somalia",
-          "source": "africaleader.com",
-          "pubDate": "2026-06-23T21:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Speech : Seize the opportunity for decisive action in Somalia"
-        },
-        {
-          "title": "Speech : Seize the opportunity for decisive action in Somalia",
-          "link": "http://www.kenyastar.com/news/279143429/speech-seize-the-opportunity-for-decisive-action-in-somalia",
-          "source": "kenyastar.com",
-          "pubDate": "2026-06-23T21:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Speech : Seize the opportunity for decisive action in Somalia"
-        },
-        {
-          "title": "Links 6 / 23 / 2026 | naked capitalism",
-          "link": "https://www.nakedcapitalism.com/2026/06/links-6-23-2026.html",
-          "source": "nakedcapitalism.com",
-          "pubDate": "2026-06-23T11:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Links 6 / 23 / 2026 | naked capitalism"
-        },
-        {
-          "title": "Israel deploys military team to Somaliland",
-          "link": "https://www.albawaba.net/news/israel-deploys-military-team-somaliland-1630976",
-          "source": "albawaba.net",
-          "pubDate": "2026-06-23T04:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Israel deploys military team to Somaliland"
-        },
-        {
-          "title": "Somaliland foreign ties spark Africa debate",
-          "link": "https://cajnewsafrica.com/2026/06/23/somaliland-foreign-ties-spark-africa-debate/",
-          "source": "cajnewsafrica.com",
-          "pubDate": "2026-06-23T02:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Somaliland foreign ties spark Africa debate"
-        },
-        {
-          "title": "Around 50 Israeli Soldiers Deployed To Somaliland Following Security Agreements - Report",
-          "link": "https://www.i24news.tv/en/news/israel/diplomacy-defense/artc-around-50-israeli-soldiers-deployed-to-somaliland-following-security-agreements-report",
-          "source": "i24news.tv",
-          "pubDate": "2026-06-22T21:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Around 50 Israeli Soldiers Deployed To Somaliland Following Security Agreements - Report"
+          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
     "ethiopia-sea-access": {
       "title": "Accesso etiope al mare",
       "items": [
+        {
+          "title": "Regional Health Experts Convene to Share Knowledge and Experiences on Rising Cases of NCDs and Mental Health Across Eastern and Southern Africa",
+          "link": "https://igad.int/regional-health-experts-convene-to-share-knowledge-and-experiences-on-rising-cases-of-ncds-and-mental-health-across-eastern-and-southern-africa/",
+          "source": "igad.int",
+          "pubDate": "2026-06-26T21:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Regional Health Experts Convene to Share Knowledge and Experiences on Rising Cases of NCDs and Mental Health Across Eastern and Southern Africa"
+        },
+        {
+          "title": "Global roots , local soil - SES and RHS celebrate Culture Night",
+          "link": "https://www.hometownsource.com/sun_thisweek/free/global-roots-local-soil---ses-and-rhs-celebrate-culture-night/article_f0a39fed-a316-44d5-9514-60f104de66e9.html",
+          "source": "hometownsource.com",
+          "pubDate": "2026-06-26T21:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Global roots , local soil - SES and RHS celebrate Culture Night"
+        },
+        {
+          "title": "Today Happenings : June 26 , 2026 - South Peace News",
+          "link": "https://www.southpeacenews.com/todays-happenings-june-26-2026/",
+          "source": "southpeacenews.com",
+          "pubDate": "2026-06-26T19:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Today Happenings : June 26 , 2026 - South Peace News"
+        },
         {
           "title": "Top Somali official deported from Kenya over suspected passport fraud",
           "link": "http://www.africanews.com/2026/06/26/top-somali-official-deported-from-kenya-over-suspected-passport-fraud/",
@@ -260,6 +161,33 @@
           "titleIt": "Soccer: Nico Paz to stay at Como"
         },
         {
+          "title": "Supreme Court greenlights Trump termination of TPS for 350 , 000 Haitians , Syrians",
+          "link": "https://www.newstribune.com/news/2026/jun/26/supreme-court-greenlights-trump-termination-of/",
+          "source": "newstribune.com",
+          "pubDate": "2026-06-26T12:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Supreme Court greenlights Trump termination of TPS for 350 , 000 Haitians , Syrians"
+        },
+        {
+          "title": "Global stars to join Birmingham celebration of Somali beauty and culture to  dispel negatives",
+          "link": "https://www.birminghammail.co.uk/whats-on/whats-on-news/global-stars-join-birmingham-celebration-34186835",
+          "source": "birminghammail.co.uk",
+          "pubDate": "2026-06-26T10:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Global stars to join Birmingham celebration of Somali beauty and culture to  dispel negatives"
+        },
+        {
+          "title": "Turkish Drones in Africa : Ankara New Power Play",
+          "link": "https://www.riotimesonline.com/turkish-drones-africa-security-2026/",
+          "source": "riotimesonline.com",
+          "pubDate": "2026-06-26T10:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Turkish Drones in Africa : Ankara New Power Play"
+        },
+        {
           "title": "Ethiopia: Ethiopia's Digital Revolution - From Connectivity to Competitiveness",
           "link": "https://allafrica.com/stories/202606260220.html",
           "description": "[ENA] Across Africa, nations are embracing the digital revolution as a catalyst for economic growth, stronger governance, and greater global competitiveness. Among them, Ethiopia--long celebrated for its ancient civilization, rich cultural heritage, and strategic position in the Horn of Africa, is emerging as one of the continent's most ambitious digital transformation stories.",
@@ -278,6 +206,24 @@
           "titleIt": "Somalia: Somalia Deputy Prime Minister Deported From Kenya Over Alleged Passport Fraud"
         },
         {
+          "title": "Ethiopia • Abiy Ahmed security strongmen line up against rebel threats",
+          "link": "https://www.africaintelligence.com/eastern-africa-and-the-horn/2026/06/26/abiy-ahmed-s-security-strongmen-line-up-against-rebel-threats,110830149-ar2",
+          "source": "africaintelligence.com",
+          "pubDate": "2026-06-26T06:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia • Abiy Ahmed security strongmen line up against rebel threats"
+        },
+        {
+          "title": "Africa Top 15 Agro - Exports Driving Trade Growth in 2026",
+          "link": "https://punchng.com/africas-top-15-agro-exports-driving-trade-growth/",
+          "source": "punchng.com",
+          "pubDate": "2026-06-26T04:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Africa Top 15 Agro - Exports Driving Trade Growth in 2026"
+        },
+        {
           "title": "Mexico Celebrates the Third “Made in Italy” Day",
           "link": "https://www.ansa.it/english/news/news_from_embassies/2026/06/26/mexico-celebrates-the-third-made-in-italy-day_3fae5fcf-e64c-429a-b730-a334cbe11696.html",
           "description": "(ANSA) - CITTÀ DEL MESSICO, 25 GIU - The third edition of the National “Made in Italy” Day, titled “Italian Technological Excellence in Mexico in Strategic Sectors,” was held in the Mexican capital. The event was dedicated to highlighting the technological and industrial contributions of Italian companies in Mexico. The Italian Ambassador, Alessandro Modiano, confirmed the strength of trade ties, noting that “the main sector for Italian exports to Mexico is industrial machinery, which accounts for nearly 40% of the total.” Director Gravela highlighted the ICE Agency’s commitment to promoting I",
@@ -287,49 +233,58 @@
           "titleIt": "Mexico Celebrates the Third “Made in Italy” Day"
         },
         {
-          "title": "EU countries give 1st green light to aid for soaring fertiliser prices",
-          "link": "https://www.ansa.it/english/news/world/2026/06/25/eu-countries-give-1st-green-light-to-aid-for-soaring-fertiliser-prices_e15c26e7-d931-42fb-a354-0238cdde56f7.html",
-          "description": "(ANSA) - ROME, JUN 25 - EU member states have given rapid approval to support measures aimed at helping farmers cope with rising fertiliser costs driven by the conflict in the Middle East. The proposal for targeted amendments to the Common Agricultural Policy (CAP), presented last week by the European Commission, will now enter negotiations with the European Parliament. Under the current 2021-2027 CAP framework, Brussels has proposed a temporary liquidity scheme, the possibility for member states to advance direct payments at a higher rate in 2026, and greater flexibility to reprogramme funds ",
-          "pubDate": "Thu, 25 Jun 2026 12:55:42 +0200",
-          "source": "ANSA English",
+          "title": "More than just refugees - The Standard",
+          "link": "https://www.thestandard.co.zw/environment/article/13014/more-than-just-refugees",
+          "source": "thestandard.co.zw",
+          "pubDate": "2026-06-26T02:45:00Z",
           "lang": "en",
-          "titleIt": "EU countries give 1st green light to aid for soaring fertiliser prices"
+          "description": "",
+          "titleIt": "More than just refugees - The Standard"
         },
         {
-          "title": "European Parliament activates urgent procedure for fertiliser price support measures",
-          "link": "https://www.ansa.it/english/news/world/2026/06/25/european-parliament-activates-urgent-procedure-for-fertiliser-price-support-measures_8ef96707-56e6-48ab-94b7-f3941d670113.html",
-          "description": "(ANSA) - ROME, JUN 25 - The European Parliament has activated the urgent procedure to approve support measures for farmers affected by soaring fertiliser prices linked to the conflict in the Middle East. The proposal for targeted amendments to the Common Agricultural Policy was presented by the European Commission last week to provide emergency support to the sector. The measures will be put to a vote during Parliament's July plenary session. Within the current 2021-2027 CAP framework, Brussels has proposed establishing a temporary liquidity scheme, allowing member states to advance direct pay",
-          "pubDate": "Thu, 25 Jun 2026 12:54:59 +0200",
-          "source": "ANSA English",
+          "title": "Takeaways : Supreme Court hands Trump massive wins on immigration agenda",
+          "link": "https://us.cnn.com/2026/06/25/politics/takeaways-supreme-court-hands-trump-massive-wins-on-immigration-agenda",
+          "source": "us.cnn.com",
+          "pubDate": "2026-06-26T01:30:00Z",
           "lang": "en",
-          "titleIt": "European Parliament activates urgent procedure for fertiliser price support measures"
+          "description": "",
+          "titleIt": "Takeaways : Supreme Court hands Trump massive wins on immigration agenda"
         },
         {
-          "title": "EU announces up to €540 million in aid for farmers and greater CAP flexibility",
-          "link": "https://www.ansa.it/english/news/world/2026/06/25/eu-announces-up-to-540-million-in-aid-for-farmers-and-greater-cap-flexibility_81ce409c-9ebb-4151-887e-1d02a5de4ad8.html",
-          "description": "(ANSA) - ROME, JUN 25 - The European Commission has announced that up to €540 million from the CAP agricultural reserve could be mobilised to provide \"targeted and exceptional\" support to farmers affected by the conflict in the Middle East. EU member states are expected to approve the increase in available resources by the end of July. Brussels has also proposed a series of targeted CAP amendments, including a temporary liquidity scheme, greater flexibility to advance direct payments and the possibility to reprogramme funds to help farmers cope with rising fertiliser prices. Earlier this week,",
-          "pubDate": "Thu, 25 Jun 2026 12:54:31 +0200",
-          "source": "ANSA English",
+          "title": "Quiz : Can You Name Every Country That Starts With a Vowel ?",
+          "link": "https://www.mentalfloss.com/quizzes/geography/name-every-country-starts-with-vowel",
+          "source": "mentalfloss.com",
+          "pubDate": "2026-06-26T01:00:00Z",
           "lang": "en",
-          "titleIt": "EU announces up to €540 million in aid for farmers and greater CAP flexibility"
+          "description": "",
+          "titleIt": "Quiz : Can You Name Every Country That Starts With a Vowel ?"
         },
         {
-          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
-          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
-          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
-          "pubDate": "Saturday, May 16, 2026 - 00:08",
-          "source": "Crisis Group",
+          "title": "Harlem Rally in Support of Cuba | Pambazuka News",
+          "link": "http://www.pambazuka.org/Harlem-Rally",
+          "source": "pambazuka.org",
+          "pubDate": "2026-06-26T00:30:00Z",
           "lang": "en",
-          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
+          "description": "",
+          "titleIt": "Harlem Rally in Support of Cuba | Pambazuka News"
         },
         {
-          "title": "As war keeps spreading, the African Union must find its teeth",
-          "link": "https://www.crisisgroup.org/opd/africa/war-keeps-spreading-african-union-must-find-its-teeth",
-          "description": "With the continental body at its weakest point since its inception, this week’s summit in Ethiopia cannot be another talk shop. A united front is crucial to resolve intensifying conflicts tearing through Africa.",
-          "pubDate": "Wednesday, February 11, 2026 - 15:04",
-          "source": "Crisis Group",
+          "title": "Takeaways : Supreme Court hands Trump massive wins on immigration agenda",
+          "link": "https://edition.cnn.com/2026/06/25/politics/takeaways-supreme-court-hands-trump-massive-wins-on-immigration-agenda",
+          "source": "edition.cnn.com",
+          "pubDate": "2026-06-25T23:00:00Z",
           "lang": "en",
-          "titleIt": "As war keeps spreading, the African Union must find its teeth"
+          "description": "",
+          "titleIt": "Takeaways : Supreme Court hands Trump massive wins on immigration agenda"
+        },
+        {
+          "title": "Harlem Rally in Support of Cuba | Pambazuka News",
+          "link": "http://www.pambazuka.org/index.php/Harlem-Rally",
+          "source": "pambazuka.org",
+          "pubDate": "2026-06-25T22:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Harlem Rally in Support of Cuba | Pambazuka News"
         }
       ]
     },
@@ -337,13 +292,76 @@
       "title": "Fragilità economica egiziana",
       "items": [
         {
-          "title": "New York primaries signal a new force in US politics | Opinions",
-          "link": "https://www.aljazeera.com/opinions/2026/6/26/new-yorks-primaries-signal-a-new-force-in-us-politics",
-          "source": "aljazeera.com",
-          "pubDate": "2026-06-26T16:45:00Z",
+          "title": "The Year 536 AD Was So Bad It May Have Been the Worst Time in Human History to Be Alive",
+          "link": "https://www.zmescience.com/science/news-science/536-worst-year-in-history/",
+          "source": "zmescience.com",
+          "pubDate": "2026-06-26T22:15:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "New York primaries signal a new force in US politics | Opinions"
+          "titleIt": "The Year 536 AD Was So Bad It May Have Been the Worst Time in Human History to Be Alive"
+        },
+        {
+          "title": "Turkey Detains 40 Undocumented Migrants , Including Citizens of Afghanistan",
+          "link": "https://www.khaama.com/turkey-detains-40-undocumented-migrants-including-citizens-of-afghanistan/",
+          "source": "khaama.com",
+          "pubDate": "2026-06-26T20:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Turkey Detains 40 Undocumented Migrants , Including Citizens of Afghanistan"
+        },
+        {
+          "title": "Syria Agriculture Minister , Egyptian businessman Sawiris discuss investment scopes",
+          "link": "https://sana.sy/en/economic/2325671/",
+          "source": "sana.sy",
+          "pubDate": "2026-06-26T19:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Syria Agriculture Minister , Egyptian businessman Sawiris discuss investment scopes"
+        },
+        {
+          "title": "Mediators worked through threats and strikes to broker US - Iran deal",
+          "link": "https://www.twincities.com/2026/06/26/us-iran-behind-the-mediation/",
+          "source": "twincities.com",
+          "pubDate": "2026-06-26T19:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Mediators worked through threats and strikes to broker US - Iran deal"
+        },
+        {
+          "title": "GLP - 1 patents and Africa : The COVID - 19 lessons we still have not learned",
+          "link": "https://www.worldipreview.com/jurisdiction-reports/glp-1-patents-and-africa-the-covid-19-lessons-we-still-have-not-learned",
+          "source": "worldipreview.com",
+          "pubDate": "2026-06-26T19:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "GLP - 1 patents and Africa : The COVID - 19 lessons we still have not learned"
+        },
+        {
+          "title": "Trump Accuses Iran Of Violating Cease - Fire With Hormuz Drone Attacks",
+          "link": "http://www.britainnews.net/news/279149948/trump-accuses-iran-of-violating-cease-fire-with-hormuz-drone-attacks",
+          "source": "britainnews.net",
+          "pubDate": "2026-06-26T18:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Trump Accuses Iran Of Violating Cease - Fire With Hormuz Drone Attacks"
+        },
+        {
+          "title": "Beyond carrots and sticks",
+          "link": "https://www.clevelandjewishnews.com/jns/beyond-carrots-and-sticks/article_8528adea-e3a2-5488-8fe7-59a5667e5c60.html",
+          "source": "clevelandjewishnews.com",
+          "pubDate": "2026-06-26T18:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Beyond carrots and sticks"
+        },
+        {
+          "title": "Milei opens up to Ismael Cala : Childhood traumas , the Torah , and the fall of Cuba",
+          "link": "https://www.prnewswire.com/news-releases/milei-opens-up-to-ismael-cala-childhood-traumas-the-torah-and-the-fall-of-cuba-302812133.html",
+          "source": "prnewswire.com",
+          "pubDate": "2026-06-26T17:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Milei opens up to Ismael Cala : Childhood traumas , the Torah , and the fall of Cuba"
         },
         {
           "title": "Mediators worked through threats and strikes to broker US - Iran deal",
@@ -353,6 +371,15 @@
           "lang": "en",
           "description": "",
           "titleIt": "Mediators worked through threats and strikes to broker US - Iran deal"
+        },
+        {
+          "title": "New York primaries signal a new force in US politics | Opinions",
+          "link": "https://www.aljazeera.com/opinions/2026/6/26/new-yorks-primaries-signal-a-new-force-in-us-politics",
+          "source": "aljazeera.com",
+          "pubDate": "2026-06-26T16:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "New York primaries signal a new force in US politics | Opinions"
         },
         {
           "title": "Mediators worked through threats and strikes to broker the US - Iran deal , and challenges remain",
@@ -443,265 +470,12 @@
           "lang": "en",
           "description": "",
           "titleIt": "Mediators worked through threats and strikes to broker the US - Iran deal , and challenges remain"
-        },
-        {
-          "title": "Two new silos for Titan Egypt",
-          "link": "https://www.globalcement.com/news/20921-two-new-silos-for-titan-egypt",
-          "source": "globalcement.com",
-          "pubDate": "2026-06-26T13:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Two new silos for Titan Egypt"
-        },
-        {
-          "title": "Mediators worked through threats and strikes to broker the US - Iran deal , and challenges remain – Winnipeg Free Press",
-          "link": "https://www.winnipegfreepress.com/world/2026/06/26/mediators-worked-through-threats-and-strikes-to-broker-the-us-iran-deal-and-challenges-remain",
-          "source": "winnipegfreepress.com",
-          "pubDate": "2026-06-26T13:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Mediators worked through threats and strikes to broker the US - Iran deal , and challenges remain – Winnipeg Free Press"
-        },
-        {
-          "title": "GTR Leaders in Trade 2026 : The winners",
-          "link": "https://www.gtreview.com/news/global/gtr-leaders-in-trade-2026-the-winners/",
-          "source": "gtreview.com",
-          "pubDate": "2026-06-26T13:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "GTR Leaders in Trade 2026 : The winners"
-        },
-        {
-          "title": "Travel money expert reveals five mistakes that often cost Brits abroad",
-          "link": "https://www.dailystar.co.uk/news/latest-news/travel-money-expert-reveals-five-37352604",
-          "source": "dailystar.co.uk",
-          "pubDate": "2026-06-26T12:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Travel money expert reveals five mistakes that often cost Brits abroad"
-        },
-        {
-          "title": "After the Iran War , the United States Is the Middle East Guarantor of Last Resort",
-          "link": "https://foreignpolicy.com/2026/06/26/united-states-middle-east-iran-gulf-uae-saudi-last-resort/?tpcc=recirc_trending062921",
-          "source": "foreignpolicy.com",
-          "pubDate": "2026-06-26T12:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "After the Iran War , the United States Is the Middle East Guarantor of Last Resort"
-        },
-        {
-          "title": "The Worldfolio : Sewang Textile Weaves Korean Innovation into Global Fashion Supply Chains",
-          "link": "https://www.theworldfolio.com/interviews/sewang-textile-weaves-korean-innovation-into-global-fashion-supply-chains/7442/",
-          "source": "theworldfolio.com",
-          "pubDate": "2026-06-26T12:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The Worldfolio : Sewang Textile Weaves Korean Innovation into Global Fashion Supply Chains"
-        },
-        {
-          "title": "South Africa unlocks $14bn Afreximbank programme to drive industrial growth",
-          "link": "https://www.sanews.gov.za/south-africa/south-africa-unlocks-14bn-afreximbank-programme-drive-industrial-growth",
-          "source": "sanews.gov.za",
-          "pubDate": "2026-06-26T11:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "South Africa unlocks $14bn Afreximbank programme to drive industrial growth"
-        },
-        {
-          "title": "BRIEFS",
-          "link": "https://www.informare.it/news/review/2026/b260626uk.asp",
-          "source": "informare.it",
-          "pubDate": "2026-06-26T10:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "BRIEFS"
         }
       ]
     },
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
-      "items": [
-        {
-          "title": "Ethiopia Leap Into the Future",
-          "link": "https://allafrica.com/stories/202606250254.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-06-25T11:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia Leap Into the Future"
-        },
-        {
-          "title": "Abiy turns to Nile and Red Sea ambitions after Ethiopia election landslide",
-          "link": "https://www.zawya.com/en/economy/africa/abiy-turns-to-nile-and-red-sea-ambitions-after-ethiopia-election-landslide-lc65kwng",
-          "source": "zawya.com",
-          "pubDate": "2026-06-25T05:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Abiy turns to Nile and Red Sea ambitions after Ethiopia election landslide"
-        },
-        {
-          "title": "Africa adds 4 . 2 GW new hydropower in 2025 , only 10 % of hydropower resources being tapped",
-          "link": "https://www.engineeringnews.co.za/article/africa-adds-42-gw-new-hydropower-in-2025-only-10-of-hydropower-resources-being-tapped-2026-06-24",
-          "source": "engineeringnews.co.za",
-          "pubDate": "2026-06-24T19:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Africa adds 4 . 2 GW new hydropower in 2025 , only 10 % of hydropower resources being tapped"
-        },
-        {
-          "title": "Ethiopia Economic Reform Delivering Tangible Results Across Sectors , Says PM Abiy",
-          "link": "https://allafrica.com/stories/202606240040.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-06-24T07:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia Economic Reform Delivering Tangible Results Across Sectors , Says PM Abiy"
-        },
-        {
-          "title": "Pumped Storage Additions Lead Global Hydropower Growth",
-          "link": "https://www.powermag.com/pumped-storage-additions-lead-global-hydropower-growth/",
-          "source": "powermag.com",
-          "pubDate": "2026-06-24T04:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Pumped Storage Additions Lead Global Hydropower Growth"
-        },
-        {
-          "title": "Ethiopia PM Abiy Ahmed : From Nobel winner to war commander",
-          "link": "https://www.dw.com/en/ethiopias-pm-abiy-ahmed-from-nobel-winner-to-war-commander/a-77647920",
-          "source": "dw.com",
-          "pubDate": "2026-06-21T18:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia PM Abiy Ahmed : From Nobel winner to war commander"
-        },
-        {
-          "title": "Ethiopia Hydrogen Ambitions Face Financing Hurdle As Africa Projects Stall : IEA",
-          "link": "https://www.thereporterethiopia.com/51290/",
-          "source": "thereporterethiopia.com",
-          "pubDate": "2026-06-20T18:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia Hydrogen Ambitions Face Financing Hurdle As Africa Projects Stall : IEA"
-        },
-        {
-          "title": "Trump Pledge to Intervene : Can It Break the Deadlock in the Ethiopian Renaissance Dam Crisis ?",
-          "link": "https://english.aawsat.com/arab-world/5286082-trumps-pledge-intervene-can-it-break-deadlock-ethiopian-renaissance-dam-crisis",
-          "source": "english.aawsat.com",
-          "pubDate": "2026-06-19T14:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Trump Pledge to Intervene : Can It Break the Deadlock in the Ethiopian Renaissance Dam Crisis ?"
-        },
-        {
-          "title": "Ethiopia : Tale of Two Ethiopias",
-          "link": "https://allafrica.com/stories/202606180628.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-06-19T00:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia : Tale of Two Ethiopias"
-        },
-        {
-          "title": "Trump talks with Sisi about Grand Ethiopian Renaissance Dam",
-          "link": "https://www.egyptindependent.com/trump-talks-with-sisi-about-grand-ethiopian-renaissance-dam/",
-          "source": "egyptindependent.com",
-          "pubDate": "2026-06-18T15:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Trump talks with Sisi about Grand Ethiopian Renaissance Dam"
-        },
-        {
-          "title": "Ethiopia The Uncolonized Independent Beacon and Its Path to Prosperity",
-          "link": "https://larouchepub.com/other/2026/5324-ethiopia_the_uncolonized_indep.html",
-          "source": "larouchepub.com",
-          "pubDate": "2026-06-17T23:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia The Uncolonized Independent Beacon and Its Path to Prosperity"
-        },
-        {
-          "title": "Trump Backs Egypt in Nile Dam Row",
-          "link": "https://chimpreports.com/trump-backs-egypt-in-nile-dam-row/",
-          "source": "chimpreports.com",
-          "pubDate": "2026-06-17T17:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Trump Backs Egypt in Nile Dam Row"
-        },
-        {
-          "title": "The Latest : Trump and G7 leaders discuss future of AI on last day of summit",
-          "link": "http://www.idahostatejournal.com/news/national/the-latest-trump-and-g7-leaders-discuss-future-of-ai-on-last-day-of-summit/article_c980aa94-a108-54fb-9ffa-e490dbc13918.html",
-          "source": "idahostatejournal.com",
-          "pubDate": "2026-06-17T17:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The Latest : Trump and G7 leaders discuss future of AI on last day of summit"
-        },
-        {
-          "title": "BEYOND PLANTING : How Ethiopia Green Legacy Initiative is Reshaping Society , Economy , and Diplomacy",
-          "link": "https://www.garoweonline.com/en/opinions/beyond-planting-how-ethiopia-s-green-legacy-initiative-is-reshaping-society-economy-and-diplomacy",
-          "source": "garoweonline.com",
-          "pubDate": "2026-06-17T17:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "BEYOND PLANTING : How Ethiopia Green Legacy Initiative is Reshaping Society , Economy , and Diplomacy"
-        },
-        {
-          "title": "The Latest : Trump and G7 leaders discuss future of AI on last day of summit",
-          "link": "http://www.postregister.com/news/national/the-latest-trump-and-g7-leaders-discuss-future-of-ai-on-last-day-of-summit/article_5823212b-9bc9-5415-a72d-53c1e7302dfc.html",
-          "source": "postregister.com",
-          "pubDate": "2026-06-17T17:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The Latest : Trump and G7 leaders discuss future of AI on last day of summit"
-        },
-        {
-          "title": "Trump Raises Nile Dam Dispute in Egypt Talks",
-          "link": "https://www.newkerala.com/news/a/trump-raises-nile-dispute-talks-egypt-919.htm",
-          "source": "newkerala.com",
-          "pubDate": "2026-06-17T15:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Trump Raises Nile Dam Dispute in Egypt Talks"
-        },
-        {
-          "title": "The Latest : Trump and G7 leaders discuss future of AI on last day of summit",
-          "link": "https://www.newsday.com/news/nation/g7-summit-trump-ai-france-17-june-2026-f72748",
-          "source": "newsday.com",
-          "pubDate": "2026-06-17T15:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The Latest : Trump and G7 leaders discuss future of AI on last day of summit"
-        },
-        {
-          "title": "Sisi expresses gratitude for Trump  understanding  of Egyptian position on Ethiopian dam issue",
-          "link": "https://aa.com.tr/en/middle-east/sisi-expresses-gratitude-for-trump-s-understanding-of-egyptian-position-on-ethiopian-dam-issue/3969715",
-          "source": "aa.com.tr",
-          "pubDate": "2026-06-17T15:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Sisi expresses gratitude for Trump  understanding  of Egyptian position on Ethiopian dam issue"
-        },
-        {
-          "title": "Trump Iran Deal Threats Before Signing",
-          "link": "https://athens-times.com/trump-threatens-iran-with-bombing-days-before-deal-signing/",
-          "source": "athens-times.com",
-          "pubDate": "2026-06-17T14:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Trump Iran Deal Threats Before Signing"
-        },
-        {
-          "title": "The Latest : G7 summit focuses on contentious future of AI and US dominance of the industry",
-          "link": "https://www.wptf.com/2026/06/17/the-latest-g7-summit-focuses-on-contentious-future-of-ai-and-us-dominance-of-the-industry/",
-          "source": "wptf.com",
-          "pubDate": "2026-06-17T13:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The Latest : G7 summit focuses on contentious future of AI and US dominance of the industry"
-        }
-      ]
+      "items": []
     }
   }
 }
