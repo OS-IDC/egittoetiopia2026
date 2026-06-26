@@ -1,11 +1,29 @@
 {
-  "generatedAt": "2026-06-25T19:28:39.832Z",
-  "feedsChecked": 8,
+  "generatedAt": "2026-06-26T08:39:52.075Z",
+  "feedsChecked": 7,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
+        {
+          "title": "Sudan: Rights Group Reports Fresh Arrests of Sudanese Miners By Egyptian Forces",
+          "link": "https://allafrica.com/stories/202606260079.html",
+          "description": "[Dabanga] Waidi El Atri / El Rataj / Argeen / Cairo -- A Sudanese human rights organisation has accused Egyptian forces of carrying out a fresh operation against Sudanese gold miners near the Sudan-Egypt border, arresting dozens of people days after a deadly incident that survivors say killed more than 50 miners inside Sudanese territory.",
+          "pubDate": "Fri, 26 Jun 2026 04:10:57 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Sudan: Rights Group Reports Fresh Arrests of Sudanese Miners By Egyptian Forces"
+        },
+        {
+          "title": "Somalia: EU Imposes New Visa Restrictions On Somali Citizens",
+          "link": "https://allafrica.com/stories/202606260058.html",
+          "description": "[Shabelle] Brussels, June 25, 2026 -- The European Union has temporarily tightened visa rules for Somali citizens, citing insufficient cooperation from Somalia in the readmission of its nationals who are staying illegally in EU member states.",
+          "pubDate": "Fri, 26 Jun 2026 04:09:43 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Somalia: EU Imposes New Visa Restrictions On Somali Citizens"
+        },
         {
           "title": "Pope made us feel that writers are useful says Igiaba Scego",
           "link": "https://www.ansa.it/english/news/vatican/2026/06/24/pope-made-us-feel-that-writers-are-useful-says-igiaba-scego_a515575d-ecb1-46d6-b821-453d0e6009dd.html",
@@ -50,24 +68,6 @@
           "source": "ANSA English",
           "lang": "en",
           "titleIt": "PM's office asks 2 mn euro Regeni compensation"
-        },
-        {
-          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
-          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
-          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
-          "pubDate": "Saturday, May 16, 2026 - 00:08",
-          "source": "Crisis Group",
-          "lang": "en",
-          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
-        },
-        {
-          "title": "Sudan, South Sudan and Somalia: Key Peace and Security Priorities for Africa in 2026",
-          "link": "https://www.crisisgroup.org/evt/africa/sudan-south-sudan-and-somalia-key-peace-and-security-priorities-africa-2026",
-          "description": "In this online event, Crisis Group experts discussed peace and security priorities for the African continent in 2026, zooming in on Somalia, Sudan and South Sudan ahead of the African Union's summit of heads of state.&nbsp;",
-          "pubDate": "Thursday, February 12, 2026 - 16:08",
-          "source": "Crisis Group",
-          "lang": "en",
-          "titleIt": "Sudan, South Sudan and Somalia: Key Peace and Security Priorities for Africa in 2026"
         }
       ]
     },
@@ -75,13 +75,13 @@
       "title": "Dossier Somaliland",
       "items": [
         {
-          "title": "Africa: Inside the Floating Lab Shaping Ocean Science",
-          "link": "https://allafrica.com/stories/202606250121.html",
-          "description": "[allAfrica] The first thing you notice is the size of the Dr. Fridtjof Nansen. It towers over the quay as it is docked at the Port of Mombasa under the fluttering Kenyan flag.",
-          "pubDate": "Thu, 25 Jun 2026 07:20:26 GMT",
+          "title": "Kenya: Amnesty Condemns Uganda Over Karua Detention and Deportation",
+          "link": "https://allafrica.com/stories/202606260114.html",
+          "description": "[Capital FM] Nairobi -- Amnesty International has condemned the detention and deportation of Kenyan human rights lawyer Martha Karua by Ugandan authorities, describing the incident as \"unlawful and outrageous.\"",
+          "pubDate": "Fri, 26 Jun 2026 06:46:07 GMT",
           "source": "AllAfrica",
           "lang": "en",
-          "titleIt": "Africa: Inside the Floating Lab Shaping Ocean Science"
+          "titleIt": "Kenya: Amnesty Condemns Uganda Over Karua Detention and Deportation"
         },
         {
           "title": "Nairobi signs $1.2 billion airport expansion deal with China Road and Bridge Corp",
@@ -100,15 +100,6 @@
           "source": "Africanews",
           "lang": "en",
           "titleIt": "Libya's eastern government bans entry for nationals of four countries"
-        },
-        {
-          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
-          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
-          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
-          "pubDate": "Saturday, May 16, 2026 - 00:08",
-          "source": "Crisis Group",
-          "lang": "en",
-          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
@@ -116,13 +107,13 @@
       "title": "Accesso etiope al mare",
       "items": [
         {
-          "title": "Rwanda: Parliament Clears Rwf207bn for Disaster Response",
-          "link": "https://allafrica.com/stories/202606250594.html",
-          "description": "[New Times] The Chamber of Deputies on Wednesday, June 24, approved a draft law authorising Rwanda to ratify a $141 million (about Rwf207 billion) loan agreement with the International Development Association (IDA) to support disaster risk management through a contingent emergency response mechanism.",
-          "pubDate": "Thu, 25 Jun 2026 15:18:24 GMT",
-          "source": "AllAfrica",
+          "title": "Mexico Celebrates the Third “Made in Italy” Day",
+          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/06/26/mexico-celebrates-the-third-made-in-italy-day_3fae5fcf-e64c-429a-b730-a334cbe11696.html",
+          "description": "(ANSA) - CITTÀ DEL MESSICO, 25 GIU - The third edition of the National “Made in Italy” Day, titled “Italian Technological Excellence in Mexico in Strategic Sectors,” was held in the Mexican capital. The event was dedicated to highlighting the technological and industrial contributions of Italian companies in Mexico. The Italian Ambassador, Alessandro Modiano, confirmed the strength of trade ties, noting that “the main sector for Italian exports to Mexico is industrial machinery, which accounts for nearly 40% of the total.” Director Gravela highlighted the ICE Agency’s commitment to promoting I",
+          "pubDate": "Fri, 26 Jun 2026 04:58:00 +0200",
+          "source": "ANSA English",
           "lang": "en",
-          "titleIt": "Rwanda: Parliament Clears Rwf207bn for Disaster Response"
+          "titleIt": "Mexico Celebrates the Third “Made in Italy” Day"
         },
         {
           "title": "EU countries give 1st green light to aid for soaring fertiliser prices",
@@ -204,24 +195,6 @@
           "source": "ANSA English",
           "lang": "en",
           "titleIt": "Rutte's statements on US flights from Italy misleading says defence ministry"
-        },
-        {
-          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
-          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
-          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
-          "pubDate": "Saturday, May 16, 2026 - 00:08",
-          "source": "Crisis Group",
-          "lang": "en",
-          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
-        },
-        {
-          "title": "As war keeps spreading, the African Union must find its teeth",
-          "link": "https://www.crisisgroup.org/opd/africa/war-keeps-spreading-african-union-must-find-its-teeth",
-          "description": "With the continental body at its weakest point since its inception, this week’s summit in Ethiopia cannot be another talk shop. A united front is crucial to resolve intensifying conflicts tearing through Africa.",
-          "pubDate": "Wednesday, February 11, 2026 - 15:04",
-          "source": "Crisis Group",
-          "lang": "en",
-          "titleIt": "As war keeps spreading, the African Union must find its teeth"
         }
       ]
     },
@@ -229,184 +202,13 @@
       "title": "Fragilità economica egiziana",
       "items": [
         {
-          "title": "Cape Verde , the FIFA World Cup 2026 team with a Moroccan Jewish history",
-          "link": "http://www.jpost.com/diaspora/article-900540",
-          "source": "jpost.com",
-          "pubDate": "2026-06-25T17:15:00Z",
+          "title": "Morocco: Morocco's Hidden History - Archaeology, DNA and Carbon Dating Rewrite the Story of the Ancient World",
+          "link": "https://allafrica.com/stories/202606260012.html",
+          "description": "[The Conversation Africa] For decades, stories about the ancient Mediterranean have centred on the grand cultures of Greece, Rome, Phoenicia and Egypt. North-west Africa seldom enters the picture before the arrival of Phoenician traders on the Moroccan coast about 3,000 years ago.",
+          "pubDate": "Fri, 26 Jun 2026 04:08:55 GMT",
+          "source": "AllAfrica",
           "lang": "en",
-          "description": "",
-          "titleIt": "Cape Verde , the FIFA World Cup 2026 team with a Moroccan Jewish history"
-        },
-        {
-          "title": "The danger of US - Iran ceasefire agreement is what it leaves out",
-          "link": "https://www.suncommercial.com/banner_graphic/news/national/article_418b8aee-88ff-5dda-ac03-2eb6b4500419.html",
-          "source": "suncommercial.com",
-          "pubDate": "2026-06-25T16:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The danger of US - Iran ceasefire agreement is what it leaves out"
-        },
-        {
-          "title": "At BRICS , Iran says US bases must go , slams blind war on global energy",
-          "link": "https://www.presstv.ir/Detail/2026/06/25/771075/Iran-s-oil-Minister--Regional-security-withdrawal-foreign-forces",
-          "source": "presstv.ir",
-          "pubDate": "2026-06-25T16:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "At BRICS , Iran says US bases must go , slams blind war on global energy"
-        },
-        {
-          "title": "Early Edition : June 25 , 2026",
-          "link": "https://www.justsecurity.org/144241/early-edition-june-25-2026/",
-          "source": "justsecurity.org",
-          "pubDate": "2026-06-25T16:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Early Edition : June 25 , 2026"
-        },
-        {
-          "title": "The danger of US - Iran ceasefire agreement is what it leaves out",
-          "link": "http://www.advocateanddemocrat.com/news/national/article_fb1f2ed1-7a2d-5500-a9bd-e2396ce4f6d1.html",
-          "source": "advocateanddemocrat.com",
-          "pubDate": "2026-06-25T16:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The danger of US - Iran ceasefire agreement is what it leaves out"
-        },
-        {
-          "title": "Economy - Business - Ahram Online",
-          "link": "https://english.ahram.org.eg/Category/3/12/Business/Egypt-launches-initiative-to-unlock-%E2%82%AC-bl.aspx",
-          "source": "english.ahram.org.eg",
-          "pubDate": "2026-06-25T16:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Economy - Business - Ahram Online"
-        },
-        {
-          "title": "Iran Petroleum Minister Paknejad meets with Union Minister Hardeep Singh Puri , discusses enhancing hydrocarbon cooperation",
-          "link": "http://www.middleeaststar.com/news/279147196/iran-petroleum-minister-paknejad-meets-with-union-minister-hardeep-singh-puri-discusses-enhancing-hydrocarbon-cooperation",
-          "source": "middleeaststar.com",
-          "pubDate": "2026-06-25T15:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Iran Petroleum Minister Paknejad meets with Union Minister Hardeep Singh Puri , discusses enhancing hydrocarbon cooperation"
-        },
-        {
-          "title": "Iran Petroleum Minister Paknejad meets with Union Minister Hardeep Singh Puri , discusses enhancing hydrocarbon cooperation",
-          "link": "http://www.heraldglobe.com/news/279147196/iran-petroleum-minister-paknejad-meets-with-union-minister-hardeep-singh-puri-discusses-enhancing-hydrocarbon-cooperation",
-          "source": "heraldglobe.com",
-          "pubDate": "2026-06-25T15:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Iran Petroleum Minister Paknejad meets with Union Minister Hardeep Singh Puri , discusses enhancing hydrocarbon cooperation"
-        },
-        {
-          "title": "Iran Petroleum Minister Paknejad meets with Union Minister Hardeep Singh Puri , discusses enhancing hydrocarbon cooperation",
-          "link": "http://www.calcuttanews.net/news/279147196/iran-petroleum-minister-paknejad-meets-with-union-minister-hardeep-singh-puri-discusses-enhancing-hydrocarbon-cooperation",
-          "source": "calcuttanews.net",
-          "pubDate": "2026-06-25T15:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Iran Petroleum Minister Paknejad meets with Union Minister Hardeep Singh Puri , discusses enhancing hydrocarbon cooperation"
-        },
-        {
-          "title": "Knowlix AI launches business platform across 29 African markets",
-          "link": "https://techcabal.com/2026/06/25/knowlix-ai-launches-operating-system-for-small-businesses/",
-          "source": "techcabal.com",
-          "pubDate": "2026-06-25T15:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Knowlix AI launches business platform across 29 African markets"
-        },
-        {
-          "title": "Iran oil minister meets Hardeep Puri at BRICS meet , discusses energy cooperation",
-          "link": "https://www.moneycontrol.com/world/iran-oil-minister-meets-hardeep-puri-at-brics-meet-discusses-energy-cooperation-article-13958968.html",
-          "source": "moneycontrol.com",
-          "pubDate": "2026-06-25T14:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Iran oil minister meets Hardeep Puri at BRICS meet , discusses energy cooperation"
-        },
-        {
-          "title": "The danger of US - Iran ceasefire agreement is what it leaves out",
-          "link": "https://www.hometownregister.com/news/national/the-danger-of-us-iran-ceasefire-agreement-is-what-it-leaves-out/article_85a1191d-8d51-52d0-9a4a-62e4f7143f7b.html",
-          "source": "hometownregister.com",
-          "pubDate": "2026-06-25T14:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The danger of US - Iran ceasefire agreement is what it leaves out"
-        },
-        {
-          "title": "Iran , India Boost Hydrocarbon Ties at BRICS Meeting",
-          "link": "https://www.newkerala.com/news/a/iran-petroleum-minister-paknejad-meets-union-minister-hardeep-869.htm",
-          "source": "newkerala.com",
-          "pubDate": "2026-06-25T11:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Iran , India Boost Hydrocarbon Ties at BRICS Meeting"
-        },
-        {
-          "title": "Major restoration of Britain Thames estuary launched with seagrass planting - Xinhua",
-          "link": "https://english.news.cn/europe/20260625/8afa40c6b1be452e9b6def5d80b9f13d/c.html",
-          "source": "english.news.cn",
-          "pubDate": "2026-06-25T11:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Major restoration of Britain Thames estuary launched with seagrass planting - Xinhua"
-        },
-        {
-          "title": "Major restoration of Britain Thames estuary launched with seagrass planting - Xinhua",
-          "link": "https://english.news.cn/20260625/83a898005bab4dd8ad50265ee338438b/c.html",
-          "source": "english.news.cn",
-          "pubDate": "2026-06-25T11:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Major restoration of Britain Thames estuary launched with seagrass planting - Xinhua"
-        },
-        {
-          "title": "Major restoration of Britain Thames estuary launched with seagrass planting",
-          "link": "http://www.bignewsnetwork.com/news/279146850/major-restoration-of-britain-thames-estuary-launched-with-seagrass-planting",
-          "source": "bignewsnetwork.com",
-          "pubDate": "2026-06-25T11:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Major restoration of Britain Thames estuary launched with seagrass planting"
-        },
-        {
-          "title": "Rise like a lion",
-          "link": "https://www.israelnationalnews.com/news/429185",
-          "source": "israelnationalnews.com",
-          "pubDate": "2026-06-25T11:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Rise like a lion"
-        },
-        {
-          "title": "APO Group - Africa Newsroom / Press release | Egypt : President El - Sisi Meets United Nations High Commissioner for Refugees Barham Salih",
-          "link": "https://www.africa-newsroom.com/press/egypt-president-elsisi-meets-united-nations-high-commissioner-for-refugees-barham-salih",
-          "source": "africa-newsroom.com",
-          "pubDate": "2026-06-25T11:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "APO Group - Africa Newsroom / Press release | Egypt : President El - Sisi Meets United Nations High Commissioner for Refugees Barham Salih"
-        },
-        {
-          "title": "Understanding The New European Union ( EU ) Migration & Asylum Pact",
-          "link": "https://www.modernghana.com/news/1505411/understanding-the-new-european-union-eu-migratio.html",
-          "source": "modernghana.com",
-          "pubDate": "2026-06-25T11:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Understanding The New European Union ( EU ) Migration & Asylum Pact"
-        },
-        {
-          "title": "Persian Gulf : Why US protection is no longer enough for the Arabs – The harsh behind - the - scenes with Iran and China",
-          "link": "https://www.bankingnews.gr/diethni/articles/884189/persian-gulf-why-us-protection-is-no-longer-enough-for-the-arabs-the-harsh-behind-the-scenes-with-iran-and-china",
-          "source": "bankingnews.gr",
-          "pubDate": "2026-06-25T11:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Persian Gulf : Why US protection is no longer enough for the Arabs – The harsh behind - the - scenes with Iran and China"
+          "titleIt": "Morocco: Morocco's Hidden History - Archaeology, DNA and Carbon Dating Rewrite the Story of the Ancient World"
         }
       ]
     },
