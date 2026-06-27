@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-27T09:34:48.356Z",
-  "feedsChecked": 8,
+  "generatedAt": "2026-06-27T15:05:43.958Z",
+  "feedsChecked": 7,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
@@ -23,30 +23,30 @@
           "source": "Africanews",
           "lang": "en",
           "titleIt": "Top Somali official deported from Kenya over suspected passport fraud"
-        },
-        {
-          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
-          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
-          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
-          "pubDate": "Saturday, May 16, 2026 - 00:08",
-          "source": "Crisis Group",
-          "lang": "en",
-          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
-        },
-        {
-          "title": "Sudan, South Sudan and Somalia: Key Peace and Security Priorities for Africa in 2026",
-          "link": "https://www.crisisgroup.org/evt/africa/sudan-south-sudan-and-somalia-key-peace-and-security-priorities-africa-2026",
-          "description": "In this online event, Crisis Group experts discussed peace and security priorities for the African continent in 2026, zooming in on Somalia, Sudan and South Sudan ahead of the African Union's summit of heads of state.&nbsp;",
-          "pubDate": "Thursday, February 12, 2026 - 16:08",
-          "source": "Crisis Group",
-          "lang": "en",
-          "titleIt": "Sudan, South Sudan and Somalia: Key Peace and Security Priorities for Africa in 2026"
         }
       ]
     },
     "somaliland": {
       "title": "Dossier Somaliland",
       "items": [
+        {
+          "title": "Kenya: NTSA Directs Owners of Vehicles Older Than 4 Years to Book Annual Inspections From July 1",
+          "link": "https://allafrica.com/stories/202606260509.html",
+          "description": "[Capital FM] Nairobi -- The National Transport and Safety Authority (NTSA) has directed owners of motor vehicles older than four years from their recorded date of manufacture to book annual inspections from July 1, as part of a broader road safety compliance regime.",
+          "pubDate": "Fri, 26 Jun 2026 16:21:34 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Kenya: NTSA Directs Owners of Vehicles Older Than 4 Years to Book Annual Inspections From July 1"
+        },
+        {
+          "title": "Kenya: NTSA to Announce Timelines for Reflectorised Stop-Sign Arms, Telematics for School Buses",
+          "link": "https://allafrica.com/stories/202606260508.html",
+          "description": "[Capital FM] Nairobi -- The National Transport and Safety Authority (NTSA) has said it will communicate enforcement timelines for mandatory reflectorised stop-sign arms and telematics systems required under the Traffic (School Transport) Rules, 2026.",
+          "pubDate": "Fri, 26 Jun 2026 16:20:40 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Kenya: NTSA to Announce Timelines for Reflectorised Stop-Sign Arms, Telematics for School Buses"
+        },
         {
           "title": "Somalia: Somalia Accedes to Fifteen International Maritime Conventions and Legal Instruments in a Historic Modernization of Its Maritime Legal Framework",
           "link": "https://allafrica.com/stories/202606260492.html",
@@ -73,120 +73,12 @@
           "source": "Africanews",
           "lang": "en",
           "titleIt": "Top Somali official deported from Kenya over suspected passport fraud"
-        },
-        {
-          "title": "Somalia: Somaliland Marks 66th Independence, Reaffirms Sovereignty",
-          "link": "https://allafrica.com/stories/202606260232.html",
-          "description": "[Horn Diplomat] Hargeisa -- Somaliland celebrated the 66th anniversary of its independence from Britain on Thursday, with President Abdirahman Mohamed Abdullahi Irro reaffirming the country's sovereignty, national unity and commitment to democratic statehood during a state ceremony in Hargeisa.",
-          "pubDate": "Fri, 26 Jun 2026 10:00:46 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Somalia: Somaliland Marks 66th Independence, Reaffirms Sovereignty"
-        },
-        {
-          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
-          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
-          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
-          "pubDate": "Saturday, May 16, 2026 - 00:08",
-          "source": "Crisis Group",
-          "lang": "en",
-          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
     "ethiopia-sea-access": {
       "title": "Accesso etiope al mare",
       "items": [
-        {
-          "title": "Beyond Borders : The Future Of The Horn Of Africa Depends On Cooperation",
-          "link": "https://www.thereporterethiopia.com/51500/",
-          "source": "thereporterethiopia.com",
-          "pubDate": "2026-06-27T08:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Beyond Borders : The Future Of The Horn Of Africa Depends On Cooperation"
-        },
-        {
-          "title": "Afreximbank Urges Focus On Intra - African Trade , Showcases Rising Payment System Adoption",
-          "link": "https://www.thereporterethiopia.com/51533/",
-          "source": "thereporterethiopia.com",
-          "pubDate": "2026-06-27T08:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Afreximbank Urges Focus On Intra - African Trade , Showcases Rising Payment System Adoption"
-        },
-        {
-          "title": "Seismic Shifts In Global Politics Beckon New Chapter For Ethiopia - Canada Ties",
-          "link": "https://www.thereporterethiopia.com/51517/",
-          "source": "thereporterethiopia.com",
-          "pubDate": "2026-06-27T08:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Seismic Shifts In Global Politics Beckon New Chapter For Ethiopia - Canada Ties"
-        },
-        {
-          "title": "Integrating Refugees : Risk Or Opportunity ? | The Reporter Ethiopia",
-          "link": "https://www.thereporterethiopia.com/51520/",
-          "source": "thereporterethiopia.com",
-          "pubDate": "2026-06-27T08:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Integrating Refugees : Risk Or Opportunity ? | The Reporter Ethiopia"
-        },
-        {
-          "title": "Fundamentally Different : AASTU President On Higher Learning , Industry 4 . 0",
-          "link": "https://www.thereporterethiopia.com/51514/",
-          "source": "thereporterethiopia.com",
-          "pubDate": "2026-06-27T08:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Fundamentally Different : AASTU President On Higher Learning , Industry 4 . 0"
-        },
-        {
-          "title": "Ethiopia Megaproject Push Leaves Legacy Of Debt And Overexpansion , Officials Concede",
-          "link": "https://www.thereporterethiopia.com/51527/",
-          "source": "thereporterethiopia.com",
-          "pubDate": "2026-06-27T08:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia Megaproject Push Leaves Legacy Of Debt And Overexpansion , Officials Concede"
-        },
-        {
-          "title": "Eritrea  Low - Cost  Destabilization Strategy Poses Serious Security Threat : Getachew Reda",
-          "link": "https://www.thereporterethiopia.com/51539/",
-          "source": "thereporterethiopia.com",
-          "pubDate": "2026-06-27T08:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Eritrea  Low - Cost  Destabilization Strategy Poses Serious Security Threat : Getachew Reda"
-        },
-        {
-          "title": "Regional Health Experts Convene to Share Knowledge and Experiences on Rising Cases of NCDs and Mental Health Across Eastern and Southern Africa",
-          "link": "https://igad.int/regional-health-experts-convene-to-share-knowledge-and-experiences-on-rising-cases-of-ncds-and-mental-health-across-eastern-and-southern-africa/",
-          "source": "igad.int",
-          "pubDate": "2026-06-26T21:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Regional Health Experts Convene to Share Knowledge and Experiences on Rising Cases of NCDs and Mental Health Across Eastern and Southern Africa"
-        },
-        {
-          "title": "Global roots , local soil - SES and RHS celebrate Culture Night",
-          "link": "https://www.hometownsource.com/sun_thisweek/free/global-roots-local-soil---ses-and-rhs-celebrate-culture-night/article_f0a39fed-a316-44d5-9514-60f104de66e9.html",
-          "source": "hometownsource.com",
-          "pubDate": "2026-06-26T21:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Global roots , local soil - SES and RHS celebrate Culture Night"
-        },
-        {
-          "title": "Today Happenings : June 26 , 2026 - South Peace News",
-          "link": "https://www.southpeacenews.com/todays-happenings-june-26-2026/",
-          "source": "southpeacenews.com",
-          "pubDate": "2026-06-26T19:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Today Happenings : June 26 , 2026 - South Peace News"
-        },
         {
           "title": "Somalia: Somalia Accedes to Fifteen International Maritime Conventions and Legal Instruments in a Historic Modernization of Its Maritime Legal Framework",
           "link": "https://allafrica.com/stories/202606260492.html",
@@ -224,64 +116,209 @@
           "titleIt": "Soccer: Nico Paz to stay at Como"
         },
         {
-          "title": "Supreme Court greenlights Trump termination of TPS for 350 , 000 Haitians , Syrians",
-          "link": "https://www.newstribune.com/news/2026/jun/26/supreme-court-greenlights-trump-termination-of/",
-          "source": "newstribune.com",
-          "pubDate": "2026-06-26T12:00:00Z",
+          "title": "Mexico Celebrates the Third “Made in Italy” Day",
+          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/06/26/mexico-celebrates-the-third-made-in-italy-day_3fae5fcf-e64c-429a-b730-a334cbe11696.html",
+          "description": "(ANSA) - CITTÀ DEL MESSICO, 25 GIU - The third edition of the National “Made in Italy” Day, titled “Italian Technological Excellence in Mexico in Strategic Sectors,” was held in the Mexican capital. The event was dedicated to highlighting the technological and industrial contributions of Italian companies in Mexico. The Italian Ambassador, Alessandro Modiano, confirmed the strength of trade ties, noting that “the main sector for Italian exports to Mexico is industrial machinery, which accounts for nearly 40% of the total.” Director Gravela highlighted the ICE Agency’s commitment to promoting I",
+          "pubDate": "Fri, 26 Jun 2026 04:58:00 +0200",
+          "source": "ANSA English",
           "lang": "en",
-          "description": "",
-          "titleIt": "Supreme Court greenlights Trump termination of TPS for 350 , 000 Haitians , Syrians"
+          "titleIt": "Mexico Celebrates the Third “Made in Italy” Day"
         },
         {
-          "title": "Global stars to join Birmingham celebration of Somali beauty and culture to  dispel negatives",
-          "link": "https://www.birminghammail.co.uk/whats-on/whats-on-news/global-stars-join-birmingham-celebration-34186835",
-          "source": "birminghammail.co.uk",
-          "pubDate": "2026-06-26T10:45:00Z",
+          "title": "EU announces up to €540 million in aid for farmers and greater CAP flexibility",
+          "link": "https://www.ansa.it/english/news/world/2026/06/25/eu-announces-up-to-540-million-in-aid-for-farmers-and-greater-cap-flexibility_81ce409c-9ebb-4151-887e-1d02a5de4ad8.html",
+          "description": "(ANSA) - ROME, JUN 25 - The European Commission has announced that up to €540 million from the CAP agricultural reserve could be mobilised to provide \"targeted and exceptional\" support to farmers affected by the conflict in the Middle East. EU member states are expected to approve the increase in available resources by the end of July. Brussels has also proposed a series of targeted CAP amendments, including a temporary liquidity scheme, greater flexibility to advance direct payments and the possibility to reprogramme funds to help farmers cope with rising fertiliser prices. Earlier this week,",
+          "pubDate": "Thu, 25 Jun 2026 12:54:31 +0200",
+          "source": "ANSA English",
           "lang": "en",
-          "description": "",
-          "titleIt": "Global stars to join Birmingham celebration of Somali beauty and culture to  dispel negatives"
-        },
-        {
-          "title": "Turkish Drones in Africa : Ankara New Power Play",
-          "link": "https://www.riotimesonline.com/turkish-drones-africa-security-2026/",
-          "source": "riotimesonline.com",
-          "pubDate": "2026-06-26T10:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Turkish Drones in Africa : Ankara New Power Play"
-        },
-        {
-          "title": "Ethiopia: Ethiopia's Digital Revolution - From Connectivity to Competitiveness",
-          "link": "https://allafrica.com/stories/202606260220.html",
-          "description": "[ENA] Across Africa, nations are embracing the digital revolution as a catalyst for economic growth, stronger governance, and greater global competitiveness. Among them, Ethiopia--long celebrated for its ancient civilization, rich cultural heritage, and strategic position in the Horn of Africa, is emerging as one of the continent's most ambitious digital transformation stories.",
-          "pubDate": "Fri, 26 Jun 2026 09:53:13 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Ethiopia: Ethiopia's Digital Revolution - From Connectivity to Competitiveness"
-        },
-        {
-          "title": "Ethiopia • Abiy Ahmed security strongmen line up against rebel threats",
-          "link": "https://www.africaintelligence.com/eastern-africa-and-the-horn/2026/06/26/abiy-ahmed-s-security-strongmen-line-up-against-rebel-threats,110830149-ar2",
-          "source": "africaintelligence.com",
-          "pubDate": "2026-06-26T06:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia • Abiy Ahmed security strongmen line up against rebel threats"
-        },
-        {
-          "title": "Africa Top 15 Agro - Exports Driving Trade Growth in 2026",
-          "link": "https://punchng.com/africas-top-15-agro-exports-driving-trade-growth/",
-          "source": "punchng.com",
-          "pubDate": "2026-06-26T04:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Africa Top 15 Agro - Exports Driving Trade Growth in 2026"
+          "titleIt": "EU announces up to €540 million in aid for farmers and greater CAP flexibility"
         }
       ]
     },
     "egypt-economy": {
       "title": "Fragilità economica egiziana",
-      "items": []
+      "items": [
+        {
+          "title": "African nations lead charge in shaping new UN global tax framework – Channel Africa",
+          "link": "https://www.channelafrica.co.za/channelafrica/news/african-nations-lead-charge-in-shaping-new-un-global-tax-framework/",
+          "source": "channelafrica.co.za",
+          "pubDate": "2026-06-27T13:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "African nations lead charge in shaping new UN global tax framework – Channel Africa"
+        },
+        {
+          "title": "Treasury Sanctions Networks Fueling Sudan Civil War and Worsening Humanitarian Crisis",
+          "link": "https://www.globalsecurity.org/military/library/news/2026/06/mil-260626-treasury01.htm",
+          "source": "globalsecurity.org",
+          "pubDate": "2026-06-27T12:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Treasury Sanctions Networks Fueling Sudan Civil War and Worsening Humanitarian Crisis"
+        },
+        {
+          "title": "From Zion Mules in 1915 to a Foreign Legion in 2026 : Mercenaries and the IDF",
+          "link": "https://www.middleeastmonitor.com/20260627-from-zion-mules-in-1915-to-a-foreign-legion-in-2026-mercenaries-and-the-idf/",
+          "source": "middleeastmonitor.com",
+          "pubDate": "2026-06-27T12:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "From Zion Mules in 1915 to a Foreign Legion in 2026 : Mercenaries and the IDF"
+        },
+        {
+          "title": "Contracts for June 26 , 2026",
+          "link": "https://www.globalsecurity.org/military/library/news/2026/06/dod-contracts_4528154.htm",
+          "source": "globalsecurity.org",
+          "pubDate": "2026-06-27T12:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Contracts for June 26 , 2026"
+        },
+        {
+          "title": "Foreign Ministry Spokesperson Guo Jiakun Regular Press Conference on June 26 , 2026",
+          "link": "https://www.globalsecurity.org/wmd/library/news/china/2026/06/china-260626-prc-mofab01.htm",
+          "source": "globalsecurity.org",
+          "pubDate": "2026-06-27T12:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Foreign Ministry Spokesperson Guo Jiakun Regular Press Conference on June 26 , 2026"
+        },
+        {
+          "title": "World Cup what to know : Round of 32 to be finalized after final 6 matches of group play",
+          "link": "https://mynorthwest.com/national/world-cup-what-to-know-round-of-32-to-be-finalized-after-final-6-matches-of-group-play/4251880",
+          "source": "mynorthwest.com",
+          "pubDate": "2026-06-27T12:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "World Cup what to know : Round of 32 to be finalized after final 6 matches of group play"
+        },
+        {
+          "title": "Tunnelling under the canal - The Middle East Observer",
+          "link": "https://meobserver.org/features/2015/08/21/tunnelling-under-the-canal/",
+          "source": "meobserver.org",
+          "pubDate": "2026-06-27T11:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Tunnelling under the canal - The Middle East Observer"
+        },
+        {
+          "title": "China Names Africa First Renminbi Clearing Bank",
+          "link": "https://www.riotimesonline.com/renminbi-clearing-bank-africa-2026/",
+          "source": "riotimesonline.com",
+          "pubDate": "2026-06-27T10:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "China Names Africa First Renminbi Clearing Bank"
+        },
+        {
+          "title": "Ethiopia New Blue Nile Dams Rattle Egypt",
+          "link": "https://www.riotimesonline.com/ethiopia-blue-nile-dams-egypt-water-2026/",
+          "source": "riotimesonline.com",
+          "pubDate": "2026-06-27T10:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia New Blue Nile Dams Rattle Egypt"
+        },
+        {
+          "title": "World Cup what to know : Round of 32 to be finalized after final 6 matches of group play",
+          "link": "https://www.clickondetroit.com/news/2026/06/26/world-cup-what-to-know-round-of-32-to-be-finalized-after-final-6-matches-of-group-play/",
+          "source": "clickondetroit.com",
+          "pubDate": "2026-06-27T10:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "World Cup what to know : Round of 32 to be finalized after final 6 matches of group play"
+        },
+        {
+          "title": "Ties of language and culture are stronger than political border : Punjabi translator Navdeep Suri",
+          "link": "https://scroll.in/article/1093625/ties-of-language-and-culture-are-stronger-than-political-borders-punjabi-translator-navdeep-suri",
+          "source": "scroll.in",
+          "pubDate": "2026-06-27T10:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ties of language and culture are stronger than political border : Punjabi translator Navdeep Suri"
+        },
+        {
+          "title": "Industry Minister announces unused land will be withdrawn and offered again to serious investors",
+          "link": "https://www.egyptindependent.com/industry-minister-announces-unused-land-will-be-withdrawn-and-offered-again-to-serious-investors/",
+          "source": "egyptindependent.com",
+          "pubDate": "2026-06-27T09:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Industry Minister announces unused land will be withdrawn and offered again to serious investors"
+        },
+        {
+          "title": "Religion plays major role in economic growth , new research finds",
+          "link": "https://www.christiantoday.com/news/religion-plays-major-role-in-economic-growth-new-research-finds",
+          "source": "christiantoday.com",
+          "pubDate": "2026-06-27T09:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Religion plays major role in economic growth , new research finds"
+        },
+        {
+          "title": "Afreximbank Urges Focus On Intra - African Trade , Showcases Rising Payment System Adoption",
+          "link": "https://www.thereporterethiopia.com/51533/",
+          "source": "thereporterethiopia.com",
+          "pubDate": "2026-06-27T08:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Afreximbank Urges Focus On Intra - African Trade , Showcases Rising Payment System Adoption"
+        },
+        {
+          "title": "Seismic Shifts In Global Politics Beckon New Chapter For Ethiopia - Canada Ties",
+          "link": "https://www.thereporterethiopia.com/51517/",
+          "source": "thereporterethiopia.com",
+          "pubDate": "2026-06-27T08:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Seismic Shifts In Global Politics Beckon New Chapter For Ethiopia - Canada Ties"
+        },
+        {
+          "title": "Mediators worked through threats and strikes to broker the US - Iran deal , and challenges remain | News , Sports , Jobs",
+          "link": "https://www.lahainanews.com/wire/?category=5041&ID=395549",
+          "source": "lahainanews.com",
+          "pubDate": "2026-06-27T07:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Mediators worked through threats and strikes to broker the US - Iran deal , and challenges remain | News , Sports , Jobs"
+        },
+        {
+          "title": "Economic recovery fuels Egypt building boom - The Middle East Observer",
+          "link": "https://meobserver.org/world/2018/12/05/economic-recovery-fuels-egypts-building-boom/",
+          "source": "meobserver.org",
+          "pubDate": "2026-06-27T06:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Economic recovery fuels Egypt building boom - The Middle East Observer"
+        },
+        {
+          "title": "Unintended consequences - Newspaper",
+          "link": "https://www.dawn.com/news/2010907",
+          "source": "dawn.com",
+          "pubDate": "2026-06-27T06:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Unintended consequences - Newspaper"
+        },
+        {
+          "title": "Celebrity chef Michael Mina shares an Alexandria - inspired steak sandwich recipe",
+          "link": "https://www.thestar.com.my/lifestyle/living/2026/06/27/celebrity-chef-michael-mina-shares-an-alexandria-inspired-steak-sandwich-recipe",
+          "source": "thestar.com.my",
+          "pubDate": "2026-06-27T05:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Celebrity chef Michael Mina shares an Alexandria - inspired steak sandwich recipe"
+        },
+        {
+          "title": "Who are the BBC pundits , commentators and presenters for Egypt vs Iran ?",
+          "link": "https://www.fourfourtwo.com/competition/who-are-the-bbc-pundits-commentators-and-presenters-for-egypt-vs-iran",
+          "source": "fourfourtwo.com",
+          "pubDate": "2026-06-27T05:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Who are the BBC pundits , commentators and presenters for Egypt vs Iran ?"
+        }
+      ]
     },
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
