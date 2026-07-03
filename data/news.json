@@ -1,11 +1,20 @@
 {
-  "generatedAt": "2026-07-03T17:05:51.634Z",
+  "generatedAt": "2026-07-03T21:50:39.463Z",
   "feedsChecked": 8,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
+        {
+          "title": "African Union peacekeeping mission in Somalia at risk amid US funding cuts",
+          "link": "http://www.africanews.com/2026/07/03/african-union-peacekeeping-mission-in-somalia-at-risk-amid-us-funding-cuts/",
+          "description": "Washington said its decision was due the government’s lack of progress in containing the al-Shabaab group or in taking ownership of its own security.",
+          "pubDate": "Fri, 03 Jul 2026 16:33:56 +0000",
+          "source": "Africanews",
+          "lang": "en",
+          "titleIt": "African Union peacekeeping mission in Somalia at risk amid US funding cuts"
+        },
         {
           "title": "Somalia: African Union Calls Emergency Meeting As U.S. Ends Somalia Army Funds",
           "link": "https://allafrica.com/stories/202607030467.html",
@@ -82,24 +91,6 @@
           "source": "Africanews",
           "lang": "en",
           "titleIt": "US to block UN funding for Somalia in blow to AU peace mission"
-        },
-        {
-          "title": "How haircuts are helping men recover at a Kenyan mental health hospital",
-          "link": "http://www.africanews.com/2026/07/01/how-haircuts-are-helping-men-recover-at-a-kenyan-mental-health-hospital/",
-          "description": "At Kenya’s largest mental health referral hospital, male patients are offered a different kind of therapy: a personal grooming session provided by two visiting barbers. Healthcare workers say personal grooming is an important aspect of recovery, as patients often lose interest in self-care.",
-          "pubDate": "Wed, 01 Jul 2026 14:48:44 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "How haircuts are helping men recover at a Kenyan mental health hospital"
-        },
-        {
-          "title": "Nigeria's Dangote refinery imports first crude oil from UAE",
-          "link": "http://www.africanews.com/2026/07/01/nigerias-dangote-refinery-imports-first-crude-oil-from-uae/",
-          "description": "Nigeria’s Dangote Petroleum Refinery has imported two cargoes of crude oil from the United Arab Emirates this month, marking its first ever purchase from a Middle Eastern supplier, S&P Global Commodity Insights reported last week.",
-          "pubDate": "Wed, 01 Jul 2026 14:08:43 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "Nigeria's Dangote refinery imports first crude oil from UAE"
         },
         {
           "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
@@ -299,188 +290,7 @@
     },
     "egypt-economy": {
       "title": "Fragilità economica egiziana",
-      "items": [
-        {
-          "title": "Egyptian Banks Raise Deposit Rates as Loan Demand Strengthens - The Middle East Observer",
-          "link": "https://meobserver.org/middle-east/egypt/2026/06/30/egyptian-banks-raise-deposit-rates-as-loan-demand-strengthens/",
-          "source": "meobserver.org",
-          "pubDate": "2026-06-30T18:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egyptian Banks Raise Deposit Rates as Loan Demand Strengthens - The Middle East Observer"
-        },
-        {
-          "title": "Bank of America : The Greek investment story is entering a more mature phase",
-          "link": "https://sofokleous10.gr/2026/06/30/bank-of-america-the-greek-investment-story-is-entering-a-more-mature-phase/",
-          "source": "sofokleous10.gr",
-          "pubDate": "2026-06-30T18:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Bank of America : The Greek investment story is entering a more mature phase"
-        },
-        {
-          "title": "Army only airborne rabbi finds his congregation wherever he lands",
-          "link": "https://jweekly.com/2026/06/30/armys-only-airborne-rabbi-finds-his-congregation-wherever-he-lands/",
-          "source": "jweekly.com",
-          "pubDate": "2026-06-30T18:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Army only airborne rabbi finds his congregation wherever he lands"
-        },
-        {
-          "title": "Cypriot natural gas could start flowing from ExxonMobil discoveries by 2033",
-          "link": "https://www.ksat.com/business/2026/06/30/cypriot-natural-gas-could-start-flowing-from-exxonmobils-discoveries-by-2033/",
-          "source": "ksat.com",
-          "pubDate": "2026-06-30T18:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Cypriot natural gas could start flowing from ExxonMobil discoveries by 2033"
-        },
-        {
-          "title": "United Oil & Gas ( LON : UOG ) Shares Up 13 . 5 % – Still a Buy ?",
-          "link": "https://www.dailypolitical.com/2026/06/30/united-oil-gas-lonuog-shares-up-13-5-still-a-buy.html",
-          "source": "dailypolitical.com",
-          "pubDate": "2026-06-30T18:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "United Oil & Gas ( LON : UOG ) Shares Up 13 . 5 % – Still a Buy ?"
-        },
-        {
-          "title": "Suez Canal Revenue Rises 23 Percent in the 2025 / 2026 Fiscal Year as Regional Tensions Ease",
-          "link": "https://egyptianstreets.com/2026/06/30/suez-canal-revenue-rises-23-percent-in-the-2025-2026-fiscal-year-as-regional-tensions-ease/",
-          "source": "egyptianstreets.com",
-          "pubDate": "2026-06-30T16:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Suez Canal Revenue Rises 23 Percent in the 2025 / 2026 Fiscal Year as Regional Tensions Ease"
-        },
-        {
-          "title": "Cypriot natural gas could start flowing from ExxonMobil discoveries by 2033",
-          "link": "https://www.clickorlando.com/business/2026/06/30/cypriot-natural-gas-could-start-flowing-from-exxonmobils-discoveries-by-2033/",
-          "source": "clickorlando.com",
-          "pubDate": "2026-06-30T16:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Cypriot natural gas could start flowing from ExxonMobil discoveries by 2033"
-        },
-        {
-          "title": "Cypriot natural gas could start flowing from ExxonMobil discoveries by 2033",
-          "link": "https://finance.yahoo.com/energy/articles/cypriot-natural-gas-could-start-113437915.html",
-          "source": "finance.yahoo.com",
-          "pubDate": "2026-06-30T16:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Cypriot natural gas could start flowing from ExxonMobil discoveries by 2033"
-        },
-        {
-          "title": "Why the world wealthy are moving to Greece : what Henley and Knight Frank reveal",
-          "link": "https://sofokleous10.gr/2026/06/30/why-the-worlds-wealthy-are-moving-to-greece-what-henley-and-knight-frank-reveal/",
-          "source": "sofokleous10.gr",
-          "pubDate": "2026-06-30T15:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Why the world wealthy are moving to Greece : what Henley and Knight Frank reveal"
-        },
-        {
-          "title": "Cypriot natural gas could start flowing from ExxonMobil discoveries by 2033",
-          "link": "https://www.news4jax.com/business/2026/06/30/cypriot-natural-gas-could-start-flowing-from-exxonmobils-discoveries-by-2033/",
-          "source": "news4jax.com",
-          "pubDate": "2026-06-30T13:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Cypriot natural gas could start flowing from ExxonMobil discoveries by 2033"
-        },
-        {
-          "title": "Cyprus declares Glaucus , Pegasus gas fields commercially viable",
-          "link": "https://en.philenews.com/insider/cyprus-glaucus-pegasus-gas-fields-commerciality-declaration/",
-          "source": "en.philenews.com",
-          "pubDate": "2026-06-30T13:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Cyprus declares Glaucus , Pegasus gas fields commercially viable"
-        },
-        {
-          "title": "Rubio hosts Saddam Haftar as US pushes Libya unity initiative",
-          "link": "https://www.middle-east-online.com/en/rubio-hosts-saddam-haftar-us-pushes-libya-unity-initiative",
-          "source": "middle-east-online.com",
-          "pubDate": "2026-06-30T13:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Rubio hosts Saddam Haftar as US pushes Libya unity initiative"
-        },
-        {
-          "title": "Damascus producers keep Syria centuries - old Qamar al - Din tradition alive",
-          "link": "https://sana.sy/en/miscellaneous/2326374/",
-          "source": "sana.sy",
-          "pubDate": "2026-06-30T13:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Damascus producers keep Syria centuries - old Qamar al - Din tradition alive"
-        },
-        {
-          "title": "On Engagement with the Syrian Diaspora",
-          "link": "https://english.aawsat.com/opinion/5290358-engagement-syrian-diaspora",
-          "source": "english.aawsat.com",
-          "pubDate": "2026-06-30T13:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "On Engagement with the Syrian Diaspora"
-        },
-        {
-          "title": "Negotiations with Israel over natural gas dispute at  very advanced stage",
-          "link": "https://cyprus-mail.com/2026/06/30/negotiations-with-israel-over-natural-gas-dispute-at-very-advanced-stage",
-          "source": "cyprus-mail.com",
-          "pubDate": "2026-06-30T13:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Negotiations with Israel over natural gas dispute at  very advanced stage"
-        },
-        {
-          "title": "AJC policy chief has front - row seat to history",
-          "link": "https://www.clevelandjewishnews.com/news/local_news/ajc-policy-chief-has-front-row-seat-to-history/article_5fec4553-0f4d-4d01-a35b-b3559e06e134.html",
-          "source": "clevelandjewishnews.com",
-          "pubDate": "2026-06-30T13:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "AJC policy chief has front - row seat to history"
-        },
-        {
-          "title": "Cypriot natural gas could start flowing from ExxonMobil discoveries by 2033",
-          "link": "http://www.bozemandailychronicle.com/ap_news/business/cypriot-natural-gas-could-start-flowing-from-exxonmobils-discoveries-by-2033/article_6e7ba77f-94c3-516b-a04c-637b4a9a4378.html",
-          "source": "bozemandailychronicle.com",
-          "pubDate": "2026-06-30T13:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Cypriot natural gas could start flowing from ExxonMobil discoveries by 2033"
-        },
-        {
-          "title": "Egypt steps up efforts to secure release of sailors on ship hijacked by pirates off Somalia",
-          "link": "https://www.thenationalnews.com/news/mena/2026/06/30/egypt-steps-up-efforts-to-secure-release-of-sailors-on-ship-hijacked-by-pirates-off-somalia/",
-          "source": "thenationalnews.com",
-          "pubDate": "2026-06-30T13:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egypt steps up efforts to secure release of sailors on ship hijacked by pirates off Somalia"
-        },
-        {
-          "title": "IMF Reaches Staff - level Deal with Egypt that Could Unlock $1 . 6 Billion",
-          "link": "https://english.aawsat.com/business/5290335-imf-reaches-staff-level-deal-egypt-could-unlock-16-billion",
-          "source": "english.aawsat.com",
-          "pubDate": "2026-06-30T12:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "IMF Reaches Staff - level Deal with Egypt that Could Unlock $1 . 6 Billion"
-        },
-        {
-          "title": "Chokepoint Hormuz : Epic Fury and Italy Mediterranean Strategy | Center for International Maritime Security",
-          "link": "https://cimsec.org/chokepoint-hormuz-epic-fury-and-italys-mediterranean-strategy/",
-          "source": "cimsec.org",
-          "pubDate": "2026-06-30T11:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Chokepoint Hormuz : Epic Fury and Italy Mediterranean Strategy | Center for International Maritime Security"
-        }
-      ]
+      "items": []
     },
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
@@ -522,15 +332,6 @@
           "titleIt": "Cairo embassy has requested pardon for Nessy Guerra says Tajani"
         },
         {
-          "title": "In Sudan's Kordofan, a key city reels as paramilitary offensive looms",
-          "link": "http://www.africanews.com/2026/07/01/in-sudans-kordofan-a-key-city-reels-as-paramilitary-offensive-looms/",
-          "description": "In a displacement camp near El-Obeid in Sudan's southern Kordofan region, Agsam Hamad trudges through searing heat to fetch murky water from a distant well, as paramilitary forces unleash their fiercest assault yet on the strategic city.",
-          "pubDate": "Wed, 01 Jul 2026 12:38:34 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "In Sudan's Kordofan, a key city reels as paramilitary offensive looms"
-        },
-        {
           "title": "Working to bring Nessy Guerra and daughter back to Italy says Tajani",
           "link": "https://www.ansa.it/english/news/general_news/2026/07/01/working-to-bring-nessy-guerra-and-daughter-back-to-italy-says-tajani_05c3b1f9-7865-42c8-9fd3-71a2e9bb6bbd.html",
           "description": "(ANSA) - ROME, JUL 1 - The government is working to make it possible for Nessy Guerra, an Italian woman currently obliged to live in Egypt with her three-year-old daughter due to a custody battle with her estranged Egyptian husband, to return to Italy, Deputy Premier and Foreign Minister Antonio Tajani said on Wednesday. Tajani commented on the case via X following his intervention to have Guerra released after she was taken from her home in Cairo overnight and held at a police station. \"Nessy Guerra has been released and has already returned home with her daughter,\" Tajani said. \"I express my",
@@ -556,6 +357,123 @@
           "source": "ANSA English",
           "lang": "en",
           "titleIt": "Italian woman released in Egypt after Tajani intervenes"
+        },
+        {
+          "title": "Ethiopia New Blue Nile Dams Rattle Egypt",
+          "link": "https://www.riotimesonline.com/ethiopia-blue-nile-dams-egypt-water-2026/",
+          "source": "riotimesonline.com",
+          "pubDate": "2026-06-27T10:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia New Blue Nile Dams Rattle Egypt"
+        },
+        {
+          "title": "Ethiopia Leap Into the Future",
+          "link": "https://allafrica.com/stories/202606250254.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-06-25T11:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia Leap Into the Future"
+        },
+        {
+          "title": "Abiy turns to Nile and Red Sea ambitions after Ethiopia election landslide",
+          "link": "https://www.zawya.com/en/economy/africa/abiy-turns-to-nile-and-red-sea-ambitions-after-ethiopia-election-landslide-lc65kwng",
+          "source": "zawya.com",
+          "pubDate": "2026-06-25T05:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Abiy turns to Nile and Red Sea ambitions after Ethiopia election landslide"
+        },
+        {
+          "title": "Africa adds 4 . 2 GW new hydropower in 2025 , only 10 % of hydropower resources being tapped",
+          "link": "https://www.engineeringnews.co.za/article/africa-adds-42-gw-new-hydropower-in-2025-only-10-of-hydropower-resources-being-tapped-2026-06-24",
+          "source": "engineeringnews.co.za",
+          "pubDate": "2026-06-24T19:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Africa adds 4 . 2 GW new hydropower in 2025 , only 10 % of hydropower resources being tapped"
+        },
+        {
+          "title": "Ethiopia Economic Reform Delivering Tangible Results Across Sectors , Says PM Abiy",
+          "link": "https://allafrica.com/stories/202606240040.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-06-24T07:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia Economic Reform Delivering Tangible Results Across Sectors , Says PM Abiy"
+        },
+        {
+          "title": "Pumped Storage Additions Lead Global Hydropower Growth",
+          "link": "https://www.powermag.com/pumped-storage-additions-lead-global-hydropower-growth/",
+          "source": "powermag.com",
+          "pubDate": "2026-06-24T04:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Pumped Storage Additions Lead Global Hydropower Growth"
+        },
+        {
+          "title": "Ethiopia PM Abiy Ahmed : From Nobel winner to war commander",
+          "link": "https://www.dw.com/en/ethiopias-pm-abiy-ahmed-from-nobel-winner-to-war-commander/a-77647920",
+          "source": "dw.com",
+          "pubDate": "2026-06-21T18:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia PM Abiy Ahmed : From Nobel winner to war commander"
+        },
+        {
+          "title": "Ethiopia Hydrogen Ambitions Face Financing Hurdle As Africa Projects Stall : IEA",
+          "link": "https://www.thereporterethiopia.com/51290/",
+          "source": "thereporterethiopia.com",
+          "pubDate": "2026-06-20T18:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia Hydrogen Ambitions Face Financing Hurdle As Africa Projects Stall : IEA"
+        },
+        {
+          "title": "Trump Pledge to Intervene : Can It Break the Deadlock in the Ethiopian Renaissance Dam Crisis ?",
+          "link": "https://english.aawsat.com/arab-world/5286082-trumps-pledge-intervene-can-it-break-deadlock-ethiopian-renaissance-dam-crisis",
+          "source": "english.aawsat.com",
+          "pubDate": "2026-06-19T14:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Trump Pledge to Intervene : Can It Break the Deadlock in the Ethiopian Renaissance Dam Crisis ?"
+        },
+        {
+          "title": "Ethiopia : Tale of Two Ethiopias",
+          "link": "https://allafrica.com/stories/202606180628.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-06-19T00:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia : Tale of Two Ethiopias"
+        },
+        {
+          "title": "Trump talks with Sisi about Grand Ethiopian Renaissance Dam",
+          "link": "https://www.egyptindependent.com/trump-talks-with-sisi-about-grand-ethiopian-renaissance-dam/",
+          "source": "egyptindependent.com",
+          "pubDate": "2026-06-18T15:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Trump talks with Sisi about Grand Ethiopian Renaissance Dam"
+        },
+        {
+          "title": "Ethiopia The Uncolonized Independent Beacon and Its Path to Prosperity",
+          "link": "https://larouchepub.com/other/2026/5324-ethiopia_the_uncolonized_indep.html",
+          "source": "larouchepub.com",
+          "pubDate": "2026-06-17T23:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia The Uncolonized Independent Beacon and Its Path to Prosperity"
+        },
+        {
+          "title": "Trump Backs Egypt in Nile Dam Row",
+          "link": "https://chimpreports.com/trump-backs-egypt-in-nile-dam-row/",
+          "source": "chimpreports.com",
+          "pubDate": "2026-06-17T17:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Trump Backs Egypt in Nile Dam Row"
         }
       ]
     }
