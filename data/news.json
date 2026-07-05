@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-05T09:49:31.950Z",
+  "generatedAt": "2026-07-05T15:03:54.176Z",
   "feedsChecked": 8,
   "feedsAttempted": 10,
   "topics": {
@@ -93,6 +93,15 @@
       "title": "Dossier Somaliland",
       "items": [
         {
+          "title": "Ethiopia: Ethiopian Honored With 'Connectivity Award' At 2026 Aviation & Tourism Ceremony",
+          "link": "https://allafrica.com/stories/202607030415.html",
+          "description": "[ENA] Addis Ababa -- Ethiopian Airlines has been honored with the prestigious 'Connectivity Award' at the 2026 Aviation & Tourism Award Ceremony hosted by Air Transport News.",
+          "pubDate": "Fri, 03 Jul 2026 15:46:08 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Ethiopia: Ethiopian Honored With 'Connectivity Award' At 2026 Aviation & Tourism Ceremony"
+        },
+        {
           "title": "Humanitarian Corridors: 27 Refugees from Ethiopia Arrive in Italy",
           "link": "https://www.ansa.it/english/news/news_from_embassies/2026/07/03/humanitarian-corridors-27-refugees-from-ethiopia-arrive-in-italy_49720f78-d083-4e65-833d-2500683c2014.html",
           "description": "(ANSA) - NAIROBI, 03 LUG - The process that enabled 27 Somali and Sudanese refugees from Ethiopia to depart for Italy—carried out through the “humanitarian corridors” program—has been successfully completed. The initiative, the result of a memorandum of understanding between the Community of Sant’Egidio, the Ministries of the Interior and of Foreign Affairs and International Cooperation, and the Italian Episcopal Conference, represents a significant example of institutional cooperation and international solidarity. The embassy, which has been collaborating with the Community of Sant’Egidio on ",
@@ -111,13 +120,157 @@
           "titleIt": "US to block UN funding for Somalia in blow to AU peace mission"
         },
         {
-          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
-          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
-          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
-          "pubDate": "Saturday, May 16, 2026 - 00:08",
-          "source": "Crisis Group",
+          "title": "They really think were that stupid : Israel rebrands scheme to ethnically cleanse Gaza of Palestinians as  Freedom of Movement Plan",
+          "link": "https://www.sott.net/article/507156-They-really-think-we-re-that-stupid-Israel-rebrands-scheme-to-ethnically-cleanse-Gaza-of-Palestinians-as-Freedom-of-Movement-Plan",
+          "source": "sott.net",
+          "pubDate": "2026-06-30T02:30:00Z",
           "lang": "en",
-          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
+          "description": "",
+          "titleIt": "They really think were that stupid : Israel rebrands scheme to ethnically cleanse Gaza of Palestinians as  Freedom of Movement Plan"
+        },
+        {
+          "title": "The EU finds itself Trumped in north Africa",
+          "link": "https://euobserver.com/224774/the-eu-finds-itself-trumped-in-north-africa/",
+          "source": "euobserver.com",
+          "pubDate": "2026-06-29T22:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The EU finds itself Trumped in north Africa"
+        },
+        {
+          "title": "Israel rebrands Gaza displacement plan amid backlash over forced transfer concerns : Report",
+          "link": "https://www.middleeastmonitor.com/20260629-israel-rebrands-gaza-displacement-plan-amid-backlash-over-forced-transfer-concerns-report/",
+          "source": "middleeastmonitor.com",
+          "pubDate": "2026-06-29T12:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Israel rebrands Gaza displacement plan amid backlash over forced transfer concerns : Report"
+        },
+        {
+          "title": "Exclusive : The Houthis Are Conducting Experiments To Improve Their Missile System",
+          "link": "https://www.i24news.tv/en/news/middle-east/the-gulf/artc-exclusive-the-houthis-are-conducting-experiments-to-improve-their-missile-system",
+          "source": "i24news.tv",
+          "pubDate": "2026-06-29T10:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Exclusive : The Houthis Are Conducting Experiments To Improve Their Missile System"
+        },
+        {
+          "title": "The New Scramble for Africa : Setting the Stage",
+          "link": "https://www.greanvillepost.com/the-new-scramble-for-africa-setting-the-stage/",
+          "source": "greanvillepost.com",
+          "pubDate": "2026-06-28T02:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The New Scramble for Africa : Setting the Stage"
+        },
+        {
+          "title": "How Regional Integration Is Actually Unfolding In Africa : The Pragmatics Of Integration And The Ethiopia – Djibouti Case",
+          "link": "https://www.eurasiareview.com/28062026-how-regional-integration-is-actually-unfolding-in-africa-the-pragmatics-of-integration-and-the-ethiopia-djibouti-case/",
+          "source": "eurasiareview.com",
+          "pubDate": "2026-06-28T00:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "How Regional Integration Is Actually Unfolding In Africa : The Pragmatics Of Integration And The Ethiopia – Djibouti Case"
+        },
+        {
+          "title": "Today Happenings : June 26 , 2026 - South Peace News",
+          "link": "https://www.southpeacenews.com/todays-happenings-june-26-2026/",
+          "source": "southpeacenews.com",
+          "pubDate": "2026-06-26T19:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Today Happenings : June 26 , 2026 - South Peace News"
+        },
+        {
+          "title": "Houthi Leader Warns Israel Over Somaliland Plan",
+          "link": "https://diplomat.so/articles/1506/Houthi-Leader-Warns-Israel-Over-Somaliland-Plan",
+          "source": "diplomat.so",
+          "pubDate": "2026-06-26T02:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Houthi Leader Warns Israel Over Somaliland Plan"
+        },
+        {
+          "title": "Somalia , federalism and Jubaland",
+          "link": "https://www.thenewhumanitarian.org/analysis/2013/04/16/somalia-federalism-and-jubaland",
+          "source": "thenewhumanitarian.org",
+          "pubDate": "2026-06-25T16:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Somalia , federalism and Jubaland"
+        },
+        {
+          "title": "Ethiopia is not being  dragged into war  | Opinions",
+          "link": "https://www.aljazeera.com/opinions/2026/6/25/ethiopia-is-not-being-dragged-into-war",
+          "source": "aljazeera.com",
+          "pubDate": "2026-06-25T07:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia is not being  dragged into war  | Opinions"
+        },
+        {
+          "title": "Abiy turns to Nile and Red Sea ambitions after Ethiopia election landslide",
+          "link": "https://www.zawya.com/en/economy/africa/abiy-turns-to-nile-and-red-sea-ambitions-after-ethiopia-election-landslide-lc65kwng",
+          "source": "zawya.com",
+          "pubDate": "2026-06-25T05:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Abiy turns to Nile and Red Sea ambitions after Ethiopia election landslide"
+        },
+        {
+          "title": "Report : Israeli forces deployed to Somaliland in covert mission after recognition of breakaway territory",
+          "link": "https://www.globalsecurity.org/military/library/news/2026/06/mil-260624-presstv02.htm",
+          "source": "globalsecurity.org",
+          "pubDate": "2026-06-24T14:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Report : Israeli forces deployed to Somaliland in covert mission after recognition of breakaway territory"
+        },
+        {
+          "title": "Speech : Seize the opportunity for decisive action in Somalia",
+          "link": "http://www.philippinetimes.com/news/279143429/speech-seize-the-opportunity-for-decisive-action-in-somalia",
+          "source": "philippinetimes.com",
+          "pubDate": "2026-06-24T02:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Speech : Seize the opportunity for decisive action in Somalia"
+        },
+        {
+          "title": "Speech : Seize the opportunity for decisive action in Somalia",
+          "link": "http://www.arabherald.com/news/279143429/speech-seize-the-opportunity-for-decisive-action-in-somalia",
+          "source": "arabherald.com",
+          "pubDate": "2026-06-23T23:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Speech : Seize the opportunity for decisive action in Somalia"
+        },
+        {
+          "title": "Speech : Seize the opportunity for decisive action in Somalia",
+          "link": "http://www.heraldglobe.com/news/279143429/speech-seize-the-opportunity-for-decisive-action-in-somalia",
+          "source": "heraldglobe.com",
+          "pubDate": "2026-06-23T22:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Speech : Seize the opportunity for decisive action in Somalia"
+        },
+        {
+          "title": "Ansarullah Official Issues Stark Warning Over Alleged Israeli Naval Presence Near Somalia",
+          "link": "https://wardheernews.com/ansarullah-official-issues-stark-warning-over-alleged-israeli-naval-presence-near-somalia/",
+          "source": "wardheernews.com",
+          "pubDate": "2026-06-23T22:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ansarullah Official Issues Stark Warning Over Alleged Israeli Naval Presence Near Somalia"
+        },
+        {
+          "title": "Speech : Seize the opportunity for decisive action in Somalia",
+          "link": "http://www.africaleader.com/news/279143429/speech-seize-the-opportunity-for-decisive-action-in-somalia",
+          "source": "africaleader.com",
+          "pubDate": "2026-06-23T21:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Speech : Seize the opportunity for decisive action in Somalia"
         }
       ]
     },
@@ -132,6 +285,15 @@
           "lang": "en",
           "description": "",
           "titleIt": "Dangote to Build Port and Power Plant in Tanzania"
+        },
+        {
+          "title": "Ethiopia: Ethiopian Honored With 'Connectivity Award' At 2026 Aviation & Tourism Ceremony",
+          "link": "https://allafrica.com/stories/202607030415.html",
+          "description": "[ENA] Addis Ababa -- Ethiopian Airlines has been honored with the prestigious 'Connectivity Award' at the 2026 Aviation & Tourism Award Ceremony hosted by Air Transport News.",
+          "pubDate": "Fri, 03 Jul 2026 15:46:08 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Ethiopia: Ethiopian Honored With 'Connectivity Award' At 2026 Aviation & Tourism Ceremony"
         },
         {
           "title": "Humanitarian Corridors: 27 Refugees from Ethiopia Arrive in Italy",
@@ -294,15 +456,6 @@
           "lang": "en",
           "description": "",
           "titleIt": "How Global Scammers Use US Tech To Fleece People Worldwide"
-        },
-        {
-          "title": "Four days to make victims fall in love : How global scammers use US tech to fleece people",
-          "link": "http://www.reflector.com/news/national/four-days-to-make-victims-fall-in-love-how-global-scammers-use-us-tech-to/article_9f6d3c94-5ec8-557b-989a-7e2fd8ab04a8.html",
-          "source": "reflector.com",
-          "pubDate": "2026-06-30T09:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Four days to make victims fall in love : How global scammers use US tech to fleece people"
         }
       ]
     },
@@ -310,184 +463,13 @@
       "title": "Fragilità economica egiziana",
       "items": [
         {
-          "title": "India to host BRICS Heads of Anti - Drug Agencies meet in Assam from tomorrow",
-          "link": "https://www.prokerala.com/news/articles/a1784006.html",
-          "source": "prokerala.com",
-          "pubDate": "2026-07-05T08:45:00Z",
+          "title": "Egypt says it is expecting a further $1.7 billion from Europe within days",
+          "link": "http://www.africanews.com/2026/07/05/egypt-says-it-is-expecting-a-further-17-billion-from-europe-within-days/",
+          "description": "It is part a $5.7 billion EU macro-financial assistance package within the framework of Europe’s strategy to stabilise Egypt's economy.",
+          "pubDate": "Sun, 05 Jul 2026 14:32:21 +0000",
+          "source": "Africanews",
           "lang": "en",
-          "description": "",
-          "titleIt": "India to host BRICS Heads of Anti - Drug Agencies meet in Assam from tomorrow"
-        },
-        {
-          "title": "Yusuf Meherally : The Young Mayor Who Gave India the Slogan  Quit India",
-          "link": "https://countercurrents.org/2026/07/yusuf-meherally-the-young-mayor-who-gave-india-the-slogan-quit-india/",
-          "source": "countercurrents.org",
-          "pubDate": "2026-07-05T08:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Yusuf Meherally : The Young Mayor Who Gave India the Slogan  Quit India"
-        },
-        {
-          "title": "ICYMI # TheTribuneOpinion : Punjab needs a statesman with the capacity to absorb public hatred",
-          "link": "https://www.tribuneindia.com/news/comment/icymithetribuneopinion-punjab-needs-a-statesman-with-the-capacity-to-absorb-public-hatred/",
-          "source": "tribuneindia.com",
-          "pubDate": "2026-07-05T08:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "ICYMI # TheTribuneOpinion : Punjab needs a statesman with the capacity to absorb public hatred"
-        },
-        {
-          "title": "India to host BRICS Heads of Anti - Drug Agencies meet in Assam from tomorrow",
-          "link": "https://ianslive.in/india-to-host-brics-heads-of-anti-drug-agencies-meet-in-assam-from-tomorrow--20260705125208",
-          "source": "ianslive.in",
-          "pubDate": "2026-07-05T08:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "India to host BRICS Heads of Anti - Drug Agencies meet in Assam from tomorrow"
-        },
-        {
-          "title": "Egypt finds 2 , 000 - year - old coastal tombs and desert Byzantine city",
-          "link": "https://www.bssnews.net/international/402595",
-          "source": "bssnews.net",
-          "pubDate": "2026-07-05T07:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egypt finds 2 , 000 - year - old coastal tombs and desert Byzantine city"
-        },
-        {
-          "title": "India Hosts BRICS Women Working Group Meet In Kochi To Boost Women - Led Development",
-          "link": "https://www.freepressjournal.in/india/india-hosts-brics-women-working-group-meet-in-kochi-to-boost-women-led-development",
-          "source": "freepressjournal.in",
-          "pubDate": "2026-07-05T07:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "India Hosts BRICS Women Working Group Meet In Kochi To Boost Women - Led Development"
-        },
-        {
-          "title": "We need bases in Cyprus not their sovereignty",
-          "link": "https://cyprus-mail.com/2026/07/05/we-need-bases-in-cyprus-not-their-sovereignty",
-          "source": "cyprus-mail.com",
-          "pubDate": "2026-07-05T06:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "We need bases in Cyprus not their sovereignty"
-        },
-        {
-          "title": "Tales from the Coffeeshop : Why did govt miss chance to laud Cyprus role ?",
-          "link": "https://cyprus-mail.com/2026/07/05/tales-from-the-coffeeshop-why-did-govt-miss-chance-to-laud-cyprus-role",
-          "source": "cyprus-mail.com",
-          "pubDate": "2026-07-05T06:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Tales from the Coffeeshop : Why did govt miss chance to laud Cyprus role ?"
-        },
-        {
-          "title": "Egypt expects €1 . 5 billion EU financial support in coming days",
-          "link": "https://www.azernews.az/region/260641.html",
-          "source": "azernews.az",
-          "pubDate": "2026-07-05T05:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egypt expects €1 . 5 billion EU financial support in coming days"
-        },
-        {
-          "title": "BRICS meet in India to advance women - led development",
-          "link": "https://ianslive.in/brics-meet-in-india-to-advance-women-led-development--20260705103612",
-          "source": "ianslive.in",
-          "pubDate": "2026-07-05T05:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "BRICS meet in India to advance women - led development"
-        },
-        {
-          "title": "World Cup what to know : Co - host Mexico seeks to reach quarterfinals for first time in 40 years - Las Vegas Sun News",
-          "link": "https://lasvegassun.com/news/2026/jul/04/world-cup-what-to-know-co-host-mexico-seeks-to-rea/",
-          "source": "lasvegassun.com",
-          "pubDate": "2026-07-05T04:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "World Cup what to know : Co - host Mexico seeks to reach quarterfinals for first time in 40 years - Las Vegas Sun News"
-        },
-        {
-          "title": "Iranian FM Araghchi expresses gratitude to over 70 nations for attending Khamenei funeral",
-          "link": "http://www.shanghaisun.com/news/279167321/iranian-fm-araghchi-expresses-gratitude-to-over-70-nations-for-attending-khamenei-funeral",
-          "source": "shanghaisun.com",
-          "pubDate": "2026-07-05T04:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Iranian FM Araghchi expresses gratitude to over 70 nations for attending Khamenei funeral"
-        },
-        {
-          "title": "Iran Thanks Over 70 Countries for Attending Khamenei Funeral",
-          "link": "https://www.deccanchronicle.com/west-asia/iran-thanks-over-70-countries-for-attending-khameneis-funeral-1968497",
-          "source": "deccanchronicle.com",
-          "pubDate": "2026-07-05T03:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Iran Thanks Over 70 Countries for Attending Khamenei Funeral"
-        },
-        {
-          "title": "Iranian FM Araghchi expresses gratitude to over 70 nations for attending Khamenei funeral",
-          "link": "http://www.arabherald.com/news/279167321/iranian-fm-araghchi-expresses-gratitude-to-over-70-nations-for-attending-khamenei-funeral",
-          "source": "arabherald.com",
-          "pubDate": "2026-07-05T02:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Iranian FM Araghchi expresses gratitude to over 70 nations for attending Khamenei funeral"
-        },
-        {
-          "title": "Egypt uncovers lost Byzantine - era city in the western desert",
-          "link": "https://www.vaildaily.com/news/egypt-uncovers-lost-byzantine-era-city-in-the-western-desert/",
-          "source": "vaildaily.com",
-          "pubDate": "2026-07-05T02:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egypt uncovers lost Byzantine - era city in the western desert"
-        },
-        {
-          "title": "Iranian FM Araghchi expresses gratitude to over 70 nations for attending Khamenei funeral",
-          "link": "http://www.iraqsun.com/news/279167321/iranian-fm-araghchi-expresses-gratitude-to-over-70-nations-for-attending-khamenei-funeral",
-          "source": "iraqsun.com",
-          "pubDate": "2026-07-05T02:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Iranian FM Araghchi expresses gratitude to over 70 nations for attending Khamenei funeral"
-        },
-        {
-          "title": "Iranian FM Araghchi expresses gratitude to over 70 nations for attending Khamenei funeral",
-          "link": "http://www.africaleader.com/news/279167321/iranian-fm-araghchi-expresses-gratitude-to-over-70-nations-for-attending-khamenei-funeral",
-          "source": "africaleader.com",
-          "pubDate": "2026-07-05T01:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Iranian FM Araghchi expresses gratitude to over 70 nations for attending Khamenei funeral"
-        },
-        {
-          "title": "Iranian FM Araghchi expresses gratitude to over 70 nations for attending Khamenei funeral",
-          "link": "http://www.newyorkstatesman.com/news/279167321/iranian-fm-araghchi-expresses-gratitude-to-over-70-nations-for-attending-khamenei-funeral",
-          "source": "newyorkstatesman.com",
-          "pubDate": "2026-07-05T01:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Iranian FM Araghchi expresses gratitude to over 70 nations for attending Khamenei funeral"
-        },
-        {
-          "title": "America as Babylon : The City of Sin and Empire",
-          "link": "https://www.globalsecurity.org/military/world/usa/government/america-babylon.htm",
-          "source": "globalsecurity.org",
-          "pubDate": "2026-07-05T01:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "America as Babylon : The City of Sin and Empire"
-        },
-        {
-          "title": "Iranian FM Araghchi expresses gratitude to over 70 nations for attending Khamenei funeral",
-          "link": "https://news.webindia123.com/news/Articles/World/20260705/4471211.html",
-          "source": "news.webindia123.com",
-          "pubDate": "2026-07-05T01:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Iranian FM Araghchi expresses gratitude to over 70 nations for attending Khamenei funeral"
+          "titleIt": "Egypt says it is expecting a further $1.7 billion from Europe within days"
         }
       ]
     },
