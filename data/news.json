@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-06T21:03:39.269Z",
+  "generatedAt": "2026-07-07T10:39:01.320Z",
   "feedsChecked": 8,
   "feedsAttempted": 10,
   "topics": {
@@ -7,13 +7,13 @@
       "title": "Accordi Egitto-Somalia",
       "items": [
         {
-          "title": "Somalia: Somalia's Intelligence Agency Arrests Two Suspects Over Illegal Weapons",
-          "link": "https://allafrica.com/stories/202607060720.html",
-          "description": "[Shabelle] Mogadishu -- Somalia's National Intelligence and Security Agency (NISA) said on Monday it had arrested two men in the central Galgaduud region and transferred them to Mogadishu to face prosecution over alleged illegal possession of firearms.",
-          "pubDate": "Mon, 06 Jul 2026 16:14:49 GMT",
+          "title": "Egypt: Refugees, Asylum Seekers Arrested, Deported",
+          "link": "https://allafrica.com/stories/202607070084.html",
+          "description": "[HRW] Amend New Asylum Law in Line with International Standards",
+          "pubDate": "Tue, 07 Jul 2026 07:09:36 GMT",
           "source": "AllAfrica",
           "lang": "en",
-          "titleIt": "Somalia: Somalia's Intelligence Agency Arrests Two Suspects Over Illegal Weapons"
+          "titleIt": "Egypt: Refugees, Asylum Seekers Arrested, Deported"
         },
         {
           "title": "Somalia: A Report Warns Somalia Security Deteriorating Amid Political Divisions",
@@ -23,15 +23,6 @@
           "source": "AllAfrica",
           "lang": "en",
           "titleIt": "Somalia: A Report Warns Somalia Security Deteriorating Amid Political Divisions"
-        },
-        {
-          "title": "Somalia: Mogadishu Port Chief Visits Seattle to Strengthen Institutional Cooperation",
-          "link": "https://allafrica.com/stories/202607060315.html",
-          "description": "[Shabelle] Mogadishu -- The Director General of the Port of Mogadishu, Ambassador Mohamed Ali Nur, widely known as \"Ameriko\", visited the city of SeaTac in the U.S. state of Washington on Monday as part of an official trip aimed at strengthening institutional ties and expanding cooperation.",
-          "pubDate": "Mon, 06 Jul 2026 10:37:05 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Somalia: Mogadishu Port Chief Visits Seattle to Strengthen Institutional Cooperation"
         },
         {
           "title": "Ambassador Tommasi Leaves Sudan: ‘Compromises Necessary for Lasting Peace’",
@@ -102,6 +93,15 @@
       "title": "Dossier Somaliland",
       "items": [
         {
+          "title": "Kenya: Police Tighten Nairobi Security With Checkpoints Ahead of Defiant Saba Saba Protests",
+          "link": "https://allafrica.com/stories/202607070044.html",
+          "description": "[Capital FM] Nairobi -- Police will mount enhanced checkpoints across Nairobi on Tuesday in a major security operation ahead of planned Saba Saba demonstrations, even as activists insist they will proceed with the protests despite warnings that any gathering will be treated as unlawful.",
+          "pubDate": "Tue, 07 Jul 2026 05:14:09 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Kenya: Police Tighten Nairobi Security With Checkpoints Ahead of Defiant Saba Saba Protests"
+        },
+        {
           "title": "Somalia: A Report Warns Somalia Security Deteriorating Amid Political Divisions",
           "link": "https://allafrica.com/stories/202607060694.html",
           "description": "[Shabelle] Mogadishu -- The European Union's asylum agency has warned that Somalia's security situation has significantly worsened, citing deepening political divisions and growing instability that have allowed the Al-Shabaab militant group to expand its influence.",
@@ -109,15 +109,6 @@
           "source": "AllAfrica",
           "lang": "en",
           "titleIt": "Somalia: A Report Warns Somalia Security Deteriorating Amid Political Divisions"
-        },
-        {
-          "title": "Somalia: Mogadishu Port Chief Visits Seattle to Strengthen Institutional Cooperation",
-          "link": "https://allafrica.com/stories/202607060315.html",
-          "description": "[Shabelle] Mogadishu -- The Director General of the Port of Mogadishu, Ambassador Mohamed Ali Nur, widely known as \"Ameriko\", visited the city of SeaTac in the U.S. state of Washington on Monday as part of an official trip aimed at strengthening institutional ties and expanding cooperation.",
-          "pubDate": "Mon, 06 Jul 2026 10:37:05 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Somalia: Mogadishu Port Chief Visits Seattle to Strengthen Institutional Cooperation"
         },
         {
           "title": "OPEC+ boosts oil production as Gulf exports recover",
@@ -161,6 +152,78 @@
       "title": "Accesso etiope al mare",
       "items": [
         {
+          "title": "China , Brazil and African agriculture : what has changed ?",
+          "link": "https://www.thezimbabwean.co/2026/07/china-brazil-and-african-agriculture-what-has-changed/",
+          "source": "thezimbabwean.co",
+          "pubDate": "2026-07-07T06:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "China , Brazil and African agriculture : what has changed ?"
+        },
+        {
+          "title": "Africa : UN Maritime Agency Seeks Release of 44 Detained Seafarers As Food Runs Low",
+          "link": "https://allafrica.com/stories/202607070013.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-07-07T06:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Africa : UN Maritime Agency Seeks Release of 44 Detained Seafarers As Food Runs Low"
+        },
+        {
+          "title": "Egypt Arrests , Deports Refugees and Asylum Seekers",
+          "link": "https://www.miragenews.com/egypt-arrests-deports-refugees-and-asylum-1705724/",
+          "source": "miragenews.com",
+          "pubDate": "2026-07-07T04:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt Arrests , Deports Refugees and Asylum Seekers"
+        },
+        {
+          "title": "UN maritime agency seeks release of 44 detained seafarers as food runs low",
+          "link": "https://www.globalissues.org/news/2026/07/06/43500",
+          "source": "globalissues.org",
+          "pubDate": "2026-07-06T20:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "UN maritime agency seeks release of 44 detained seafarers as food runs low"
+        },
+        {
+          "title": "APO Group - Africa Newsroom / Press release | World leaders and leaders of international organisations come together to congratulate Seychelles on the occasion of its 50th anniversary of its Independence",
+          "link": "https://www.africa-newsroom.com/press/world-leaders-and-leaders-of-international-organisations-come-together-to-congratulate-seychelles-on-the-occasion-of-its-50th-anniversary-of-its-independence",
+          "source": "africa-newsroom.com",
+          "pubDate": "2026-07-06T20:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "APO Group - Africa Newsroom / Press release | World leaders and leaders of international organisations come together to congratulate Seychelles on the occasion of its 50th anniversary of its Independence"
+        },
+        {
+          "title": "Africa Emerges As The World Sesame Powerhouse As Nigeria Eyes Bigger Export Windfall",
+          "link": "https://naija247news.com/africa-emerges-as-the-worlds-sesame-powerhouse-as-nigeria-eyes-bigger-export-windfall/",
+          "source": "naija247news.com",
+          "pubDate": "2026-07-06T20:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Africa Emerges As The World Sesame Powerhouse As Nigeria Eyes Bigger Export Windfall"
+        },
+        {
+          "title": "Can Lamu Port sustain its Gulf conflict windfall ?",
+          "link": "https://www.zawya.com/en/economy/africa/can-lamu-port-sustain-its-gulf-conflict-windfall-hcnii0w7",
+          "source": "zawya.com",
+          "pubDate": "2026-07-06T16:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Can Lamu Port sustain its Gulf conflict windfall ?"
+        },
+        {
+          "title": "BRICS will focus on drug problem , says Charge d  Affaires Ethiopia to India",
+          "link": "http://www.africaleader.com/news/279170315/brics-will-focus-on-drug-problem-says-charge-d-affaires-ethiopia-to-india",
+          "source": "africaleader.com",
+          "pubDate": "2026-07-06T16:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "BRICS will focus on drug problem , says Charge d  Affaires Ethiopia to India"
+        },
+        {
           "title": "Somalia: A Report Warns Somalia Security Deteriorating Amid Political Divisions",
           "link": "https://allafrica.com/stories/202607060694.html",
           "description": "[Shabelle] Mogadishu -- The European Union's asylum agency has warned that Somalia's security situation has significantly worsened, citing deepening political divisions and growing instability that have allowed the Al-Shabaab militant group to expand its influence.",
@@ -168,6 +231,51 @@
           "source": "AllAfrica",
           "lang": "en",
           "titleIt": "Somalia: A Report Warns Somalia Security Deteriorating Amid Political Divisions"
+        },
+        {
+          "title": "BRICS will focus on drug problem , says Charge d  Affaires Ethiopia to India",
+          "link": "http://www.calcuttanews.net/news/279170315/brics-will-focus-on-drug-problem-says-charge-d-affaires-ethiopia-to-india",
+          "source": "calcuttanews.net",
+          "pubDate": "2026-07-06T14:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "BRICS will focus on drug problem , says Charge d  Affaires Ethiopia to India"
+        },
+        {
+          "title": "BRICS will focus on drug problem , says Charge d  Affaires Ethiopia to India",
+          "link": "http://www.nigeriasun.com/news/279170315/brics-will-focus-on-drug-problem-says-charge-d-affaires-ethiopia-to-india",
+          "source": "nigeriasun.com",
+          "pubDate": "2026-07-06T14:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "BRICS will focus on drug problem , says Charge d  Affaires Ethiopia to India"
+        },
+        {
+          "title": "BRICS will focus on drug problem , says Charge d  Affaires Ethiopia to India",
+          "link": "http://www.zimbabwestar.com/news/279170315/brics-will-focus-on-drug-problem-says-charge-d-affaires-ethiopia-to-india",
+          "source": "zimbabwestar.com",
+          "pubDate": "2026-07-06T13:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "BRICS will focus on drug problem , says Charge d  Affaires Ethiopia to India"
+        },
+        {
+          "title": "BRICS will focus on drug problem , says Charge d  Affaires Ethiopia to India",
+          "link": "http://www.bignewsnetwork.com/news/279170315/brics-will-focus-on-drug-problem-says-charge-d-affaires-ethiopia-to-india",
+          "source": "bignewsnetwork.com",
+          "pubDate": "2026-07-06T13:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "BRICS will focus on drug problem , says Charge d  Affaires Ethiopia to India"
+        },
+        {
+          "title": "BRICS will focus on drug problem , says Charge d  Affaires Ethiopia to India",
+          "link": "http://www.vietnamtribune.com/news/279170315/brics-will-focus-on-drug-problem-says-charge-d-affaires-ethiopia-to-india",
+          "source": "vietnamtribune.com",
+          "pubDate": "2026-07-06T13:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "BRICS will focus on drug problem , says Charge d  Affaires Ethiopia to India"
         },
         {
           "title": "Woman describes 'ordeal' after ECHR reverses Italy 'sexist verdict'",
@@ -179,6 +287,15 @@
           "titleIt": "Woman describes 'ordeal' after ECHR reverses Italy 'sexist verdict'"
         },
         {
+          "title": "India proposes dedicated BRICS Virtual Working Group to combat drug trafficking",
+          "link": "https://economictimes.indiatimes.com/news/india/india-proposes-dedicated-brics-virtual-working-group-to-combat-drug-trafficking/articleshow/132216355.cms",
+          "source": "economictimes.indiatimes.com",
+          "pubDate": "2026-07-06T12:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "India proposes dedicated BRICS Virtual Working Group to combat drug trafficking"
+        },
+        {
           "title": "Woman describes 'ordeal' after ECHR reverses Italy 'sexist verdict'",
           "link": "https://www.ansa.it/english/news/2026/07/06/woman-describes-ordeal-after-echr-reverses-italy-sexist-verdict_4dde63bc-403f-46d6-b78c-cd57ea899e43.html",
           "description": "(ANSA) - ROME, JUL 6 - A woman who was awarded damages after the European Court of Human Rights quashed what it called a \"sexist and stereotypical\" verdict\" acquitting her sexually abusive husband because \"it's normal for a man to overcome a woman's resistance\" before sex told an Italian daily Monday that she had been through an \"ordeal\" since she reported the domestic rape in 2021. \"Justice has finally been done. It doesn't seem real after so long. I went through an ordeal,\" Audrey Ubeda, now 42, said in an interview with la Repubblica, after the ECHR ruled in her favour, ordering Italy to co",
@@ -188,13 +305,13 @@
           "titleIt": "Woman describes 'ordeal' after ECHR reverses Italy 'sexist verdict'"
         },
         {
-          "title": "Somalia: Mogadishu Port Chief Visits Seattle to Strengthen Institutional Cooperation",
-          "link": "https://allafrica.com/stories/202607060315.html",
-          "description": "[Shabelle] Mogadishu -- The Director General of the Port of Mogadishu, Ambassador Mohamed Ali Nur, widely known as \"Ameriko\", visited the city of SeaTac in the U.S. state of Washington on Monday as part of an official trip aimed at strengthening institutional ties and expanding cooperation.",
-          "pubDate": "Mon, 06 Jul 2026 10:37:05 GMT",
-          "source": "AllAfrica",
+          "title": "Beyond Infrastructure : How China Growing Educational Influence Is Reshaping Ghana Future – Ghanamma . com",
+          "link": "https://www.ghanamma.com/2026/07/06/beyond-infrastructure-how-chinas-growing-educational-influence-is-reshaping-ghanas-future/",
+          "source": "ghanamma.com",
+          "pubDate": "2026-07-06T11:00:00Z",
           "lang": "en",
-          "titleIt": "Somalia: Mogadishu Port Chief Visits Seattle to Strengthen Institutional Cooperation"
+          "description": "",
+          "titleIt": "Beyond Infrastructure : How China Growing Educational Influence Is Reshaping Ghana Future – Ghanamma . com"
         },
         {
           "title": "OPEC+ boosts oil production as Gulf exports recover",
@@ -206,58 +323,13 @@
           "titleIt": "OPEC+ boosts oil production as Gulf exports recover"
         },
         {
-          "title": "Humanitarian Corridors: 27 Refugees from Ethiopia Arrive in Italy",
-          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/07/03/humanitarian-corridors-27-refugees-from-ethiopia-arrive-in-italy_49720f78-d083-4e65-833d-2500683c2014.html",
-          "description": "(ANSA) - NAIROBI, 03 LUG - The process that enabled 27 Somali and Sudanese refugees from Ethiopia to depart for Italy—carried out through the “humanitarian corridors” program—has been successfully completed. The initiative, the result of a memorandum of understanding between the Community of Sant’Egidio, the Ministries of the Interior and of Foreign Affairs and International Cooperation, and the Italian Episcopal Conference, represents a significant example of institutional cooperation and international solidarity. The embassy, which has been collaborating with the Community of Sant’Egidio on ",
-          "pubDate": "Fri, 3 Jul 2026 16:24:51 +0200",
-          "source": "ANSA English",
+          "title": "Ethiopia : Will Abiy Ahmed Be Ethiopia Bismarck or Its Mandela ?",
+          "link": "https://allafrica.com/stories/202607060020.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-07-06T09:45:00Z",
           "lang": "en",
-          "titleIt": "Humanitarian Corridors: 27 Refugees from Ethiopia Arrive in Italy"
-        },
-        {
-          "title": "US to block UN funding for Somalia in blow to AU peace mission",
-          "link": "http://www.africanews.com/2026/07/03/us-to-block-un-funding-for-somalia-in-blow-to-au-peace-mission/",
-          "description": "In a diplomatic note to the African Union seen by Reuters, the US has vowed to block any spending of UN funds on the AU Support ​and Stabilisation Mission in Somalia (AUSSOM).",
-          "pubDate": "Fri, 03 Jul 2026 12:35:23 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "US to block UN funding for Somalia in blow to AU peace mission"
-        },
-        {
-          "title": "US-Italy ties excellent, Trump and Meloni have long-standing relationship - Fertitta",
-          "link": "https://www.ansa.it/english/news/2026/07/02/us-italy-ties-excellent-trump-and-meloni-have-long-standing-relationship_a80196f7-33c0-49f0-a478-9000adde2c61.html",
-          "description": "(ANSA) - ROME, JUL 2 - US-Italy relations are excellent and leaders Donald Trump and Giorgia Meloni have a long-standing relationship, Us Ambassador to Rome Tilman J. Fertitta said after recent strains over the Iran war and the American president's claim the Italian premier begged for a photo at the G7 summit in France. \"I would say relations between the US and Italy are excellent,\" Fertitta said, responding to reporters at the reception celebrating the 250th anniversary of US independence at Villa Taverna. \"I deal with everyone every day, from the prime minister on down, and we collaborate on",
-          "pubDate": "Thu, 2 Jul 2026 19:13:52 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "US-Italy ties excellent, Trump and Meloni have long-standing relationship - Fertitta"
-        },
-        {
-          "title": "US-Italy ties excellent, Trump and Meloni have long-standing relationship - Fertitta",
-          "link": "https://www.ansa.it/english/news/world/2026/07/02/us-italy-ties-excellent-trump-and-meloni-have-long-standing-relationship_e1d087a0-dc30-4a5c-a8fb-a3febff55ca7.html",
-          "description": "(ANSA) - ROME, JUL 2 - US-Italy relations are excellent and leaders Donald Trump and Giorgia Meloni have a long-standing relationship, Us Ambassador to Rome Tilman J. Fertitta said after recent strains over the Iran war and the American president's claim the Italian premier begged for a photo at the G7 summit in France. \"I would say relations between the US and Italy are excellent,\" Fertitta said, responding to reporters at the reception celebrating the 250th anniversary of US independence at Villa Taverna. \"I deal with everyone every day, from the prime minister on down, and we collaborate on",
-          "pubDate": "Thu, 2 Jul 2026 19:13:50 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "US-Italy ties excellent, Trump and Meloni have long-standing relationship - Fertitta"
-        },
-        {
-          "title": "Ambassador Nicoletti’s Mission to the Argentine Province of Catamarca",
-          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/07/01/ambassador-nicolettis-mission-to-the-argentine-province-of-catamarca_032b468d-d754-4b85-87cb-7daf1a6080c3.html",
-          "description": "(ANSA) - BUENOS AIRES, 01 LUG - The Italian Ambassador to Argentina, Fabrizio Nicoletti, undertook an institutional mission to the Province of Catamarca on June 29 and 30, with the aim of consolidating dialogue with provincial and municipal authorities and strengthening ties with the historic Italian community in the region. According to a press release, the visit represented an important opportunity to explore opportunities for collaboration between Italy and Catamarca in strategic sectors such as the mining industry, technological innovation, and sustainability. The mission began with a work",
-          "pubDate": "Wed, 1 Jul 2026 18:57:33 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "Ambassador Nicoletti’s Mission to the Argentine Province of Catamarca"
-        },
-        {
-          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
-          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
-          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
-          "pubDate": "Saturday, May 16, 2026 - 00:08",
-          "source": "Crisis Group",
-          "lang": "en",
-          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
+          "description": "",
+          "titleIt": "Ethiopia : Will Abiy Ahmed Be Ethiopia Bismarck or Its Mandela ?"
         }
       ]
     },
@@ -265,13 +337,184 @@
       "title": "Fragilità economica egiziana",
       "items": [
         {
-          "title": "Egypt says it is expecting a further $1.7 billion from Europe within days",
-          "link": "http://www.africanews.com/2026/07/05/egypt-says-it-is-expecting-a-further-17-billion-from-europe-within-days/",
-          "description": "It is part a $5.7 billion EU macro-financial assistance package within the framework of Europe’s strategy to stabilise Egypt's economy.",
-          "pubDate": "Sun, 05 Jul 2026 14:32:21 +0000",
-          "source": "Africanews",
+          "title": "Turkey and future threats",
+          "link": "https://www.clevelandjewishnews.com/jns/turkey-and-future-threats/article_ddc5cfe8-4862-5cc8-bce2-29995a8cb887.html",
+          "source": "clevelandjewishnews.com",
+          "pubDate": "2026-07-07T10:00:00Z",
           "lang": "en",
-          "titleIt": "Egypt says it is expecting a further $1.7 billion from Europe within days"
+          "description": "",
+          "titleIt": "Turkey and future threats"
+        },
+        {
+          "title": "Israel Steps Up Mediterranean Gas Search",
+          "link": "https://www.oedigital.com/news/540970-israel-steps-up-mediterranean-gas-search",
+          "source": "oedigital.com",
+          "pubDate": "2026-07-07T10:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Israel Steps Up Mediterranean Gas Search"
+        },
+        {
+          "title": "ADNOC Distribution enters into definitive agreement to acquire Shell Downstream South Africa",
+          "link": "http://www.nigeriasun.com/news/279171894/adnoc-distribution-enters-into-definitive-agreement-to-acquire-shell-downstream-south-africa",
+          "source": "nigeriasun.com",
+          "pubDate": "2026-07-07T09:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "ADNOC Distribution enters into definitive agreement to acquire Shell Downstream South Africa"
+        },
+        {
+          "title": "Tuesday briefing : What challenges would Ed Miliband face as chancellor ?",
+          "link": "https://www.theguardian.com/world/2026/jul/07/tuesday-briefing-first-edition-ed-miliband-next-chancellor",
+          "source": "theguardian.com",
+          "pubDate": "2026-07-07T09:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Tuesday briefing : What challenges would Ed Miliband face as chancellor ?"
+        },
+        {
+          "title": "BRICS alternatives to dollar no longer a  fantasy , economist ONeill says",
+          "link": "https://www.cnbcafrica.com/2026/brics-alternatives-to-dollar-no-longer-a-fantasy-economist-oneill-says",
+          "source": "cnbcafrica.com",
+          "pubDate": "2026-07-07T08:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "BRICS alternatives to dollar no longer a  fantasy , economist ONeill says"
+        },
+        {
+          "title": "ADNOC Distribution to buy Shell downstream South Africa business",
+          "link": "https://www.cnbcafrica.com/2026/adnoc-distribution-to-buy-shells-downstream-south-africa-business",
+          "source": "cnbcafrica.com",
+          "pubDate": "2026-07-07T08:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "ADNOC Distribution to buy Shell downstream South Africa business"
+        },
+        {
+          "title": "BRICS alternatives to dollar no longer a  fantasy , economist ONeill says",
+          "link": "https://finance.yahoo.com/economy/policy/articles/brics-alternatives-dollar-no-longer-200352611.html",
+          "source": "finance.yahoo.com",
+          "pubDate": "2026-07-07T07:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "BRICS alternatives to dollar no longer a  fantasy , economist ONeill says"
+        },
+        {
+          "title": "Latest Articles",
+          "link": "https://freerepublic.com/tag/*/index?more=4386963",
+          "source": "freerepublic.com",
+          "pubDate": "2026-07-07T07:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Latest Articles"
+        },
+        {
+          "title": "Adnoc Distribution to acquire Shell Downstream South Africa to boost global portfolio",
+          "link": "https://www.thenationalnews.com/business/energy/2026/07/07/adnoc-distribution-to-acquire-shell-downstream-south-africa-to-boost-global-portfolio/",
+          "source": "thenationalnews.com",
+          "pubDate": "2026-07-07T06:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Adnoc Distribution to acquire Shell Downstream South Africa to boost global portfolio"
+        },
+        {
+          "title": "DP World Launches Egypt First Integrated Logistics Distribution Centre at Sokhna Logistics Park",
+          "link": "https://www.africaoutlookmag.com/supply-chain/dp-world-launches-egypts-first-integrated-logistics-distribution-centre-at-sokhna-logistics-park",
+          "source": "africaoutlookmag.com",
+          "pubDate": "2026-07-07T06:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "DP World Launches Egypt First Integrated Logistics Distribution Centre at Sokhna Logistics Park"
+        },
+        {
+          "title": "Houthis raise stakes with Bab al - Mandab threat against Saudi Arabia",
+          "link": "https://www.middle-east-online.com/en/houthis-raise-stakes-bab-al-mandab-threat-against-saudi-arabia",
+          "source": "middle-east-online.com",
+          "pubDate": "2026-07-07T06:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Houthis raise stakes with Bab al - Mandab threat against Saudi Arabia"
+        },
+        {
+          "title": "Hallyu generated $19b in exports last year : report",
+          "link": "https://www.koreaherald.com/article/10800924",
+          "source": "koreaherald.com",
+          "pubDate": "2026-07-07T06:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Hallyu generated $19b in exports last year : report"
+        },
+        {
+          "title": "Spain and Belgium to Face Off in 2026 World Cup Quarterfinals : Date , Venue , and Journey to the Clash",
+          "link": "https://www.cubaheadlines.com/articles/334389",
+          "source": "cubaheadlines.com",
+          "pubDate": "2026-07-07T06:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Spain and Belgium to Face Off in 2026 World Cup Quarterfinals : Date , Venue , and Journey to the Clash"
+        },
+        {
+          "title": "ADNOC Distribution enters into Definitive Agreement to Acquire Shell Downstream South Africa",
+          "link": "https://www.manilatimes.net/2026/07/07/tmt-newswire/pr-newswire/adnoc-distribution-enters-into-definitive-agreement-to-acquire-shell-downstream-south-africa/2379478",
+          "source": "manilatimes.net",
+          "pubDate": "2026-07-07T05:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "ADNOC Distribution enters into Definitive Agreement to Acquire Shell Downstream South Africa"
+        },
+        {
+          "title": "Lower fertility treatment costs significantly increase assisted reproduction births",
+          "link": "https://www.news-medical.net/news/20260706/Lower-fertility-treatment-costs-significantly-increase-assisted-reproduction-births.aspx",
+          "source": "news-medical.net",
+          "pubDate": "2026-07-07T04:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Lower fertility treatment costs significantly increase assisted reproduction births"
+        },
+        {
+          "title": "Arpico Insurance welcomes finance professional Naresh Tillekeratne to Board",
+          "link": "https://island.lk/arpico-insurance-welcomes-finance-professional-naresh-tillekeratne-to-board/",
+          "source": "island.lk",
+          "pubDate": "2026-07-07T01:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Arpico Insurance welcomes finance professional Naresh Tillekeratne to Board"
+        },
+        {
+          "title": "Tech surge lifts Nasdaq as European markets stumble",
+          "link": "http://www.europesun.com/news/279171079/tech-surge-lifts-nasdaq-as-european-markets-stumble",
+          "source": "europesun.com",
+          "pubDate": "2026-07-07T01:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Tech surge lifts Nasdaq as European markets stumble"
+        },
+        {
+          "title": "Tech surge lifts Nasdaq as European markets stumble",
+          "link": "http://www.taiwansun.com/news/279171079/tech-surge-lifts-nasdaq-as-european-markets-stumble",
+          "source": "taiwansun.com",
+          "pubDate": "2026-07-07T01:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Tech surge lifts Nasdaq as European markets stumble"
+        },
+        {
+          "title": "Tech surge lifts Nasdaq as European markets stumble",
+          "link": "http://www.jamaicantimes.com/news/279171079/tech-surge-lifts-nasdaq-as-european-markets-stumble",
+          "source": "jamaicantimes.com",
+          "pubDate": "2026-07-07T00:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Tech surge lifts Nasdaq as European markets stumble"
+        },
+        {
+          "title": "Tech surge lifts Nasdaq as European markets stumble",
+          "link": "http://www.asiabulletin.com/news/279171079/tech-surge-lifts-nasdaq-as-european-markets-stumble",
+          "source": "asiabulletin.com",
+          "pubDate": "2026-07-07T00:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Tech surge lifts Nasdaq as European markets stumble"
         }
       ]
     },
