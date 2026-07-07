@@ -1,11 +1,20 @@
 {
-  "generatedAt": "2026-07-07T10:39:01.320Z",
-  "feedsChecked": 8,
+  "generatedAt": "2026-07-07T19:22:04.062Z",
+  "feedsChecked": 9,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
+        {
+          "title": "Somalia: Somalia's Defence Minister Visits Troops On Front Lines in Middle Shabelle Region",
+          "link": "https://allafrica.com/stories/202607070501.html",
+          "description": "[Shabelle] Wargaadhi -- Somalia's Defence Minister Ahmed Moallim Fiqi and the commander of the Somali National Army (SNA), Brigadier General Ibrahim Mohamed Mohamud, visited military units and local forces stationed in Wargaadhi, in the Middle Shabelle region, the government said.",
+          "pubDate": "Tue, 07 Jul 2026 16:06:47 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Somalia: Somalia's Defence Minister Visits Troops On Front Lines in Middle Shabelle Region"
+        },
         {
           "title": "Egypt: Refugees, Asylum Seekers Arrested, Deported",
           "link": "https://allafrica.com/stories/202607070084.html",
@@ -14,15 +23,6 @@
           "source": "AllAfrica",
           "lang": "en",
           "titleIt": "Egypt: Refugees, Asylum Seekers Arrested, Deported"
-        },
-        {
-          "title": "Somalia: A Report Warns Somalia Security Deteriorating Amid Political Divisions",
-          "link": "https://allafrica.com/stories/202607060694.html",
-          "description": "[Shabelle] Mogadishu -- The European Union's asylum agency has warned that Somalia's security situation has significantly worsened, citing deepening political divisions and growing instability that have allowed the Al-Shabaab militant group to expand its influence.",
-          "pubDate": "Mon, 06 Jul 2026 15:55:10 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Somalia: A Report Warns Somalia Security Deteriorating Amid Political Divisions"
         },
         {
           "title": "Ambassador Tommasi Leaves Sudan: ‘Compromises Necessary for Lasting Peace’",
@@ -34,15 +34,6 @@
           "titleIt": "Ambassador Tommasi Leaves Sudan: ‘Compromises Necessary for Lasting Peace’"
         },
         {
-          "title": "African Union peacekeeping mission in Somalia at risk amid US funding cuts",
-          "link": "http://www.africanews.com/2026/07/03/african-union-peacekeeping-mission-in-somalia-at-risk-amid-us-funding-cuts/",
-          "description": "Washington said its decision was due the government’s lack of progress in containing the al-Shabaab group or in taking ownership of its own security.",
-          "pubDate": "Fri, 03 Jul 2026 16:33:56 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "African Union peacekeeping mission in Somalia at risk amid US funding cuts"
-        },
-        {
           "title": "Humanitarian Corridors: 27 Refugees from Ethiopia Arrive in Italy",
           "link": "https://www.ansa.it/english/news/news_from_embassies/2026/07/03/humanitarian-corridors-27-refugees-from-ethiopia-arrive-in-italy_49720f78-d083-4e65-833d-2500683c2014.html",
           "description": "(ANSA) - NAIROBI, 03 LUG - The process that enabled 27 Somali and Sudanese refugees from Ethiopia to depart for Italy—carried out through the “humanitarian corridors” program—has been successfully completed. The initiative, the result of a memorandum of understanding between the Community of Sant’Egidio, the Ministries of the Interior and of Foreign Affairs and International Cooperation, and the Italian Episcopal Conference, represents a significant example of institutional cooperation and international solidarity. The embassy, which has been collaborating with the Community of Sant’Egidio on ",
@@ -50,24 +41,6 @@
           "source": "ANSA English",
           "lang": "en",
           "titleIt": "Humanitarian Corridors: 27 Refugees from Ethiopia Arrive in Italy"
-        },
-        {
-          "title": "US to block UN funding for Somalia in blow to AU peace mission",
-          "link": "http://www.africanews.com/2026/07/03/us-to-block-un-funding-for-somalia-in-blow-to-au-peace-mission/",
-          "description": "In a diplomatic note to the African Union seen by Reuters, the US has vowed to block any spending of UN funds on the AU Support ​and Stabilisation Mission in Somalia (AUSSOM).",
-          "pubDate": "Fri, 03 Jul 2026 12:35:23 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "US to block UN funding for Somalia in blow to AU peace mission"
-        },
-        {
-          "title": "Somalia Honors Italy for Health Cooperation",
-          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/07/03/somalia-honors-italy-for-health-cooperation_1b575aee-3b57-452f-8c7c-58dcaa28b5cd.html",
-          "description": "(ANSA) - NAIROBI, 03 LUG - The Italian Ambassador to Somalia, Pier Mario Daccò Coppi, received an honorary award from the management of the Forlanini Hospital in Mogadishu—which was recently modernized thanks to funding from Italian Cooperation—at the conclusion of a meeting dedicated to healthcare cooperation between the two countries. During the meeting, the hospital’s general director, Mohamed Jafar Ali, outlined the progress made by the facility, focusing on the healthcare services offered, ongoing development projects, and the creation of new wards, particularly those dedicated to women’s",
-          "pubDate": "Fri, 3 Jul 2026 13:00:24 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "Somalia Honors Italy for Health Cooperation"
         },
         {
           "title": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab",
@@ -93,22 +66,22 @@
       "title": "Dossier Somaliland",
       "items": [
         {
-          "title": "Kenya: Police Tighten Nairobi Security With Checkpoints Ahead of Defiant Saba Saba Protests",
-          "link": "https://allafrica.com/stories/202607070044.html",
-          "description": "[Capital FM] Nairobi -- Police will mount enhanced checkpoints across Nairobi on Tuesday in a major security operation ahead of planned Saba Saba demonstrations, even as activists insist they will proceed with the protests despite warnings that any gathering will be treated as unlawful.",
-          "pubDate": "Tue, 07 Jul 2026 05:14:09 GMT",
+          "title": "Kenya: Nairobi Police Report 10 Arrests As Heavy Security Keeps Saba Saba Protests Off CBD",
+          "link": "https://allafrica.com/stories/202607070499.html",
+          "description": "[Capital FM] Nairobi -- Ten people were arrested in Nairobi during the Saba Saba commemorations as police credited an extensive security operation and public cooperation for the relative calm witnessed across the capital.",
+          "pubDate": "Tue, 07 Jul 2026 16:05:39 GMT",
           "source": "AllAfrica",
           "lang": "en",
-          "titleIt": "Kenya: Police Tighten Nairobi Security With Checkpoints Ahead of Defiant Saba Saba Protests"
+          "titleIt": "Kenya: Nairobi Police Report 10 Arrests As Heavy Security Keeps Saba Saba Protests Off CBD"
         },
         {
-          "title": "Somalia: A Report Warns Somalia Security Deteriorating Amid Political Divisions",
-          "link": "https://allafrica.com/stories/202607060694.html",
-          "description": "[Shabelle] Mogadishu -- The European Union's asylum agency has warned that Somalia's security situation has significantly worsened, citing deepening political divisions and growing instability that have allowed the Al-Shabaab militant group to expand its influence.",
-          "pubDate": "Mon, 06 Jul 2026 15:55:10 GMT",
+          "title": "Kenya: Orderly Protest Held in Mombasa After Police Agreement",
+          "link": "https://allafrica.com/stories/202607070360.html",
+          "description": "[Capital FM] Nairobi -- Residents in Mombasa were allowed to stage a 15-minute march protest through the city's Central Business District after consultations with police officers.",
+          "pubDate": "Tue, 07 Jul 2026 11:22:02 GMT",
           "source": "AllAfrica",
           "lang": "en",
-          "titleIt": "Somalia: A Report Warns Somalia Security Deteriorating Amid Political Divisions"
+          "titleIt": "Kenya: Orderly Protest Held in Mombasa After Police Agreement"
         },
         {
           "title": "OPEC+ boosts oil production as Gulf exports recover",
@@ -129,15 +102,6 @@
           "titleIt": "Humanitarian Corridors: 27 Refugees from Ethiopia Arrive in Italy"
         },
         {
-          "title": "US to block UN funding for Somalia in blow to AU peace mission",
-          "link": "http://www.africanews.com/2026/07/03/us-to-block-un-funding-for-somalia-in-blow-to-au-peace-mission/",
-          "description": "In a diplomatic note to the African Union seen by Reuters, the US has vowed to block any spending of UN funds on the AU Support ​and Stabilisation Mission in Somalia (AUSSOM).",
-          "pubDate": "Fri, 03 Jul 2026 12:35:23 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "US to block UN funding for Somalia in blow to AU peace mission"
-        },
-        {
           "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
           "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
           "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
@@ -152,132 +116,6 @@
       "title": "Accesso etiope al mare",
       "items": [
         {
-          "title": "China , Brazil and African agriculture : what has changed ?",
-          "link": "https://www.thezimbabwean.co/2026/07/china-brazil-and-african-agriculture-what-has-changed/",
-          "source": "thezimbabwean.co",
-          "pubDate": "2026-07-07T06:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "China , Brazil and African agriculture : what has changed ?"
-        },
-        {
-          "title": "Africa : UN Maritime Agency Seeks Release of 44 Detained Seafarers As Food Runs Low",
-          "link": "https://allafrica.com/stories/202607070013.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-07-07T06:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Africa : UN Maritime Agency Seeks Release of 44 Detained Seafarers As Food Runs Low"
-        },
-        {
-          "title": "Egypt Arrests , Deports Refugees and Asylum Seekers",
-          "link": "https://www.miragenews.com/egypt-arrests-deports-refugees-and-asylum-1705724/",
-          "source": "miragenews.com",
-          "pubDate": "2026-07-07T04:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egypt Arrests , Deports Refugees and Asylum Seekers"
-        },
-        {
-          "title": "UN maritime agency seeks release of 44 detained seafarers as food runs low",
-          "link": "https://www.globalissues.org/news/2026/07/06/43500",
-          "source": "globalissues.org",
-          "pubDate": "2026-07-06T20:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "UN maritime agency seeks release of 44 detained seafarers as food runs low"
-        },
-        {
-          "title": "APO Group - Africa Newsroom / Press release | World leaders and leaders of international organisations come together to congratulate Seychelles on the occasion of its 50th anniversary of its Independence",
-          "link": "https://www.africa-newsroom.com/press/world-leaders-and-leaders-of-international-organisations-come-together-to-congratulate-seychelles-on-the-occasion-of-its-50th-anniversary-of-its-independence",
-          "source": "africa-newsroom.com",
-          "pubDate": "2026-07-06T20:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "APO Group - Africa Newsroom / Press release | World leaders and leaders of international organisations come together to congratulate Seychelles on the occasion of its 50th anniversary of its Independence"
-        },
-        {
-          "title": "Africa Emerges As The World Sesame Powerhouse As Nigeria Eyes Bigger Export Windfall",
-          "link": "https://naija247news.com/africa-emerges-as-the-worlds-sesame-powerhouse-as-nigeria-eyes-bigger-export-windfall/",
-          "source": "naija247news.com",
-          "pubDate": "2026-07-06T20:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Africa Emerges As The World Sesame Powerhouse As Nigeria Eyes Bigger Export Windfall"
-        },
-        {
-          "title": "Can Lamu Port sustain its Gulf conflict windfall ?",
-          "link": "https://www.zawya.com/en/economy/africa/can-lamu-port-sustain-its-gulf-conflict-windfall-hcnii0w7",
-          "source": "zawya.com",
-          "pubDate": "2026-07-06T16:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Can Lamu Port sustain its Gulf conflict windfall ?"
-        },
-        {
-          "title": "BRICS will focus on drug problem , says Charge d  Affaires Ethiopia to India",
-          "link": "http://www.africaleader.com/news/279170315/brics-will-focus-on-drug-problem-says-charge-d-affaires-ethiopia-to-india",
-          "source": "africaleader.com",
-          "pubDate": "2026-07-06T16:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "BRICS will focus on drug problem , says Charge d  Affaires Ethiopia to India"
-        },
-        {
-          "title": "Somalia: A Report Warns Somalia Security Deteriorating Amid Political Divisions",
-          "link": "https://allafrica.com/stories/202607060694.html",
-          "description": "[Shabelle] Mogadishu -- The European Union's asylum agency has warned that Somalia's security situation has significantly worsened, citing deepening political divisions and growing instability that have allowed the Al-Shabaab militant group to expand its influence.",
-          "pubDate": "Mon, 06 Jul 2026 15:55:10 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Somalia: A Report Warns Somalia Security Deteriorating Amid Political Divisions"
-        },
-        {
-          "title": "BRICS will focus on drug problem , says Charge d  Affaires Ethiopia to India",
-          "link": "http://www.calcuttanews.net/news/279170315/brics-will-focus-on-drug-problem-says-charge-d-affaires-ethiopia-to-india",
-          "source": "calcuttanews.net",
-          "pubDate": "2026-07-06T14:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "BRICS will focus on drug problem , says Charge d  Affaires Ethiopia to India"
-        },
-        {
-          "title": "BRICS will focus on drug problem , says Charge d  Affaires Ethiopia to India",
-          "link": "http://www.nigeriasun.com/news/279170315/brics-will-focus-on-drug-problem-says-charge-d-affaires-ethiopia-to-india",
-          "source": "nigeriasun.com",
-          "pubDate": "2026-07-06T14:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "BRICS will focus on drug problem , says Charge d  Affaires Ethiopia to India"
-        },
-        {
-          "title": "BRICS will focus on drug problem , says Charge d  Affaires Ethiopia to India",
-          "link": "http://www.zimbabwestar.com/news/279170315/brics-will-focus-on-drug-problem-says-charge-d-affaires-ethiopia-to-india",
-          "source": "zimbabwestar.com",
-          "pubDate": "2026-07-06T13:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "BRICS will focus on drug problem , says Charge d  Affaires Ethiopia to India"
-        },
-        {
-          "title": "BRICS will focus on drug problem , says Charge d  Affaires Ethiopia to India",
-          "link": "http://www.bignewsnetwork.com/news/279170315/brics-will-focus-on-drug-problem-says-charge-d-affaires-ethiopia-to-india",
-          "source": "bignewsnetwork.com",
-          "pubDate": "2026-07-06T13:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "BRICS will focus on drug problem , says Charge d  Affaires Ethiopia to India"
-        },
-        {
-          "title": "BRICS will focus on drug problem , says Charge d  Affaires Ethiopia to India",
-          "link": "http://www.vietnamtribune.com/news/279170315/brics-will-focus-on-drug-problem-says-charge-d-affaires-ethiopia-to-india",
-          "source": "vietnamtribune.com",
-          "pubDate": "2026-07-06T13:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "BRICS will focus on drug problem , says Charge d  Affaires Ethiopia to India"
-        },
-        {
           "title": "Woman describes 'ordeal' after ECHR reverses Italy 'sexist verdict'",
           "link": "https://www.ansa.it/english/news/general_news/2026/07/06/woman-describes-ordeal-after-echr-reverses-italy-sexist-verdict_0256f26a-b865-45ea-9bda-302961ff4b11.html",
           "description": "(ANSA) - ROME, JUL 6 - A woman who was awarded damages after the European Court of Human Rights quashed what it called a \"sexist and stereotypical\" verdict\" acquitting her sexually abusive husband because \"it's normal for a man to overcome a woman's resistance\" before sex told an Italian daily Monday that she had been through an \"ordeal\" since she reported the domestic rape in 2021. \"Justice has finally been done. It doesn't seem real after so long. I went through an ordeal,\" Audrey Ubeda, now 42, said in an interview with la Repubblica, after the ECHR ruled in her favour, ordering Italy to co",
@@ -285,15 +123,6 @@
           "source": "ANSA English",
           "lang": "en",
           "titleIt": "Woman describes 'ordeal' after ECHR reverses Italy 'sexist verdict'"
-        },
-        {
-          "title": "India proposes dedicated BRICS Virtual Working Group to combat drug trafficking",
-          "link": "https://economictimes.indiatimes.com/news/india/india-proposes-dedicated-brics-virtual-working-group-to-combat-drug-trafficking/articleshow/132216355.cms",
-          "source": "economictimes.indiatimes.com",
-          "pubDate": "2026-07-06T12:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "India proposes dedicated BRICS Virtual Working Group to combat drug trafficking"
         },
         {
           "title": "Woman describes 'ordeal' after ECHR reverses Italy 'sexist verdict'",
@@ -305,15 +134,6 @@
           "titleIt": "Woman describes 'ordeal' after ECHR reverses Italy 'sexist verdict'"
         },
         {
-          "title": "Beyond Infrastructure : How China Growing Educational Influence Is Reshaping Ghana Future – Ghanamma . com",
-          "link": "https://www.ghanamma.com/2026/07/06/beyond-infrastructure-how-chinas-growing-educational-influence-is-reshaping-ghanas-future/",
-          "source": "ghanamma.com",
-          "pubDate": "2026-07-06T11:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Beyond Infrastructure : How China Growing Educational Influence Is Reshaping Ghana Future – Ghanamma . com"
-        },
-        {
           "title": "OPEC+ boosts oil production as Gulf exports recover",
           "link": "http://www.africanews.com/2026/07/06/opec-boosts-oil-production-as-gulf-exports-recover/",
           "description": "Seven OPEC+ producers have agreed to increase oil production from August, signalling confidence that Gulf exports are recovering after months of disruption caused by the Middle East conflict. The move comes as shipping through the Strait of Hormuz gradually returns to normal.",
@@ -323,13 +143,22 @@
           "titleIt": "OPEC+ boosts oil production as Gulf exports recover"
         },
         {
-          "title": "Ethiopia : Will Abiy Ahmed Be Ethiopia Bismarck or Its Mandela ?",
-          "link": "https://allafrica.com/stories/202607060020.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-07-06T09:45:00Z",
+          "title": "Humanitarian Corridors: 27 Refugees from Ethiopia Arrive in Italy",
+          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/07/03/humanitarian-corridors-27-refugees-from-ethiopia-arrive-in-italy_49720f78-d083-4e65-833d-2500683c2014.html",
+          "description": "(ANSA) - NAIROBI, 03 LUG - The process that enabled 27 Somali and Sudanese refugees from Ethiopia to depart for Italy—carried out through the “humanitarian corridors” program—has been successfully completed. The initiative, the result of a memorandum of understanding between the Community of Sant’Egidio, the Ministries of the Interior and of Foreign Affairs and International Cooperation, and the Italian Episcopal Conference, represents a significant example of institutional cooperation and international solidarity. The embassy, which has been collaborating with the Community of Sant’Egidio on ",
+          "pubDate": "Fri, 3 Jul 2026 16:24:51 +0200",
+          "source": "ANSA English",
           "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia : Will Abiy Ahmed Be Ethiopia Bismarck or Its Mandela ?"
+          "titleIt": "Humanitarian Corridors: 27 Refugees from Ethiopia Arrive in Italy"
+        },
+        {
+          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
+          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
+          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
+          "pubDate": "Saturday, May 16, 2026 - 00:08",
+          "source": "Crisis Group",
+          "lang": "en",
+          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
@@ -337,200 +166,19 @@
       "title": "Fragilità economica egiziana",
       "items": [
         {
-          "title": "Turkey and future threats",
-          "link": "https://www.clevelandjewishnews.com/jns/turkey-and-future-threats/article_ddc5cfe8-4862-5cc8-bce2-29995a8cb887.html",
-          "source": "clevelandjewishnews.com",
-          "pubDate": "2026-07-07T10:00:00Z",
+          "title": "Egypt says it is expecting a further $1.7 billion from Europe within days",
+          "link": "http://www.africanews.com/2026/07/05/egypt-says-it-is-expecting-a-further-17-billion-from-europe-within-days/",
+          "description": "It is part a $5.7 billion EU macro-financial assistance package within the framework of Europe’s strategy to stabilise Egypt's economy.",
+          "pubDate": "Sun, 05 Jul 2026 14:32:21 +0000",
+          "source": "Africanews",
           "lang": "en",
-          "description": "",
-          "titleIt": "Turkey and future threats"
-        },
-        {
-          "title": "Israel Steps Up Mediterranean Gas Search",
-          "link": "https://www.oedigital.com/news/540970-israel-steps-up-mediterranean-gas-search",
-          "source": "oedigital.com",
-          "pubDate": "2026-07-07T10:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Israel Steps Up Mediterranean Gas Search"
-        },
-        {
-          "title": "ADNOC Distribution enters into definitive agreement to acquire Shell Downstream South Africa",
-          "link": "http://www.nigeriasun.com/news/279171894/adnoc-distribution-enters-into-definitive-agreement-to-acquire-shell-downstream-south-africa",
-          "source": "nigeriasun.com",
-          "pubDate": "2026-07-07T09:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "ADNOC Distribution enters into definitive agreement to acquire Shell Downstream South Africa"
-        },
-        {
-          "title": "Tuesday briefing : What challenges would Ed Miliband face as chancellor ?",
-          "link": "https://www.theguardian.com/world/2026/jul/07/tuesday-briefing-first-edition-ed-miliband-next-chancellor",
-          "source": "theguardian.com",
-          "pubDate": "2026-07-07T09:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Tuesday briefing : What challenges would Ed Miliband face as chancellor ?"
-        },
-        {
-          "title": "BRICS alternatives to dollar no longer a  fantasy , economist ONeill says",
-          "link": "https://www.cnbcafrica.com/2026/brics-alternatives-to-dollar-no-longer-a-fantasy-economist-oneill-says",
-          "source": "cnbcafrica.com",
-          "pubDate": "2026-07-07T08:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "BRICS alternatives to dollar no longer a  fantasy , economist ONeill says"
-        },
-        {
-          "title": "ADNOC Distribution to buy Shell downstream South Africa business",
-          "link": "https://www.cnbcafrica.com/2026/adnoc-distribution-to-buy-shells-downstream-south-africa-business",
-          "source": "cnbcafrica.com",
-          "pubDate": "2026-07-07T08:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "ADNOC Distribution to buy Shell downstream South Africa business"
-        },
-        {
-          "title": "BRICS alternatives to dollar no longer a  fantasy , economist ONeill says",
-          "link": "https://finance.yahoo.com/economy/policy/articles/brics-alternatives-dollar-no-longer-200352611.html",
-          "source": "finance.yahoo.com",
-          "pubDate": "2026-07-07T07:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "BRICS alternatives to dollar no longer a  fantasy , economist ONeill says"
-        },
-        {
-          "title": "Latest Articles",
-          "link": "https://freerepublic.com/tag/*/index?more=4386963",
-          "source": "freerepublic.com",
-          "pubDate": "2026-07-07T07:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Latest Articles"
-        },
-        {
-          "title": "Adnoc Distribution to acquire Shell Downstream South Africa to boost global portfolio",
-          "link": "https://www.thenationalnews.com/business/energy/2026/07/07/adnoc-distribution-to-acquire-shell-downstream-south-africa-to-boost-global-portfolio/",
-          "source": "thenationalnews.com",
-          "pubDate": "2026-07-07T06:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Adnoc Distribution to acquire Shell Downstream South Africa to boost global portfolio"
-        },
-        {
-          "title": "DP World Launches Egypt First Integrated Logistics Distribution Centre at Sokhna Logistics Park",
-          "link": "https://www.africaoutlookmag.com/supply-chain/dp-world-launches-egypts-first-integrated-logistics-distribution-centre-at-sokhna-logistics-park",
-          "source": "africaoutlookmag.com",
-          "pubDate": "2026-07-07T06:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "DP World Launches Egypt First Integrated Logistics Distribution Centre at Sokhna Logistics Park"
-        },
-        {
-          "title": "Houthis raise stakes with Bab al - Mandab threat against Saudi Arabia",
-          "link": "https://www.middle-east-online.com/en/houthis-raise-stakes-bab-al-mandab-threat-against-saudi-arabia",
-          "source": "middle-east-online.com",
-          "pubDate": "2026-07-07T06:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Houthis raise stakes with Bab al - Mandab threat against Saudi Arabia"
-        },
-        {
-          "title": "Hallyu generated $19b in exports last year : report",
-          "link": "https://www.koreaherald.com/article/10800924",
-          "source": "koreaherald.com",
-          "pubDate": "2026-07-07T06:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Hallyu generated $19b in exports last year : report"
-        },
-        {
-          "title": "Spain and Belgium to Face Off in 2026 World Cup Quarterfinals : Date , Venue , and Journey to the Clash",
-          "link": "https://www.cubaheadlines.com/articles/334389",
-          "source": "cubaheadlines.com",
-          "pubDate": "2026-07-07T06:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Spain and Belgium to Face Off in 2026 World Cup Quarterfinals : Date , Venue , and Journey to the Clash"
-        },
-        {
-          "title": "ADNOC Distribution enters into Definitive Agreement to Acquire Shell Downstream South Africa",
-          "link": "https://www.manilatimes.net/2026/07/07/tmt-newswire/pr-newswire/adnoc-distribution-enters-into-definitive-agreement-to-acquire-shell-downstream-south-africa/2379478",
-          "source": "manilatimes.net",
-          "pubDate": "2026-07-07T05:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "ADNOC Distribution enters into Definitive Agreement to Acquire Shell Downstream South Africa"
-        },
-        {
-          "title": "Lower fertility treatment costs significantly increase assisted reproduction births",
-          "link": "https://www.news-medical.net/news/20260706/Lower-fertility-treatment-costs-significantly-increase-assisted-reproduction-births.aspx",
-          "source": "news-medical.net",
-          "pubDate": "2026-07-07T04:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Lower fertility treatment costs significantly increase assisted reproduction births"
-        },
-        {
-          "title": "Arpico Insurance welcomes finance professional Naresh Tillekeratne to Board",
-          "link": "https://island.lk/arpico-insurance-welcomes-finance-professional-naresh-tillekeratne-to-board/",
-          "source": "island.lk",
-          "pubDate": "2026-07-07T01:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Arpico Insurance welcomes finance professional Naresh Tillekeratne to Board"
-        },
-        {
-          "title": "Tech surge lifts Nasdaq as European markets stumble",
-          "link": "http://www.europesun.com/news/279171079/tech-surge-lifts-nasdaq-as-european-markets-stumble",
-          "source": "europesun.com",
-          "pubDate": "2026-07-07T01:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Tech surge lifts Nasdaq as European markets stumble"
-        },
-        {
-          "title": "Tech surge lifts Nasdaq as European markets stumble",
-          "link": "http://www.taiwansun.com/news/279171079/tech-surge-lifts-nasdaq-as-european-markets-stumble",
-          "source": "taiwansun.com",
-          "pubDate": "2026-07-07T01:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Tech surge lifts Nasdaq as European markets stumble"
-        },
-        {
-          "title": "Tech surge lifts Nasdaq as European markets stumble",
-          "link": "http://www.jamaicantimes.com/news/279171079/tech-surge-lifts-nasdaq-as-european-markets-stumble",
-          "source": "jamaicantimes.com",
-          "pubDate": "2026-07-07T00:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Tech surge lifts Nasdaq as European markets stumble"
-        },
-        {
-          "title": "Tech surge lifts Nasdaq as European markets stumble",
-          "link": "http://www.asiabulletin.com/news/279171079/tech-surge-lifts-nasdaq-as-european-markets-stumble",
-          "source": "asiabulletin.com",
-          "pubDate": "2026-07-07T00:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Tech surge lifts Nasdaq as European markets stumble"
+          "titleIt": "Egypt says it is expecting a further $1.7 billion from Europe within days"
         }
       ]
     },
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
-      "items": [
-        {
-          "title": "Egypt makes history, heartbreak for Cape Verde at World Cup",
-          "link": "http://www.africanews.com/2026/07/04/egypt-makes-history-heartbreak-for-cape-verde-at-world-cup/",
-          "description": "Heartbreak for Cape Verde as the World Cup debutants bowed out after a thrilling 3-2 extra-time defeat to defending champions Argentina. The Blue Sharks twice battled back to level the match, pushing Lionel Messi's side to the limit in one of the tournament's biggest surprise performances.",
-          "pubDate": "Sat, 04 Jul 2026 07:50:35 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "Egypt makes history, heartbreak for Cape Verde at World Cup"
-        }
-      ]
+      "items": []
     }
   }
 }
