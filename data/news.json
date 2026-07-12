@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-07-12T07:53:28.759Z",
-  "feedsChecked": 9,
+  "generatedAt": "2026-07-12T11:48:39.448Z",
+  "feedsChecked": 8,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
         {
-          "title": "Business news: Somalia-Egitto, Consiglio dei ministri somalo approva protocollo d'intesa su cooperazione marittima",
-          "link": "https://www.agenzianova.com/a/6a5347ed85a733.46757567/7594691/2026-07-12/business-news-somalia-egitto-consiglio-dei-ministri-somalo-approva-protocollo-d-intesa-su-cooperazione-marittima",
-          "description": "12 lug 07:00 - (Agenzia Nova) - Il Consiglio dei ministri della Somalia ha approvato un protocollo d'intesa con l'Egitto volto a rafforzare... (Suk)",
-          "pubDate": "2026-07-12T07:00:00+02:00",
+          "title": "Crema: De Corato (Fd'I), 19enne ucciso a coltellate, applicare Decreto sicurezza",
+          "link": "https://www.agenzianova.com/a/6a537ee4da1992.34945432/7597560/2026-07-12/crema-de-corato-fd-i-19enne-ucciso-a-coltellate-applicare-decreto-sicurezza",
+          "description": "12 lug 12:56 - (Agenzia Nova) - \"Apprendo con sconcerto che un egiziano di soli 19 anni e' stato accoltellato a morte a Crema nella notte.... (Com)",
+          "pubDate": "2026-07-12T12:56:57+02:00",
           "source": "Agenzia Nova",
           "lang": "it",
-          "titleIt": "Business news: Somalia-Egitto, Consiglio dei ministri somalo approva protocollo d'intesa su cooperazione marittima"
+          "titleIt": "Crema: De Corato (Fd'I), 19enne ucciso a coltellate, applicare Decreto sicurezza"
         },
         {
           "title": "Egypt receive a warm welcome home",
@@ -32,39 +32,12 @@
           "source": "ANSA English",
           "lang": "en",
           "titleIt": "Somalia: Ambassador Daccò Coppi Meets with the Minister of Information"
-        },
-        {
-          "title": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab",
-          "link": "https://www.crisisgroup.org/brf/africa/somalia/b212-new-chapter-same-stalemate-somalias-war-al-shabaab",
-          "description": "The Somali government’s battle with Al-Shabaab militants grinds on, with neither able to gain a decisive advantage. To improve its lot, Mogadishu needs to bolster its military and alleviate civilian suffering in areas under insurgent control, while looking for openings for dialogue with the group.",
-          "pubDate": "Tuesday, June 30, 2026 - 15:20",
-          "source": "Crisis Group",
-          "lang": "en",
-          "titleIt": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab"
-        },
-        {
-          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
-          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
-          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
-          "pubDate": "Saturday, May 16, 2026 - 00:08",
-          "source": "Crisis Group",
-          "lang": "en",
-          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
     "somaliland": {
       "title": "Dossier Somaliland",
       "items": [
-        {
-          "title": "Business news: Somalia-Egitto, Consiglio dei ministri somalo approva protocollo d'intesa su cooperazione marittima",
-          "link": "https://www.agenzianova.com/a/6a5347ed85a733.46757567/7594691/2026-07-12/business-news-somalia-egitto-consiglio-dei-ministri-somalo-approva-protocollo-d-intesa-su-cooperazione-marittima",
-          "description": "12 lug 07:00 - (Agenzia Nova) - Il Consiglio dei ministri della Somalia ha approvato un protocollo d'intesa con l'Egitto volto a rafforzare... (Suk)",
-          "pubDate": "2026-07-12T07:00:00+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Business news: Somalia-Egitto, Consiglio dei ministri somalo approva protocollo d'intesa su cooperazione marittima"
-        },
         {
           "title": "Kenya: World Population Day - Renewing Our Promise to Every Woman and Every Newborn Everywhere",
           "link": "https://allafrica.com/stories/202607100563.html",
@@ -82,30 +55,12 @@
           "source": "ANSA English",
           "lang": "en",
           "titleIt": "Somalia: Ambassador Daccò Coppi Meets with the Minister of Information"
-        },
-        {
-          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
-          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
-          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
-          "pubDate": "Saturday, May 16, 2026 - 00:08",
-          "source": "Crisis Group",
-          "lang": "en",
-          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
     "ethiopia-sea-access": {
       "title": "Accesso etiope al mare",
       "items": [
-        {
-          "title": "Business news: Somalia-Egitto, Consiglio dei ministri somalo approva protocollo d'intesa su cooperazione marittima",
-          "link": "https://www.agenzianova.com/a/6a5347ed85a733.46757567/7594691/2026-07-12/business-news-somalia-egitto-consiglio-dei-ministri-somalo-approva-protocollo-d-intesa-su-cooperazione-marittima",
-          "description": "12 lug 07:00 - (Agenzia Nova) - Il Consiglio dei ministri della Somalia ha approvato un protocollo d'intesa con l'Egitto volto a rafforzare... (Suk)",
-          "pubDate": "2026-07-12T07:00:00+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Business news: Somalia-Egitto, Consiglio dei ministri somalo approva protocollo d'intesa su cooperazione marittima"
-        },
         {
           "title": "Ambassador Davoli signed a cooperation agreement with the Court of Auditors of Ecuador",
           "link": "https://www.ansa.it/english/news/news_from_embassies/2026/07/08/ambassador-davoli-signed-a-cooperation-agreement-with-the-court-of-auditors-of-ecuador_536a769f-a099-49a2-b249-9b92d104e986.html",
@@ -168,15 +123,6 @@
           "source": "ANSA English",
           "lang": "en",
           "titleIt": "Govt parties present bills to boost repatriations, tighten rules on citizenship"
-        },
-        {
-          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
-          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
-          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
-          "pubDate": "Saturday, May 16, 2026 - 00:08",
-          "source": "Crisis Group",
-          "lang": "en",
-          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
@@ -195,24 +141,6 @@
           "source": "AllAfrica",
           "lang": "en",
           "titleIt": "South Sudan: South Sudan - UN Acts Ahead of Drought to Protect Thousands"
-        },
-        {
-          "title": "Sudan: Senator Sanders Statement on Civil War and Genocide in Sudan",
-          "link": "https://allafrica.com/stories/202607100564.html",
-          "description": "[United States Senate] Burlington, VT -- Sen. Bernie Sanders (I-Vt.) today released the following statement:",
-          "pubDate": "Fri, 10 Jul 2026 23:15:46 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Sudan: Senator Sanders Statement on Civil War and Genocide in Sudan"
-        },
-        {
-          "title": "South Sudan: Fifteen Years of Independence for South Sudan, but Still Little to Celebrate",
-          "link": "https://allafrica.com/stories/202607100141.html",
-          "description": "[RFI] South Sudan, the world's youngest country, on Thursday marks the 15th anniversary of its independence, following decades of war with Sudan, a 2005 peace agreement and a 2011 self-determination referendum in which almost 99 percent of voters backed statehood. But the hopes that came with it have given way to renewed conflict, economic collapse and political deadlock.",
-          "pubDate": "Fri, 10 Jul 2026 08:11:28 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "South Sudan: Fifteen Years of Independence for South Sudan, but Still Little to Celebrate"
         }
       ]
     }
