@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-15T06:35:26.494Z",
-  "feedsChecked": 8,
+  "generatedAt": "2026-07-15T12:58:52.954Z",
+  "feedsChecked": 9,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
@@ -66,6 +66,15 @@
           "titleIt": "Kenyan grandmothers find health, friendship and purpose through football"
         },
         {
+          "title": "Uganda: Malaba Traffic Snarl Deepens As Ura Defends Reinstated Cargo Seals",
+          "link": "https://allafrica.com/stories/202607140527.html",
+          "description": "[Nile Post] A traffic snarl stretching nearly 35 kilometres into Kenya has crippled operations at the Malaba border crossing, with truck drivers, transporters and clearing agents blaming the Uganda Revenue Authority's (URA) reinstatement of metallic electronic cargo seals for the prolonged delays.",
+          "pubDate": "Tue, 14 Jul 2026 14:06:36 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Uganda: Malaba Traffic Snarl Deepens As Ura Defends Reinstated Cargo Seals"
+        },
+        {
           "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
           "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
           "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
@@ -80,63 +89,58 @@
       "title": "Accesso etiope al mare",
       "items": [
         {
-          "title": "Villa warned over sportswashing after Visit Rwanda deal",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cm20211g25lo?at_medium=RSS&at_campaign=rss",
-          "description": "Aston Villa are warned their new £20m-a-year sponsorship deal with Visit Rwanda will be used by the nation to sportswash its human rights record.",
-          "pubDate": "Tue, 14 Jul 2026 18:44:04 GMT",
-          "source": "BBC Africa",
-          "lang": "en",
-          "titleIt": "Villa warned over sportswashing after Visit Rwanda deal"
-        },
-        {
-          "title": "Udine mayor probed for vote buying",
-          "link": "https://www.ansa.it/english/news/general_news/2026/07/14/udine-mayor-probed-for-vote-buying_b9d4ee86-4d38-4524-9b06-42ffdc1c1836.html",
-          "description": "(ANSA) - ROME, JUL 14 - Udine Mayor Felice Alberto De Toni has been placed under investigation on suspicion of vote buying, judicial sources in the Friuli city said Tuesday. Also under investigation are opposition councilor Stefano Salmè and his partner, Daniela Perissutti, vice president of \"Arriva Udine,\" a publicly held local and suburban public transportation company, TV 12 reported. The case stems from a complaint filed in 2024 by twelve opposition councilors, except Salmè, asking the judiciary to open investigations into two incidents: a pre-runoff agreement with Ivano Marchiol—who was a",
-          "pubDate": "Tue, 14 Jul 2026 15:54:24 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "Udine mayor probed for vote buying"
-        },
-        {
-          "title": "Udine mayor probed for vote buying",
-          "link": "https://www.ansa.it/english/news/2026/07/14/udine-mayor-probed-for-vote-buying_96b24869-46d7-47b2-ba12-6385a653223c.html",
-          "description": "(ANSA) - ROME, JUL 14 - Udine Mayor Felice Alberto De Toni has been placed under investigation on suspicion of vote buying, judicial sources in the Friuli city said Tuesday. Also under investigation are opposition councilor Stefano Salmè and his partner, Daniela Perissutti, vice president of \"Arriva Udine,\" a publicly held local and suburban public transportation company, TV 12 reported. The case stems from a complaint filed in 2024 by twelve opposition councilors, except Salmè, asking the judiciary to open investigations into two incidents: a pre-runoff agreement with Ivano Marchiol—who was a",
-          "pubDate": "Tue, 14 Jul 2026 15:48:22 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "Udine mayor probed for vote buying"
-        },
-        {
-          "title": "EU bans purchase and import of Sudanese gold in bid to curb war economy",
-          "link": "http://www.africanews.com/2026/07/14/eu-bans-purchase-and-import-of-sudanese-gold-in-bid-to-curb-war-economy/",
-          "description": "The European Union is banning the purchase, import and transfer of Sudanese gold in a bid to curb sources of financing for the country’s devastating conflict.",
-          "pubDate": "Tue, 14 Jul 2026 09:27:34 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "EU bans purchase and import of Sudanese gold in bid to curb war economy"
-        },
-        {
-          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
-          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
-          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
-          "pubDate": "Saturday, May 16, 2026 - 00:08",
-          "source": "Crisis Group",
-          "lang": "en",
-          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
-        }
-      ]
-    },
-    "egypt-economy": {
-      "title": "Fragilità economica egiziana",
-      "items": [
-        {
-          "title": "Egypt lawmakers back law boosting military - linked economic authority",
-          "link": "https://www.middle-east-online.com/en/egypt-lawmakers-back-law-boosting-military-linked-economic-authority",
-          "source": "middle-east-online.com",
-          "pubDate": "2026-07-15T06:00:00Z",
+          "title": "GCW768",
+          "link": "https://www.globalcement.com/news/tags/gcw768",
+          "source": "globalcement.com",
+          "pubDate": "2026-07-15T12:00:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Egypt lawmakers back law boosting military - linked economic authority"
+          "titleIt": "GCW768"
+        },
+        {
+          "title": "Markets may be underestimating risks, sharp correction possible - BoI's Panetta",
+          "link": "https://www.ansa.it/english/news/business/2026/07/15/markets-may-be-underestimating-risks-sharp-correction-possible-bois-panetta_04b32105-5519-4653-8488-2919b4449d07.html",
+          "description": "(ANSA) - ROME, JUL 15 - Bank of Italy Governor Fabio Panetta said Wednesday that the financial markets may be underestimating the risks the global economy faces and a major corrections could be in store. \"The speed of the market recovery (following shock of the Iran war) should be interpreted with caution,\" Panetta said during a speech at the assembly of Italian banking association ABI. \"It may indicate confidence in the global economy's ability to absorb these tensions. \"However, it may also signal an underestimation of the risks, a hypothesis that is supported by various indicators. \"The ris",
+          "pubDate": "Wed, 15 Jul 2026 12:17:59 +0200",
+          "source": "ANSA English",
+          "lang": "en",
+          "titleIt": "Markets may be underestimating risks, sharp correction possible - BoI's Panetta"
+        },
+        {
+          "title": "Markets may be underestimating risks, sharp correction possible - BoI's Panetta",
+          "link": "https://www.ansa.it/english/news/2026/07/15/markets-may-be-underestimating-risks-sharp-correction-possible-bois-panetta_0e519124-ffb3-47ba-aefc-2922f6b9a3d7.html",
+          "description": "(ANSA) - ROME, JUL 15 - Bank of Italy Governor Fabio Panetta said Wednesday that the financial markets may be underestimating the risks the global economy faces and a major corrections could be in store. \"The speed of the market recovery (following shock of the Iran war) should be interpreted with caution,\" Panetta said during a speech at the assembly of Italian banking association ABI. \"It may indicate confidence in the global economy's ability to absorb these tensions. \"However, it may also signal an underestimation of the risks, a hypothesis that is supported by various indicators. \"The ris",
+          "pubDate": "Wed, 15 Jul 2026 12:10:33 +0200",
+          "source": "ANSA English",
+          "lang": "en",
+          "titleIt": "Markets may be underestimating risks, sharp correction possible - BoI's Panetta"
+        },
+        {
+          "title": "Internet access in Africa : Bottom 15 countries",
+          "link": "https://www.the-star.co.ke/news/infographics/2026-07-15-internet-access-in-africa-bottom-15-countries",
+          "source": "the-star.co.ke",
+          "pubDate": "2026-07-15T09:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Internet access in Africa : Bottom 15 countries"
+        },
+        {
+          "title": "The Geopolitical Theatre of the Horn of Africa : Sovereignty , Rentier Statecraft , and the Spectacle of Security Agreements",
+          "link": "https://wardheernews.com/the-geopolitical-theatre-of-the-horn-of-africa-sovereignty-rentier-statecraft-and-the-spectacle-of-security-agreements/",
+          "source": "wardheernews.com",
+          "pubDate": "2026-07-15T08:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The Geopolitical Theatre of the Horn of Africa : Sovereignty , Rentier Statecraft , and the Spectacle of Security Agreements"
+        },
+        {
+          "title": "UN warns terrorist threat Is spreading across west Africa and the sahel",
+          "link": "http://www.africanews.com/2026/07/15/un-warns-terrorist-threat-is-spreading-across-west-africa-and-the-sahel/",
+          "description": "The UN says lasting stability in the region will require sustained international support, investment in humanitarian assistance and stronger regional cooperation to tackle both the security threats and the underlying causes of conflict.",
+          "pubDate": "Wed, 15 Jul 2026 05:59:22 +0000",
+          "source": "Africanews",
+          "lang": "en",
+          "titleIt": "UN warns terrorist threat Is spreading across west Africa and the sahel"
         },
         {
           "title": "Egypt : American Analyst Accuses Egypt of Escalating  Information Warfare  Against Ethiopia Over GERD",
@@ -148,168 +152,127 @@
           "titleIt": "Egypt : American Analyst Accuses Egypt of Escalating  Information Warfare  Against Ethiopia Over GERD"
         },
         {
-          "title": "Inside the Kitchen of Egyptian Food Content Creator Ramy Elgazar",
-          "link": "https://cairoscene.com/Eats/Inside-the-Kitchen-of-Egyptian-Food-Content-Creator-Ramy-Elgazar",
-          "source": "cairoscene.com",
-          "pubDate": "2026-07-15T05:15:00Z",
+          "title": "As China Retreats , Gulf Capital Targets Africa Infrastructure",
+          "link": "https://gfmag.com/features/gulf-capital-targets-africa-infrastructure/",
+          "source": "gfmag.com",
+          "pubDate": "2026-07-15T00:30:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Inside the Kitchen of Egyptian Food Content Creator Ramy Elgazar"
+          "titleIt": "As China Retreats , Gulf Capital Targets Africa Infrastructure"
         },
         {
-          "title": "Egypt Trade Deficit Widens to USD 47 . 8 Billion",
-          "link": "https://cairoscene.com/News/Egypt-s-Trade-Deficit-Widens-to-USD-47-8-Billion",
-          "source": "cairoscene.com",
-          "pubDate": "2026-07-15T05:15:00Z",
+          "title": "U . S . Says  Do Not Travel  To Haiti – Then Prepares to Send 330 , 000 Haitians There Anyway - Dominican Republic Post – Caribbean News , Business , Travel & Culture",
+          "link": "https://dominicanrepublicpost.com/u-s-says-do-not-travel-to-haiti-then-prepares-to-send-330000-haitians-there-anyway/",
+          "source": "dominicanrepublicpost.com",
+          "pubDate": "2026-07-15T00:00:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Egypt Trade Deficit Widens to USD 47 . 8 Billion"
+          "titleIt": "U . S . Says  Do Not Travel  To Haiti – Then Prepares to Send 330 , 000 Haitians There Anyway - Dominican Republic Post – Caribbean News , Business , Travel & Culture"
         },
         {
-          "title": "VAR - gentina : Has there been foul play ?",
-          "link": "http://global.chinadaily.com.cn/a/202607/15/WS6a56de51a310986e2b4654dc.html",
-          "source": "global.chinadaily.com.cn",
-          "pubDate": "2026-07-15T04:45:00Z",
+          "title": "East Africa : Ethiopia Lifts Credit Cap , Raises Policy Rate As Central Bank Advances Monetary Reform",
+          "link": "https://allafrica.com/stories/202607140675.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-07-14T23:45:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "VAR - gentina : Has there been foul play ?"
+          "titleIt": "East Africa : Ethiopia Lifts Credit Cap , Raises Policy Rate As Central Bank Advances Monetary Reform"
         },
         {
-          "title": "VAR - gentina : Has there been foul play ?",
-          "link": "http://usa.chinadaily.com.cn/a/202607/15/WS6a56de51a310986e2b4654dc.html",
-          "source": "usa.chinadaily.com.cn",
-          "pubDate": "2026-07-15T04:00:00Z",
+          "title": "BRICS Conference in Moscow highlights connectivity and technological sovereignty",
+          "link": "http://www.sandiegosun.com/news/279187464/brics-conference-in-moscow-highlights-connectivity-and-technological-sovereignty",
+          "source": "sandiegosun.com",
+          "pubDate": "2026-07-14T23:15:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "VAR - gentina : Has there been foul play ?"
+          "titleIt": "BRICS Conference in Moscow highlights connectivity and technological sovereignty"
         },
         {
-          "title": "We must adapt to the changing rules of global trade and development",
-          "link": "https://www.thedailystar.net/opinion/views/macro-mirror/news/we-must-adapt-the-changing-rules-global-trade-and-development-4223916",
-          "source": "thedailystar.net",
-          "pubDate": "2026-07-15T03:30:00Z",
+          "title": "BRICS Conference in Moscow highlights connectivity and technological sovereignty",
+          "link": "http://www.chinanationalnews.com/news/279187464/brics-conference-in-moscow-highlights-connectivity-and-technological-sovereignty",
+          "source": "chinanationalnews.com",
+          "pubDate": "2026-07-14T23:15:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "We must adapt to the changing rules of global trade and development"
+          "titleIt": "BRICS Conference in Moscow highlights connectivity and technological sovereignty"
         },
         {
-          "title": "Oil and Gasoline Fast Facts",
-          "link": "https://kesq.com/news/national-world/cnn-world/2026/07/14/oil-and-gasoline-fast-facts-5/",
-          "source": "kesq.com",
-          "pubDate": "2026-07-15T02:45:00Z",
+          "title": "BRICS Conference in Moscow highlights connectivity and technological sovereignty",
+          "link": "http://www.azerbaijannews.net/news/279187464/brics-conference-in-moscow-highlights-connectivity-and-technological-sovereignty",
+          "source": "azerbaijannews.net",
+          "pubDate": "2026-07-14T23:00:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Oil and Gasoline Fast Facts"
+          "titleIt": "BRICS Conference in Moscow highlights connectivity and technological sovereignty"
         },
         {
-          "title": "VAR - gentina : Has there been foul play ?",
-          "link": "http://europe.chinadaily.com.cn/a/202607/15/WS6a56de51a310986e2b4654dc.html",
-          "source": "europe.chinadaily.com.cn",
-          "pubDate": "2026-07-15T02:45:00Z",
+          "title": "BRICS Conference in Moscow highlights connectivity and technological sovereignty",
+          "link": "http://www.srilankasource.com/news/279187464/brics-conference-in-moscow-highlights-connectivity-and-technological-sovereignty",
+          "source": "srilankasource.com",
+          "pubDate": "2026-07-14T22:30:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "VAR - gentina : Has there been foul play ?"
+          "titleIt": "BRICS Conference in Moscow highlights connectivity and technological sovereignty"
         },
         {
-          "title": "World must open its eyes to horrors in Sudan",
-          "link": "https://www.smdailyjournal.com/opinion/other_voices/world-must-open-its-eyes-to-horrors-in-sudan/article_66516970-71d7-456d-b0c6-3ee57050f1af.html",
-          "source": "smdailyjournal.com",
-          "pubDate": "2026-07-15T02:30:00Z",
+          "title": "BRICS Conference in Moscow highlights connectivity and technological sovereignty",
+          "link": "http://www.argentinastar.com/news/279187464/brics-conference-in-moscow-highlights-connectivity-and-technological-sovereignty",
+          "source": "argentinastar.com",
+          "pubDate": "2026-07-14T22:30:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "World must open its eyes to horrors in Sudan"
+          "titleIt": "BRICS Conference in Moscow highlights connectivity and technological sovereignty"
         },
         {
-          "title": "Nasdaq surges 0 . 9 % Tuesday as technology leads ; Dow flatlines",
-          "link": "http://www.dallassun.com/news/279187746/nasdaq-surges-0-9-tuesday-as-technology-leads-dow-flatlines",
-          "source": "dallassun.com",
-          "pubDate": "2026-07-15T01:15:00Z",
+          "title": "BRICS Conference in Moscow highlights connectivity and technological sovereignty",
+          "link": "http://www.ohiostandard.com/news/279187464/brics-conference-in-moscow-highlights-connectivity-and-technological-sovereignty",
+          "source": "ohiostandard.com",
+          "pubDate": "2026-07-14T22:30:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Nasdaq surges 0 . 9 % Tuesday as technology leads ; Dow flatlines"
+          "titleIt": "BRICS Conference in Moscow highlights connectivity and technological sovereignty"
         },
         {
-          "title": "Nasdaq surges 0 . 9 % Tuesday as technology leads ; Dow flatlines",
-          "link": "http://www.parisguardian.com/news/279187746/nasdaq-surges-0-9-tuesday-as-technology-leads-dow-flatlines",
-          "source": "parisguardian.com",
-          "pubDate": "2026-07-15T01:15:00Z",
+          "title": "BRICS Conference in Moscow highlights connectivity and technological sovereignty",
+          "link": "http://www.oklahomastar.com/news/279187464/brics-conference-in-moscow-highlights-connectivity-and-technological-sovereignty",
+          "source": "oklahomastar.com",
+          "pubDate": "2026-07-14T22:15:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Nasdaq surges 0 . 9 % Tuesday as technology leads ; Dow flatlines"
+          "titleIt": "BRICS Conference in Moscow highlights connectivity and technological sovereignty"
         },
         {
-          "title": "Nasdaq surges 0 . 9 % Tuesday as technology leads ; Dow flatlines",
-          "link": "http://www.mexicostar.com/news/279187746/nasdaq-surges-0-9-tuesday-as-technology-leads-dow-flatlines",
-          "source": "mexicostar.com",
-          "pubDate": "2026-07-15T01:15:00Z",
+          "title": "BRICS Conference in Moscow highlights connectivity and technological sovereignty",
+          "link": "http://www.shanghainews.net/news/279187464/brics-conference-in-moscow-highlights-connectivity-and-technological-sovereignty",
+          "source": "shanghainews.net",
+          "pubDate": "2026-07-14T22:00:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Nasdaq surges 0 . 9 % Tuesday as technology leads ; Dow flatlines"
+          "titleIt": "BRICS Conference in Moscow highlights connectivity and technological sovereignty"
         },
         {
-          "title": "FIFA World Cup 2026 :",
-          "link": "http://www.arabherald.com/news/279187828/fifa-world-cup-2026-more-united-than-ever-argentina-send-message-ahead-of-england-semifinal",
-          "source": "arabherald.com",
-          "pubDate": "2026-07-15T01:15:00Z",
+          "title": "BRICS Conference in Moscow highlights connectivity and technological sovereignty",
+          "link": "http://www.greekherald.com/news/279187464/brics-conference-in-moscow-highlights-connectivity-and-technological-sovereignty",
+          "source": "greekherald.com",
+          "pubDate": "2026-07-14T22:00:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "FIFA World Cup 2026 :"
+          "titleIt": "BRICS Conference in Moscow highlights connectivity and technological sovereignty"
         },
         {
-          "title": "Nasdaq surges 0 . 9 % Tuesday as technology leads ; Dow flatlines",
-          "link": "http://www.israelherald.com/news/279187746/nasdaq-surges-0-9-tuesday-as-technology-leads-dow-flatlines",
-          "source": "israelherald.com",
-          "pubDate": "2026-07-15T01:15:00Z",
+          "title": "BRICS Conference in Moscow highlights connectivity and technological sovereignty",
+          "link": "http://www.neworleanssun.com/news/279187464/brics-conference-in-moscow-highlights-connectivity-and-technological-sovereignty",
+          "source": "neworleanssun.com",
+          "pubDate": "2026-07-14T21:45:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Nasdaq surges 0 . 9 % Tuesday as technology leads ; Dow flatlines"
-        },
-        {
-          "title": "Nasdaq surges 0 . 9 % Tuesday as technology leads ; Dow flatlines",
-          "link": "http://www.europesun.com/news/279187746/nasdaq-surges-0-9-tuesday-as-technology-leads-dow-flatlines",
-          "source": "europesun.com",
-          "pubDate": "2026-07-15T01:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Nasdaq surges 0 . 9 % Tuesday as technology leads ; Dow flatlines"
-        },
-        {
-          "title": "Nasdaq surges 0 . 9 % Tuesday as technology leads ; Dow flatlines",
-          "link": "http://www.trinidadtimes.com/news/279187746/nasdaq-surges-0-9-tuesday-as-technology-leads-dow-flatlines",
-          "source": "trinidadtimes.com",
-          "pubDate": "2026-07-15T01:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Nasdaq surges 0 . 9 % Tuesday as technology leads ; Dow flatlines"
-        },
-        {
-          "title": "Nasdaq surges 0 . 9 % Tuesday as technology leads ; Dow flatlines",
-          "link": "http://www.bangladeshsun.com/news/279187746/nasdaq-surges-0-9-tuesday-as-technology-leads-dow-flatlines",
-          "source": "bangladeshsun.com",
-          "pubDate": "2026-07-15T01:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Nasdaq surges 0 . 9 % Tuesday as technology leads ; Dow flatlines"
-        },
-        {
-          "title": "FIFA World Cup 2026 :",
-          "link": "http://www.heraldglobe.com/news/279187828/fifa-world-cup-2026-more-united-than-ever-argentina-send-message-ahead-of-england-semifinal",
-          "source": "heraldglobe.com",
-          "pubDate": "2026-07-15T01:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "FIFA World Cup 2026 :"
-        },
-        {
-          "title": "U . S . stocks close mixed on Tuesday , techs shine",
-          "link": "http://www.britainnews.net/news/279187746/u-s-stocks-close-mixed-on-tuesday-techs-shine",
-          "source": "britainnews.net",
-          "pubDate": "2026-07-15T01:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "U . S . stocks close mixed on Tuesday , techs shine"
+          "titleIt": "BRICS Conference in Moscow highlights connectivity and technological sovereignty"
         }
       ]
+    },
+    "egypt-economy": {
+      "title": "Fragilità economica egiziana",
+      "items": []
     },
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
