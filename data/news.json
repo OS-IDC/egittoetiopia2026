@@ -1,20 +1,11 @@
 {
-  "generatedAt": "2026-07-15T23:42:47.324Z",
+  "generatedAt": "2026-07-16T07:50:18.370Z",
   "feedsChecked": 9,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
-        {
-          "title": "Somalia: Somali Army Destroys Al-Shabaab Hideouts in Lower Shabelle Operation",
-          "link": "https://allafrica.com/stories/202607150600.html",
-          "description": "[Shabelle] Mogadishu -- The Somali National Army (SNA) said it carried out a planned operation in villages near Sablaale district in the Lower Shabelle region, targeting positions used by the Islamist militant group Al-Shabaab.",
-          "pubDate": "Wed, 15 Jul 2026 16:26:14 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Somalia: Somali Army Destroys Al-Shabaab Hideouts in Lower Shabelle Operation"
-        },
         {
           "title": "Regeni verdict September 28",
           "link": "https://www.ansa.it/english/news/2026/07/14/regeni-verdict-september-28_d8199d10-f925-42a0-a33e-f6ed70bd0004.html",
@@ -65,6 +56,15 @@
     "somaliland": {
       "title": "Dossier Somaliland",
       "items": [
+        {
+          "title": "Iran targets military bases as US launches wave of strikes",
+          "link": "https://www.bbc.co.uk/news/articles/c2lq1ed28jxo?at_medium=RSS&at_campaign=rss",
+          "description": "Explosions were heard across Iran overnight, shortly after neighbouring Gulf states began to report attacks.",
+          "pubDate": "Thu, 16 Jul 2026 07:44:08 GMT",
+          "source": "BBC World",
+          "lang": "en",
+          "titleIt": "Iran targets military bases as US launches wave of strikes"
+        },
         {
           "title": "Middle East new security paradigm",
           "link": "https://tribune.com.pk/story/2618449/middle-easts-new-security-paradigm",
@@ -235,21 +235,21 @@
           "lang": "en",
           "description": "",
           "titleIt": "From center to periphery : Eritrea forced disengagement from Ethiopia – Awate . com"
-        },
-        {
-          "title": "Somalia : Somaliland President Backs Modern Voter Registration Rollout",
-          "link": "https://allafrica.com/stories/202607070041.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-07-07T06:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Somalia : Somaliland President Backs Modern Voter Registration Rollout"
         }
       ]
     },
     "ethiopia-sea-access": {
       "title": "Accesso etiope al mare",
       "items": [
+        {
+          "title": "Polonia-Ucraina: sondaggio, maggioranza polacchi sostiene aiuti a Kiev, ma il consenso e' in calo",
+          "link": "https://www.agenzianova.com/a/6a588d35d11d18.33258147/7612479/2026-07-16/polonia-ucraina-sondaggio-maggioranza-polacchi-sostiene-aiuti-a-kiev-ma-il-consenso-e-in-calo",
+          "description": "16 lug 09:29 - (Agenzia Nova) - Nonostante le tensioni nei rapporti con Kiev, i polacchi continuano a sostenere in maggioranza la fornitura... (Vap)",
+          "pubDate": "2026-07-16T09:29:54+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Polonia-Ucraina: sondaggio, maggioranza polacchi sostiene aiuti a Kiev, ma il consenso e' in calo"
+        },
         {
           "title": "Italy-Japan Innovation Forum in Milan",
           "link": "https://www.ansa.it/english/news/news_from_embassies/2026/07/15/italy-japan-innovation-forum-in-milan_4ce6604d-94df-4004-b42c-ddfdbfb4012b.html",
@@ -346,184 +346,184 @@
       "title": "Fragilità economica egiziana",
       "items": [
         {
-          "title": "Nasdaq leads charge as tech stocks surge again",
-          "link": "http://www.irishsun.com/news/279189817/nasdaq-leads-charge-as-tech-stocks-surge-again",
-          "source": "irishsun.com",
-          "pubDate": "2026-07-15T23:15:00Z",
+          "title": "BRICS Standardisation Framework : Win - Win for All : Pralhad Joshi",
+          "link": "https://www.newkerala.com/news/a/common-standardisation-framework-will-win-win-all-pralhad-joshi-857.htm",
+          "source": "newkerala.com",
+          "pubDate": "2026-07-16T07:15:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Nasdaq leads charge as tech stocks surge again"
+          "titleIt": "BRICS Standardisation Framework : Win - Win for All : Pralhad Joshi"
         },
         {
-          "title": "Nasdaq leads charge as tech stocks surge again",
-          "link": "http://www.nepalnational.com/news/279189817/nasdaq-leads-charge-as-tech-stocks-surge-again",
-          "source": "nepalnational.com",
-          "pubDate": "2026-07-15T23:15:00Z",
+          "title": "China Investment in African Farmers but Not Food Processing and Storage : Why It a Growing Problem",
+          "link": "https://www.downtoearth.org.in/africa/china-is-funding-african-farmers-but-not-food-processing-and-storage-why-its-a-problem",
+          "source": "downtoearth.org.in",
+          "pubDate": "2026-07-16T07:00:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Nasdaq leads charge as tech stocks surge again"
+          "titleIt": "China Investment in African Farmers but Not Food Processing and Storage : Why It a Growing Problem"
         },
         {
-          "title": "Ro Khanna dangerous war on Israel Iron Dome",
-          "link": "https://www.washingtonexaminer.com/opinion/beltway-confidential/4650111/ro-khanna-dangerous-war-iron-dome/",
-          "source": "washingtonexaminer.com",
-          "pubDate": "2026-07-15T23:15:00Z",
+          "title": "Laurie Fisher final Wallabies Test ; GWS Giants Rising Star call | The Canberra Times",
+          "link": "https://www.canberratimes.com.au/story/9308778/laurie-fishers-final-wallabies-test-gws-giants-rising-star-call/",
+          "source": "canberratimes.com.au",
+          "pubDate": "2026-07-16T06:30:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Ro Khanna dangerous war on Israel Iron Dome"
+          "titleIt": "Laurie Fisher final Wallabies Test ; GWS Giants Rising Star call | The Canberra Times"
         },
         {
-          "title": "Nasdaq leads charge as tech stocks surge again",
-          "link": "http://www.northkoreatimes.com/news/279189817/nasdaq-leads-charge-as-tech-stocks-surge-again",
-          "source": "northkoreatimes.com",
-          "pubDate": "2026-07-15T23:15:00Z",
+          "title": "Donald Trump :  End of the  American Century ? - CounterPunch . org",
+          "link": "https://www.counterpunch.org/2026/07/16/donald-trump-end-of-the-american-century/",
+          "source": "counterpunch.org",
+          "pubDate": "2026-07-16T06:30:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Nasdaq leads charge as tech stocks surge again"
+          "titleIt": "Donald Trump :  End of the  American Century ? - CounterPunch . org"
         },
         {
-          "title": "Nasdaq leads charge as tech stocks surge again",
-          "link": "http://www.massachusettssun.com/news/279189817/nasdaq-leads-charge-as-tech-stocks-surge-again",
-          "source": "massachusettssun.com",
-          "pubDate": "2026-07-15T23:00:00Z",
+          "title": "By defeating aggression and terrorism , peace is created , Leiter tells JNS after Rome talks - Israel & Jewish News",
+          "link": "https://www.jns.org/news/world/by-defeating-aggression-and-terrorism-peace-is-created-leiter-tells-jns-after-rome-talks",
+          "source": "jns.org",
+          "pubDate": "2026-07-16T06:15:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Nasdaq leads charge as tech stocks surge again"
+          "titleIt": "By defeating aggression and terrorism , peace is created , Leiter tells JNS after Rome talks - Israel & Jewish News"
         },
         {
-          "title": "Across - the - board gains for U . S . stocks Wednesday",
-          "link": "http://www.azerbaijannews.net/news/279189817/across-the-board-gains-for-u-s-stocks-wednesday",
-          "source": "azerbaijannews.net",
-          "pubDate": "2026-07-15T23:00:00Z",
+          "title": "Ibovespa : Brazil Financial Morning Call for Thursday",
+          "link": "https://www.riotimesonline.com/brazils-financial-morning-call-for-thursday-july-16-2026/",
+          "source": "riotimesonline.com",
+          "pubDate": "2026-07-16T06:15:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Across - the - board gains for U . S . stocks Wednesday"
+          "titleIt": "Ibovespa : Brazil Financial Morning Call for Thursday"
         },
         {
-          "title": "Without cooperation , East Med gas will remain missed opportunity",
-          "link": "https://www.dailysabah.com/opinion/op-ed/without-cooperation-east-med-gas-will-remain-missed-opportunity",
-          "source": "dailysabah.com",
-          "pubDate": "2026-07-15T23:00:00Z",
+          "title": "Explore the Latest Research Grant Opportunities",
+          "link": "https://www2.fundsforngos.org/listing/explore-the-latest-research-grant-opportunities/",
+          "source": "fundsforngos.org",
+          "pubDate": "2026-07-16T06:15:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Without cooperation , East Med gas will remain missed opportunity"
+          "titleIt": "Explore the Latest Research Grant Opportunities"
         },
         {
-          "title": "Nasdaq leads charge as tech stocks surge again",
-          "link": "http://www.torontotelegraph.com/news/279189817/nasdaq-leads-charge-as-tech-stocks-surge-again",
-          "source": "torontotelegraph.com",
-          "pubDate": "2026-07-15T23:00:00Z",
+          "title": "Jimmy Carter an unforgettable global citizen - The Nation Newspaper",
+          "link": "https://thenationonlineng.net/jimmy-carter-an-unforgettable-global-citizen-2/",
+          "source": "thenationonlineng.net",
+          "pubDate": "2026-07-16T06:15:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Nasdaq leads charge as tech stocks surge again"
+          "titleIt": "Jimmy Carter an unforgettable global citizen - The Nation Newspaper"
         },
         {
-          "title": "Nasdaq leads charge as tech stocks surge again",
-          "link": "http://www.mainemirror.com/news/279189817/nasdaq-leads-charge-as-tech-stocks-surge-again",
-          "source": "mainemirror.com",
-          "pubDate": "2026-07-15T23:00:00Z",
+          "title": "U . S . House passes bill with US$500 million in military financing for Taiwan",
+          "link": "https://focustaiwan.tw/politics/202607160008",
+          "source": "focustaiwan.tw",
+          "pubDate": "2026-07-16T05:45:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Nasdaq leads charge as tech stocks surge again"
+          "titleIt": "U . S . House passes bill with US$500 million in military financing for Taiwan"
         },
         {
-          "title": "Nasdaq leads charge as tech stocks surge again",
-          "link": "http://www.memphissun.com/news/279189817/nasdaq-leads-charge-as-tech-stocks-surge-again",
-          "source": "memphissun.com",
-          "pubDate": "2026-07-15T23:00:00Z",
+          "title": "U . S . House passes bill with US$500 million in military financing for Taiwan",
+          "link": "https://focustaiwan.tw:443/politics/202607160008",
+          "source": "focustaiwan.tw",
+          "pubDate": "2026-07-16T05:45:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Nasdaq leads charge as tech stocks surge again"
+          "titleIt": "U . S . House passes bill with US$500 million in military financing for Taiwan"
         },
         {
-          "title": "Nasdaq leads charge as tech stocks surge again",
-          "link": "http://www.taiwansun.com/news/279189817/nasdaq-leads-charge-as-tech-stocks-surge-again",
-          "source": "taiwansun.com",
-          "pubDate": "2026-07-15T23:00:00Z",
+          "title": "International Business : Global stocks edge up after drop in US inflation reading",
+          "link": "https://www.gdnonline.com:443/Details/1400784",
+          "source": "gdnonline.com",
+          "pubDate": "2026-07-16T05:30:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Nasdaq leads charge as tech stocks surge again"
+          "titleIt": "International Business : Global stocks edge up after drop in US inflation reading"
         },
         {
-          "title": "Across - the - board gains for U . S . stocks Wednesday",
-          "link": "http://www.bruneinews.net/news/279189817/across-the-board-gains-for-u-s-stocks-wednesday",
-          "source": "bruneinews.net",
-          "pubDate": "2026-07-15T22:45:00Z",
+          "title": "Africa Startup Funding Holds Steady As Early - Stage Deals Dip",
+          "link": "https://allafrica.com/stories/202607160031.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-07-16T05:15:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Across - the - board gains for U . S . stocks Wednesday"
+          "titleIt": "Africa Startup Funding Holds Steady As Early - Stage Deals Dip"
         },
         {
-          "title": "Nasdaq leads charge as tech stocks surge again",
-          "link": "http://www.tucsonpost.com/news/279189817/nasdaq-leads-charge-as-tech-stocks-surge-again",
-          "source": "tucsonpost.com",
-          "pubDate": "2026-07-15T22:45:00Z",
+          "title": "Messi and Argentina set for World Cup final showdown with Spain - Breaking News",
+          "link": "https://www.dailymirror.lk/breaking-news/Messi-and-Argentina-set-for-World-Cup-final-showdown-with-Spain/108-345740",
+          "source": "dailymirror.lk",
+          "pubDate": "2026-07-16T05:15:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Nasdaq leads charge as tech stocks surge again"
+          "titleIt": "Messi and Argentina set for World Cup final showdown with Spain - Breaking News"
         },
         {
-          "title": "Nasdaq leads charge as tech stocks surge again",
-          "link": "http://www.asiabulletin.com/news/279189817/nasdaq-leads-charge-as-tech-stocks-surge-again",
-          "source": "asiabulletin.com",
-          "pubDate": "2026-07-15T22:30:00Z",
+          "title": "Africa : China Is Funding African Farmers but Not Food Processing and Storage - Why It a Problem",
+          "link": "https://allafrica.com/stories/202607160042.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-07-16T05:15:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Nasdaq leads charge as tech stocks surge again"
+          "titleIt": "Africa : China Is Funding African Farmers but Not Food Processing and Storage - Why It a Problem"
         },
         {
-          "title": "Nasdaq leads charge as tech stocks surge again",
-          "link": "http://www.srilankasource.com/news/279189817/nasdaq-leads-charge-as-tech-stocks-surge-again",
-          "source": "srilankasource.com",
-          "pubDate": "2026-07-15T22:30:00Z",
+          "title": "AfDB Approves USD 66 Million for Egypt Dandara Solar Project",
+          "link": "https://cairoscene.com/News/AfDB-Approves-USD-66-Million-for-Egypt-s-Dandara-Solar-Project",
+          "source": "cairoscene.com",
+          "pubDate": "2026-07-16T05:15:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Nasdaq leads charge as tech stocks surge again"
+          "titleIt": "AfDB Approves USD 66 Million for Egypt Dandara Solar Project"
         },
         {
-          "title": "Nasdaq leads charge as tech stocks surge again",
-          "link": "http://www.bostonstar.com/news/279189817/nasdaq-leads-charge-as-tech-stocks-surge-again",
-          "source": "bostonstar.com",
-          "pubDate": "2026-07-15T22:15:00Z",
+          "title": "All Socialists Are Ignorant , But Some Are More Ignorant Than Others ...",
+          "link": "https://www.zerohedge.com/political/all-socialists-are-ignorant-some-are-more-ignorant-others",
+          "source": "zerohedge.com",
+          "pubDate": "2026-07-16T05:00:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Nasdaq leads charge as tech stocks surge again"
+          "titleIt": "All Socialists Are Ignorant , But Some Are More Ignorant Than Others ..."
         },
         {
-          "title": "Across - the - board gains for U . S . stocks Wednesday",
-          "link": "http://www.australiannews.net/news/279189817/across-the-board-gains-for-u-s-stocks-wednesday",
-          "source": "australiannews.net",
-          "pubDate": "2026-07-15T22:15:00Z",
+          "title": "Macau mascot strategy | MACAU DAILY TIMES 澳門每日時報",
+          "link": "https://macaudailytimes.com.mo/macaus-mascot-strategy.html",
+          "source": "macaudailytimes.com.mo",
+          "pubDate": "2026-07-16T05:00:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Across - the - board gains for U . S . stocks Wednesday"
+          "titleIt": "Macau mascot strategy | MACAU DAILY TIMES 澳門每日時報"
         },
         {
-          "title": "Nasdaq leads charge as tech stocks surge again",
-          "link": "http://www.afghanistansun.com/news/279189817/nasdaq-leads-charge-as-tech-stocks-surge-again",
-          "source": "afghanistansun.com",
-          "pubDate": "2026-07-15T22:15:00Z",
+          "title": "Indonesia urges BRICS members to strengthen future skills forecasting",
+          "link": "https://en.antaranews.com/news/422852/indonesia-urges-brics-members-to-strengthen-future-skills-forecasting",
+          "source": "en.antaranews.com",
+          "pubDate": "2026-07-16T05:00:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Nasdaq leads charge as tech stocks surge again"
+          "titleIt": "Indonesia urges BRICS members to strengthen future skills forecasting"
         },
         {
-          "title": "Nasdaq leads charge as tech stocks surge again",
-          "link": "http://www.jamaicantimes.com/news/279189817/nasdaq-leads-charge-as-tech-stocks-surge-again",
-          "source": "jamaicantimes.com",
-          "pubDate": "2026-07-15T22:15:00Z",
+          "title": "Fresh capital not enough to boost bank value – Proshare",
+          "link": "https://thesun.ng/fresh-capital-not-enough-to-boost-banks-value-proshare/",
+          "source": "thesun.ng",
+          "pubDate": "2026-07-16T04:45:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Nasdaq leads charge as tech stocks surge again"
+          "titleIt": "Fresh capital not enough to boost bank value – Proshare"
         },
         {
-          "title": "Across - the - board gains for U . S . stocks Wednesday",
-          "link": "http://www.thailandnews.net/news/279189817/across-the-board-gains-for-u-s-stocks-wednesday",
-          "source": "thailandnews.net",
-          "pubDate": "2026-07-15T22:15:00Z",
+          "title": "Pacific . scoop . co . nz » UN Forum Concludes With Renewed Commitment To Accelerate Action On The Sustainable Development Goals",
+          "link": "https://pacific.scoop.co.nz/2026/07/un-forum-concludes-with-renewed-commitment-to-accelerate-action-on-the-sustainable-development-goals/",
+          "source": "pacific.scoop.co.nz",
+          "pubDate": "2026-07-16T04:30:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Across - the - board gains for U . S . stocks Wednesday"
+          "titleIt": "Pacific . scoop . co . nz » UN Forum Concludes With Renewed Commitment To Accelerate Action On The Sustainable Development Goals"
         }
       ]
     },
