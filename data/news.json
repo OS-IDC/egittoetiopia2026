@@ -1,29 +1,11 @@
 {
-  "generatedAt": "2026-07-16T13:09:33.124Z",
-  "feedsChecked": 9,
+  "generatedAt": "2026-07-16T18:20:57.460Z",
+  "feedsChecked": 8,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
-        {
-          "title": "Regeni verdict September 28",
-          "link": "https://www.ansa.it/english/news/2026/07/14/regeni-verdict-september-28_d8199d10-f925-42a0-a33e-f6ed70bd0004.html",
-          "description": "(ANSA) - ROME, JUL 14 - A verdict in the Rome in-absentia trial of four Egyptian national security officials charged with abducting and torturing to death Italian student Giulio Regeni in Cairo in January-February 2016 has been set for September 28, the court said Tuesday. The 28-year-old student's half-naked body was found in a ditch on the Cairo-Alexandria highway on February 3, 2016, nine days after he disappeared on the Cairo metro on January 25. Regeni, a Friuli-born Cambridge University doctoral researcher into Cairo street unions, was allegedly abducted and tortured to death by National",
-          "pubDate": "Tue, 14 Jul 2026 13:50:48 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "Regeni verdict September 28"
-        },
-        {
-          "title": "Regeni verdict September 28",
-          "link": "https://www.ansa.it/english/news/world/2026/07/14/regeni-verdict-september-28_4e4c5182-7b3b-4edb-9808-4795b2095661.html",
-          "description": "(ANSA) - ROME, JUL 14 - A verdict in the Rome in-absentia trial of four Egyptian national security officials charged with abducting and torturing to death Italian student Giulio Regeni in Cairo in January-February 2016 has been set for September 28, the court said Tuesday. The 28-year-old student's half-naked body was found in a ditch on the Cairo-Alexandria highway on February 3, 2016, nine days after he disappeared on the Cairo metro on January 25. Regeni, a Friuli-born Cambridge University doctoral researcher into Cairo street unions, was allegedly abducted and tortured to death by National",
-          "pubDate": "Tue, 14 Jul 2026 13:34:16 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "Regeni verdict September 28"
-        },
         {
           "title": "Egypt receive a warm welcome home",
           "link": "https://www.bbc.co.uk/sport/videos/ce8jlv22r6vo?at_medium=RSS&at_campaign=rss",
@@ -32,30 +14,30 @@
           "source": "BBC Africa",
           "lang": "en",
           "titleIt": "Egypt receive a warm welcome home"
-        },
-        {
-          "title": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab",
-          "link": "https://www.crisisgroup.org/brf/africa/somalia/b212-new-chapter-same-stalemate-somalias-war-al-shabaab",
-          "description": "The Somali government’s battle with Al-Shabaab militants grinds on, with neither able to gain a decisive advantage. To improve its lot, Mogadishu needs to bolster its military and alleviate civilian suffering in areas under insurgent control, while looking for openings for dialogue with the group.",
-          "pubDate": "Tuesday, June 30, 2026 - 15:20",
-          "source": "Crisis Group",
-          "lang": "en",
-          "titleIt": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab"
-        },
-        {
-          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
-          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
-          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
-          "pubDate": "Saturday, May 16, 2026 - 00:08",
-          "source": "Crisis Group",
-          "lang": "en",
-          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
     "somaliland": {
       "title": "Dossier Somaliland",
       "items": [
+        {
+          "title": "Kenya: IEBC Disowns Armed Hooded Men Reported in Ol Kalou By Election",
+          "link": "https://allafrica.com/stories/202607160673.html",
+          "description": "[Capital FM] Nairobi -- The Independent Electoral and Boundaries Commission has distanced itself from reports of hooded men travelling in unmarked vehicles, saying such individuals are not part of the official election security arrangement.",
+          "pubDate": "Thu, 16 Jul 2026 16:47:20 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Kenya: IEBC Disowns Armed Hooded Men Reported in Ol Kalou By Election"
+        },
+        {
+          "title": "Ethiopia: U.S. Ambassador Touches Down in Gondar to Champion Trade, Regional Stability",
+          "link": "https://allafrica.com/stories/202607160670.html",
+          "description": "[Reporter] Just a day after executing a high-stakes diplomatic mission to Mekelle in the Tigray region, US Ambassador Ervin Massinga arrived in Gondar today to advance commercial ties, prioritize regional peace, and review critical healthcare initiatives.",
+          "pubDate": "Thu, 16 Jul 2026 16:46:06 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Ethiopia: U.S. Ambassador Touches Down in Gondar to Champion Trade, Regional Stability"
+        },
         {
           "title": "Kenya: Ol Kalou By-Election - Security Chiefs Say Poll Peaceful, Reject Intimidation Claims",
           "link": "https://allafrica.com/stories/202607160486.html",
@@ -73,24 +55,6 @@
           "source": "BBC World",
           "lang": "en",
           "titleIt": "Iran targets military bases as US launches wave of strikes"
-        },
-        {
-          "title": "Kenyan grandmothers find health, friendship and purpose through football",
-          "link": "http://www.africanews.com/2026/07/14/kenyan-grandmothers-find-health-friendship-and-purpose-through-football/",
-          "description": "For these women, football is about far more than the final score. It is helping them stay healthy, reduce isolation and build confidence—showing that it's never too late to embrace sport and that ageing can be active, joyful and full of new possibilities",
-          "pubDate": "Tue, 14 Jul 2026 14:49:01 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "Kenyan grandmothers find health, friendship and purpose through football"
-        },
-        {
-          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
-          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
-          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
-          "pubDate": "Saturday, May 16, 2026 - 00:08",
-          "source": "Crisis Group",
-          "lang": "en",
-          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
@@ -98,31 +62,130 @@
       "title": "Accesso etiope al mare",
       "items": [
         {
-          "title": "Speciale porti: Sudan, firmato accordo con societa' turca Ergaz per costruzione primo terminale del gas nel porto di Suakin",
-          "link": "https://www.agenzianova.com/a/6a58d808d20772.39553478/7613672/2026-07-16/speciale-porti-sudan-firmato-accordo-con-societa-turca-ergaz-per-costruzione-primo-terminale-del-gas-nel-porto-di-suakin",
-          "description": "16 lug 15:00 - (Agenzia Nova) - Il governo del Sudan ha firmato un memorandum d'intesa con la societa' turca Ergaz per la costruzione del primo... (Suk)",
-          "pubDate": "2026-07-16T15:00:32+02:00",
+          "title": "Algeria-Germania: lanciata a Berlino una nuova agenda strategica di partenariato (2)",
+          "link": "https://www.agenzianova.com/a/6a592104f12016.38450554/7615979/2026-07-16/algeria-germania-lanciata-a-berlino-una-nuova-agenda-strategica-di-partenariato-2",
+          "description": "16 lug 19:38 - (Agenzia Nova) - Il settore energetico occupa una posizione centrale nella nuova agenda. Le parti hanno ribadito l'importanza... (Ala)",
+          "pubDate": "2026-07-16T19:38:16+02:00",
           "source": "Agenzia Nova",
           "lang": "it",
-          "titleIt": "Speciale porti: Sudan, firmato accordo con societa' turca Ergaz per costruzione primo terminale del gas nel porto di Suakin"
+          "titleIt": "Algeria-Germania: lanciata a Berlino una nuova agenda strategica di partenariato (2)"
         },
         {
-          "title": "Speciale porti: Algeria-Germania, Tebboune rilancia il partenariato strategico con Berlino tra idrogeno verde, industria e collegamenti aerei",
-          "link": "https://www.agenzianova.com/a/6a58d808d23cd0.67523601/7613670/2026-07-16/speciale-porti-algeria-germania-tebboune-rilancia-il-partenariato-strategico-con-berlino-tra-idrogeno-verde-industria-e-collegamenti-aerei",
-          "description": "16 lug 15:00 - (Agenzia Nova) - Il presidente algerino Abdelmadjid Tebboune ha lanciato da Berlino un messaggio di rafforzamento delle relazioni... (Ala)",
-          "pubDate": "2026-07-16T15:00:32+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Speciale porti: Algeria-Germania, Tebboune rilancia il partenariato strategico con Berlino tra idrogeno verde, industria e collegamenti aerei"
+          "title": "The Horn Of Africa States : The Invisible Money Revolution - OpEd",
+          "link": "https://www.eurasiareview.com/16072026-the-horn-of-africa-states-the-invisible-money-revolution-oped/",
+          "source": "eurasiareview.com",
+          "pubDate": "2026-07-16T17:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The Horn Of Africa States : The Invisible Money Revolution - OpEd"
         },
         {
-          "title": "Speciale porti: Fvg, assessore Ambiente, accordo Arpa-Porto per sviluppo sostenibile",
-          "link": "https://www.agenzianova.com/a/6a58d808d2ae81.44126043/7611385/2026-07-16/speciale-porti-fvg-assessore-ambiente-accordo-arpa-porto-per-sviluppo-sostenibile",
-          "description": "16 lug 15:00 - (Agenzia Nova) - \"L'intesa tra Arpa Fvg e Autorita' portuale si inserisce perfettamente in quella che e' sempre stata la linea... (Frt)",
-          "pubDate": "2026-07-16T15:00:00+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Speciale porti: Fvg, assessore Ambiente, accordo Arpa-Porto per sviluppo sostenibile"
+          "title": "Ethiopia: U.S. Ambassador Touches Down in Gondar to Champion Trade, Regional Stability",
+          "link": "https://allafrica.com/stories/202607160670.html",
+          "description": "[Reporter] Just a day after executing a high-stakes diplomatic mission to Mekelle in the Tigray region, US Ambassador Ervin Massinga arrived in Gondar today to advance commercial ties, prioritize regional peace, and review critical healthcare initiatives.",
+          "pubDate": "Thu, 16 Jul 2026 16:46:06 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Ethiopia: U.S. Ambassador Touches Down in Gondar to Champion Trade, Regional Stability"
+        },
+        {
+          "title": "Sanctions on Moscow won't stop war, hope there aren't another 20 packages - Salvini",
+          "link": "https://www.ansa.it/english/news/2026/07/16/sanctions-on-moscow-wont-stop-war-hope-there-arent-another-20-packages_e5a6e493-3d4c-499a-88ee-72e092674a79.html",
+          "description": "(ANSA) - ROME, JUL 16 - Right-wing League party leader, Deputy Premier and Transport Minister Matteo Salvini said Thursday that European Union sanctions on Moscow would not stop the UKraine war and he hoped there would not be another 20 packages of them. \"It doesn't seem to me that the sanctions have brought an end to the conflict... and I hope there aren't another 20 sanctions packages before we reach the end of this war. At the negotiating table, because this conflict won't end with a clear winner,\" Salvini said this during a video conference at a meeting of Gim Unimpresa, the association of",
+          "pubDate": "Thu, 16 Jul 2026 18:43:38 +0200",
+          "source": "ANSA English",
+          "lang": "en",
+          "titleIt": "Sanctions on Moscow won't stop war, hope there aren't another 20 packages - Salvini"
+        },
+        {
+          "title": "Sanctions on Moscow won't stop war, hope there aren't another 20 packages - Salvini",
+          "link": "https://www.ansa.it/english/news/world/2026/07/16/sanctions-on-moscow-wont-stop-war-hope-there-arent-another-20-packages_212069b4-1df5-4ada-9efb-fbf8e326e90a.html",
+          "description": "(ANSA) - ROME, JUL 16 - Right-wing League party leader, Deputy Premier and Transport Minister Matteo Salvini said Thursday that European Union sanctions on Moscow would not stop the UKraine war and he hoped there would not be another 20 packages of them. \"It doesn't seem to me that the sanctions have brought an end to the conflict... and I hope there aren't another 20 sanctions packages before we reach the end of this war. At the negotiating table, because this conflict won't end with a clear winner,\" Salvini said this during a video conference at a meeting of Gim Unimpresa, the association of",
+          "pubDate": "Thu, 16 Jul 2026 18:22:16 +0200",
+          "source": "ANSA English",
+          "lang": "en",
+          "titleIt": "Sanctions on Moscow won't stop war, hope there aren't another 20 packages - Salvini"
+        },
+        {
+          "title": "African Nexus Summit discusses innovative approaches to build climate resilience – Ghanamma . com",
+          "link": "https://www.ghanamma.com/2026/07/16/african-nexus-summit-discusses-innovative-approaches-to-build-climate-resilience/",
+          "source": "ghanamma.com",
+          "pubDate": "2026-07-16T15:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "African Nexus Summit discusses innovative approaches to build climate resilience – Ghanamma . com"
+        },
+        {
+          "title": "Foreign Affairs Council : Remarks by High Representative Kaja Kallas at the press conference",
+          "link": "https://www.globalsecurity.org/military/library/news/2026/07/mil-260713-eeas01.htm",
+          "source": "globalsecurity.org",
+          "pubDate": "2026-07-16T12:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Foreign Affairs Council : Remarks by High Representative Kaja Kallas at the press conference"
+        },
+        {
+          "title": "Ethiopia : PM Abiy Calls On Natl Dialogue Conference Participants to Embrace Responsibility , Safeguard Sovereignty",
+          "link": "https://allafrica.com/stories/202607160056.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-07-16T08:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia : PM Abiy Calls On Natl Dialogue Conference Participants to Embrace Responsibility , Safeguard Sovereignty"
+        },
+        {
+          "title": "Africa : Ethiopia National Dialogue Can Serve As Exemplary Model for Africa - PM Abiy",
+          "link": "https://allafrica.com/stories/202607160059.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-07-16T08:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Africa : Ethiopia National Dialogue Can Serve As Exemplary Model for Africa - PM Abiy"
+        },
+        {
+          "title": "Ibovespa : Brazil Financial Morning Call for Thursday",
+          "link": "https://www.riotimesonline.com/brazils-financial-morning-call-for-thursday-july-16-2026/",
+          "source": "riotimesonline.com",
+          "pubDate": "2026-07-16T06:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ibovespa : Brazil Financial Morning Call for Thursday"
+        },
+        {
+          "title": "Ethiopia : As War Fears Grow in Ethiopia , Women Soldiers Recount the Sexual Violence They Experienced",
+          "link": "https://allafrica.com/stories/202607160038.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-07-16T06:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia : As War Fears Grow in Ethiopia , Women Soldiers Recount the Sexual Violence They Experienced"
+        },
+        {
+          "title": "American Sanctions Didnt Improve Eritrea Brutal Government - The American Conservative",
+          "link": "https://www.theamericanconservative.com/american-sanctions-didnt-improve-eritreas-brutal-government/",
+          "source": "theamericanconservative.com",
+          "pubDate": "2026-07-16T04:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "American Sanctions Didnt Improve Eritrea Brutal Government - The American Conservative"
+        },
+        {
+          "title": "Resource - for - security deals reshape power dynamics in Africa",
+          "link": "https://www.riotimesonline.com/resource-for-security-deals-reshaping-power-africa-2026/",
+          "source": "riotimesonline.com",
+          "pubDate": "2026-07-15T18:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Resource - for - security deals reshape power dynamics in Africa"
+        },
+        {
+          "title": "Ethiopia Prosperity Party : Delusional Precepts as Tools of Regional Destabilization – Eritrea Ministry Of Information",
+          "link": "https://shabait.com/2026/07/15/ethiopias-prosperity-party-delusional-precepts-as-tools-of-regional-destabilization/",
+          "source": "shabait.com",
+          "pubDate": "2026-07-15T14:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia Prosperity Party : Delusional Precepts as Tools of Regional Destabilization – Eritrea Ministry Of Information"
         },
         {
           "title": "Italy-Japan Innovation Forum in Milan",
@@ -143,6 +206,24 @@
           "titleIt": "EU report: Agri' markets expected to remain resilient in 2026 despite heat risks"
         },
         {
+          "title": "Newborn giraffe named after Jude Bellingham at Hythe wildlife park",
+          "link": "https://www.bbc.co.uk/news/articles/cdr4r7v5l7go",
+          "source": "bbc.co.uk",
+          "pubDate": "2026-07-15T13:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Newborn giraffe named after Jude Bellingham at Hythe wildlife park"
+        },
+        {
+          "title": "GCW768",
+          "link": "https://www.globalcement.com/news/tags/gcw768",
+          "source": "globalcement.com",
+          "pubDate": "2026-07-15T12:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "GCW768"
+        },
+        {
           "title": "Markets may be underestimating risks, sharp correction possible - BoI's Panetta",
           "link": "https://www.ansa.it/english/news/business/2026/07/15/markets-may-be-underestimating-risks-sharp-correction-possible-bois-panetta_04b32105-5519-4653-8488-2919b4449d07.html",
           "description": "(ANSA) - ROME, JUL 15 - Bank of Italy Governor Fabio Panetta said Wednesday that the financial markets may be underestimating the risks the global economy faces and a major corrections could be in store. \"The speed of the market recovery (following shock of the Iran war) should be interpreted with caution,\" Panetta said during a speech at the assembly of Italian banking association ABI. \"It may indicate confidence in the global economy's ability to absorb these tensions. \"However, it may also signal an underestimation of the risks, a hypothesis that is supported by various indicators. \"The ris",
@@ -159,69 +240,52 @@
           "source": "ANSA English",
           "lang": "en",
           "titleIt": "Markets may be underestimating risks, sharp correction possible - BoI's Panetta"
-        },
-        {
-          "title": "UN warns terrorist threat Is spreading across west Africa and the sahel",
-          "link": "http://www.africanews.com/2026/07/15/un-warns-terrorist-threat-is-spreading-across-west-africa-and-the-sahel/",
-          "description": "The UN says lasting stability in the region will require sustained international support, investment in humanitarian assistance and stronger regional cooperation to tackle both the security threats and the underlying causes of conflict.",
-          "pubDate": "Wed, 15 Jul 2026 05:59:22 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "UN warns terrorist threat Is spreading across west Africa and the sahel"
-        },
-        {
-          "title": "Villa warned over sportswashing after Visit Rwanda deal",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cm20211g25lo?at_medium=RSS&at_campaign=rss",
-          "description": "Aston Villa are warned their new £20m-a-year sponsorship deal with Visit Rwanda will be used by the nation to sportswash its human rights record.",
-          "pubDate": "Tue, 14 Jul 2026 18:44:04 GMT",
-          "source": "BBC Africa",
-          "lang": "en",
-          "titleIt": "Villa warned over sportswashing after Visit Rwanda deal"
-        },
-        {
-          "title": "Udine mayor probed for vote buying",
-          "link": "https://www.ansa.it/english/news/general_news/2026/07/14/udine-mayor-probed-for-vote-buying_b9d4ee86-4d38-4524-9b06-42ffdc1c1836.html",
-          "description": "(ANSA) - ROME, JUL 14 - Udine Mayor Felice Alberto De Toni has been placed under investigation on suspicion of vote buying, judicial sources in the Friuli city said Tuesday. Also under investigation are opposition councilor Stefano Salmè and his partner, Daniela Perissutti, vice president of \"Arriva Udine,\" a publicly held local and suburban public transportation company, TV 12 reported. The case stems from a complaint filed in 2024 by twelve opposition councilors, except Salmè, asking the judiciary to open investigations into two incidents: a pre-runoff agreement with Ivano Marchiol—who was a",
-          "pubDate": "Tue, 14 Jul 2026 15:54:24 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "Udine mayor probed for vote buying"
-        },
-        {
-          "title": "Udine mayor probed for vote buying",
-          "link": "https://www.ansa.it/english/news/2026/07/14/udine-mayor-probed-for-vote-buying_96b24869-46d7-47b2-ba12-6385a653223c.html",
-          "description": "(ANSA) - ROME, JUL 14 - Udine Mayor Felice Alberto De Toni has been placed under investigation on suspicion of vote buying, judicial sources in the Friuli city said Tuesday. Also under investigation are opposition councilor Stefano Salmè and his partner, Daniela Perissutti, vice president of \"Arriva Udine,\" a publicly held local and suburban public transportation company, TV 12 reported. The case stems from a complaint filed in 2024 by twelve opposition councilors, except Salmè, asking the judiciary to open investigations into two incidents: a pre-runoff agreement with Ivano Marchiol—who was a",
-          "pubDate": "Tue, 14 Jul 2026 15:48:22 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "Udine mayor probed for vote buying"
-        },
-        {
-          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
-          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
-          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
-          "pubDate": "Saturday, May 16, 2026 - 00:08",
-          "source": "Crisis Group",
-          "lang": "en",
-          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
     "egypt-economy": {
       "title": "Fragilità economica egiziana",
-      "items": []
+      "items": [
+        {
+          "title": "Egitto: lanciato progetto \"Villaggio produttivo\" per creare posti lavoro e frenare emigrazione (2)",
+          "link": "https://www.agenzianova.com/a/6a592104f056a0.99522606/7616011/2026-07-16/egitto-lanciato-progetto-villaggio-produttivo-per-creare-posti-lavoro-e-frenare-emigrazione-2",
+          "description": "16 lug 19:45 - (Agenzia Nova) - Il governo egiziano ha condotto indagini e visite sul campo nei villaggi individuati per valutarne le capacita'... (Cae)",
+          "pubDate": "2026-07-16T19:45:23+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Egitto: lanciato progetto \"Villaggio produttivo\" per creare posti lavoro e frenare emigrazione (2)"
+        }
+      ]
     },
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
       "items": [
         {
-          "title": "Speciale porti: Sudan, firmato accordo con societa' turca Ergaz per costruzione primo terminale del gas nel porto di Suakin",
-          "link": "https://www.agenzianova.com/a/6a58d808d20772.39553478/7613672/2026-07-16/speciale-porti-sudan-firmato-accordo-con-societa-turca-ergaz-per-costruzione-primo-terminale-del-gas-nel-porto-di-suakin",
-          "description": "16 lug 15:00 - (Agenzia Nova) - Il governo del Sudan ha firmato un memorandum d'intesa con la societa' turca Ergaz per la costruzione del primo... (Suk)",
-          "pubDate": "2026-07-16T15:00:32+02:00",
+          "title": "Egitto: lanciato progetto \"Villaggio produttivo\" per creare posti lavoro e frenare emigrazione (4)",
+          "link": "https://www.agenzianova.com/a/6a592104f01a99.86410606/7616013/2026-07-16/egitto-lanciato-progetto-villaggio-produttivo-per-creare-posti-lavoro-e-frenare-emigrazione-4",
+          "description": "16 lug 19:45 - (Agenzia Nova) - La semplificazione delle procedure di rilascio delle licenze per le attivita' industriali al di fuori delle... (Cae)",
+          "pubDate": "2026-07-16T19:45:23+02:00",
           "source": "Agenzia Nova",
           "lang": "it",
-          "titleIt": "Speciale porti: Sudan, firmato accordo con societa' turca Ergaz per costruzione primo terminale del gas nel porto di Suakin"
+          "titleIt": "Egitto: lanciato progetto \"Villaggio produttivo\" per creare posti lavoro e frenare emigrazione (4)"
+        },
+        {
+          "title": "Sudan: Sudan Cotton Company Director Reviews Progress of Post-War Rehabilitation Work",
+          "link": "https://allafrica.com/stories/202607160668.html",
+          "description": "[SNA] Khartoum -- Director General of the Sudan Cotton Company, Lieutenant General Dr. Nasreddin Abdel Fattah, on Thursday inspected the company's external facilities to review the progress of rehabilitation work on war-damaged assets under the company's recovery plan. During the visit, he was briefed on projects being implemented by the company's Engineering Unit in preparation for the current agricultural season and commended the progress achieved.",
+          "pubDate": "Thu, 16 Jul 2026 16:42:41 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Sudan: Sudan Cotton Company Director Reviews Progress of Post-War Rehabilitation Work"
+        },
+        {
+          "title": "Ethiopia: More Than 10,700 Tons of Fish Harvested From Lake Created By GERD",
+          "link": "https://allafrica.com/stories/202607160662.html",
+          "description": "[ENA] Addis Ababa -- Over 10,700 tons of fish were harvested from Lake Nigat, a massive artificial reservoir formed by the Grand Ethiopian Renaissance Dam, in the concluded Ethiopian fiscal year, according to Benishangul-Gumuz Region Agriculture Bureau.",
+          "pubDate": "Thu, 16 Jul 2026 16:36:14 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Ethiopia: More Than 10,700 Tons of Fish Harvested From Lake Created By GERD"
         }
       ]
     }
