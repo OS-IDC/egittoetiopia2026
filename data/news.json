@@ -1,11 +1,47 @@
 {
-  "generatedAt": "2026-07-16T23:17:32.225Z",
+  "generatedAt": "2026-07-17T07:37:43.751Z",
   "feedsChecked": 9,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
+        {
+          "title": "Egitto-Libia: capo dei servizi segreti Rashad riceve viceministro Difesa libico Al Zoubi (3)",
+          "link": "https://www.agenzianova.com/a/6a59dbc393d019.57384866/7617083/2026-07-17/egitto-libia-capo-dei-servizi-segreti-rashad-riceve-viceministro-difesa-libico-al-zoubi-3",
+          "description": "17 lug 09:27 - (Agenzia Nova) - Al Zoubi e' intanto diventato uno dei principali interlocutori della Libia occidentale nei negoziati internazionali... (Cae)",
+          "pubDate": "2026-07-17T09:27:16+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Egitto-Libia: capo dei servizi segreti Rashad riceve viceministro Difesa libico Al Zoubi (3)"
+        },
+        {
+          "title": "Egitto-Libia: capo dei servizi segreti Rashad riceve viceministro Difesa libico Al Zoubi (2)",
+          "link": "https://www.agenzianova.com/a/6a59dbc393eab1.50811978/7617082/2026-07-17/egitto-libia-capo-dei-servizi-segreti-rashad-riceve-viceministro-difesa-libico-al-zoubi-2",
+          "description": "17 lug 09:27 - (Agenzia Nova) - L'incontro assume particolare rilievo perche' avviene meno di un mese dopo la visita compiuta da Rashad a Tripoli... (Cae)",
+          "pubDate": "2026-07-17T09:27:16+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Egitto-Libia: capo dei servizi segreti Rashad riceve viceministro Difesa libico Al Zoubi (2)"
+        },
+        {
+          "title": "Egitto-Libia: capo dei servizi segreti Rashad riceve viceministro Difesa libico Al Zoubi",
+          "link": "https://www.agenzianova.com/a/6a59dbc3940663.84974570/7617081/2026-07-17/egitto-libia-capo-dei-servizi-segreti-rashad-riceve-viceministro-difesa-libico-al-zoubi",
+          "description": "17 lug 09:27 - (Agenzia Nova) - Il direttore dei servizi d'intelligence egiziani, Hassan Rashad, ha incontrato ad Alamein, in Egitto, il viceministro... (Cae)",
+          "pubDate": "2026-07-17T09:27:16+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Egitto-Libia: capo dei servizi segreti Rashad riceve viceministro Difesa libico Al Zoubi"
+        },
+        {
+          "title": "Egitto: produzione di latte a 7 milioni di tonnellate, raggiunta l'autosufficienza",
+          "link": "https://www.agenzianova.com/a/6a59dbc3954827.95107974/7617000/2026-07-17/egitto-produzione-di-latte-a-7-milioni-di-tonnellate-raggiunta-l-autosufficienza",
+          "description": "17 lug 09:18 - (Agenzia Nova) - L'Egitto ha raggiunto la piena autosufficienza nella produzione di latte e ha iniziato a esportare le eccedenze... (Cae)",
+          "pubDate": "2026-07-17T09:18:41+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Egitto: produzione di latte a 7 milioni di tonnellate, raggiunta l'autosufficienza"
+        },
         {
           "title": "University Mission to Dakar for Psychology Education in Senegal",
           "link": "https://www.ansa.it/english/news/news_from_embassies/2026/07/16/university-mission-to-dakar-for-psychology-education-in-senegal_0622d785-dffb-445c-aa0b-dd157621bf0c.html",
@@ -48,33 +84,6 @@
       "title": "Dossier Somaliland",
       "items": [
         {
-          "title": "Iran: esplosioni presso citta' portuale di Bushehr",
-          "link": "https://www.agenzianova.com/a/6a5965c48fc1e7.52241911/7616227/2026-07-16/iran-esplosioni-presso-citta-portuale-di-bushehr",
-          "description": "16 lug 22:01 - (Agenzia Nova) - Le autorita' iraniane hanno riportato esplosioni nei pressi di Busherh, citta' meridionale con porto sul Golfo... (Res)",
-          "pubDate": "2026-07-16T22:01:26+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Iran: esplosioni presso citta' portuale di Bushehr"
-        },
-        {
-          "title": "Kenya: IEBC Disowns Armed Hooded Men Reported in Ol Kalou By Election",
-          "link": "https://allafrica.com/stories/202607160673.html",
-          "description": "[Capital FM] Nairobi -- The Independent Electoral and Boundaries Commission has distanced itself from reports of hooded men travelling in unmarked vehicles, saying such individuals are not part of the official election security arrangement.",
-          "pubDate": "Thu, 16 Jul 2026 16:47:20 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Kenya: IEBC Disowns Armed Hooded Men Reported in Ol Kalou By Election"
-        },
-        {
-          "title": "Ethiopia: U.S. Ambassador Touches Down in Gondar to Champion Trade, Regional Stability",
-          "link": "https://allafrica.com/stories/202607160670.html",
-          "description": "[Reporter] Just a day after executing a high-stakes diplomatic mission to Mekelle in the Tigray region, US Ambassador Ervin Massinga arrived in Gondar today to advance commercial ties, prioritize regional peace, and review critical healthcare initiatives.",
-          "pubDate": "Thu, 16 Jul 2026 16:46:06 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Ethiopia: U.S. Ambassador Touches Down in Gondar to Champion Trade, Regional Stability"
-        },
-        {
           "title": "Kenya: Ol Kalou By-Election - Security Chiefs Say Poll Peaceful, Reject Intimidation Claims",
           "link": "https://allafrica.com/stories/202607160486.html",
           "description": "[Capital FM] Nairobi -- Security chiefs overseeing the Ol Kalou parliamentary by-election have assured voters the exercise is proceeding peacefully, dismissing allegations of intimidation and saying no major security incidents have been reported despite accusations traded by rival political camps.",
@@ -97,15 +106,6 @@
     "ethiopia-sea-access": {
       "title": "Accesso etiope al mare",
       "items": [
-        {
-          "title": "Ethiopia: U.S. Ambassador Touches Down in Gondar to Champion Trade, Regional Stability",
-          "link": "https://allafrica.com/stories/202607160670.html",
-          "description": "[Reporter] Just a day after executing a high-stakes diplomatic mission to Mekelle in the Tigray region, US Ambassador Ervin Massinga arrived in Gondar today to advance commercial ties, prioritize regional peace, and review critical healthcare initiatives.",
-          "pubDate": "Thu, 16 Jul 2026 16:46:06 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Ethiopia: U.S. Ambassador Touches Down in Gondar to Champion Trade, Regional Stability"
-        },
         {
           "title": "Sanctions on Moscow won't stop war, hope there aren't another 20 packages - Salvini",
           "link": "https://www.ansa.it/english/news/2026/07/16/sanctions-on-moscow-wont-stop-war-hope-there-arent-another-20-packages_e5a6e493-3d4c-499a-88ee-72e092674a79.html",
@@ -161,15 +161,6 @@
           "titleIt": "Markets may be underestimating risks, sharp correction possible - BoI's Panetta"
         },
         {
-          "title": "UN warns terrorist threat Is spreading across west Africa and the sahel",
-          "link": "http://www.africanews.com/2026/07/15/un-warns-terrorist-threat-is-spreading-across-west-africa-and-the-sahel/",
-          "description": "The UN says lasting stability in the region will require sustained international support, investment in humanitarian assistance and stronger regional cooperation to tackle both the security threats and the underlying causes of conflict.",
-          "pubDate": "Wed, 15 Jul 2026 05:59:22 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "UN warns terrorist threat Is spreading across west Africa and the sahel"
-        },
-        {
           "title": "Villa warned over sportswashing after Visit Rwanda deal",
           "link": "https://www.bbc.co.uk/sport/football/articles/cm20211g25lo?at_medium=RSS&at_campaign=rss",
           "description": "Aston Villa are warned their new £20m-a-year sponsorship deal with Visit Rwanda will be used by the nation to sportswash its human rights record.",
@@ -191,19 +182,200 @@
     },
     "egypt-economy": {
       "title": "Fragilità economica egiziana",
-      "items": []
+      "items": [
+        {
+          "title": "The Achievements of the  Arab Spring : 15 Barren Years",
+          "link": "https://english.aawsat.com/opinion/5296974-achievements-%E2%80%98arab-spring%E2%80%99-15-barren-years",
+          "source": "english.aawsat.com",
+          "pubDate": "2026-07-17T07:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The Achievements of the  Arab Spring : 15 Barren Years"
+        },
+        {
+          "title": "Iran : Cashing Chips Won in War",
+          "link": "https://english.aawsat.com/opinion/5296970-iran-cashing-chips-won-war",
+          "source": "english.aawsat.com",
+          "pubDate": "2026-07-17T07:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Iran : Cashing Chips Won in War"
+        },
+        {
+          "title": "High input costs , taxes dim Kenya appeal to investors – Capital FM Kenya",
+          "link": "https://capitalfm.africa/high-input-costs-taxes-dim-kenyas-appeal-to-investors/",
+          "source": "capitalfm.africa",
+          "pubDate": "2026-07-17T05:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "High input costs , taxes dim Kenya appeal to investors – Capital FM Kenya"
+        },
+        {
+          "title": "UN campaign trail takes former president Macky Sall back to Senegal",
+          "link": "http://www.bignewsnetwork.com/news/279192902/un-campaign-trail-takes-former-president-macky-sall-back-to-senegal",
+          "source": "bignewsnetwork.com",
+          "pubDate": "2026-07-17T05:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "UN campaign trail takes former president Macky Sall back to Senegal"
+        },
+        {
+          "title": "Hopes for US - Iran diplomacy still alive as fighting intensifies over the Strait of Hormuz",
+          "link": "https://dunyanews.tv/en/World/963095-hopes-for-usiran-diplomacy-still-alive-as-fighting-intensifies-over-t",
+          "source": "dunyanews.tv",
+          "pubDate": "2026-07-17T05:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Hopes for US - Iran diplomacy still alive as fighting intensifies over the Strait of Hormuz"
+        },
+        {
+          "title": "The AI Shift Every MENA Startup Marketer Needs to Understand",
+          "link": "https://cairoscene.com/Business/The-AI-Shift-Every-MENA-Startup-Marketer-Needs-to-Understand",
+          "source": "cairoscene.com",
+          "pubDate": "2026-07-17T05:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The AI Shift Every MENA Startup Marketer Needs to Understand"
+        },
+        {
+          "title": "Cabinet : Misinformation in Egypt Rose 113 % in H1 2026",
+          "link": "https://cairoscene.com/News/Cabinet-Misinformation-in-Egypt-Rose-113-in-H1-2026",
+          "source": "cairoscene.com",
+          "pubDate": "2026-07-17T05:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Cabinet : Misinformation in Egypt Rose 113 % in H1 2026"
+        },
+        {
+          "title": "Lionel Messi Leads Argentina Late - Game Heroics as Defending Champions Reach FIFA World Cup Final",
+          "link": "https://dailypioneer.com/news/late-game-heroics-by-messi-and-argentina",
+          "source": "dailypioneer.com",
+          "pubDate": "2026-07-17T05:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Lionel Messi Leads Argentina Late - Game Heroics as Defending Champions Reach FIFA World Cup Final"
+        },
+        {
+          "title": "First - ever Saskatchewan commodity showcase connects producers with global buyers",
+          "link": "https://globalnews.ca/news/11969344/first-ever-saskatchewan-commodity-showcase-producers-global-buyers/",
+          "source": "globalnews.ca",
+          "pubDate": "2026-07-17T05:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "First - ever Saskatchewan commodity showcase connects producers with global buyers"
+        },
+        {
+          "title": "Can Fashion Fix Its Polycrisis Problem ?",
+          "link": "https://wwd.com/sourcing-journal/trade/fashion-polycrisis-source-fashion-july-2026-1239069485/",
+          "source": "wwd.com",
+          "pubDate": "2026-07-17T04:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Can Fashion Fix Its Polycrisis Problem ?"
+        },
+        {
+          "title": "How three Ivorian firms are competing with global brands",
+          "link": "https://www.aljazeera.com/economy/2026/7/17/how-three-ivorian-firms-are-competing-with-global-brands",
+          "source": "aljazeera.com",
+          "pubDate": "2026-07-17T04:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "How three Ivorian firms are competing with global brands"
+        },
+        {
+          "title": "The Great Reversal : Russia Turns to India for Gasoline Amid Refining Collapse",
+          "link": "https://idrw.org/the-great-reversal-russia-turns-to-india-for-gasoline-amid-refining-collapse/",
+          "source": "idrw.org",
+          "pubDate": "2026-07-17T04:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The Great Reversal : Russia Turns to India for Gasoline Amid Refining Collapse"
+        },
+        {
+          "title": "The Odyssey is haunted by the mysterious  Sea People – but who were they , really ?",
+          "link": "https://theconversation.com/the-odyssey-is-haunted-by-the-mysterious-sea-peoples-but-who-were-they-really-287686",
+          "source": "theconversation.com",
+          "pubDate": "2026-07-17T04:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The Odyssey is haunted by the mysterious  Sea People – but who were they , really ?"
+        },
+        {
+          "title": "Hopes for US - Iran diplomacy still alive as fighting intensifies over the Strait of Hormuz",
+          "link": "https://isp.netscape.com:443/news/world/story/0001/20260716/476de0b0c341ead38126e617234d0939",
+          "source": "isp.netscape.com",
+          "pubDate": "2026-07-17T03:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Hopes for US - Iran diplomacy still alive as fighting intensifies over the Strait of Hormuz"
+        },
+        {
+          "title": "Hopes for US - Iran diplomacy still alive as fighting intensifies over Strait of Hormuz",
+          "link": "https://www.koreatimes.co.kr/world/20260717/hopes-for-us-iran-diplomacy-still-alive-as-fighting-intensifies-over-strait-of-hormuz",
+          "source": "koreatimes.co.kr",
+          "pubDate": "2026-07-17T03:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Hopes for US - Iran diplomacy still alive as fighting intensifies over Strait of Hormuz"
+        },
+        {
+          "title": "Weekly protein report : New World Screwworm hits turning point as cases resolve",
+          "link": "https://www.thecattlesite.com/articles/trade-barriers-highlight-ongoing-export-risks-for-poultry-producers",
+          "source": "thecattlesite.com",
+          "pubDate": "2026-07-17T03:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Weekly protein report : New World Screwworm hits turning point as cases resolve"
+        },
+        {
+          "title": "Defense : a strategic overhaul of the Royal Air Forces to strengthen national air control",
+          "link": "https://medias24.com/2026/07/17/defense-a-strategic-overhaul-of-the-royal-air-forces-to-strengthen-national-air-control-1722125/",
+          "source": "medias24.com",
+          "pubDate": "2026-07-17T02:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Defense : a strategic overhaul of the Royal Air Forces to strengthen national air control"
+        },
+        {
+          "title": "Other Sports : Stage set for second Arab men U17 volleyball event",
+          "link": "https://www.gdnonline.com:443/Details/1400893/Stage-set-for-second-Arab-men%E2%80%99s-U17-volleyball-event",
+          "source": "gdnonline.com",
+          "pubDate": "2026-07-17T01:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Other Sports : Stage set for second Arab men U17 volleyball event"
+        },
+        {
+          "title": "Nasdaq tumbles 387 points as Trump steps up military strikes on Iran",
+          "link": "http://www.nashvilleherald.com/news/279192153/nasdaq-tumbles-387-points-as-trump-steps-up-military-strikes-on-iran",
+          "source": "nashvilleherald.com",
+          "pubDate": "2026-07-17T01:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Nasdaq tumbles 387 points as Trump steps up military strikes on Iran"
+        },
+        {
+          "title": "Global Anti - Corruption Insights : Summer 2026",
+          "link": "https://www.mondaq.com:443/unitedstates/white-collar-crime-anti-corruption-fraud/1818642/global-anti-corruption-insights-summer-2026",
+          "source": "mondaq.com",
+          "pubDate": "2026-07-17T01:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Global Anti - Corruption Insights : Summer 2026"
+        }
+      ]
     },
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
       "items": [
         {
-          "title": "Egitto: lanciato progetto \"Villaggio produttivo\" per creare posti lavoro e frenare emigrazione (4)",
-          "link": "https://www.agenzianova.com/a/6a5965c49197a2.19856268/7616013/2026-07-16/egitto-lanciato-progetto-villaggio-produttivo-per-creare-posti-lavoro-e-frenare-emigrazione-4",
-          "description": "16 lug 19:45 - (Agenzia Nova) - La semplificazione delle procedure di rilascio delle licenze per le attivita' industriali al di fuori delle... (Cae)",
-          "pubDate": "2026-07-16T19:45:23+02:00",
+          "title": "Egitto-Libia: capo dei servizi segreti Rashad riceve viceministro Difesa libico Al Zoubi (3)",
+          "link": "https://www.agenzianova.com/a/6a59dbc393d019.57384866/7617083/2026-07-17/egitto-libia-capo-dei-servizi-segreti-rashad-riceve-viceministro-difesa-libico-al-zoubi-3",
+          "description": "17 lug 09:27 - (Agenzia Nova) - Al Zoubi e' intanto diventato uno dei principali interlocutori della Libia occidentale nei negoziati internazionali... (Cae)",
+          "pubDate": "2026-07-17T09:27:16+02:00",
           "source": "Agenzia Nova",
           "lang": "it",
-          "titleIt": "Egitto: lanciato progetto \"Villaggio produttivo\" per creare posti lavoro e frenare emigrazione (4)"
+          "titleIt": "Egitto-Libia: capo dei servizi segreti Rashad riceve viceministro Difesa libico Al Zoubi (3)"
         },
         {
           "title": "Sudan: Sudan Cotton Company Director Reviews Progress of Post-War Rehabilitation Work",
