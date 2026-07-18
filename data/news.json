@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-18T05:55:45.818Z",
-  "feedsChecked": 8,
+  "generatedAt": "2026-07-18T10:49:25.226Z",
+  "feedsChecked": 9,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
@@ -23,21 +23,30 @@
           "source": "BBC Africa",
           "lang": "en",
           "titleIt": "Egypt receive a warm welcome home"
+        },
+        {
+          "title": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab",
+          "link": "https://www.crisisgroup.org/brf/africa/somalia/b212-new-chapter-same-stalemate-somalias-war-al-shabaab",
+          "description": "The Somali government’s battle with Al-Shabaab militants grinds on, with neither able to gain a decisive advantage. To improve its lot, Mogadishu needs to bolster its military and alleviate civilian suffering in areas under insurgent control, while looking for openings for dialogue with the group.",
+          "pubDate": "Tuesday, June 30, 2026 - 15:20",
+          "source": "Crisis Group",
+          "lang": "en",
+          "titleIt": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab"
+        },
+        {
+          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
+          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
+          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
+          "pubDate": "Saturday, May 16, 2026 - 00:08",
+          "source": "Crisis Group",
+          "lang": "en",
+          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
     "somaliland": {
       "title": "Dossier Somaliland",
       "items": [
-        {
-          "title": "Armed Assailants Seize Chemical Tanker Off Yemen",
-          "link": "https://www.marinelink.com/news/armed-assailants-seize-chemical-tanker-541327",
-          "source": "marinelink.com",
-          "pubDate": "2026-07-17T19:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Armed Assailants Seize Chemical Tanker Off Yemen"
-        },
         {
           "title": "Kenya: Ruto Warned Against Underestimating Gachagua",
           "link": "https://allafrica.com/stories/202607170571.html",
@@ -57,157 +66,31 @@
           "titleIt": "Kenya: Uber to Acquire Glovo in Kenya, Other Markets in Sh1.95tn Deal"
         },
         {
-          "title": "Could Somalia See The World Next Major Oil Discovery ?",
-          "link": "https://oilprice.com/Energy/Crude-Oil/Could-Somalia-See-The-Worlds-Next-Major-Oil-Discovery.html",
-          "source": "oilprice.com",
-          "pubDate": "2026-07-16T19:00:00Z",
+          "title": "Kenya: UDA Stares At 2027 Reset As Kindiki Signals Rethink After Crushing Ol Kalou Drubbing",
+          "link": "https://allafrica.com/stories/202607170428.html",
+          "description": "[Capital FM] Nairobi -- The ruling United Democratic Alliance (UDA) is facing mounting pressure to recalibrate its political strategy ahead of President William Ruto's 2027 re-election bid after suffering a crushing defeat in the Ol Kalou parliamentary by-election, a contest widely viewed as the clearest electoral test yet of the administration's standing in the vote-rich Mt Kenya region.",
+          "pubDate": "Fri, 17 Jul 2026 12:20:40 GMT",
+          "source": "AllAfrica",
           "lang": "en",
-          "description": "",
-          "titleIt": "Could Somalia See The World Next Major Oil Discovery ?"
+          "titleIt": "Kenya: UDA Stares At 2027 Reset As Kindiki Signals Rethink After Crushing Ol Kalou Drubbing"
         },
         {
-          "title": "Middle East new security paradigm",
-          "link": "https://tribune.com.pk/story/2618449/middle-easts-new-security-paradigm",
-          "source": "tribune.com.pk",
-          "pubDate": "2026-07-15T22:00:00Z",
+          "title": "Kenya: Health PS Pushes for Urgent Sickle Cell Reforms As Donor Support Declines",
+          "link": "https://allafrica.com/stories/202607170427.html",
+          "description": "[Capital FM] Nairobi -- Health Principal Secretary Dr. Ouma Oluga has challenged health stakeholders to urgently strengthen sickle cell disease care, warning that Kenya cannot continue relying on donor funding as international support declines.",
+          "pubDate": "Fri, 17 Jul 2026 12:20:16 GMT",
+          "source": "AllAfrica",
           "lang": "en",
-          "description": "",
-          "titleIt": "Middle East new security paradigm"
+          "titleIt": "Kenya: Health PS Pushes for Urgent Sickle Cell Reforms As Donor Support Declines"
         },
         {
-          "title": "Ethiopia Prosperity Party : Delusional Precepts as Tools of Regional Destabilization – Eritrea Ministry Of Information",
-          "link": "https://shabait.com/2026/07/15/ethiopias-prosperity-party-delusional-precepts-as-tools-of-regional-destabilization/",
-          "source": "shabait.com",
-          "pubDate": "2026-07-15T14:45:00Z",
+          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
+          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
+          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
+          "pubDate": "Saturday, May 16, 2026 - 00:08",
+          "source": "Crisis Group",
           "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia Prosperity Party : Delusional Precepts as Tools of Regional Destabilization – Eritrea Ministry Of Information"
-        },
-        {
-          "title": "Somalia : Somaliland , united kingdom Discuss Deeper Strategic Cooperation",
-          "link": "https://allafrica.com/stories/202607150058.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-07-15T09:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Somalia : Somaliland , united kingdom Discuss Deeper Strategic Cooperation"
-        },
-        {
-          "title": "The Geopolitical Theatre of the Horn of Africa : Sovereignty , Rentier Statecraft , and the Spectacle of Security Agreements",
-          "link": "https://wardheernews.com/the-geopolitical-theatre-of-the-horn-of-africa-sovereignty-rentier-statecraft-and-the-spectacle-of-security-agreements/",
-          "source": "wardheernews.com",
-          "pubDate": "2026-07-15T08:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The Geopolitical Theatre of the Horn of Africa : Sovereignty , Rentier Statecraft , and the Spectacle of Security Agreements"
-        },
-        {
-          "title": "Horn of Africa vital in regional power as Gulf nations compete over alliances",
-          "link": "https://www.jpost.com/middle-east/article-902454",
-          "source": "jpost.com",
-          "pubDate": "2026-07-14T12:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Horn of Africa vital in regional power as Gulf nations compete over alliances"
-        },
-        {
-          "title": "Horn of Africa vital in regional power as Gulf nations compete over alliances",
-          "link": "http://www.jpost.com/middle-east/article-902454",
-          "source": "jpost.com",
-          "pubDate": "2026-07-14T10:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Horn of Africa vital in regional power as Gulf nations compete over alliances"
-        },
-        {
-          "title": "Egypt water dispute with Ethiopia overshadowed by rising Horn of Africa tension , experts say",
-          "link": "https://www.thenationalnews.com/news/mena/2026/07/14/egypts-water-dispute-with-ethiopia-complicated-by-rising-horn-of-africa-tension-experts-say/",
-          "source": "thenationalnews.com",
-          "pubDate": "2026-07-14T08:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egypt water dispute with Ethiopia overshadowed by rising Horn of Africa tension , experts say"
-        },
-        {
-          "title": "Puntland President Warns Against  Predetermined Election as Federal Election Dispute Deepens",
-          "link": "https://wardheernews.com/puntland-president-warns-against-predetermined-elections-as-federal-election-dispute-deepens/",
-          "source": "wardheernews.com",
-          "pubDate": "2026-07-13T17:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Puntland President Warns Against  Predetermined Election as Federal Election Dispute Deepens"
-        },
-        {
-          "title": "Emiratis Hang On in the Gulf of Aden",
-          "link": "https://maritime-executive.com/article/emiratis-hang-on-in-the-gulf-of-aden",
-          "source": "maritime-executive.com",
-          "pubDate": "2026-07-13T04:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Emiratis Hang On in the Gulf of Aden"
-        },
-        {
-          "title": "Super El Nino will hit women the hardest , charity warns :  We should be very worried",
-          "link": "https://www.independent.co.uk/climate-change/el-nino-climate-super-crisis-women-b3011246.html",
-          "source": "independent.co.uk",
-          "pubDate": "2026-07-12T12:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Super El Nino will hit women the hardest , charity warns :  We should be very worried"
-        },
-        {
-          "title": "Turkey brokers intra - Somalia talks as federal rifts test Ankara influence",
-          "link": "https://horseedmedia.net/turkey-brokers-intra-somalia-talks-as-federal-rifts-test-ankaras-influence/423594/",
-          "source": "horseedmedia.net",
-          "pubDate": "2026-07-10T14:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Turkey brokers intra - Somalia talks as federal rifts test Ankara influence"
-        },
-        {
-          "title": "Africa : Intra - African Diplomatic Relations Should Not Dictate the External Foreign Policies of African States",
-          "link": "https://allafrica.com/stories/202607090067.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-07-09T07:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Africa : Intra - African Diplomatic Relations Should Not Dictate the External Foreign Policies of African States"
-        },
-        {
-          "title": "The Israel - Emirates Axis and the Zionist Quest to Take over Somalia Gulf of Aden Coast",
-          "link": "https://wardheernews.com/the-israel-emirates-axis-and-the-zionist-quest-to-take-over-somalias-gulf-of-aden-coast/",
-          "source": "wardheernews.com",
-          "pubDate": "2026-07-09T04:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The Israel - Emirates Axis and the Zionist Quest to Take over Somalia Gulf of Aden Coast"
-        },
-        {
-          "title": "America retreat is reshaping the Gulf , driving Oman toward Iran | JNS",
-          "link": "https://www.clevelandjewishnews.com/jns/america-s-retreat-is-reshaping-the-gulf-driving-oman-toward-iran/article_10ff54ab-84a6-5725-88a4-0ccb4ce3c87d.html",
-          "source": "clevelandjewishnews.com",
-          "pubDate": "2026-07-08T23:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "America retreat is reshaping the Gulf , driving Oman toward Iran | JNS"
-        },
-        {
-          "title": "African Development Bank Brokers Zambia Debt - for - Energy Swap",
-          "link": "https://foreignpolicy.com/2026/07/08/zambia-debt-swap-economics-energy-power-copper/",
-          "source": "foreignpolicy.com",
-          "pubDate": "2026-07-08T23:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "African Development Bank Brokers Zambia Debt - for - Energy Swap"
-        },
-        {
-          "title": "America retreat is reshaping the Gulf , driving Oman toward Iran - Christians for Israel International",
-          "link": "https://www.whyisrael.org/jns-org/americas-retreat-is-reshaping-the-gulf-driving-oman-toward-iran/",
-          "source": "whyisrael.org",
-          "pubDate": "2026-07-08T22:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "America retreat is reshaping the Gulf , driving Oman toward Iran - Christians for Israel International"
+          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
@@ -258,12 +141,202 @@
           "source": "BBC Africa",
           "lang": "en",
           "titleIt": "Villa warned over sportswashing after Visit Rwanda deal"
+        },
+        {
+          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
+          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
+          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
+          "pubDate": "Saturday, May 16, 2026 - 00:08",
+          "source": "Crisis Group",
+          "lang": "en",
+          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
     "egypt-economy": {
       "title": "Fragilità economica egiziana",
-      "items": []
+      "items": [
+        {
+          "title": "Uber Announces Offer to Acquire Delivery Hero",
+          "link": "https://www.qatarliving.com/en/article/uber-announces-offer-to-acquire-delivery-hero",
+          "source": "qatarliving.com",
+          "pubDate": "2026-07-18T10:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Uber Announces Offer to Acquire Delivery Hero"
+        },
+        {
+          "title": "Egypt Garbage City Turns Plastic Crisis into Profit",
+          "link": "https://paktribune.com/egypts-garbage-city-turns-plastic-crisis-into-profit/",
+          "source": "paktribune.com",
+          "pubDate": "2026-07-18T10:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt Garbage City Turns Plastic Crisis into Profit"
+        },
+        {
+          "title": "How Lionel Messi Stole Show at World Cup Fanatics Fest",
+          "link": "https://en.tempo.co/read/2114311/how-lionel-messi-stole-show-at-world-cup-fanatics-fest",
+          "source": "en.tempo.co",
+          "pubDate": "2026-07-18T09:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "How Lionel Messi Stole Show at World Cup Fanatics Fest"
+        },
+        {
+          "title": "Barrack unveils plan on alternative routes to Strait of Hormuz",
+          "link": "https://sana.sy/en/middle-east/2330216/",
+          "source": "sana.sy",
+          "pubDate": "2026-07-18T09:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Barrack unveils plan on alternative routes to Strait of Hormuz"
+        },
+        {
+          "title": "Tinubu reforms are APC strongest campaign tool , Uzodimma asserts",
+          "link": "https://thenationonlineng.net/tinubus-reforms-are-apcs-strongest-campaign-tool-uzodimma-asserts/",
+          "source": "thenationonlineng.net",
+          "pubDate": "2026-07-18T09:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Tinubu reforms are APC strongest campaign tool , Uzodimma asserts"
+        },
+        {
+          "title": "Well give it our all  for Argentina : Lionel Messi ahead of World Cup final vs Spain",
+          "link": "https://www.tribuneindia.com/news/fifa-world-cup-2026/well-give-it-our-all-for-argentina-lionel-messi-ahead-of-world-cup-final-vs-spain/",
+          "source": "tribuneindia.com",
+          "pubDate": "2026-07-18T09:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Well give it our all  for Argentina : Lionel Messi ahead of World Cup final vs Spain"
+        },
+        {
+          "title": "Another heatwave strikes Egypt until Thursday : EMA",
+          "link": "https://www.egyptindependent.com/another-heatwave-strikes-egypt-until-thursday-ema/",
+          "source": "egyptindependent.com",
+          "pubDate": "2026-07-18T09:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Another heatwave strikes Egypt until Thursday : EMA"
+        },
+        {
+          "title": "Lionel Messi speaks in advance of World Cup final , says Argentina  will give it our all  | The Arkansas Democrat - Gazette",
+          "link": "https://www.arkansasonline.com/news/2026/jul/18/lionel-messi-speaks-in-advance-of-world-cup-final/",
+          "source": "arkansasonline.com",
+          "pubDate": "2026-07-18T09:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Lionel Messi speaks in advance of World Cup final , says Argentina  will give it our all  | The Arkansas Democrat - Gazette"
+        },
+        {
+          "title": "I Have Seen Another Lee Kuan Yew , Uzodimma Rains Encomium On Tinubu For Bold Reforms",
+          "link": "https://www.channelstv.com/2026/07/18/i-have-seen-another-lee-kuan-yew-uzodimma-rains-encomium-on-tinubu-for-bold-reforms/",
+          "source": "channelstv.com",
+          "pubDate": "2026-07-18T08:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "I Have Seen Another Lee Kuan Yew , Uzodimma Rains Encomium On Tinubu For Bold Reforms"
+        },
+        {
+          "title": "Lionel Messi speaks in advance of World Cup final , says Argentina  will give it our all  – KTBB News , Weather , Talk",
+          "link": "https://ktbb.com/post/?p=1525717",
+          "source": "ktbb.com",
+          "pubDate": "2026-07-18T07:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Lionel Messi speaks in advance of World Cup final , says Argentina  will give it our all  – KTBB News , Weather , Talk"
+        },
+        {
+          "title": "Mid - Ohio Valley Climate Corner : Greed ( not need ) behind ridiculous data center expansions",
+          "link": "https://www.newsandsentinel.com/opinion/local-columns/2026/07/mov-climate-corner-greed-not-need-behind-ridiculous-data-center-expansions/",
+          "source": "newsandsentinel.com",
+          "pubDate": "2026-07-18T07:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Mid - Ohio Valley Climate Corner : Greed ( not need ) behind ridiculous data center expansions"
+        },
+        {
+          "title": "U . S .- Iran MoU on brink as renewed fighting risks wider conflict -- China Economic Net",
+          "link": "http://en.ce.cn/main/latest/202607/t20260718_3093968.shtml",
+          "source": "en.ce.cn",
+          "pubDate": "2026-07-18T07:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "U . S .- Iran MoU on brink as renewed fighting risks wider conflict -- China Economic Net"
+        },
+        {
+          "title": "Gloria Abiodun : NATOP , Lagos State Collaboration Boosts Travel , Tourism Businesses – THISDAYLIVE",
+          "link": "https://www.thisdaylive.com/2026/07/18/gloria-abiodun-natop-lagos-state-collaboration-boosts-travel-tourism-businesses/",
+          "source": "thisdaylive.com",
+          "pubDate": "2026-07-18T07:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Gloria Abiodun : NATOP , Lagos State Collaboration Boosts Travel , Tourism Businesses – THISDAYLIVE"
+        },
+        {
+          "title": "AJA Newsbites – July 18 , 2026",
+          "link": "https://theasian.asia/archives/204724",
+          "source": "theasian.asia",
+          "pubDate": "2026-07-18T07:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "AJA Newsbites – July 18 , 2026"
+        },
+        {
+          "title": "Manila Bulletin - Messi vows Argentina will give  our all  in World Cup final",
+          "link": "https://mb.com.ph/2026/07/18/messi-vows-argentina-will-give-our-all-in-world-cup-final",
+          "source": "mb.com.ph",
+          "pubDate": "2026-07-18T06:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Manila Bulletin - Messi vows Argentina will give  our all  in World Cup final"
+        },
+        {
+          "title": "Peadar Tóibín : Independent Ireland is a  different beast  - but closer ties with Aontú possible",
+          "link": "https://www.thejournal.ie/interview-peadar-toibin-7102966-Jul2026/",
+          "source": "thejournal.ie",
+          "pubDate": "2026-07-18T06:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Peadar Tóibín : Independent Ireland is a  different beast  - but closer ties with Aontú possible"
+        },
+        {
+          "title": "Lionel Messi speaks in advance of World Cup final , says Argentina  will give it our all",
+          "link": "http://www.idahostatejournal.com/news/national/lionel-messi-speaks-in-advance-of-world-cup-final-says-argentina-will-give-it-our/article_6c1b1756-5573-58fa-ba14-89cc6196a354.html",
+          "source": "idahostatejournal.com",
+          "pubDate": "2026-07-18T05:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Lionel Messi speaks in advance of World Cup final , says Argentina  will give it our all"
+        },
+        {
+          "title": "Blue Bloods",
+          "link": "https://www.tvguide.co.uk/schedule/ef8f99de-17ce-58e9-a0c5-3a166359a30f/blue-bloods",
+          "source": "tvguide.co.uk",
+          "pubDate": "2026-07-18T05:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Blue Bloods"
+        },
+        {
+          "title": "Lionel Messi speaks in advance of World Cup final , says Argentina  will give it our all",
+          "link": "https://www.nvdaily.com/associated_press_national/lionel-messi-speaks-in-advance-of-world-cup-final-says-argentina-will-give-it-our/article_3ae68b64-9760-5d2d-8aea-0cf586fa70ef.html",
+          "source": "nvdaily.com",
+          "pubDate": "2026-07-18T04:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Lionel Messi speaks in advance of World Cup final , says Argentina  will give it our all"
+        },
+        {
+          "title": "Lionel Messi speaks in advance of World Cup final , says Argentina  will give it our all",
+          "link": "https://www.weny.com/wires/lionel-messi-speaks-in-advance-of-world-cup-final-says-argentina-will-give-it-our/article_04a483b8-f4a5-5030-aeb3-2c3d79dd4124.html",
+          "source": "weny.com",
+          "pubDate": "2026-07-18T04:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Lionel Messi speaks in advance of World Cup final , says Argentina  will give it our all"
+        }
+      ]
     },
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
