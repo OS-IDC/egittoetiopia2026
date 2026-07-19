@@ -1,29 +1,11 @@
 {
-  "generatedAt": "2026-07-19T20:12:36.387Z",
+  "generatedAt": "2026-07-19T23:40:33.648Z",
   "feedsChecked": 9,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
-        {
-          "title": "Egitto-Usa: colloqui su Libia, Sudan, Libano e sicurezza del Nilo (2)",
-          "link": "https://www.agenzianova.com/a/6a5d2fb05cd373.00006787/7621776/2026-07-19/egitto-usa-colloqui-su-libia-sudan-libano-e-sicurezza-del-nilo-2",
-          "description": "19 lug 19:22 - (Agenzia Nova) - Il capo della diplomazia egiziana ha definito il Corno d'Africa \"un'estensione diretta della sicurezza nazionale... (Cae)",
-          "pubDate": "2026-07-19T19:22:18+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Egitto-Usa: colloqui su Libia, Sudan, Libano e sicurezza del Nilo (2)"
-        },
-        {
-          "title": "Egitto-Usa: colloqui su Libia, Sudan, Libano e sicurezza del Nilo",
-          "link": "https://www.agenzianova.com/a/6a5d2fb05cef95.94471471/7621775/2026-07-19/egitto-usa-colloqui-su-libia-sudan-libano-e-sicurezza-del-nilo",
-          "description": "19 lug 19:22 - (Agenzia Nova) - n Il ministro degli Esteri egiziano, Badr Abdelatty, e il consigliere senior del presidente degli Stati Uniti... (Cae)",
-          "pubDate": "2026-07-19T19:22:18+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Egitto-Usa: colloqui su Libia, Sudan, Libano e sicurezza del Nilo"
-        },
         {
           "title": "An expert from the Guardia di Finanza at the Italian Embassy in Riyadh",
           "link": "https://www.ansa.it/english/news/news_from_embassies/2026/07/19/an-expert-from-the-guardia-di-finanza-at-the-italian-embassy-in-riyadh_63c6c89e-7291-4ccf-b91e-63b3321a493a.html",
@@ -84,6 +66,24 @@
           "titleIt": "Kenya: Ruto Warned Against Underestimating Gachagua"
         },
         {
+          "title": "Kenya: Uber to Acquire Glovo in Kenya, Other Markets in Sh1.95tn Deal",
+          "link": "https://allafrica.com/stories/202607170533.html",
+          "description": "[Capital FM] Nairobi -- U.S.-based mobility and delivery platform Uber is set to acquire Glovo Kenya after striking a deal to buy Berlin-based Delivery Hero's food delivery business across 50 markets.",
+          "pubDate": "Fri, 17 Jul 2026 16:19:24 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Kenya: Uber to Acquire Glovo in Kenya, Other Markets in Sh1.95tn Deal"
+        },
+        {
+          "title": "Kenya: UDA Stares At 2027 Reset As Kindiki Signals Rethink After Crushing Ol Kalou Drubbing",
+          "link": "https://allafrica.com/stories/202607170428.html",
+          "description": "[Capital FM] Nairobi -- The ruling United Democratic Alliance (UDA) is facing mounting pressure to recalibrate its political strategy ahead of President William Ruto's 2027 re-election bid after suffering a crushing defeat in the Ol Kalou parliamentary by-election, a contest widely viewed as the clearest electoral test yet of the administration's standing in the vote-rich Mt Kenya region.",
+          "pubDate": "Fri, 17 Jul 2026 12:20:40 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Kenya: UDA Stares At 2027 Reset As Kindiki Signals Rethink After Crushing Ol Kalou Drubbing"
+        },
+        {
           "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
           "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
           "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
@@ -98,82 +98,217 @@
       "title": "Accesso etiope al mare",
       "items": [
         {
-          "title": "Libano: \"Al Arabiya\", intesa Aoun-Rubio sul ritiro israeliano dal sud",
-          "link": "https://www.agenzianova.com/a/6a5d2fb05cbea1.98783037/7621778/2026-07-19/libano-al-arabiya-intesa-aoun-rubio-sul-ritiro-israeliano-dal-sud",
-          "description": "19 lug 19:25 - (Agenzia Nova) - Il presidente libanese Joseph Aoun e il segretario di Stato statunitense Marco Rubio avrebbero raggiunto una... (Res)",
-          "pubDate": "2026-07-19T19:25:56+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Libano: \"Al Arabiya\", intesa Aoun-Rubio sul ritiro israeliano dal sud"
+          "title": "Can the US and Israel sustain a war of attrition with Iran ?",
+          "link": "https://www.jpost.com/middle-east/iran-news/article-903000",
+          "source": "jpost.com",
+          "pubDate": "2026-07-19T19:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Can the US and Israel sustain a war of attrition with Iran ?"
         },
         {
-          "title": "Ethiopians march against alleged forced mobilisation in Tigray",
-          "link": "http://www.africanews.com/2026/07/18/ethiopians-march-against-alleged-forced-mobilisation-in-tigray/",
-          "description": "Thousands rally in Ethiopia's capital Addis Ababa to protest the alleged forced recruitment of civilians in the Tigray region by Tigray People's Liberation Front (TPLF) forces, the breakaway region's main political party, amid months of escalating tensions with Ethiopia's federal government",
-          "pubDate": "Sat, 18 Jul 2026 14:31:39 +0000",
-          "source": "Africanews",
+          "title": "Somalia races to save Radio Mogadishu fading archive",
+          "link": "https://horseedmedia.net/somalia-races-to-save-radio-mogadishus-fading-archive/423871/",
+          "source": "horseedmedia.net",
+          "pubDate": "2026-07-19T18:30:00Z",
           "lang": "en",
-          "titleIt": "Ethiopians march against alleged forced mobilisation in Tigray"
+          "description": "",
+          "titleIt": "Somalia races to save Radio Mogadishu fading archive"
         },
         {
-          "title": "GDP up 0.4% Q2, inflation returns to 2.5% in July says Confcommercio",
-          "link": "https://www.ansa.it/english/news/2026/07/17/gdp-up-0.4-q2-inflation-returns-to-2.5-in-july-says-confcommercio_988b6077-7200-4492-b2d9-1de711f383ce.html",
-          "description": "(ANSA) - ROME, JUL 17 - Italy's GDP was up 0.4% in the second quarter of this tear while inflation fell back to 2.5% in July, retail group Confcommercio said Friday. The geopolitical scenario, after a brief period of respite, has seen renewed tensions in the Middle East, making forecasts for the Italian economy \"slightly more uncertain and complex,\" \"still experiencing undeniable signs of liveliness overall,\" Confcommercio stated in its latest report, estimating a second quarter of further growth of 0.4%, with a 1.2% increase compared to the same period in 2025. The growth achieved to date all",
-          "pubDate": "Fri, 17 Jul 2026 13:12:44 +0200",
-          "source": "ANSA English",
+          "title": "Eritrea Vanishing Youth : A Demographic Crisis and a Nation on the Brink ( Part 1 ) – Awate . com",
+          "link": "https://awate.com/eritreas-vanishing-youth-a-demographic-crisis-and-a-nation-on-the-brink-part-1/",
+          "source": "awate.com",
+          "pubDate": "2026-07-19T17:00:00Z",
           "lang": "en",
-          "titleIt": "GDP up 0.4% Q2, inflation returns to 2.5% in July says Confcommercio"
+          "description": "",
+          "titleIt": "Eritrea Vanishing Youth : A Demographic Crisis and a Nation on the Brink ( Part 1 ) – Awate . com"
         },
         {
-          "title": "GDP up 0.4% Q2, inflation returns to 2.5% in July says Confcommercio",
-          "link": "https://www.ansa.it/english/news/business/2026/07/17/gdp-up-0.4-q2-inflation-returns-to-2.5-in-july-says-confcommercio_ae6094ff-a558-4d8c-b814-18993f4d81b1.html",
-          "description": "(ANSA) - ROME, JUL 17 - Italy's GDP was up 0.4% in the second quarter of this tear while inflation fell back to 2.5% in July, retail group Confcommercio said Friday. The geopolitical scenario, after a brief period of respite, has seen renewed tensions in the Middle East, making forecasts for the Italian economy \"slightly more uncertain and complex,\" \"still experiencing undeniable signs of liveliness overall,\" Confcommercio stated in its latest report, estimating a second quarter of further growth of 0.4%, with a 1.2% increase compared to the same period in 2025. The growth achieved to date all",
-          "pubDate": "Fri, 17 Jul 2026 13:12:03 +0200",
-          "source": "ANSA English",
+          "title": "RUTO : WE MUST RUTHLESSLY DISMANTLE TERROR NETWORKS IN THE HORN OF AFRICA",
+          "link": "http://www.president.go.ke/ruto-we-must-ruthlessly-dismantle-terror-networks-in-the-horn-of-africa/",
+          "source": "president.go.ke",
+          "pubDate": "2026-07-19T16:30:00Z",
           "lang": "en",
-          "titleIt": "GDP up 0.4% Q2, inflation returns to 2.5% in July says Confcommercio"
+          "description": "",
+          "titleIt": "RUTO : WE MUST RUTHLESSLY DISMANTLE TERROR NETWORKS IN THE HORN OF AFRICA"
         },
         {
-          "title": "Sanctions on Moscow won't stop war, hope there aren't another 20 packages - Salvini",
-          "link": "https://www.ansa.it/english/news/2026/07/16/sanctions-on-moscow-wont-stop-war-hope-there-arent-another-20-packages_e5a6e493-3d4c-499a-88ee-72e092674a79.html",
-          "description": "(ANSA) - ROME, JUL 16 - Right-wing League party leader, Deputy Premier and Transport Minister Matteo Salvini said Thursday that European Union sanctions on Moscow would not stop the UKraine war and he hoped there would not be another 20 packages of them. \"It doesn't seem to me that the sanctions have brought an end to the conflict... and I hope there aren't another 20 sanctions packages before we reach the end of this war. At the negotiating table, because this conflict won't end with a clear winner,\" Salvini said this during a video conference at a meeting of Gim Unimpresa, the association of",
-          "pubDate": "Thu, 16 Jul 2026 18:43:38 +0200",
-          "source": "ANSA English",
+          "title": "Private property cannot be taken without just compensation",
+          "link": "https://capitalethiopia.com/2026/07/19/private-property-cannot-be-taken-without-just-compensation/",
+          "source": "capitalethiopia.com",
+          "pubDate": "2026-07-19T16:15:00Z",
           "lang": "en",
-          "titleIt": "Sanctions on Moscow won't stop war, hope there aren't another 20 packages - Salvini"
+          "description": "",
+          "titleIt": "Private property cannot be taken without just compensation"
         },
         {
-          "title": "Sanctions on Moscow won't stop war, hope there aren't another 20 packages - Salvini",
-          "link": "https://www.ansa.it/english/news/world/2026/07/16/sanctions-on-moscow-wont-stop-war-hope-there-arent-another-20-packages_212069b4-1df5-4ada-9efb-fbf8e326e90a.html",
-          "description": "(ANSA) - ROME, JUL 16 - Right-wing League party leader, Deputy Premier and Transport Minister Matteo Salvini said Thursday that European Union sanctions on Moscow would not stop the UKraine war and he hoped there would not be another 20 packages of them. \"It doesn't seem to me that the sanctions have brought an end to the conflict... and I hope there aren't another 20 sanctions packages before we reach the end of this war. At the negotiating table, because this conflict won't end with a clear winner,\" Salvini said this during a video conference at a meeting of Gim Unimpresa, the association of",
-          "pubDate": "Thu, 16 Jul 2026 18:22:16 +0200",
-          "source": "ANSA English",
+          "title": "Egypt , Tanzania expand partnership with focus on food security",
+          "link": "https://www.middle-east-online.com/en/egypt-tanzania-expand-partnership-focus-food-security",
+          "source": "middle-east-online.com",
+          "pubDate": "2026-07-19T13:45:00Z",
           "lang": "en",
-          "titleIt": "Sanctions on Moscow won't stop war, hope there aren't another 20 packages - Salvini"
+          "description": "",
+          "titleIt": "Egypt , Tanzania expand partnership with focus on food security"
         },
         {
-          "title": "Villa warned over sportswashing after Visit Rwanda deal",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cm20211g25lo?at_medium=RSS&at_campaign=rss",
-          "description": "Aston Villa are warned their new £20m-a-year sponsorship deal with Visit Rwanda will be used by the nation to sportswash its human rights record.",
-          "pubDate": "Tue, 14 Jul 2026 18:44:04 GMT",
-          "source": "BBC Africa",
+          "title": "Egypt eyes land reclamation projects in Tanzania",
+          "link": "https://www.middleeastmonitor.com/20260719-egypt-eyes-land-reclamation-projects-in-tanzania/",
+          "source": "middleeastmonitor.com",
+          "pubDate": "2026-07-19T13:15:00Z",
           "lang": "en",
-          "titleIt": "Villa warned over sportswashing after Visit Rwanda deal"
+          "description": "",
+          "titleIt": "Egypt eyes land reclamation projects in Tanzania"
         },
         {
-          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
-          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
-          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
-          "pubDate": "Saturday, May 16, 2026 - 00:08",
-          "source": "Crisis Group",
+          "title": "How global scammers use US tech to fleece people",
+          "link": "https://www.pasadenastarnews.com/2026/06/30/global-scammers-us-tech/",
+          "source": "pasadenastarnews.com",
+          "pubDate": "2026-07-19T07:00:00Z",
           "lang": "en",
-          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
+          "description": "",
+          "titleIt": "How global scammers use US tech to fleece people"
+        },
+        {
+          "title": "How global scammers use US tech to fleece people",
+          "link": "https://www.ocregister.com/2026/06/30/global-scammers-us-tech/",
+          "source": "ocregister.com",
+          "pubDate": "2026-07-19T07:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "How global scammers use US tech to fleece people"
+        },
+        {
+          "title": "Female Genital Mutilation in India : Hidden Practice , Health Risks and Supreme Court Battle for Women Rights",
+          "link": "https://openthemagazine.com/india/female-genital-mutilation-the-unkindest-cut",
+          "source": "openthemagazine.com",
+          "pubDate": "2026-07-19T06:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Female Genital Mutilation in India : Hidden Practice , Health Risks and Supreme Court Battle for Women Rights"
+        },
+        {
+          "title": "Somalia races to save Radio Mogadishu fading archive | Media News",
+          "link": "https://www.aljazeera.com/news/2026/7/19/somalia-races-to-save-radio-mogadishus-fading-archive",
+          "source": "aljazeera.com",
+          "pubDate": "2026-07-19T05:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Somalia races to save Radio Mogadishu fading archive | Media News"
+        },
+        {
+          "title": "China AI solutions power development , improve safety across Global South",
+          "link": "http://www.china.org.cn/2026-07/18/content_118606660.shtml",
+          "source": "china.org.cn",
+          "pubDate": "2026-07-19T03:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "China AI solutions power development , improve safety across Global South"
+        },
+        {
+          "title": "Thousands of Ethiopians rally against Tigray recruitment drive",
+          "link": "https://www.arabnews.com/node/2651452/world",
+          "source": "arabnews.com",
+          "pubDate": "2026-07-18T23:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Thousands of Ethiopians rally against Tigray recruitment drive"
+        },
+        {
+          "title": "Economic Watch : China AI solutions power development , improve safety across Global South",
+          "link": "http://www.cambodiantimes.com/news/279195632/economic-watch-china-ai-solutions-power-development-improve-safety-across-global-south",
+          "source": "cambodiantimes.com",
+          "pubDate": "2026-07-18T18:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Economic Watch : China AI solutions power development , improve safety across Global South"
+        },
+        {
+          "title": "China AI solutions power development , improve safety across Global South",
+          "link": "http://www.texasguardian.com/news/279195665/china-ai-solutions-power-development-improve-safety-across-global-south",
+          "source": "texasguardian.com",
+          "pubDate": "2026-07-18T17:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "China AI solutions power development , improve safety across Global South"
+        },
+        {
+          "title": "China AI solutions power development , improve safety across Global South",
+          "link": "http://www.orlandoecho.com/news/279195665/china-ai-solutions-power-development-improve-safety-across-global-south",
+          "source": "orlandoecho.com",
+          "pubDate": "2026-07-18T17:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "China AI solutions power development , improve safety across Global South"
+        },
+        {
+          "title": "China AI solutions power development , improve safety across Global South",
+          "link": "http://www.afghanistannews.net/news/279195665/china-ai-solutions-power-development-improve-safety-across-global-south",
+          "source": "afghanistannews.net",
+          "pubDate": "2026-07-18T17:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "China AI solutions power development , improve safety across Global South"
+        },
+        {
+          "title": "China AI solutions power development , improve safety across Global South",
+          "link": "http://www.taiwansun.com/news/279195665/china-ai-solutions-power-development-improve-safety-across-global-south",
+          "source": "taiwansun.com",
+          "pubDate": "2026-07-18T17:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "China AI solutions power development , improve safety across Global South"
+        },
+        {
+          "title": "China AI solutions power development , improve safety across Global South",
+          "link": "http://www.cincinnatisun.com/news/279195665/china-ai-solutions-power-development-improve-safety-across-global-south",
+          "source": "cincinnatisun.com",
+          "pubDate": "2026-07-18T17:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "China AI solutions power development , improve safety across Global South"
+        },
+        {
+          "title": "China AI solutions power development , improve safety across Global South",
+          "link": "http://www.nepalnational.com/news/279195665/china-ai-solutions-power-development-improve-safety-across-global-south",
+          "source": "nepalnational.com",
+          "pubDate": "2026-07-18T17:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "China AI solutions power development , improve safety across Global South"
         }
       ]
     },
     "egypt-economy": {
       "title": "Fragilità economica egiziana",
       "items": [
+        {
+          "title": "Zanetti : Egypt Gave Argentina Their Toughest World Cup Test",
+          "link": "https://www.kingfut.com/2026/07/19/zanetti-egypt-gave-argentina-their-toughest-world-cup-test/",
+          "source": "kingfut.com",
+          "pubDate": "2026-07-19T23:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Zanetti : Egypt Gave Argentina Their Toughest World Cup Test"
+        },
+        {
+          "title": "Spain vs . Argentina Livestream : How to Watch the FIFA World Cup Final Live for Free",
+          "link": "https://www.pcmag.com/news/how-to-watch-spain-vs-argentina-fifa-world-cup-final-live-for-free-today",
+          "source": "pcmag.com",
+          "pubDate": "2026-07-19T21:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Spain vs . Argentina Livestream : How to Watch the FIFA World Cup Final Live for Free"
+        },
+        {
+          "title": "The Beautiful Game , a Reflection of an Unjust World",
+          "link": "http://www.pambazuka.org/index.php/node/100000345",
+          "source": "pambazuka.org",
+          "pubDate": "2026-07-19T21:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The Beautiful Game , a Reflection of an Unjust World"
+        },
         {
           "title": "AIPAC has spent a record amount on Michigan Senate primary",
           "link": "https://www.wtae.com/article/aipac-michigan-senate-primary-stevens-el-sayed/73179115",
@@ -326,48 +461,12 @@
           "lang": "en",
           "description": "",
           "titleIt": "AIPAC has spent a record amount on Michigan Senate primary"
-        },
-        {
-          "title": "AIPAC has spent a record amount on Michigan Senate primary",
-          "link": "https://www.wpbf.com/article/aipac-michigan-senate-primary-stevens-el-sayed/73179115",
-          "source": "wpbf.com",
-          "pubDate": "2026-07-19T17:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "AIPAC has spent a record amount on Michigan Senate primary"
-        },
-        {
-          "title": "AIPAC has spent a record amount on Michigan Senate primary , the biggest test of its influence yet",
-          "link": "https://www.dailygazette.com/the_recorder/ap/national/aipac-has-spent-a-record-amount-on-michigans-senate-primary-the-biggest-test-of-its/article_ae94bff4-8e44-5eaf-812f-6e530c07de09.html",
-          "source": "dailygazette.com",
-          "pubDate": "2026-07-19T17:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "AIPAC has spent a record amount on Michigan Senate primary , the biggest test of its influence yet"
-        },
-        {
-          "title": "AIPAC has spent a record amount on Michigan Senate primary",
-          "link": "https://www.ksbw.com/article/aipac-michigan-senate-primary-stevens-el-sayed/73179115",
-          "source": "ksbw.com",
-          "pubDate": "2026-07-19T17:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "AIPAC has spent a record amount on Michigan Senate primary"
         }
       ]
     },
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
       "items": [
-        {
-          "title": "Egitto-Usa: colloqui su Libia, Sudan, Libano e sicurezza del Nilo (2)",
-          "link": "https://www.agenzianova.com/a/6a5d2fb05cd373.00006787/7621776/2026-07-19/egitto-usa-colloqui-su-libia-sudan-libano-e-sicurezza-del-nilo-2",
-          "description": "19 lug 19:22 - (Agenzia Nova) - Il capo della diplomazia egiziana ha definito il Corno d'Africa \"un'estensione diretta della sicurezza nazionale... (Cae)",
-          "pubDate": "2026-07-19T19:22:18+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Egitto-Usa: colloqui su Libia, Sudan, Libano e sicurezza del Nilo (2)"
-        },
         {
           "title": "Ethiopians march against alleged forced mobilisation in Tigray",
           "link": "http://www.africanews.com/2026/07/18/ethiopians-march-against-alleged-forced-mobilisation-in-tigray/",
