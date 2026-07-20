@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-20T17:12:47.151Z",
+  "generatedAt": "2026-07-20T21:54:47.946Z",
   "feedsChecked": 9,
   "feedsAttempted": 10,
   "topics": {
@@ -57,13 +57,13 @@
       "title": "Dossier Somaliland",
       "items": [
         {
-          "title": "Medio Oriente: Ukmto, nave colpita a est del porto emiratino di Fujairah",
-          "link": "https://www.agenzianova.com/a/6a5e570b3c1641.08547276/7625083/2026-07-20/medio-oriente-ukmto-nave-colpita-a-est-del-porto-emiratino-di-fujairah",
-          "description": "20 lug 18:58 - (Agenzia Nova) - Una nave e' stata colpita mentre navigava a 17 miglia nautiche a est di Dibba, nei pressi del porto di Fujairah... (Res)",
-          "pubDate": "2026-07-20T18:58:32+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Medio Oriente: Ukmto, nave colpita a est del porto emiratino di Fujairah"
+          "title": "Former North Eastern State MP Fahiima Quuje Receives Warm Welcome in Hargeisa",
+          "link": "https://wardheernews.com/former-north-eastern-state-mp-fahiima-quuje-receives-warm-welcome-in-hargeisa/",
+          "source": "wardheernews.com",
+          "pubDate": "2026-07-20T19:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Former North Eastern State MP Fahiima Quuje Receives Warm Welcome in Hargeisa"
         },
         {
           "title": "FIGC reportedly approached Guardiola for Italy job",
@@ -91,6 +91,15 @@
           "source": "AllAfrica",
           "lang": "en",
           "titleIt": "Kenya: Army Destroys Explosive Devices, Stopping Suspected Terror Attacks"
+        },
+        {
+          "title": "Kenya: DCI Launches Investigation Into Violence During Ol Kalou By-Election",
+          "link": "https://allafrica.com/stories/202607200098.html",
+          "description": "[Capital FM] Nairobi -- The Directorate of Criminal Investigations (DCI) has launched investigations into incidents of violence and disruption reported during the Ol Kalou by-election, including the alleged involvement of armed and hooded individuals.",
+          "pubDate": "Mon, 20 Jul 2026 07:06:25 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Kenya: DCI Launches Investigation Into Violence During Ol Kalou By-Election"
         },
         {
           "title": "Can the US and Israel sustain a war of attrition with Iran ?",
@@ -226,15 +235,6 @@
           "lang": "en",
           "description": "",
           "titleIt": "Emiratis Hang On in the Gulf of Aden"
-        },
-        {
-          "title": "Super El Nino will hit women the hardest , charity warns :  We should be very worried",
-          "link": "https://www.independent.co.uk/climate-change/el-nino-climate-super-crisis-women-b3011246.html",
-          "source": "independent.co.uk",
-          "pubDate": "2026-07-12T12:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Super El Nino will hit women the hardest , charity warns :  We should be very worried"
         }
       ]
     },
@@ -242,13 +242,13 @@
       "title": "Accesso etiope al mare",
       "items": [
         {
-          "title": "Artico: Tajani, ha enorme rilevanza politica, militare e geostrategica",
-          "link": "https://www.agenzianova.com/a/6a5e570b3b3e64.90608692/7625081/2026-07-20/artico-tajani-ha-enorme-rilevanza-politica-militare-e-geostrategica",
-          "description": "20 lug 19:02 - (Agenzia Nova) - L'Artico \"ha un'enorme rilevanza non solo dal punto di vista delle infrastrutture e dei trasporti, ma anche... (Rin)",
-          "pubDate": "2026-07-20T19:02:48+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Artico: Tajani, ha enorme rilevanza politica, militare e geostrategica"
+          "title": "Trump imposes 50% tariff on Canadian imports",
+          "link": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss",
+          "description": "The duties take effect within 30 days and mark a major escalation in trade tensions between the North American neighbours.",
+          "pubDate": "Mon, 20 Jul 2026 21:51:55 GMT",
+          "source": "BBC World",
+          "lang": "en",
+          "titleIt": "Trump imposes 50% tariff on Canadian imports"
         },
         {
           "title": "Ghana: Middle East Crisis Tests Ghana's Forex Resilience As Oil Import Bills Soar",
