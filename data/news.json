@@ -1,20 +1,11 @@
 {
-  "generatedAt": "2026-07-20T11:24:35.513Z",
-  "feedsChecked": 8,
+  "generatedAt": "2026-07-20T17:12:47.151Z",
+  "feedsChecked": 9,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
-        {
-          "title": "Somalia: Somaliland Finance Ministry Unveils 2027 Budget Priorities to Parliament",
-          "link": "https://allafrica.com/stories/202607200062.html",
-          "description": "[Horn Diplomat] Hargeisa -- Somaliland's Ministry of Finance and Economic Development has begun formal consultations with lawmakers on the preparation of the country's 2027 national budget, outlining key fiscal priorities and reaffirming its commitment to a transparent, rules-based budget process.",
-          "pubDate": "Mon, 20 Jul 2026 05:37:16 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Somalia: Somaliland Finance Ministry Unveils 2027 Budget Priorities to Parliament"
-        },
         {
           "title": "An expert from the Guardia di Finanza at the Italian Embassy in Riyadh",
           "link": "https://www.ansa.it/english/news/news_from_embassies/2026/07/19/an-expert-from-the-guardia-di-finanza-at-the-italian-embassy-in-riyadh_63c6c89e-7291-4ccf-b91e-63b3321a493a.html",
@@ -41,12 +32,57 @@
           "source": "BBC Africa",
           "lang": "en",
           "titleIt": "Egypt receive a warm welcome home"
+        },
+        {
+          "title": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab",
+          "link": "https://www.crisisgroup.org/brf/africa/somalia/b212-new-chapter-same-stalemate-somalias-war-al-shabaab",
+          "description": "The Somali government’s battle with Al-Shabaab militants grinds on, with neither able to gain a decisive advantage. To improve its lot, Mogadishu needs to bolster its military and alleviate civilian suffering in areas under insurgent control, while looking for openings for dialogue with the group.",
+          "pubDate": "Tuesday, June 30, 2026 - 15:20",
+          "source": "Crisis Group",
+          "lang": "en",
+          "titleIt": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab"
+        },
+        {
+          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
+          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
+          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
+          "pubDate": "Saturday, May 16, 2026 - 00:08",
+          "source": "Crisis Group",
+          "lang": "en",
+          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
     "somaliland": {
       "title": "Dossier Somaliland",
       "items": [
+        {
+          "title": "Medio Oriente: Ukmto, nave colpita a est del porto emiratino di Fujairah",
+          "link": "https://www.agenzianova.com/a/6a5e570b3c1641.08547276/7625083/2026-07-20/medio-oriente-ukmto-nave-colpita-a-est-del-porto-emiratino-di-fujairah",
+          "description": "20 lug 18:58 - (Agenzia Nova) - Una nave e' stata colpita mentre navigava a 17 miglia nautiche a est di Dibba, nei pressi del porto di Fujairah... (Res)",
+          "pubDate": "2026-07-20T18:58:32+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Medio Oriente: Ukmto, nave colpita a est del porto emiratino di Fujairah"
+        },
+        {
+          "title": "FIGC reportedly approached Guardiola for Italy job",
+          "link": "https://www.ansa.it/english/news/sports/2026/07/20/figc-reportedly-approached-guardiola-for-italy-job_440e85d1-ec33-4bd4-b49c-2e8586eaaa2a.html",
+          "description": "(ANSA) - ROME, JUL 20 - Italian Soccer Federation (FIGC) technical director Paolo Maldini and consultant Leonardo have been spotted in Barcelona, amid reports by Sky Sport that they met Pep Guardiola at the weekend to talk to him about the vacant position of Italy coach. The former Barcelona, Bayern Munich and Manchester City boss is currently taking a break from soccer after 10 years in the Premier League. Other options include Andrea Pirlo and Roberto Mancini. 2006 World Cup hero Pirlo is the manager of UAE First Division League club Dubai United, while former Italy coach Mancini is currentl",
+          "pubDate": "Mon, 20 Jul 2026 18:04:42 +0200",
+          "source": "ANSA English",
+          "lang": "en",
+          "titleIt": "FIGC reportedly approached Guardiola for Italy job"
+        },
+        {
+          "title": "FIGC reportedly approached Guardiola for Italy job",
+          "link": "https://www.ansa.it/english/news/2026/07/20/figc-reportedly-approached-guardiola-for-italy-job_d2590bf0-657c-4c91-958c-89a4742d27b7.html",
+          "description": "(ANSA) - ROME, JUL 20 - Italian Soccer Federation (FIGC) technical director Paolo Maldini and consultant Leonardo have been spotted in Barcelona, amid reports by Sky Sport that they met Pep Guardiola at the weekend to talk to him about the vacant position of Italy coach. The former Barcelona, Bayern Munich and Manchester City boss is currently taking a break from soccer after 10 years in the Premier League. Other options include Andrea Pirlo and Roberto Mancini. 2006 World Cup hero Pirlo is the manager of UAE First Division League club Dubai United, while former Italy coach Mancini is currentl",
+          "pubDate": "Mon, 20 Jul 2026 17:53:50 +0200",
+          "source": "ANSA English",
+          "lang": "en",
+          "titleIt": "FIGC reportedly approached Guardiola for Italy job"
+        },
         {
           "title": "Kenya: Army Destroys Explosive Devices, Stopping Suspected Terror Attacks",
           "link": "https://allafrica.com/stories/202607200101.html",
@@ -55,24 +91,6 @@
           "source": "AllAfrica",
           "lang": "en",
           "titleIt": "Kenya: Army Destroys Explosive Devices, Stopping Suspected Terror Attacks"
-        },
-        {
-          "title": "Kenya: DCI Launches Investigation Into Violence During Ol Kalou By-Election",
-          "link": "https://allafrica.com/stories/202607200098.html",
-          "description": "[Capital FM] Nairobi -- The Directorate of Criminal Investigations (DCI) has launched investigations into incidents of violence and disruption reported during the Ol Kalou by-election, including the alleged involvement of armed and hooded individuals.",
-          "pubDate": "Mon, 20 Jul 2026 07:06:25 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Kenya: DCI Launches Investigation Into Violence During Ol Kalou By-Election"
-        },
-        {
-          "title": "Somalia: Somaliland Finance Ministry Unveils 2027 Budget Priorities to Parliament",
-          "link": "https://allafrica.com/stories/202607200062.html",
-          "description": "[Horn Diplomat] Hargeisa -- Somaliland's Ministry of Finance and Economic Development has begun formal consultations with lawmakers on the preparation of the country's 2027 national budget, outlining key fiscal priorities and reaffirming its commitment to a transparent, rules-based budget process.",
-          "pubDate": "Mon, 20 Jul 2026 05:37:16 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Somalia: Somaliland Finance Ministry Unveils 2027 Budget Priorities to Parliament"
         },
         {
           "title": "Can the US and Israel sustain a war of attrition with Iran ?",
@@ -217,21 +235,30 @@
           "lang": "en",
           "description": "",
           "titleIt": "Super El Nino will hit women the hardest , charity warns :  We should be very worried"
-        },
-        {
-          "title": "Turkey brokers intra - Somalia talks as federal rifts test Ankara influence",
-          "link": "https://horseedmedia.net/turkey-brokers-intra-somalia-talks-as-federal-rifts-test-ankaras-influence/423594/",
-          "source": "horseedmedia.net",
-          "pubDate": "2026-07-10T14:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Turkey brokers intra - Somalia talks as federal rifts test Ankara influence"
         }
       ]
     },
     "ethiopia-sea-access": {
       "title": "Accesso etiope al mare",
       "items": [
+        {
+          "title": "Artico: Tajani, ha enorme rilevanza politica, militare e geostrategica",
+          "link": "https://www.agenzianova.com/a/6a5e570b3b3e64.90608692/7625081/2026-07-20/artico-tajani-ha-enorme-rilevanza-politica-militare-e-geostrategica",
+          "description": "20 lug 19:02 - (Agenzia Nova) - L'Artico \"ha un'enorme rilevanza non solo dal punto di vista delle infrastrutture e dei trasporti, ma anche... (Rin)",
+          "pubDate": "2026-07-20T19:02:48+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Artico: Tajani, ha enorme rilevanza politica, militare e geostrategica"
+        },
+        {
+          "title": "Ghana: Middle East Crisis Tests Ghana's Forex Resilience As Oil Import Bills Soar",
+          "link": "https://allafrica.com/stories/202607200347.html",
+          "description": "[Ghanaian Times] Ghana faces mounting external headwinds from elevated oil prices and surging shipping costs triggered by Middle East geopolitical tensions. Standard Bank has sharply revised downward its current account surplus projection for 2026, slashing the forecast by approximately $1 billion, primarily driven by soaring petroleum import costs. The revisions underscore the vulnerability of Africa's largest gold producer to global energy market shocks.",
+          "pubDate": "Mon, 20 Jul 2026 11:27:40 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Ghana: Middle East Crisis Tests Ghana's Forex Resilience As Oil Import Bills Soar"
+        },
         {
           "title": "Ethiopians march against alleged forced mobilisation in Tigray",
           "link": "http://www.africanews.com/2026/07/18/ethiopians-march-against-alleged-forced-mobilisation-in-tigray/",
@@ -285,21 +312,21 @@
           "source": "BBC Africa",
           "lang": "en",
           "titleIt": "Villa warned over sportswashing after Visit Rwanda deal"
+        },
+        {
+          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
+          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
+          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
+          "pubDate": "Saturday, May 16, 2026 - 00:08",
+          "source": "Crisis Group",
+          "lang": "en",
+          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
     "egypt-economy": {
       "title": "Fragilità economica egiziana",
       "items": [
-        {
-          "title": "Egypt: Egypt Pledges to Fast-Track Joint Strategic Projects",
-          "link": "https://allafrica.com/stories/202607200044.html",
-          "description": "[Daily News] Dar es Salaam -- EGYPTIAN President Abdel Fattah El-Sisi has pledged to accelerate the implementation of a series of joint economic projects with Tanzania as the two countries seek to deepen trade, investment and regional connectivity.",
-          "pubDate": "Mon, 20 Jul 2026 05:37:07 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Egypt: Egypt Pledges to Fast-Track Joint Strategic Projects"
-        },
         {
           "title": "An expert from the Guardia di Finanza at the Italian Embassy in Riyadh",
           "link": "https://www.ansa.it/english/news/news_from_embassies/2026/07/19/an-expert-from-the-guardia-di-finanza-at-the-italian-embassy-in-riyadh_63c6c89e-7291-4ccf-b91e-63b3321a493a.html",
@@ -315,6 +342,33 @@
       "title": "Opacità sui rilasci GERD",
       "items": [
         {
+          "title": "Sudan: Sudan Rejects U.S. Sanctions, Reaffirms Commitment to International Agreements",
+          "link": "https://allafrica.com/stories/202607200431.html",
+          "description": "[SNA] KHARTOUM, July 20, 2026 (SUNA) - The Ministry of Foreign Affairs has issued a statement expressing the country's outright rejection of the unilateral and unlawful sanctions announced by the United States against Sudan based on false allegations that the Sudanese Armed Forces used chemical weapons.",
+          "pubDate": "Mon, 20 Jul 2026 12:13:04 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Sudan: Sudan Rejects U.S. Sanctions, Reaffirms Commitment to International Agreements"
+        },
+        {
+          "title": "Ethiopia Pivotal Week - National Dialogue and Diplomatic Momentum",
+          "link": "https://allafrica.com/stories/202607200017.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-07-20T08:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia Pivotal Week - National Dialogue and Diplomatic Momentum"
+        },
+        {
+          "title": "Rural Ethiopia still left in the dark as reliable electricity lags",
+          "link": "https://capitalethiopia.com/2026/07/19/rural-ethiopia-still-left-in-the-dark-as-reliable-electricity-lags/",
+          "source": "capitalethiopia.com",
+          "pubDate": "2026-07-19T16:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Rural Ethiopia still left in the dark as reliable electricity lags"
+        },
+        {
           "title": "Ethiopians march against alleged forced mobilisation in Tigray",
           "link": "http://www.africanews.com/2026/07/18/ethiopians-march-against-alleged-forced-mobilisation-in-tigray/",
           "description": "Thousands rally in Ethiopia's capital Addis Ababa to protest the alleged forced recruitment of civilians in the Tigray region by Tigray People's Liberation Front (TPLF) forces, the breakaway region's main political party, amid months of escalating tensions with Ethiopia's federal government",
@@ -322,6 +376,150 @@
           "source": "Africanews",
           "lang": "en",
           "titleIt": "Ethiopians march against alleged forced mobilisation in Tigray"
+        },
+        {
+          "title": "From abundance to retreat : what happened to Nile water levels in Sudan ?",
+          "link": "https://www.dabangasudan.org/en/all-news/article/from-abundance-to-retreat-what-happened-to-nile-water-levels-in-sudan",
+          "source": "dabangasudan.org",
+          "pubDate": "2026-07-16T15:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "From abundance to retreat : what happened to Nile water levels in Sudan ?"
+        },
+        {
+          "title": "Egypt : American Analyst Accuses Egypt of Escalating  Information Warfare  Against Ethiopia Over GERD",
+          "link": "https://allafrica.com/stories/202607150066.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-07-15T05:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt : American Analyst Accuses Egypt of Escalating  Information Warfare  Against Ethiopia Over GERD"
+        },
+        {
+          "title": "Ethiopia debt problem",
+          "link": "https://africasacountry.com/2026/07/ethiopias-debt-problem",
+          "source": "africasacountry.com",
+          "pubDate": "2026-07-14T18:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia debt problem"
+        },
+        {
+          "title": "Horn of Africa vital in regional power as Gulf nations compete over alliances",
+          "link": "https://www.jpost.com/middle-east/article-902454",
+          "source": "jpost.com",
+          "pubDate": "2026-07-14T12:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Horn of Africa vital in regional power as Gulf nations compete over alliances"
+        },
+        {
+          "title": "Horn of Africa vital in regional power as Gulf nations compete over alliances",
+          "link": "http://www.jpost.com/middle-east/article-902454",
+          "source": "jpost.com",
+          "pubDate": "2026-07-14T10:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Horn of Africa vital in regional power as Gulf nations compete over alliances"
+        },
+        {
+          "title": "Egypt water dispute with Ethiopia overshadowed by rising Horn of Africa tension , experts say",
+          "link": "https://www.thenationalnews.com/news/mena/2026/07/14/egypts-water-dispute-with-ethiopia-complicated-by-rising-horn-of-africa-tension-experts-say/",
+          "source": "thenationalnews.com",
+          "pubDate": "2026-07-14T08:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt water dispute with Ethiopia overshadowed by rising Horn of Africa tension , experts say"
+        },
+        {
+          "title": "Egypt built the Aswan High Dam to tame the Nile floods , but scientists now say the project starved the delta of fertile sediments and accelerated coastal erosion",
+          "link": "https://timesofindia.indiatimes.com/world/rest-of-world/egypt-built-the-aswan-high-dam-to-tame-the-niles-floods-but-scientists-now-say-the-project-starved-the-delta-of-fertile-sediments-and-accelerated-coastal-erosion/articleshow/132363327.cms",
+          "source": "timesofindia.indiatimes.com",
+          "pubDate": "2026-07-14T04:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt built the Aswan High Dam to tame the Nile floods , but scientists now say the project starved the delta of fertile sediments and accelerated coastal erosion"
+        },
+        {
+          "title": "Egypt issues warning to Ethiopia over  unacceptable  GERD steps",
+          "link": "https://www.egyptindependent.com/egypt-issues-warning-to-ethiopia-over-unacceptable-gerd-steps/",
+          "source": "egyptindependent.com",
+          "pubDate": "2026-07-13T12:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt issues warning to Ethiopia over  unacceptable  GERD steps"
+        },
+        {
+          "title": "Ethiopia , Kenya ink electricity supply deal",
+          "link": "https://capitalfm.africa/ethiopia-kenya-ink-electricity-supply-deal/",
+          "source": "capitalfm.africa",
+          "pubDate": "2026-07-12T12:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia , Kenya ink electricity supply deal"
+        },
+        {
+          "title": "Ethiopia , Kenya ink electricity supply deal amid expanding regional energy connectivity - Xinhua",
+          "link": "https://english.news.cn/20260711/d33f5fbca80e4daf9a3b4f313a9ea59e/c.html",
+          "source": "english.news.cn",
+          "pubDate": "2026-07-11T16:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia , Kenya ink electricity supply deal amid expanding regional energy connectivity - Xinhua"
+        },
+        {
+          "title": "Ethiopia Pan - African Blueprint : Sovereignty , Solidarity , And Sustainability",
+          "link": "https://www.thereporterethiopia.com/51760/",
+          "source": "thereporterethiopia.com",
+          "pubDate": "2026-07-11T13:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia Pan - African Blueprint : Sovereignty , Solidarity , And Sustainability"
+        },
+        {
+          "title": "You cant pause the IWT",
+          "link": "https://www.geo.tv/latest/672562-you-cant-pause-the-iwt",
+          "source": "geo.tv",
+          "pubDate": "2026-07-11T06:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "You cant pause the IWT"
+        },
+        {
+          "title": "Ethiopia : Will Abiy Ahmed Be Ethiopia Bismarck or Its Mandela ?",
+          "link": "https://allafrica.com/stories/202607060020.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-07-06T09:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia : Will Abiy Ahmed Be Ethiopia Bismarck or Its Mandela ?"
+        },
+        {
+          "title": "Ethiopia New Blue Nile Dams Rattle Egypt",
+          "link": "https://www.riotimesonline.com/ethiopia-blue-nile-dams-egypt-water-2026/",
+          "source": "riotimesonline.com",
+          "pubDate": "2026-06-27T10:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia New Blue Nile Dams Rattle Egypt"
+        },
+        {
+          "title": "Ethiopia Leap Into the Future",
+          "link": "https://allafrica.com/stories/202606250254.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-06-25T11:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia Leap Into the Future"
+        },
+        {
+          "title": "Abiy turns to Nile and Red Sea ambitions after Ethiopia election landslide",
+          "link": "https://www.zawya.com/en/economy/africa/abiy-turns-to-nile-and-red-sea-ambitions-after-ethiopia-election-landslide-lc65kwng",
+          "source": "zawya.com",
+          "pubDate": "2026-06-25T05:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Abiy turns to Nile and Red Sea ambitions after Ethiopia election landslide"
         }
       ]
     }
