@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-22T15:57:30.337Z",
+  "generatedAt": "2026-07-22T20:37:06.326Z",
   "feedsChecked": 9,
   "feedsAttempted": 10,
   "topics": {
@@ -7,22 +7,13 @@
       "title": "Accordi Egitto-Somalia",
       "items": [
         {
-          "title": "Egitto-Russia: concessa approvazione preliminare per voli stagionali per Alessandria e El Alamein",
-          "link": "https://www.agenzianova.com/a/6a60e865d6ef69.29802492/7632409/2026-07-22/egitto-russia-concessa-approvazione-preliminare-per-voli-stagionali-per-alessandria-e-el-alamein",
-          "description": "22 lug 17:33 - (Agenzia Nova) - La Russia ha concesso l'approvazione preliminare agli aeroporti internazionali egiziani di El Alamein e Alessandria,... (Cae)",
-          "pubDate": "2026-07-22T17:33:54+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Egitto-Russia: concessa approvazione preliminare per voli stagionali per Alessandria e El Alamein"
-        },
-        {
-          "title": "Somalia: African Union Members Warn Somalia Peacekeeping Mission Cannot Continue Indefinitely",
-          "link": "https://allafrica.com/stories/202607220369.html",
-          "description": "[Shabelle] Nairobi -- Some African Union member states have warned that the African Union Support and Stabilisation Mission in Somalia (AUSSOM) cannot continue indefinitely, urging Somalia's federal government to accelerate efforts to prepare national forces to take full responsibility for the country's security.",
-          "pubDate": "Wed, 22 Jul 2026 11:45:45 GMT",
+          "title": "Africa: Egypt's Reme-D Gets $1.45m to Scale Molecular Diagnostics in Africa",
+          "link": "https://allafrica.com/stories/202607220724.html",
+          "description": "[Daba Finance] Egyptian healthtech startup Reme-D has raised $1.45 million in a Pre-Series A funding round led by Anara Impact Capital to expand production of its molecular diagnostic tests and grow its presence across Africa and other underserved markets.",
+          "pubDate": "Wed, 22 Jul 2026 18:27:15 GMT",
           "source": "AllAfrica",
           "lang": "en",
-          "titleIt": "Somalia: African Union Members Warn Somalia Peacekeeping Mission Cannot Continue Indefinitely"
+          "titleIt": "Africa: Egypt's Reme-D Gets $1.45m to Scale Molecular Diagnostics in Africa"
         },
         {
           "title": "Somalia: Turkey Renews Somalia Military Deployment for Two More Years",
@@ -75,24 +66,6 @@
       "title": "Dossier Somaliland",
       "items": [
         {
-          "title": "Kenya: Govt Defends Sh104mn Tax Waiver On Imported Industrial Sugar",
-          "link": "https://allafrica.com/stories/202607220375.html",
-          "description": "[Capital FM] Nairobi -- The National Treasury has defended its decision to exempt imported raw sugar from certain taxes, saying the move will support local manufacturing despite costing the government more than Sh104 million in forgone revenue.",
-          "pubDate": "Wed, 22 Jul 2026 11:47:33 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Kenya: Govt Defends Sh104mn Tax Waiver On Imported Industrial Sugar"
-        },
-        {
-          "title": "Somalia: African Union Members Warn Somalia Peacekeeping Mission Cannot Continue Indefinitely",
-          "link": "https://allafrica.com/stories/202607220369.html",
-          "description": "[Shabelle] Nairobi -- Some African Union member states have warned that the African Union Support and Stabilisation Mission in Somalia (AUSSOM) cannot continue indefinitely, urging Somalia's federal government to accelerate efforts to prepare national forces to take full responsibility for the country's security.",
-          "pubDate": "Wed, 22 Jul 2026 11:45:45 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Somalia: African Union Members Warn Somalia Peacekeeping Mission Cannot Continue Indefinitely"
-        },
-        {
           "title": "Somalia: Turkey Renews Somalia Military Deployment for Two More Years",
           "link": "https://allafrica.com/stories/202607220290.html",
           "description": "[Radio Dalsan] Turkey's parliament has approved a two-year extension of its military mission in Somalia, a move set to take effect on July 27 that reaffirms Ankara's continued backing of Somali security institutions. The decision allows Turkish forces to keep providing training, advisory support and technical assistance to Somalia's National Army.",
@@ -134,6 +107,15 @@
       "title": "Accesso etiope al mare",
       "items": [
         {
+          "title": "Liberia: Eugene Nagbe Alleges Official Collusion in Liberia's Cocaine Trade, Disputes Government's U.S.$19 Million Valuation",
+          "link": "https://allafrica.com/stories/202607220536.html",
+          "description": "[Liberian Investigator] Eugene Nagbe, a former top official in George Weah's government, has alleged that people in authority are colluding with drug traffickers, saying the large cocaine shipments surfacing at Liberia's ports could not slip through undetected without inside help.",
+          "pubDate": "Wed, 22 Jul 2026 16:00:20 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Liberia: Eugene Nagbe Alleges Official Collusion in Liberia's Cocaine Trade, Disputes Government's U.S.$19 Million Valuation"
+        },
+        {
           "title": "Why Gold Threatens Peace in South Sudan",
           "link": "https://www.justsecurity.org/146977/gold-threatens-peace-south-sudan/",
           "source": "justsecurity.org",
@@ -159,15 +141,6 @@
           "lang": "en",
           "description": "",
           "titleIt": "Somalia : IOM Flies 56 Migrants Back to Ethiopia"
-        },
-        {
-          "title": "Somalia: African Union Members Warn Somalia Peacekeeping Mission Cannot Continue Indefinitely",
-          "link": "https://allafrica.com/stories/202607220369.html",
-          "description": "[Shabelle] Nairobi -- Some African Union member states have warned that the African Union Support and Stabilisation Mission in Somalia (AUSSOM) cannot continue indefinitely, urging Somalia's federal government to accelerate efforts to prepare national forces to take full responsibility for the country's security.",
-          "pubDate": "Wed, 22 Jul 2026 11:45:45 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Somalia: African Union Members Warn Somalia Peacekeeping Mission Cannot Continue Indefinitely"
         },
         {
           "title": "Somalia: Turkey Renews Somalia Military Deployment for Two More Years",
@@ -319,40 +292,184 @@
       "title": "Fragilità economica egiziana",
       "items": [
         {
-          "title": "Egypt's intense heatwave strains workers and disrupts economy",
-          "link": "http://www.africanews.com/2026/07/22/egypts-intense-heatwave-strains-workers-and-disrupts-economy/",
-          "description": "With the intense heat expected to continue over the next few days, officials are urging citizens to avoid direct sun exposure during peak hours and to stay well-hydrated.",
-          "pubDate": "Wed, 22 Jul 2026 14:39:39 +0000",
-          "source": "Africanews",
+          "title": "DPM , Egypt FM discuss situation in Palestine",
+          "link": "https://www.radio.gov.pk/22-07-2026/dpm-egypts-fm-discuss-situation-in-palestine",
+          "source": "radio.gov.pk",
+          "pubDate": "2026-07-22T20:00:00Z",
           "lang": "en",
-          "titleIt": "Egypt's intense heatwave strains workers and disrupts economy"
+          "description": "",
+          "titleIt": "DPM , Egypt FM discuss situation in Palestine"
         },
         {
-          "title": "Woman, 55, dies two months after being hit in Modena car attack",
-          "link": "https://www.ansa.it/english/news/general_news/2026/07/22/woman-55-dies-two-months-after-being-hit-in-modena-car-attack_3644f5fc-3054-4fc0-ab52-f5e9b280caf5.html",
-          "description": "(ANSA) - ROME, JUL 22 - A 55-year-old woman who was among the people hit by a car attack in the northern city of Modena on May 16 has died, the hospital she was being treated at said on Wednesday. Monica Esposito never regained consciousness after the attack by a 31-year-old Italian citizen of Moroccan origin with mental-health problems, Salim El Koudri. After driving into the pedestrians with his car, El Koudri pulled a knife when passers-by, including two Egyptian men, grappled him to ground. Esposito was among eight people injured in the attack. El Koudri is an economics graduate who had no",
-          "pubDate": "Wed, 22 Jul 2026 16:04:12 +0200",
-          "source": "ANSA English",
+          "title": "Justice for Horse Beaten While Collapsed in Blistering Heat",
+          "link": "https://forcechange.com/673468/justice-for-horse-beaten-while-collapsed-in-blistering-heat/",
+          "source": "forcechange.com",
+          "pubDate": "2026-07-22T19:45:00Z",
           "lang": "en",
-          "titleIt": "Woman, 55, dies two months after being hit in Modena car attack"
+          "description": "",
+          "titleIt": "Justice for Horse Beaten While Collapsed in Blistering Heat"
         },
         {
-          "title": "Woman, 55, dies two months after being hit in Modena car attack",
-          "link": "https://www.ansa.it/english/news/2026/07/22/woman-55-dies-two-months-after-being-hit-in-modena-car-attack_dd1afbb5-d5a2-4568-a9ce-13218f265f0b.html",
-          "description": "(ANSA) - ROME, JUL 22 - A 55-year-old woman who was among the people hit by a car attack in the northern city of Modena on May 16 has died, the hospital she was being treated at said on Wednesday. Monica Esposito never regained consciousness after the attack by a 31-year-old Italian citizen of Moroccan origin with mental-health problems, Salim El Koudri. After driving into the pedestrians with his car, El Koudri pulled a knife when passers-by, including two Egyptian men, grappled him to ground. Esposito was among eight people injured in the attack. El Koudri is an economics graduate who had no",
-          "pubDate": "Wed, 22 Jul 2026 16:03:02 +0200",
-          "source": "ANSA English",
+          "title": "US - Saudi nuclear deal shows Abraham Accords is a positive incentive",
+          "link": "http://www.jpost.com/middle-east/article-903360",
+          "source": "jpost.com",
+          "pubDate": "2026-07-22T19:45:00Z",
           "lang": "en",
-          "titleIt": "Woman, 55, dies two months after being hit in Modena car attack"
+          "description": "",
+          "titleIt": "US - Saudi nuclear deal shows Abraham Accords is a positive incentive"
         },
         {
-          "title": "An expert from the Guardia di Finanza at the Italian Embassy in Riyadh",
-          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/07/19/an-expert-from-the-guardia-di-finanza-at-the-italian-embassy-in-riyadh_63c6c89e-7291-4ccf-b91e-63b3321a493a.html",
-          "description": "(ANSA) - IL CAIRO, 19 LUG - The Italian Embassy in Riyadh has strengthened its structure with the establishment of a Guardia di Finanza Office, headed by Colonel Alessandro Coscarelli in his capacity as an expert from the Corps. The opening of the new office represents an important step in consolidating the partnership between Italy and Saudi Arabia, with the goal of strengthening cooperation in the field of economic and financial security. It joins the other 29 Financial Police Expert offices currently part of the Corps’ overseas network at bilateral and multilateral diplomatic missions. The ",
-          "pubDate": "Sun, 19 Jul 2026 15:52:33 +0200",
-          "source": "ANSA English",
+          "title": "Cairo Diagnostics Bet : How a $1 . 45 Million Round Signals Where African Healthtech Is Headed",
+          "link": "https://www.africa.com/feature/cairos-diagnostics-bet-how-a-1-45-million-round-signals-where-african-healthtech-is-headed",
+          "source": "africa.com",
+          "pubDate": "2026-07-22T19:30:00Z",
           "lang": "en",
-          "titleIt": "An expert from the Guardia di Finanza at the Italian Embassy in Riyadh"
+          "description": "",
+          "titleIt": "Cairo Diagnostics Bet : How a $1 . 45 Million Round Signals Where African Healthtech Is Headed"
+        },
+        {
+          "title": "India must lead in securing the Strait of Bab el - Mandeb",
+          "link": "https://www.thehindu.com/opinion/op-ed/india-must-lead-in-securing-the-strait-of-bab-el-mandeb/article71254829.ece",
+          "source": "thehindu.com",
+          "pubDate": "2026-07-22T19:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "India must lead in securing the Strait of Bab el - Mandeb"
+        },
+        {
+          "title": "Cleopatra was sexualised and romanticised : here why weve been getting royal women wrong",
+          "link": "https://www.historyextra.com/membership/cleopatra-was-sexualised-and-romanticised-heres-why-weve-been-getting-royal-women-wrong/",
+          "source": "historyextra.com",
+          "pubDate": "2026-07-22T19:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Cleopatra was sexualised and romanticised : here why weve been getting royal women wrong"
+        },
+        {
+          "title": "Ishaq Dar , EU Kaja Kallas Urge Diplomacy on US - Iran",
+          "link": "https://www.pakistantoday.com.pk/2026/07/22/dar-eus-kallas-back-diplomacy-as-only-path-to-peace-amid-us-iran-tensions",
+          "source": "pakistantoday.com.pk",
+          "pubDate": "2026-07-22T19:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ishaq Dar , EU Kaja Kallas Urge Diplomacy on US - Iran"
+        },
+        {
+          "title": "Africa: Egypt's Reme-D Gets $1.45m to Scale Molecular Diagnostics in Africa",
+          "link": "https://allafrica.com/stories/202607220724.html",
+          "description": "[Daba Finance] Egyptian healthtech startup Reme-D has raised $1.45 million in a Pre-Series A funding round led by Anara Impact Capital to expand production of its molecular diagnostic tests and grow its presence across Africa and other underserved markets.",
+          "pubDate": "Wed, 22 Jul 2026 18:27:15 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Africa: Egypt's Reme-D Gets $1.45m to Scale Molecular Diagnostics in Africa"
+        },
+        {
+          "title": "A new threat by Yemen Houthis could widen the Iran war and put another trade chokepoint at risk",
+          "link": "https://www.the-messenger.com/news/world/article_564ac4af-f5ba-5309-bf72-98198ce39287.html",
+          "source": "the-messenger.com",
+          "pubDate": "2026-07-22T18:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "A new threat by Yemen Houthis could widen the Iran war and put another trade chokepoint at risk"
+        },
+        {
+          "title": "Quiet diplomacy urged as West Africa pushes AU to confront SA – Channel Africa",
+          "link": "https://www.channelafrica.co.za/channelafrica/news/quiet-diplomacy-urged-as-west-africa-pushes-au-to-confront-sa/",
+          "source": "channelafrica.co.za",
+          "pubDate": "2026-07-22T17:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Quiet diplomacy urged as West Africa pushes AU to confront SA – Channel Africa"
+        },
+        {
+          "title": "Paul McCartney Album Closing Songs Ranked",
+          "link": "https://1057thehawk.com/ixp/295/p/paul-mccartney-album-closing-songs-ranked/",
+          "source": "1057thehawk.com",
+          "pubDate": "2026-07-22T16:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Paul McCartney Album Closing Songs Ranked"
+        },
+        {
+          "title": "VALEO SE : Valeo - H1 2026 Results",
+          "link": "https://www.finanznachrichten.de/nachrichten-2026-07/69096656-valeo-se-valeo-h1-2026-results-399.htm",
+          "source": "finanznachrichten.de",
+          "pubDate": "2026-07-22T16:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "VALEO SE : Valeo - H1 2026 Results"
+        },
+        {
+          "title": "Gateway to Opportunities : Where Innovation Serves People -- Hangzhou Journey from Countryside to Robotics Labs",
+          "link": "http://www.malaysiasun.com/news/279203095/gateway-to-opportunities-where-innovation-serves-people-hangzhou-journey-from-countryside-to-robotics-labs",
+          "source": "malaysiasun.com",
+          "pubDate": "2026-07-22T16:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Gateway to Opportunities : Where Innovation Serves People -- Hangzhou Journey from Countryside to Robotics Labs"
+        },
+        {
+          "title": "The USDA reveals the foods Americans eat more than anything else",
+          "link": "https://www.aol.com/articles/usda-reveals-foods-americans-eat-170143000.html",
+          "source": "aol.com",
+          "pubDate": "2026-07-22T16:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The USDA reveals the foods Americans eat more than anything else"
+        },
+        {
+          "title": "Tankers make sharp U - turns after Houthi shipping threat",
+          "link": "https://www.bbc.co.uk/news/articles/cn0n127lpzgo",
+          "source": "bbc.co.uk",
+          "pubDate": "2026-07-22T16:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Tankers make sharp U - turns after Houthi shipping threat"
+        },
+        {
+          "title": "Iran war : Threat by Yemen Houthis could put trade chokepoint at risk",
+          "link": "https://www.cp24.com/news/world/2026/07/22/a-new-threat-by-yemens-houthis-could-widen-the-iran-war-and-put-another-trade-chokepoint-at-risk/",
+          "source": "cp24.com",
+          "pubDate": "2026-07-22T16:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Iran war : Threat by Yemen Houthis could put trade chokepoint at risk"
+        },
+        {
+          "title": "Paul McCartney Album Closing Songs Ranked",
+          "link": "https://koolfmabilene.com/ixp/295/p/paul-mccartney-album-closing-songs-ranked/",
+          "source": "koolfmabilene.com",
+          "pubDate": "2026-07-22T16:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Paul McCartney Album Closing Songs Ranked"
+        },
+        {
+          "title": "Paul McCartney Album Closing Songs Ranked",
+          "link": "https://krna.com/ixp/295/p/paul-mccartney-album-closing-songs-ranked/",
+          "source": "krna.com",
+          "pubDate": "2026-07-22T15:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Paul McCartney Album Closing Songs Ranked"
+        },
+        {
+          "title": "Paul McCartney Album Closing Songs Ranked",
+          "link": "https://wpdh.com/ixp/295/p/paul-mccartney-album-closing-songs-ranked/",
+          "source": "wpdh.com",
+          "pubDate": "2026-07-22T15:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Paul McCartney Album Closing Songs Ranked"
+        },
+        {
+          "title": "All signatures secured for Aphrodite gas sales MoU with Egypt",
+          "link": "https://cyprus-mail.com/2026/07/22/all-signatures-secured-for-aphrodite-gas-sales-mou-with-egypt",
+          "source": "cyprus-mail.com",
+          "pubDate": "2026-07-22T15:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "All signatures secured for Aphrodite gas sales MoU with Egypt"
         }
       ]
     },
