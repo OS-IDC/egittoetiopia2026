@@ -1,20 +1,11 @@
 {
-  "generatedAt": "2026-07-22T20:37:06.326Z",
+  "generatedAt": "2026-07-23T07:46:40.478Z",
   "feedsChecked": 9,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
-        {
-          "title": "Africa: Egypt's Reme-D Gets $1.45m to Scale Molecular Diagnostics in Africa",
-          "link": "https://allafrica.com/stories/202607220724.html",
-          "description": "[Daba Finance] Egyptian healthtech startup Reme-D has raised $1.45 million in a Pre-Series A funding round led by Anara Impact Capital to expand production of its molecular diagnostic tests and grow its presence across Africa and other underserved markets.",
-          "pubDate": "Wed, 22 Jul 2026 18:27:15 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Africa: Egypt's Reme-D Gets $1.45m to Scale Molecular Diagnostics in Africa"
-        },
         {
           "title": "Somalia: Turkey Renews Somalia Military Deployment for Two More Years",
           "link": "https://allafrica.com/stories/202607220290.html",
@@ -66,6 +57,15 @@
       "title": "Dossier Somaliland",
       "items": [
         {
+          "title": "Kenya: Treasury Reverses 2026 Economic Growth From 5.3pc to 5pc",
+          "link": "https://allafrica.com/stories/202607230194.html",
+          "description": "[Capital FM] Nairobi -- The National Treasury expects Kenya's economy to grow by 5 percent in 2026 despite global uncertainties, supported by easing inflation, structural reforms and increased private sector investment.",
+          "pubDate": "Thu, 23 Jul 2026 07:40:06 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Kenya: Treasury Reverses 2026 Economic Growth From 5.3pc to 5pc"
+        },
+        {
           "title": "Somalia: Turkey Renews Somalia Military Deployment for Two More Years",
           "link": "https://allafrica.com/stories/202607220290.html",
           "description": "[Radio Dalsan] Turkey's parliament has approved a two-year extension of its military mission in Somalia, a move set to take effect on July 27 that reaffirms Ankara's continued backing of Somali security institutions. The decision allows Turkish forces to keep providing training, advisory support and technical assistance to Somalia's National Army.",
@@ -107,6 +107,33 @@
       "title": "Accesso etiope al mare",
       "items": [
         {
+          "title": "Ue: accordo su 21mo pacchetto sanzioni contro la Russia, esenzione su trasporto Gnl",
+          "link": "https://www.agenzianova.com/a/6a61c6dd76ed52.22664371/7633707/2026-07-23/ue-accordo-su-21mo-pacchetto-sanzioni-contro-la-russia-esenzione-su-trasporto-gnl",
+          "description": "23 lug 09:33 - (Agenzia Nova) - Gli ambasciatori Ue hanno trovato un'intesa sul 21mo pacchetto di sanzioni contro la Russia. Lo riferiscono... (Beb)",
+          "pubDate": "2026-07-23T09:33:34+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Ue: accordo su 21mo pacchetto sanzioni contro la Russia, esenzione su trasporto Gnl"
+        },
+        {
+          "title": "Overnight News Digest : July 22 , 2026",
+          "link": "https://www.dailykos.com/stories/2026/7/22/800073610/community/overnight-news-digest-july-22-2026/",
+          "source": "dailykos.com",
+          "pubDate": "2026-07-23T06:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Overnight News Digest : July 22 , 2026"
+        },
+        {
+          "title": "Dangote Lamu refinery is more than a response to the Middle East energy crisis",
+          "link": "https://www.standardmedia.co.ke/opinion/article/2001553475/dangote-lamu-refinery-is-more-than-a-response-to-the-middle-east-energy-crisis",
+          "source": "standardmedia.co.ke",
+          "pubDate": "2026-07-22T22:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Dangote Lamu refinery is more than a response to the Middle East energy crisis"
+        },
+        {
           "title": "Liberia: Eugene Nagbe Alleges Official Collusion in Liberia's Cocaine Trade, Disputes Government's U.S.$19 Million Valuation",
           "link": "https://allafrica.com/stories/202607220536.html",
           "description": "[Liberian Investigator] Eugene Nagbe, a former top official in George Weah's government, has alleged that people in authority are colluding with drug traffickers, saying the large cocaine shipments surfacing at Liberia's ports could not slip through undetected without inside help.",
@@ -123,15 +150,6 @@
           "lang": "en",
           "description": "",
           "titleIt": "Why Gold Threatens Peace in South Sudan"
-        },
-        {
-          "title": "Sudan: Criticism Mounts Over Sudan-Türkiye Suakin Gas Terminal Memo",
-          "link": "https://allafrica.com/stories/202607220395.html",
-          "description": "[Dabanga] Amsterdam / Suakin -- The signing of a memorandum of understanding between Sudan's Sea Ports Corporation and the Turkish Argaz Group to build the first specialised gas terminal in Suakin on Sudan's Read Sea Coast sparks widespread debate and raises questions about the nature of the deal, as well as the government's lack of transparency over why the project is not put out to competitive tender for qualified international companies.",
-          "pubDate": "Wed, 22 Jul 2026 12:21:40 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Sudan: Criticism Mounts Over Sudan-Türkiye Suakin Gas Terminal Memo"
         },
         {
           "title": "Somalia : IOM Flies 56 Migrants Back to Ethiopia",
@@ -267,24 +285,6 @@
           "lang": "en",
           "description": "",
           "titleIt": "Turkish Medical Association investigates doctor advertising  female circumcision"
-        },
-        {
-          "title": "Italy to use escape clause for energy investments says Meloni",
-          "link": "https://www.ansa.it/english/news/2026/07/21/italy-to-use-escape-clause-for-energy-investments-says-meloni_91917435-d51c-461d-a936-ec8dc06e9866.html",
-          "description": "(ANSA) - ROME, JUL 21 - Premier Giorgia Meloni said Tuesday that Italy will use the escape clause created by the European Commission after Italy called for the flexibility in the Stability and Growth Pact for defence spending to be extended to energy investments in the wake of the price spikes triggered by the Iran war. Her office said that the decision was made during a meeting with the leaders of the other parties supporting her ruling coalition. \"There was full agreement on the proposal to make use of the greater flexibility allowed by European rules and to concentrate greater spending capa",
-          "pubDate": "Tue, 21 Jul 2026 17:40:51 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "Italy to use escape clause for energy investments says Meloni"
-        },
-        {
-          "title": "Primate Ayodele warns presidents of African countries",
-          "link": "https://theeagleonline.com.ng/primate-ayodele-warns-presidents-of-african-countries/",
-          "source": "theeagleonline.com.ng",
-          "pubDate": "2026-07-21T14:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Primate Ayodele warns presidents of African countries"
         }
       ]
     },
@@ -292,199 +292,46 @@
       "title": "Fragilità economica egiziana",
       "items": [
         {
-          "title": "DPM , Egypt FM discuss situation in Palestine",
-          "link": "https://www.radio.gov.pk/22-07-2026/dpm-egypts-fm-discuss-situation-in-palestine",
-          "source": "radio.gov.pk",
-          "pubDate": "2026-07-22T20:00:00Z",
+          "title": "Egypt's intense heatwave strains workers and disrupts economy",
+          "link": "http://www.africanews.com/2026/07/22/egypts-intense-heatwave-strains-workers-and-disrupts-economy/",
+          "description": "With the intense heat expected to continue over the next few days, officials are urging citizens to avoid direct sun exposure during peak hours and to stay well-hydrated.",
+          "pubDate": "Wed, 22 Jul 2026 14:39:39 +0000",
+          "source": "Africanews",
           "lang": "en",
-          "description": "",
-          "titleIt": "DPM , Egypt FM discuss situation in Palestine"
+          "titleIt": "Egypt's intense heatwave strains workers and disrupts economy"
         },
         {
-          "title": "Justice for Horse Beaten While Collapsed in Blistering Heat",
-          "link": "https://forcechange.com/673468/justice-for-horse-beaten-while-collapsed-in-blistering-heat/",
-          "source": "forcechange.com",
-          "pubDate": "2026-07-22T19:45:00Z",
+          "title": "Woman, 55, dies two months after being hit in Modena car attack",
+          "link": "https://www.ansa.it/english/news/general_news/2026/07/22/woman-55-dies-two-months-after-being-hit-in-modena-car-attack_3644f5fc-3054-4fc0-ab52-f5e9b280caf5.html",
+          "description": "(ANSA) - ROME, JUL 22 - A 55-year-old woman who was among the people hit by a car attack in the northern city of Modena on May 16 has died, the hospital she was being treated at said on Wednesday. Monica Esposito never regained consciousness after the attack by a 31-year-old Italian citizen of Moroccan origin with mental-health problems, Salim El Koudri. After driving into the pedestrians with his car, El Koudri pulled a knife when passers-by, including two Egyptian men, grappled him to ground. Esposito was among eight people injured in the attack. El Koudri is an economics graduate who had no",
+          "pubDate": "Wed, 22 Jul 2026 16:04:12 +0200",
+          "source": "ANSA English",
           "lang": "en",
-          "description": "",
-          "titleIt": "Justice for Horse Beaten While Collapsed in Blistering Heat"
+          "titleIt": "Woman, 55, dies two months after being hit in Modena car attack"
         },
         {
-          "title": "US - Saudi nuclear deal shows Abraham Accords is a positive incentive",
-          "link": "http://www.jpost.com/middle-east/article-903360",
-          "source": "jpost.com",
-          "pubDate": "2026-07-22T19:45:00Z",
+          "title": "Woman, 55, dies two months after being hit in Modena car attack",
+          "link": "https://www.ansa.it/english/news/2026/07/22/woman-55-dies-two-months-after-being-hit-in-modena-car-attack_dd1afbb5-d5a2-4568-a9ce-13218f265f0b.html",
+          "description": "(ANSA) - ROME, JUL 22 - A 55-year-old woman who was among the people hit by a car attack in the northern city of Modena on May 16 has died, the hospital she was being treated at said on Wednesday. Monica Esposito never regained consciousness after the attack by a 31-year-old Italian citizen of Moroccan origin with mental-health problems, Salim El Koudri. After driving into the pedestrians with his car, El Koudri pulled a knife when passers-by, including two Egyptian men, grappled him to ground. Esposito was among eight people injured in the attack. El Koudri is an economics graduate who had no",
+          "pubDate": "Wed, 22 Jul 2026 16:03:02 +0200",
+          "source": "ANSA English",
           "lang": "en",
-          "description": "",
-          "titleIt": "US - Saudi nuclear deal shows Abraham Accords is a positive incentive"
+          "titleIt": "Woman, 55, dies two months after being hit in Modena car attack"
         },
         {
-          "title": "Cairo Diagnostics Bet : How a $1 . 45 Million Round Signals Where African Healthtech Is Headed",
-          "link": "https://www.africa.com/feature/cairos-diagnostics-bet-how-a-1-45-million-round-signals-where-african-healthtech-is-headed",
-          "source": "africa.com",
-          "pubDate": "2026-07-22T19:30:00Z",
+          "title": "An expert from the Guardia di Finanza at the Italian Embassy in Riyadh",
+          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/07/19/an-expert-from-the-guardia-di-finanza-at-the-italian-embassy-in-riyadh_63c6c89e-7291-4ccf-b91e-63b3321a493a.html",
+          "description": "(ANSA) - IL CAIRO, 19 LUG - The Italian Embassy in Riyadh has strengthened its structure with the establishment of a Guardia di Finanza Office, headed by Colonel Alessandro Coscarelli in his capacity as an expert from the Corps. The opening of the new office represents an important step in consolidating the partnership between Italy and Saudi Arabia, with the goal of strengthening cooperation in the field of economic and financial security. It joins the other 29 Financial Police Expert offices currently part of the Corps’ overseas network at bilateral and multilateral diplomatic missions. The ",
+          "pubDate": "Sun, 19 Jul 2026 15:52:33 +0200",
+          "source": "ANSA English",
           "lang": "en",
-          "description": "",
-          "titleIt": "Cairo Diagnostics Bet : How a $1 . 45 Million Round Signals Where African Healthtech Is Headed"
-        },
-        {
-          "title": "India must lead in securing the Strait of Bab el - Mandeb",
-          "link": "https://www.thehindu.com/opinion/op-ed/india-must-lead-in-securing-the-strait-of-bab-el-mandeb/article71254829.ece",
-          "source": "thehindu.com",
-          "pubDate": "2026-07-22T19:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "India must lead in securing the Strait of Bab el - Mandeb"
-        },
-        {
-          "title": "Cleopatra was sexualised and romanticised : here why weve been getting royal women wrong",
-          "link": "https://www.historyextra.com/membership/cleopatra-was-sexualised-and-romanticised-heres-why-weve-been-getting-royal-women-wrong/",
-          "source": "historyextra.com",
-          "pubDate": "2026-07-22T19:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Cleopatra was sexualised and romanticised : here why weve been getting royal women wrong"
-        },
-        {
-          "title": "Ishaq Dar , EU Kaja Kallas Urge Diplomacy on US - Iran",
-          "link": "https://www.pakistantoday.com.pk/2026/07/22/dar-eus-kallas-back-diplomacy-as-only-path-to-peace-amid-us-iran-tensions",
-          "source": "pakistantoday.com.pk",
-          "pubDate": "2026-07-22T19:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ishaq Dar , EU Kaja Kallas Urge Diplomacy on US - Iran"
-        },
-        {
-          "title": "Africa: Egypt's Reme-D Gets $1.45m to Scale Molecular Diagnostics in Africa",
-          "link": "https://allafrica.com/stories/202607220724.html",
-          "description": "[Daba Finance] Egyptian healthtech startup Reme-D has raised $1.45 million in a Pre-Series A funding round led by Anara Impact Capital to expand production of its molecular diagnostic tests and grow its presence across Africa and other underserved markets.",
-          "pubDate": "Wed, 22 Jul 2026 18:27:15 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Africa: Egypt's Reme-D Gets $1.45m to Scale Molecular Diagnostics in Africa"
-        },
-        {
-          "title": "A new threat by Yemen Houthis could widen the Iran war and put another trade chokepoint at risk",
-          "link": "https://www.the-messenger.com/news/world/article_564ac4af-f5ba-5309-bf72-98198ce39287.html",
-          "source": "the-messenger.com",
-          "pubDate": "2026-07-22T18:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "A new threat by Yemen Houthis could widen the Iran war and put another trade chokepoint at risk"
-        },
-        {
-          "title": "Quiet diplomacy urged as West Africa pushes AU to confront SA – Channel Africa",
-          "link": "https://www.channelafrica.co.za/channelafrica/news/quiet-diplomacy-urged-as-west-africa-pushes-au-to-confront-sa/",
-          "source": "channelafrica.co.za",
-          "pubDate": "2026-07-22T17:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Quiet diplomacy urged as West Africa pushes AU to confront SA – Channel Africa"
-        },
-        {
-          "title": "Paul McCartney Album Closing Songs Ranked",
-          "link": "https://1057thehawk.com/ixp/295/p/paul-mccartney-album-closing-songs-ranked/",
-          "source": "1057thehawk.com",
-          "pubDate": "2026-07-22T16:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Paul McCartney Album Closing Songs Ranked"
-        },
-        {
-          "title": "VALEO SE : Valeo - H1 2026 Results",
-          "link": "https://www.finanznachrichten.de/nachrichten-2026-07/69096656-valeo-se-valeo-h1-2026-results-399.htm",
-          "source": "finanznachrichten.de",
-          "pubDate": "2026-07-22T16:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "VALEO SE : Valeo - H1 2026 Results"
-        },
-        {
-          "title": "Gateway to Opportunities : Where Innovation Serves People -- Hangzhou Journey from Countryside to Robotics Labs",
-          "link": "http://www.malaysiasun.com/news/279203095/gateway-to-opportunities-where-innovation-serves-people-hangzhou-journey-from-countryside-to-robotics-labs",
-          "source": "malaysiasun.com",
-          "pubDate": "2026-07-22T16:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Gateway to Opportunities : Where Innovation Serves People -- Hangzhou Journey from Countryside to Robotics Labs"
-        },
-        {
-          "title": "The USDA reveals the foods Americans eat more than anything else",
-          "link": "https://www.aol.com/articles/usda-reveals-foods-americans-eat-170143000.html",
-          "source": "aol.com",
-          "pubDate": "2026-07-22T16:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The USDA reveals the foods Americans eat more than anything else"
-        },
-        {
-          "title": "Tankers make sharp U - turns after Houthi shipping threat",
-          "link": "https://www.bbc.co.uk/news/articles/cn0n127lpzgo",
-          "source": "bbc.co.uk",
-          "pubDate": "2026-07-22T16:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Tankers make sharp U - turns after Houthi shipping threat"
-        },
-        {
-          "title": "Iran war : Threat by Yemen Houthis could put trade chokepoint at risk",
-          "link": "https://www.cp24.com/news/world/2026/07/22/a-new-threat-by-yemens-houthis-could-widen-the-iran-war-and-put-another-trade-chokepoint-at-risk/",
-          "source": "cp24.com",
-          "pubDate": "2026-07-22T16:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Iran war : Threat by Yemen Houthis could put trade chokepoint at risk"
-        },
-        {
-          "title": "Paul McCartney Album Closing Songs Ranked",
-          "link": "https://koolfmabilene.com/ixp/295/p/paul-mccartney-album-closing-songs-ranked/",
-          "source": "koolfmabilene.com",
-          "pubDate": "2026-07-22T16:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Paul McCartney Album Closing Songs Ranked"
-        },
-        {
-          "title": "Paul McCartney Album Closing Songs Ranked",
-          "link": "https://krna.com/ixp/295/p/paul-mccartney-album-closing-songs-ranked/",
-          "source": "krna.com",
-          "pubDate": "2026-07-22T15:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Paul McCartney Album Closing Songs Ranked"
-        },
-        {
-          "title": "Paul McCartney Album Closing Songs Ranked",
-          "link": "https://wpdh.com/ixp/295/p/paul-mccartney-album-closing-songs-ranked/",
-          "source": "wpdh.com",
-          "pubDate": "2026-07-22T15:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Paul McCartney Album Closing Songs Ranked"
-        },
-        {
-          "title": "All signatures secured for Aphrodite gas sales MoU with Egypt",
-          "link": "https://cyprus-mail.com/2026/07/22/all-signatures-secured-for-aphrodite-gas-sales-mou-with-egypt",
-          "source": "cyprus-mail.com",
-          "pubDate": "2026-07-22T15:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "All signatures secured for Aphrodite gas sales MoU with Egypt"
+          "titleIt": "An expert from the Guardia di Finanza at the Italian Embassy in Riyadh"
         }
       ]
     },
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
       "items": [
-        {
-          "title": "Sudan: Criticism Mounts Over Sudan-Türkiye Suakin Gas Terminal Memo",
-          "link": "https://allafrica.com/stories/202607220395.html",
-          "description": "[Dabanga] Amsterdam / Suakin -- The signing of a memorandum of understanding between Sudan's Sea Ports Corporation and the Turkish Argaz Group to build the first specialised gas terminal in Suakin on Sudan's Read Sea Coast sparks widespread debate and raises questions about the nature of the deal, as well as the government's lack of transparency over why the project is not put out to competitive tender for qualified international companies.",
-          "pubDate": "Wed, 22 Jul 2026 12:21:40 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Sudan: Criticism Mounts Over Sudan-Türkiye Suakin Gas Terminal Memo"
-        },
         {
           "title": "Sudan: Hunger, Disease, Dispair - Darfur's Displaced Bear Ever-Mounting Toll of Sudan War",
           "link": "https://allafrica.com/stories/202607220394.html",
@@ -493,15 +340,6 @@
           "source": "AllAfrica",
           "lang": "en",
           "titleIt": "Sudan: Hunger, Disease, Dispair - Darfur's Displaced Bear Ever-Mounting Toll of Sudan War"
-        },
-        {
-          "title": "Sudan: Call for Public Health Emergency Amid Dengue Outbreak in Sudan's Blue Nile State",
-          "link": "https://allafrica.com/stories/202607220393.html",
-          "description": "[Dabanga] Ed Damazin / Amsterdam -- A civil society initiative in Sudan's Blue Nile state has called for a comprehensive public health emergency to be declared across the state, urging the authorities to close the state capital, Ed Damazin, for a full week to contain the epidemic and carry out sanitation measures. The group says around 4,000 dengue* fever cases have been recorded, with between two and four deaths reported each day.",
-          "pubDate": "Wed, 22 Jul 2026 12:21:38 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Sudan: Call for Public Health Emergency Amid Dengue Outbreak in Sudan's Blue Nile State"
         }
       ]
     }
