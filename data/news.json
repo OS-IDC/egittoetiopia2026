@@ -1,20 +1,11 @@
 {
-  "generatedAt": "2026-07-23T07:46:40.478Z",
+  "generatedAt": "2026-07-23T15:37:10.497Z",
   "feedsChecked": 9,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
-        {
-          "title": "Somalia: Turkey Renews Somalia Military Deployment for Two More Years",
-          "link": "https://allafrica.com/stories/202607220290.html",
-          "description": "[Radio Dalsan] Turkey's parliament has approved a two-year extension of its military mission in Somalia, a move set to take effect on July 27 that reaffirms Ankara's continued backing of Somali security institutions. The decision allows Turkish forces to keep providing training, advisory support and technical assistance to Somalia's National Army.",
-          "pubDate": "Wed, 22 Jul 2026 10:51:22 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Somalia: Turkey Renews Somalia Military Deployment for Two More Years"
-        },
         {
           "title": "Ambassador to Senegal Opens Goreé School for Sustainable Migration",
           "link": "https://www.ansa.it/english/news/news_from_embassies/2026/07/21/ambassador-to-senegal-opens-goree-school-for-sustainable-migration_b5abe349-a065-4483-be5b-c270792c7dec.html",
@@ -23,15 +14,6 @@
           "source": "ANSA English",
           "lang": "en",
           "titleIt": "Ambassador to Senegal Opens Goreé School for Sustainable Migration"
-        },
-        {
-          "title": "An expert from the Guardia di Finanza at the Italian Embassy in Riyadh",
-          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/07/19/an-expert-from-the-guardia-di-finanza-at-the-italian-embassy-in-riyadh_63c6c89e-7291-4ccf-b91e-63b3321a493a.html",
-          "description": "(ANSA) - IL CAIRO, 19 LUG - The Italian Embassy in Riyadh has strengthened its structure with the establishment of a Guardia di Finanza Office, headed by Colonel Alessandro Coscarelli in his capacity as an expert from the Corps. The opening of the new office represents an important step in consolidating the partnership between Italy and Saudi Arabia, with the goal of strengthening cooperation in the field of economic and financial security. It joins the other 29 Financial Police Expert offices currently part of the Corps’ overseas network at bilateral and multilateral diplomatic missions. The ",
-          "pubDate": "Sun, 19 Jul 2026 15:52:33 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "An expert from the Guardia di Finanza at the Italian Embassy in Riyadh"
         },
         {
           "title": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab",
@@ -57,6 +39,24 @@
       "title": "Dossier Somaliland",
       "items": [
         {
+          "title": "Gate of Tears : How key shipping route Bab al - Mandab became next front in the US - Iran war",
+          "link": "https://www.independent.co.uk/news/world/middle-east/iran-bab-al-mandab-strait-yemen-saudi-houthis-b3020001.html",
+          "source": "independent.co.uk",
+          "pubDate": "2026-07-23T12:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Gate of Tears : How key shipping route Bab al - Mandab became next front in the US - Iran war"
+        },
+        {
+          "title": "Kenya: Nationwide Crackdown Ordered On Gangs",
+          "link": "https://allafrica.com/stories/202607230344.html",
+          "description": "[Capital FM] Nairobi -- Interior Cabinet Secretary Kipchumba Murkomen has directed police and detectives to intensify the crackdown on criminal gangs, saying Kenya has now reached a national consensus that goons must be dealt with firmly.",
+          "pubDate": "Thu, 23 Jul 2026 11:37:36 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Kenya: Nationwide Crackdown Ordered On Gangs"
+        },
+        {
           "title": "Kenya: Treasury Reverses 2026 Economic Growth From 5.3pc to 5pc",
           "link": "https://allafrica.com/stories/202607230194.html",
           "description": "[Capital FM] Nairobi -- The National Treasury expects Kenya's economy to grow by 5 percent in 2026 despite global uncertainties, supported by easing inflation, structural reforms and increased private sector investment.",
@@ -66,13 +66,49 @@
           "titleIt": "Kenya: Treasury Reverses 2026 Economic Growth From 5.3pc to 5pc"
         },
         {
-          "title": "Somalia: Turkey Renews Somalia Military Deployment for Two More Years",
-          "link": "https://allafrica.com/stories/202607220290.html",
-          "description": "[Radio Dalsan] Turkey's parliament has approved a two-year extension of its military mission in Somalia, a move set to take effect on July 27 that reaffirms Ankara's continued backing of Somali security institutions. The decision allows Turkish forces to keep providing training, advisory support and technical assistance to Somalia's National Army.",
-          "pubDate": "Wed, 22 Jul 2026 10:51:22 GMT",
-          "source": "AllAfrica",
+          "title": "Cure Blindness Project Releases 2025 Impact Report , Marking Most Impactful Year in Organization History",
+          "link": "https://www.maravipost.com/cure-blindness-project-releases-2025-impact-report-marking-most-impactful-year-in-organizations-history-3/",
+          "source": "maravipost.com",
+          "pubDate": "2026-07-21T23:00:00Z",
           "lang": "en",
-          "titleIt": "Somalia: Turkey Renews Somalia Military Deployment for Two More Years"
+          "description": "",
+          "titleIt": "Cure Blindness Project Releases 2025 Impact Report , Marking Most Impactful Year in Organization History"
+        },
+        {
+          "title": "Christian convert poisoned to death in Somaliland",
+          "link": "https://www.christianpost.com/news/christian-convert-poisoned-to-death-in-somaliland.html",
+          "source": "christianpost.com",
+          "pubDate": "2026-07-21T16:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Christian convert poisoned to death in Somaliland"
+        },
+        {
+          "title": "Somalia : From Facebook Appeals to a Lifesaving Network - One Man Mission to Transform Blood Donation in Somaliland",
+          "link": "https://allafrica.com/stories/202607210639.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-07-21T15:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Somalia : From Facebook Appeals to a Lifesaving Network - One Man Mission to Transform Blood Donation in Somaliland"
+        },
+        {
+          "title": "Turkey still keeps Somalia out of its e - Visa system despite over $1 billion in aid , oil deals and access to the Horn of Africa",
+          "link": "https://horseedmedia.net/turkey-still-keeps-somalia-out-of-its-e-visa-system-despite-over-1-billion-in-aid-oil-deals-and-access-to-the-horn-of-africa/423951/",
+          "source": "horseedmedia.net",
+          "pubDate": "2026-07-20T22:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Turkey still keeps Somalia out of its e - Visa system despite over $1 billion in aid , oil deals and access to the Horn of Africa"
+        },
+        {
+          "title": "Former North Eastern State MP Fahiima Quuje Receives Warm Welcome in Hargeisa",
+          "link": "https://wardheernews.com/former-north-eastern-state-mp-fahiima-quuje-receives-warm-welcome-in-hargeisa/",
+          "source": "wardheernews.com",
+          "pubDate": "2026-07-20T19:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Former North Eastern State MP Fahiima Quuje Receives Warm Welcome in Hargeisa"
         },
         {
           "title": "FIGC reportedly approached Guardiola for Italy job",
@@ -93,13 +129,94 @@
           "titleIt": "FIGC reportedly approached Guardiola for Italy job"
         },
         {
-          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
-          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
-          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
-          "pubDate": "Saturday, May 16, 2026 - 00:08",
-          "source": "Crisis Group",
+          "title": "Can the US and Israel sustain a war of attrition with Iran ?",
+          "link": "https://www.jpost.com/middle-east/iran-news/article-903000",
+          "source": "jpost.com",
+          "pubDate": "2026-07-19T19:15:00Z",
           "lang": "en",
-          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
+          "description": "",
+          "titleIt": "Can the US and Israel sustain a war of attrition with Iran ?"
+        },
+        {
+          "title": "Egypt condemns Somaliland purported Jerusalem mission during talks with Somalia",
+          "link": "https://horseedmedia.net/egypt-condemns-somalilands-purported-jerusalem-mission-during-talks-with-somalia/423886/",
+          "source": "horseedmedia.net",
+          "pubDate": "2026-07-19T18:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt condemns Somaliland purported Jerusalem mission during talks with Somalia"
+        },
+        {
+          "title": "Egypt Urges Somalia to Secure Release of Kidnapped Sailors",
+          "link": "https://www.garoweonline.com/en/news/somalia/egypt-urges-somalia-to-secure-release-of-kidnapped-sailors",
+          "source": "garoweonline.com",
+          "pubDate": "2026-07-19T16:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt Urges Somalia to Secure Release of Kidnapped Sailors"
+        },
+        {
+          "title": "Egypt and Turkey : Rapidly growing alliance putting old rivalry aside and alarming Israel",
+          "link": "https://www.thenationalnews.com/news/mena/2026/07/18/egypt-and-turkey-rapidly-growing-alliance-putting-old-rivalry-aside-and-alarming-israel/",
+          "source": "thenationalnews.com",
+          "pubDate": "2026-07-18T08:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt and Turkey : Rapidly growing alliance putting old rivalry aside and alarming Israel"
+        },
+        {
+          "title": "Armed Assailants Seize Chemical Tanker Off Yemen",
+          "link": "https://www.marinelink.com/news/armed-assailants-seize-chemical-tanker-541327",
+          "source": "marinelink.com",
+          "pubDate": "2026-07-17T19:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Armed Assailants Seize Chemical Tanker Off Yemen"
+        },
+        {
+          "title": "Could Somalia See The World Next Major Oil Discovery ?",
+          "link": "https://oilprice.com/Energy/Crude-Oil/Could-Somalia-See-The-Worlds-Next-Major-Oil-Discovery.html",
+          "source": "oilprice.com",
+          "pubDate": "2026-07-16T19:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Could Somalia See The World Next Major Oil Discovery ?"
+        },
+        {
+          "title": "Middle East new security paradigm",
+          "link": "https://tribune.com.pk/story/2618449/middle-easts-new-security-paradigm",
+          "source": "tribune.com.pk",
+          "pubDate": "2026-07-15T22:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Middle East new security paradigm"
+        },
+        {
+          "title": "Ethiopia Prosperity Party : Delusional Precepts as Tools of Regional Destabilization – Eritrea Ministry Of Information",
+          "link": "https://shabait.com/2026/07/15/ethiopias-prosperity-party-delusional-precepts-as-tools-of-regional-destabilization/",
+          "source": "shabait.com",
+          "pubDate": "2026-07-15T14:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia Prosperity Party : Delusional Precepts as Tools of Regional Destabilization – Eritrea Ministry Of Information"
+        },
+        {
+          "title": "Somalia : Somaliland , united kingdom Discuss Deeper Strategic Cooperation",
+          "link": "https://allafrica.com/stories/202607150058.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-07-15T09:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Somalia : Somaliland , united kingdom Discuss Deeper Strategic Cooperation"
+        },
+        {
+          "title": "The Geopolitical Theatre of the Horn of Africa : Sovereignty , Rentier Statecraft , and the Spectacle of Security Agreements",
+          "link": "https://wardheernews.com/the-geopolitical-theatre-of-the-horn-of-africa-sovereignty-rentier-statecraft-and-the-spectacle-of-security-agreements/",
+          "source": "wardheernews.com",
+          "pubDate": "2026-07-15T08:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The Geopolitical Theatre of the Horn of Africa : Sovereignty , Rentier Statecraft , and the Spectacle of Security Agreements"
         }
       ]
     },
@@ -107,31 +224,22 @@
       "title": "Accesso etiope al mare",
       "items": [
         {
-          "title": "Ue: accordo su 21mo pacchetto sanzioni contro la Russia, esenzione su trasporto Gnl",
-          "link": "https://www.agenzianova.com/a/6a61c6dd76ed52.22664371/7633707/2026-07-23/ue-accordo-su-21mo-pacchetto-sanzioni-contro-la-russia-esenzione-su-trasporto-gnl",
-          "description": "23 lug 09:33 - (Agenzia Nova) - Gli ambasciatori Ue hanno trovato un'intesa sul 21mo pacchetto di sanzioni contro la Russia. Lo riferiscono... (Beb)",
-          "pubDate": "2026-07-23T09:33:34+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Ue: accordo su 21mo pacchetto sanzioni contro la Russia, esenzione su trasporto Gnl"
+          "title": "No rush to find new Italy coach says Maldini",
+          "link": "https://www.ansa.it/english/news/sports/2026/07/23/no-rush-to-find-new-italy-coach-says-maldini_edac5db3-5536-4ab7-bc45-8494f10635be.html",
+          "description": "(ANSA) - ROME, JUL 23 - The Italian Soccer Federation's (FIGC) new Technical Director Paolo Maldini said Thursday that he was not in a rush to appoint a new coach for the national team. Earlier this week FIGC President Giovanni Malagò confirmed reports that the federation had approached Pep Guardiola about taking on the role and Maldini added on Thursday that they have looked up Brazil coach Carlo Ancelotti too. \"Ideally, it would be this week, but, above all, we need to wait for the person we really want,\" Maldini said after he, Malagò and FIGC consultant Leonardo had a meeting with Serie A c",
+          "pubDate": "Thu, 23 Jul 2026 15:25:37 +0200",
+          "source": "ANSA English",
+          "lang": "en",
+          "titleIt": "No rush to find new Italy coach says Maldini"
         },
         {
-          "title": "Overnight News Digest : July 22 , 2026",
-          "link": "https://www.dailykos.com/stories/2026/7/22/800073610/community/overnight-news-digest-july-22-2026/",
-          "source": "dailykos.com",
-          "pubDate": "2026-07-23T06:15:00Z",
+          "title": "No rush to find new Italy coach says Maldini",
+          "link": "https://www.ansa.it/english/news/2026/07/23/no-rush-to-find-new-italy-coach-says-maldini_826da0ed-e7c6-4219-a443-83754d94cf60.html",
+          "description": "(ANSA) - ROME, JUL 23 - The Italian Soccer Federation's (FIGC) new Technical Director Paolo Maldini said Thursday that he was not in a rush to appoint a new coach for the national team. Earlier this week FIGC President Giovanni Malagò confirmed reports that the federation had approached Pep Guardiola about taking on the role and Maldini added on Thursday that they have looked up Brazil coach Carlo Ancelotti too. \"Ideally, it would be this week, but, above all, we need to wait for the person we really want,\" Maldini said after he, Malagò and FIGC consultant Leonardo had a meeting with Serie A c",
+          "pubDate": "Thu, 23 Jul 2026 15:22:41 +0200",
+          "source": "ANSA English",
           "lang": "en",
-          "description": "",
-          "titleIt": "Overnight News Digest : July 22 , 2026"
-        },
-        {
-          "title": "Dangote Lamu refinery is more than a response to the Middle East energy crisis",
-          "link": "https://www.standardmedia.co.ke/opinion/article/2001553475/dangote-lamu-refinery-is-more-than-a-response-to-the-middle-east-energy-crisis",
-          "source": "standardmedia.co.ke",
-          "pubDate": "2026-07-22T22:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Dangote Lamu refinery is more than a response to the Middle East energy crisis"
+          "titleIt": "No rush to find new Italy coach says Maldini"
         },
         {
           "title": "Liberia: Eugene Nagbe Alleges Official Collusion in Liberia's Cocaine Trade, Disputes Government's U.S.$19 Million Valuation",
@@ -141,42 +249,6 @@
           "source": "AllAfrica",
           "lang": "en",
           "titleIt": "Liberia: Eugene Nagbe Alleges Official Collusion in Liberia's Cocaine Trade, Disputes Government's U.S.$19 Million Valuation"
-        },
-        {
-          "title": "Why Gold Threatens Peace in South Sudan",
-          "link": "https://www.justsecurity.org/146977/gold-threatens-peace-south-sudan/",
-          "source": "justsecurity.org",
-          "pubDate": "2026-07-22T14:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Why Gold Threatens Peace in South Sudan"
-        },
-        {
-          "title": "Somalia : IOM Flies 56 Migrants Back to Ethiopia",
-          "link": "https://allafrica.com/stories/202607220291.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-07-22T12:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Somalia : IOM Flies 56 Migrants Back to Ethiopia"
-        },
-        {
-          "title": "Somalia: Turkey Renews Somalia Military Deployment for Two More Years",
-          "link": "https://allafrica.com/stories/202607220290.html",
-          "description": "[Radio Dalsan] Turkey's parliament has approved a two-year extension of its military mission in Somalia, a move set to take effect on July 27 that reaffirms Ankara's continued backing of Somali security institutions. The decision allows Turkish forces to keep providing training, advisory support and technical assistance to Somalia's National Army.",
-          "pubDate": "Wed, 22 Jul 2026 10:51:22 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Somalia: Turkey Renews Somalia Military Deployment for Two More Years"
-        },
-        {
-          "title": "Gabon: Gabon and France Deepen Industrial Cooperation With Eramet Manganese Deal",
-          "link": "https://allafrica.com/stories/202607220239.html",
-          "description": "[RFI] French mining group Eramet is considering a major expansion of manganese processing in Gabon under an agreement that could strengthen the country's industrial base, modernise its railway network and reduce its reliance on exports of unprocessed ore.",
-          "pubDate": "Wed, 22 Jul 2026 10:16:26 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Gabon: Gabon and France Deepen Industrial Cooperation With Eramet Manganese Deal"
         },
         {
           "title": "Rome to host meeting for Two-State solution July 28-29 - Tajani",
@@ -206,85 +278,31 @@
           "titleIt": "Ethiopia opposition accuses government of pushing Tigray towards new war"
         },
         {
-          "title": "Unparalleled Outstanding Leadership : The Case Of Atse Menelik II , Emperor Of Ethiopia - OpEd",
-          "link": "https://www.eurasiareview.com/21072026-unparalleled-outstanding-leadership-the-case-of-atse-menelik-ii-emperor-of-ethiopia-oped/",
-          "source": "eurasiareview.com",
-          "pubDate": "2026-07-22T04:45:00Z",
+          "title": "Italy to use escape clause for energy investments says Meloni",
+          "link": "https://www.ansa.it/english/news/2026/07/21/italy-to-use-escape-clause-for-energy-investments-says-meloni_91917435-d51c-461d-a936-ec8dc06e9866.html",
+          "description": "(ANSA) - ROME, JUL 21 - Premier Giorgia Meloni said Tuesday that Italy will use the escape clause created by the European Commission after Italy called for the flexibility in the Stability and Growth Pact for defence spending to be extended to energy investments in the wake of the price spikes triggered by the Iran war. Her office said that the decision was made during a meeting with the leaders of the other parties supporting her ruling coalition. \"There was full agreement on the proposal to make use of the greater flexibility allowed by European rules and to concentrate greater spending capa",
+          "pubDate": "Tue, 21 Jul 2026 17:40:51 +0200",
+          "source": "ANSA English",
           "lang": "en",
-          "description": "",
-          "titleIt": "Unparalleled Outstanding Leadership : The Case Of Atse Menelik II , Emperor Of Ethiopia - OpEd"
+          "titleIt": "Italy to use escape clause for energy investments says Meloni"
         },
         {
-          "title": "Column : Those who conjure up so - called  China Squeeze  ignore historical reality - Xinhua",
-          "link": "https://english.news.cn/20260721/f4b42fd5a6d84771b5870879ff755310/c.html",
-          "source": "english.news.cn",
-          "pubDate": "2026-07-22T00:15:00Z",
+          "title": "Villa warned over sportswashing after Visit Rwanda deal",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cm20211g25lo?at_medium=RSS&at_campaign=rss",
+          "description": "Aston Villa are warned their new £20m-a-year sponsorship deal with Visit Rwanda will be used by the nation to sportswash its human rights record.",
+          "pubDate": "Tue, 14 Jul 2026 18:44:04 GMT",
+          "source": "BBC Africa",
           "lang": "en",
-          "description": "",
-          "titleIt": "Column : Those who conjure up so - called  China Squeeze  ignore historical reality - Xinhua"
+          "titleIt": "Villa warned over sportswashing after Visit Rwanda deal"
         },
         {
-          "title": "Cure Blindness Project Releases 2025 Impact Report , Marking Most Impactful Year in Organization History",
-          "link": "https://www.maravipost.com/cure-blindness-project-releases-2025-impact-report-marking-most-impactful-year-in-organizations-history-3/",
-          "source": "maravipost.com",
-          "pubDate": "2026-07-21T23:00:00Z",
+          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
+          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
+          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
+          "pubDate": "Saturday, May 16, 2026 - 00:08",
+          "source": "Crisis Group",
           "lang": "en",
-          "description": "",
-          "titleIt": "Cure Blindness Project Releases 2025 Impact Report , Marking Most Impactful Year in Organization History"
-        },
-        {
-          "title": "Ethiopia police arrest alleged leader of multi - million - dollar trafficking ring",
-          "link": "https://www.bbc.co.uk/news/articles/c4gklwpv1wyo",
-          "source": "bbc.co.uk",
-          "pubDate": "2026-07-21T21:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia police arrest alleged leader of multi - million - dollar trafficking ring"
-        },
-        {
-          "title": "The Horn Of Africa States : Gulf Banking And Finance Under The Seemingly Endless War And Its Impact On The Region - OpEd",
-          "link": "https://www.eurasiareview.com/21072026-the-horn-of-africa-states-gulf-banking-and-finance-under-the-seemingly-endless-war-and-its-impact-on-the-region-oped/",
-          "source": "eurasiareview.com",
-          "pubDate": "2026-07-21T16:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The Horn Of Africa States : Gulf Banking And Finance Under The Seemingly Endless War And Its Impact On The Region - OpEd"
-        },
-        {
-          "title": "Tigray old grapevines have survived against the odds : new research uncovers their genetic and historic value",
-          "link": "https://theconversation.com/tigrays-old-grapevines-have-survived-against-the-odds-new-research-uncovers-their-genetic-and-historic-value-286393",
-          "source": "theconversation.com",
-          "pubDate": "2026-07-21T16:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Tigray old grapevines have survived against the odds : new research uncovers their genetic and historic value"
-        },
-        {
-          "title": "Christian convert poisoned to death in Somaliland",
-          "link": "https://www.christianpost.com/news/christian-convert-poisoned-to-death-in-somaliland.html",
-          "source": "christianpost.com",
-          "pubDate": "2026-07-21T16:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Christian convert poisoned to death in Somaliland"
-        },
-        {
-          "title": "South Africa : Trump Watch - Roelf Meyer Wants Trump Afrikaner Refugee Plan Stopped",
-          "link": "https://allafrica.com/stories/202607210645.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-07-21T16:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "South Africa : Trump Watch - Roelf Meyer Wants Trump Afrikaner Refugee Plan Stopped"
-        },
-        {
-          "title": "Turkish Medical Association investigates doctor advertising  female circumcision",
-          "link": "https://bianet.org/haber/turkish-medical-association-investigates-doctor-advertising-female-circumcision-321739",
-          "source": "bianet.org",
-          "pubDate": "2026-07-21T16:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Turkish Medical Association investigates doctor advertising  female circumcision"
+          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
@@ -317,31 +335,12 @@
           "source": "ANSA English",
           "lang": "en",
           "titleIt": "Woman, 55, dies two months after being hit in Modena car attack"
-        },
-        {
-          "title": "An expert from the Guardia di Finanza at the Italian Embassy in Riyadh",
-          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/07/19/an-expert-from-the-guardia-di-finanza-at-the-italian-embassy-in-riyadh_63c6c89e-7291-4ccf-b91e-63b3321a493a.html",
-          "description": "(ANSA) - IL CAIRO, 19 LUG - The Italian Embassy in Riyadh has strengthened its structure with the establishment of a Guardia di Finanza Office, headed by Colonel Alessandro Coscarelli in his capacity as an expert from the Corps. The opening of the new office represents an important step in consolidating the partnership between Italy and Saudi Arabia, with the goal of strengthening cooperation in the field of economic and financial security. It joins the other 29 Financial Police Expert offices currently part of the Corps’ overseas network at bilateral and multilateral diplomatic missions. The ",
-          "pubDate": "Sun, 19 Jul 2026 15:52:33 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "An expert from the Guardia di Finanza at the Italian Embassy in Riyadh"
         }
       ]
     },
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
-      "items": [
-        {
-          "title": "Sudan: Hunger, Disease, Dispair - Darfur's Displaced Bear Ever-Mounting Toll of Sudan War",
-          "link": "https://allafrica.com/stories/202607220394.html",
-          "description": "[Dabanga] Darfur / Amsterdam -- The General Coordination of Camps for the Displaced and Refugees in Darfur warns of a catastrophic deterioration in humanitarian conditions across displacement camps in Sudan's Darfur region. Yagoub Furi, the coordination's general coordinator, tells Radio Dabanga that camps in North Darfur - with the exception of Tawila camp - are experiencing a complete absence of food aid, particularly the camps at Fata Borno, Kutum and Kassab.",
-          "pubDate": "Wed, 22 Jul 2026 12:21:39 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Sudan: Hunger, Disease, Dispair - Darfur's Displaced Bear Ever-Mounting Toll of Sudan War"
-        }
-      ]
+      "items": []
     }
   }
 }
