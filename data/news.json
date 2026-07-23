@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-23T19:46:58.630Z",
-  "feedsChecked": 8,
+  "generatedAt": "2026-07-23T21:22:59.737Z",
+  "feedsChecked": 9,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
@@ -14,12 +14,48 @@
           "source": "ANSA English",
           "lang": "en",
           "titleIt": "Ambassador to Senegal Opens Goreé School for Sustainable Migration"
+        },
+        {
+          "title": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab",
+          "link": "https://www.crisisgroup.org/brf/africa/somalia/b212-new-chapter-same-stalemate-somalias-war-al-shabaab",
+          "description": "The Somali government’s battle with Al-Shabaab militants grinds on, with neither able to gain a decisive advantage. To improve its lot, Mogadishu needs to bolster its military and alleviate civilian suffering in areas under insurgent control, while looking for openings for dialogue with the group.",
+          "pubDate": "Tuesday, June 30, 2026 - 15:20",
+          "source": "Crisis Group",
+          "lang": "en",
+          "titleIt": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab"
+        },
+        {
+          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
+          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
+          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
+          "pubDate": "Saturday, May 16, 2026 - 00:08",
+          "source": "Crisis Group",
+          "lang": "en",
+          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
     "somaliland": {
       "title": "Dossier Somaliland",
       "items": [
+        {
+          "title": "Christian in Somalialand poisoned to death after secret conversion",
+          "link": "https://www.christiandaily.com/news/christian-in-somalialand-poisoned-to-death-after-secret-conversion",
+          "source": "christiandaily.com",
+          "pubDate": "2026-07-23T20:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Christian in Somalialand poisoned to death after secret conversion"
+        },
+        {
+          "title": "Gate of Tears : How key shipping route Bab al - Mandab became next front in the US - Iran war",
+          "link": "https://www.independent.co.uk/news/world/middle-east/iran-bab-al-mandab-strait-yemen-saudi-houthis-b3020001.html",
+          "source": "independent.co.uk",
+          "pubDate": "2026-07-23T12:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Gate of Tears : How key shipping route Bab al - Mandab became next front in the US - Iran war"
+        },
         {
           "title": "Kenya: Nationwide Crackdown Ordered On Gangs",
           "link": "https://allafrica.com/stories/202607230344.html",
@@ -39,6 +75,51 @@
           "titleIt": "Kenya: Treasury Reverses 2026 Economic Growth From 5.3pc to 5pc"
         },
         {
+          "title": "Cure Blindness Project Releases 2025 Impact Report , Marking Most Impactful Year in Organization History",
+          "link": "https://www.maravipost.com/cure-blindness-project-releases-2025-impact-report-marking-most-impactful-year-in-organizations-history-3/",
+          "source": "maravipost.com",
+          "pubDate": "2026-07-21T23:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Cure Blindness Project Releases 2025 Impact Report , Marking Most Impactful Year in Organization History"
+        },
+        {
+          "title": "Christian convert poisoned to death in Somaliland",
+          "link": "https://www.christianpost.com/news/christian-convert-poisoned-to-death-in-somaliland.html",
+          "source": "christianpost.com",
+          "pubDate": "2026-07-21T16:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Christian convert poisoned to death in Somaliland"
+        },
+        {
+          "title": "Somalia : From Facebook Appeals to a Lifesaving Network - One Man Mission to Transform Blood Donation in Somaliland",
+          "link": "https://allafrica.com/stories/202607210639.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-07-21T15:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Somalia : From Facebook Appeals to a Lifesaving Network - One Man Mission to Transform Blood Donation in Somaliland"
+        },
+        {
+          "title": "Turkey still keeps Somalia out of its e - Visa system despite over $1 billion in aid , oil deals and access to the Horn of Africa",
+          "link": "https://horseedmedia.net/turkey-still-keeps-somalia-out-of-its-e-visa-system-despite-over-1-billion-in-aid-oil-deals-and-access-to-the-horn-of-africa/423951/",
+          "source": "horseedmedia.net",
+          "pubDate": "2026-07-20T22:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Turkey still keeps Somalia out of its e - Visa system despite over $1 billion in aid , oil deals and access to the Horn of Africa"
+        },
+        {
+          "title": "Former North Eastern State MP Fahiima Quuje Receives Warm Welcome in Hargeisa",
+          "link": "https://wardheernews.com/former-north-eastern-state-mp-fahiima-quuje-receives-warm-welcome-in-hargeisa/",
+          "source": "wardheernews.com",
+          "pubDate": "2026-07-20T19:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Former North Eastern State MP Fahiima Quuje Receives Warm Welcome in Hargeisa"
+        },
+        {
           "title": "FIGC reportedly approached Guardiola for Italy job",
           "link": "https://www.ansa.it/english/news/sports/2026/07/20/figc-reportedly-approached-guardiola-for-italy-job_440e85d1-ec33-4bd4-b49c-2e8586eaaa2a.html",
           "description": "(ANSA) - ROME, JUL 20 - Italian Soccer Federation (FIGC) technical director Paolo Maldini and consultant Leonardo have been spotted in Barcelona, amid reports by Sky Sport that they met Pep Guardiola at the weekend to talk to him about the vacant position of Italy coach. The former Barcelona, Bayern Munich and Manchester City boss is currently taking a break from soccer after 10 years in the Premier League. Other options include Andrea Pirlo and Roberto Mancini. 2006 World Cup hero Pirlo is the manager of UAE First Division League club Dubai United, while former Italy coach Mancini is currentl",
@@ -55,6 +136,87 @@
           "source": "ANSA English",
           "lang": "en",
           "titleIt": "FIGC reportedly approached Guardiola for Italy job"
+        },
+        {
+          "title": "Can the US and Israel sustain a war of attrition with Iran ?",
+          "link": "https://www.jpost.com/middle-east/iran-news/article-903000",
+          "source": "jpost.com",
+          "pubDate": "2026-07-19T19:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Can the US and Israel sustain a war of attrition with Iran ?"
+        },
+        {
+          "title": "Egypt condemns Somaliland purported Jerusalem mission during talks with Somalia",
+          "link": "https://horseedmedia.net/egypt-condemns-somalilands-purported-jerusalem-mission-during-talks-with-somalia/423886/",
+          "source": "horseedmedia.net",
+          "pubDate": "2026-07-19T18:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt condemns Somaliland purported Jerusalem mission during talks with Somalia"
+        },
+        {
+          "title": "Egypt Urges Somalia to Secure Release of Kidnapped Sailors",
+          "link": "https://www.garoweonline.com/en/news/somalia/egypt-urges-somalia-to-secure-release-of-kidnapped-sailors",
+          "source": "garoweonline.com",
+          "pubDate": "2026-07-19T16:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt Urges Somalia to Secure Release of Kidnapped Sailors"
+        },
+        {
+          "title": "Egypt and Turkey : Rapidly growing alliance putting old rivalry aside and alarming Israel",
+          "link": "https://www.thenationalnews.com/news/mena/2026/07/18/egypt-and-turkey-rapidly-growing-alliance-putting-old-rivalry-aside-and-alarming-israel/",
+          "source": "thenationalnews.com",
+          "pubDate": "2026-07-18T08:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt and Turkey : Rapidly growing alliance putting old rivalry aside and alarming Israel"
+        },
+        {
+          "title": "Armed Assailants Seize Chemical Tanker Off Yemen",
+          "link": "https://www.marinelink.com/news/armed-assailants-seize-chemical-tanker-541327",
+          "source": "marinelink.com",
+          "pubDate": "2026-07-17T19:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Armed Assailants Seize Chemical Tanker Off Yemen"
+        },
+        {
+          "title": "Could Somalia See The World Next Major Oil Discovery ?",
+          "link": "https://oilprice.com/Energy/Crude-Oil/Could-Somalia-See-The-Worlds-Next-Major-Oil-Discovery.html",
+          "source": "oilprice.com",
+          "pubDate": "2026-07-16T19:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Could Somalia See The World Next Major Oil Discovery ?"
+        },
+        {
+          "title": "Middle East new security paradigm",
+          "link": "https://tribune.com.pk/story/2618449/middle-easts-new-security-paradigm",
+          "source": "tribune.com.pk",
+          "pubDate": "2026-07-15T22:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Middle East new security paradigm"
+        },
+        {
+          "title": "Ethiopia Prosperity Party : Delusional Precepts as Tools of Regional Destabilization – Eritrea Ministry Of Information",
+          "link": "https://shabait.com/2026/07/15/ethiopias-prosperity-party-delusional-precepts-as-tools-of-regional-destabilization/",
+          "source": "shabait.com",
+          "pubDate": "2026-07-15T14:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia Prosperity Party : Delusional Precepts as Tools of Regional Destabilization – Eritrea Ministry Of Information"
+        },
+        {
+          "title": "Somalia : Somaliland , united kingdom Discuss Deeper Strategic Cooperation",
+          "link": "https://allafrica.com/stories/202607150058.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-07-15T09:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Somalia : Somaliland , united kingdom Discuss Deeper Strategic Cooperation"
         }
       ]
     },
@@ -123,6 +285,15 @@
           "source": "BBC Africa",
           "lang": "en",
           "titleIt": "Villa warned over sportswashing after Visit Rwanda deal"
+        },
+        {
+          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
+          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
+          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
+          "pubDate": "Saturday, May 16, 2026 - 00:08",
+          "source": "Crisis Group",
+          "lang": "en",
+          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
