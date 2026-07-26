@@ -1,29 +1,11 @@
 {
-  "generatedAt": "2026-07-26T17:15:33.609Z",
+  "generatedAt": "2026-07-26T19:36:13.273Z",
   "feedsChecked": 9,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
-        {
-          "title": "Tunisia-Egitto: colloquio telefonico ministri Esteri, focus su cooperazione e crisi libica (2)",
-          "link": "https://www.agenzianova.com/a/6a6640b58a82d3.27211899/7642625/2026-07-26/tunisia-egitto-colloquio-telefonico-ministri-esteri-focus-su-cooperazione-e-crisi-libica-2",
-          "description": "26 lug 18:11 - (Agenzia Nova) - Entrambi hanno sottolineato l'importanza di rendere regolari gli incontri del formato trilaterale per coordinare... (Tut)",
-          "pubDate": "2026-07-26T18:11:00+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Tunisia-Egitto: colloquio telefonico ministri Esteri, focus su cooperazione e crisi libica (2)"
-        },
-        {
-          "title": "Tunisia-Egitto: colloquio telefonico ministri Esteri, focus su cooperazione e crisi libica",
-          "link": "https://www.agenzianova.com/a/6a6640b58a9905.84718987/7642624/2026-07-26/tunisia-egitto-colloquio-telefonico-ministri-esteri-focus-su-cooperazione-e-crisi-libica",
-          "description": "26 lug 18:11 - (Agenzia Nova) - Il ministro degli Esteri tunisino, Mohamed Ali Nafti, ha avuto oggi un colloquio telefonico con l'omologo egiziano,... (Tut)",
-          "pubDate": "2026-07-26T18:11:00+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Tunisia-Egitto: colloquio telefonico ministri Esteri, focus su cooperazione e crisi libica"
-        },
         {
           "title": "Launch of a Cooperation Project for Women’s and Girls’ Leadership in Senegal",
           "link": "https://www.ansa.it/english/news/news_from_embassies/2026/07/24/launch-of-a-cooperation-project-for-womens-and-girls-leadership-in-senegal_462cdc6a-ba23-42f4-aaee-e4f0d3190049.html",
@@ -115,6 +97,15 @@
     "ethiopia-sea-access": {
       "title": "Accesso etiope al mare",
       "items": [
+        {
+          "title": "Business news: Brasile-Ue, export cresce di due miliardi di dollari dopo accordo con Mercosur",
+          "link": "https://www.agenzianova.com/a/6a6661a9906168.45077458/7642068/2026-07-26/business-news-brasile-ue-export-cresce-di-due-miliardi-di-dollari-dopo-accordo-con-mercosur",
+          "description": "26 lug 20:00 - (Agenzia Nova) - Le esportazioni brasiliane verso l'Unione europea sono cresciute di due miliardi di dollari a maggio e giugno,... (Brs)",
+          "pubDate": "2026-07-26T20:00:00+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Business news: Brasile-Ue, export cresce di due miliardi di dollari dopo accordo con Mercosur"
+        },
         {
           "title": "Italy’s SACE and Bank of Africa in Rabat Join Forces for the Mattei Plan",
           "link": "https://www.ansa.it/english/news/news_from_embassies/2026/07/24/italys-sace-and-bank-of-africa-in-rabat-join-forces-for-the_14180ec2-3052-49bc-8e1d-d11fac665ac9.html",
@@ -220,6 +211,96 @@
       "title": "Fragilità economica egiziana",
       "items": [
         {
+          "title": "FinanceAsia Awards 2026 : North Asia winner write - ups",
+          "link": "https://www.financeasia.com:443/article/financeasia-awards-2026-north-asia-winners-write-ups/508074",
+          "source": "financeasia.com",
+          "pubDate": "2026-07-26T19:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "FinanceAsia Awards 2026 : North Asia winner write - ups"
+        },
+        {
+          "title": "Ashkharah Summer Festival blends heritage and family fun",
+          "link": "https://www.omanobserver.om/article/1193518/oman/tourism/ashkharah-summer-festival-blends-heritage-and-family-fun",
+          "source": "omanobserver.om",
+          "pubDate": "2026-07-26T19:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ashkharah Summer Festival blends heritage and family fun"
+        },
+        {
+          "title": "Houthis Say They Downed Saudi Surveillance Drone",
+          "link": "http://www.chinanationalnews.com/news/279211035/houthis-say-they-downed-saudi-surveillance-drone",
+          "source": "chinanationalnews.com",
+          "pubDate": "2026-07-26T19:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Houthis Say They Downed Saudi Surveillance Drone"
+        },
+        {
+          "title": "Houthis Say They Downed Saudi Surveillance Drone",
+          "link": "http://www.iraqsun.com/news/279211035/houthis-say-they-downed-saudi-surveillance-drone",
+          "source": "iraqsun.com",
+          "pubDate": "2026-07-26T17:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Houthis Say They Downed Saudi Surveillance Drone"
+        },
+        {
+          "title": "A Christian city found under Egypt desert sand",
+          "link": "https://aleteia.org/2026/07/26/a-christian-city-found-under-egypts-desert-sand/",
+          "source": "aleteia.org",
+          "pubDate": "2026-07-26T17:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "A Christian city found under Egypt desert sand"
+        },
+        {
+          "title": "Israel Navy collaborating with Egypt could weaken Turkish maritime threat",
+          "link": "http://www.jpost.com/israel-news/article-903706",
+          "source": "jpost.com",
+          "pubDate": "2026-07-26T17:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Israel Navy collaborating with Egypt could weaken Turkish maritime threat"
+        },
+        {
+          "title": "Sheikh Hamad bin Khalifa Al Thani obituary",
+          "link": "https://www.theguardian.com/world/2026/jul/26/sheikh-hamad-bin-khalifa-al-thani-obituary",
+          "source": "theguardian.com",
+          "pubDate": "2026-07-26T17:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Sheikh Hamad bin Khalifa Al Thani obituary"
+        },
+        {
+          "title": "Houthis Say They Downed Saudi Surveillance Drone",
+          "link": "http://www.beijingbulletin.com/news/279211035/houthis-say-they-downed-saudi-surveillance-drone",
+          "source": "beijingbulletin.com",
+          "pubDate": "2026-07-26T17:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Houthis Say They Downed Saudi Surveillance Drone"
+        },
+        {
+          "title": "Saudi oil can still get out but it wont be cheap or easy",
+          "link": "https://bworldonline.com/bloomberg/2026/07/27/765904/saudi-oil-can-still-get-out-but-it-wont-be-cheap-or-easy/",
+          "source": "bworldonline.com",
+          "pubDate": "2026-07-26T17:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Saudi oil can still get out but it wont be cheap or easy"
+        },
+        {
+          "title": "Houthis Say They Downed Saudi Surveillance Drone",
+          "link": "http://www.newyorktelegraph.com/news/279211035/houthis-say-they-downed-saudi-surveillance-drone",
+          "source": "newyorktelegraph.com",
+          "pubDate": "2026-07-26T17:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Houthis Say They Downed Saudi Surveillance Drone"
+        },
+        {
           "title": "The Future of Africa : A Vision for Prosperity , Innovation , and Global Leadership",
           "link": "https://promptnewsonline.com/the-future-of-africa-a-vision-for-prosperity-innovation-and-global-leadership/",
           "source": "promptnewsonline.com",
@@ -236,24 +317,6 @@
           "lang": "en",
           "description": "",
           "titleIt": "Israel Navy collaborating with Egypt could weaken Turkish maritime threat"
-        },
-        {
-          "title": "Tunisia-Egitto: colloquio telefonico ministri Esteri, focus su cooperazione e crisi libica (2)",
-          "link": "https://www.agenzianova.com/a/6a6640b58a82d3.27211899/7642625/2026-07-26/tunisia-egitto-colloquio-telefonico-ministri-esteri-focus-su-cooperazione-e-crisi-libica-2",
-          "description": "26 lug 18:11 - (Agenzia Nova) - Entrambi hanno sottolineato l'importanza di rendere regolari gli incontri del formato trilaterale per coordinare... (Tut)",
-          "pubDate": "2026-07-26T18:11:00+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Tunisia-Egitto: colloquio telefonico ministri Esteri, focus su cooperazione e crisi libica (2)"
-        },
-        {
-          "title": "Tunisia-Egitto: colloquio telefonico ministri Esteri, focus su cooperazione e crisi libica",
-          "link": "https://www.agenzianova.com/a/6a6640b58a9905.84718987/7642624/2026-07-26/tunisia-egitto-colloquio-telefonico-ministri-esteri-focus-su-cooperazione-e-crisi-libica",
-          "description": "26 lug 18:11 - (Agenzia Nova) - Il ministro degli Esteri tunisino, Mohamed Ali Nafti, ha avuto oggi un colloquio telefonico con l'omologo egiziano,... (Tut)",
-          "pubDate": "2026-07-26T18:11:00+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Tunisia-Egitto: colloquio telefonico ministri Esteri, focus su cooperazione e crisi libica"
         },
         {
           "title": "Unholy alliance : Israel sees Turkey as existential enemy , threatens to drag Greece into war",
@@ -326,78 +389,6 @@
           "lang": "en",
           "description": "",
           "titleIt": "Egypt petroleum exports hit $2 . 3bn in H1 as refinery output surges"
-        },
-        {
-          "title": "The Middle East Times - International",
-          "link": "https://mideast-times.com/home_news.php?newsid=17149",
-          "source": "mideast-times.com",
-          "pubDate": "2026-07-26T11:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The Middle East Times - International"
-        },
-        {
-          "title": "After Strait of Hormuz and Red Sea , has Iran war now reached Caspian Sea ?",
-          "link": "https://www.aljazeera.com/news/2026/7/26/after-strait-of-hormuz-and-red-sea-has-iran-war-now-reached-caspian-sea",
-          "source": "aljazeera.com",
-          "pubDate": "2026-07-26T11:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "After Strait of Hormuz and Red Sea , has Iran war now reached Caspian Sea ?"
-        },
-        {
-          "title": "Full transcript of  Face the Nation with Margaret Brennan , May 24 , 2026",
-          "link": "https://bitacora.com.uy/full-transcript-of-face-the-nation-with-margaret-brennan-may-24-2026/",
-          "source": "bitacora.com.uy",
-          "pubDate": "2026-07-26T11:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Full transcript of  Face the Nation with Margaret Brennan , May 24 , 2026"
-        },
-        {
-          "title": "Closing of Bab el - Mandab strait poses direct threat to Egypt national security : Emad Adib",
-          "link": "https://www.egyptindependent.com/closing-of-bab-el-mandab-strait-poses-direct-threat-to-egypts-national-security-emad-adib/",
-          "source": "egyptindependent.com",
-          "pubDate": "2026-07-26T10:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Closing of Bab el - Mandab strait poses direct threat to Egypt national security : Emad Adib"
-        },
-        {
-          "title": "Gold prices surge once more in Egyptian markets",
-          "link": "https://www.egyptindependent.com/gold-prices-surge-once-more-in-egyptian-markets/",
-          "source": "egyptindependent.com",
-          "pubDate": "2026-07-26T10:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Gold prices surge once more in Egyptian markets"
-        },
-        {
-          "title": "Enrichment Antics : Trump Saudi Nuclear Deal",
-          "link": "https://countercurrents.org/2026/07/enrichment-antics-trumps-saudi-nuclear-deal/",
-          "source": "countercurrents.org",
-          "pubDate": "2026-07-26T10:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Enrichment Antics : Trump Saudi Nuclear Deal"
-        },
-        {
-          "title": "Saudi Arabia trade surplus jumps to $6 . 9bn in May as oil exports rebound",
-          "link": "https://www.arabnews.com/node/2652334/business-economy",
-          "source": "arabnews.com",
-          "pubDate": "2026-07-26T09:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Saudi Arabia trade surplus jumps to $6 . 9bn in May as oil exports rebound"
-        },
-        {
-          "title": "On This Day , July 26 : Truman orders desegregation of military",
-          "link": "https://www.upi.com/Top_News/2026/07/26/On-This-Day-Truman-orders-desegregation-of-military/8641785035931/",
-          "source": "upi.com",
-          "pubDate": "2026-07-26T08:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "On This Day , July 26 : Truman orders desegregation of military"
         }
       ]
     },
