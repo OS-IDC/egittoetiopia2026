@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-28T10:45:25.197Z",
+  "generatedAt": "2026-07-28T14:37:21.122Z",
   "feedsChecked": 9,
   "feedsAttempted": 10,
   "topics": {
@@ -39,6 +39,15 @@
       "title": "Dossier Somaliland",
       "items": [
         {
+          "title": "Kenya: More Pedestrians Arrested As NTSA Intensifies Footbridge Crackdown",
+          "link": "https://allafrica.com/stories/202607280208.html",
+          "description": "[Capital FM] Nairobi -- The National Transport and Safety Authority (NTSA) and the National Police on Tuesday intensified their crackdown on pedestrians crossing busy roads at undesignated points, leading to more arrests at Nairobi's General Motors (GM) footbridge.",
+          "pubDate": "Tue, 28 Jul 2026 10:48:08 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Kenya: More Pedestrians Arrested As NTSA Intensifies Footbridge Crackdown"
+        },
+        {
           "title": "Kenya: Expert Debunks Kindiki Duty Transfer Claims As DP Dismisses 'Fake News'",
           "link": "https://allafrica.com/stories/202607280170.html",
           "description": "[Capital FM] Nairobi -- Deputy President Kithure Kindiki's brief dismissal of viral claims that he had been stripped of key government responsibilities has now received backing from a governance expert, who says the controversy is based on a misunderstanding of Kenya's legal framework rather than an actual transfer of power.",
@@ -57,6 +66,15 @@
           "titleIt": "Kenya: Kindiki Breaks Silence On Fake News Over Ruto Fallout"
         },
         {
+          "title": "Somaliland Signals Readiness to Help Secure Bab el - Mandeb",
+          "link": "https://wardheernews.com/somaliland-signals-readiness-to-help-secure-bab-el-mandeb/",
+          "source": "wardheernews.com",
+          "pubDate": "2026-07-27T21:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Somaliland Signals Readiness to Help Secure Bab el - Mandeb"
+        },
+        {
           "title": "US deports Kenyan former NFL player Daniel Adongo",
           "link": "https://www.bbc.co.uk/news/articles/c74gzg27v8no?at_medium=RSS&at_campaign=rss",
           "description": "The authorities say the ex-sportsman had overstayed his visa and had been arrested multiple times.",
@@ -64,6 +82,69 @@
           "source": "BBC Africa",
           "lang": "en",
           "titleIt": "US deports Kenyan former NFL player Daniel Adongo"
+        },
+        {
+          "title": "Is an Abraham Security Alliance possible in the Middle East ?",
+          "link": "https://www.jns.org/analysis/is-an-abraham-security-alliance-possible-in-the-middle-east",
+          "source": "jns.org",
+          "pubDate": "2026-07-27T08:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Is an Abraham Security Alliance possible in the Middle East ?"
+        },
+        {
+          "title": "Secret UAE - linked camps used to recruit mercenaries for Sudan conflict – Report – Daily Trust",
+          "link": "https://dailytrust.com/secret-uae-linked-camps-used-to-recruit-mercenaries-for-sudan-conflict-report/",
+          "source": "dailytrust.com",
+          "pubDate": "2026-07-27T02:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Secret UAE - linked camps used to recruit mercenaries for Sudan conflict – Report – Daily Trust"
+        },
+        {
+          "title": "Israel Navy collaborating with Egypt could weaken Turkish maritime threat",
+          "link": "http://www.jpost.com/israel-news/article-903706",
+          "source": "jpost.com",
+          "pubDate": "2026-07-26T17:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Israel Navy collaborating with Egypt could weaken Turkish maritime threat"
+        },
+        {
+          "title": "Israel Navy collaborating with Egypt could weaken Turkish maritime threat",
+          "link": "https://www.jpost.com/israel-news/article-903706",
+          "source": "jpost.com",
+          "pubDate": "2026-07-26T16:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Israel Navy collaborating with Egypt could weaken Turkish maritime threat"
+        },
+        {
+          "title": "Ethiopia Babile Elephant Sanctuary Nears Extinction",
+          "link": "https://www.riotimesonline.com/babile-elephant-sanctuary-extinction-ethiopia-2026/",
+          "source": "riotimesonline.com",
+          "pubDate": "2026-07-26T10:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia Babile Elephant Sanctuary Nears Extinction"
+        },
+        {
+          "title": "Somalia Turkish Illusion - WardheerNews",
+          "link": "https://wardheernews.com/somalias-turkish-illusion/",
+          "source": "wardheernews.com",
+          "pubDate": "2026-07-25T18:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Somalia Turkish Illusion - WardheerNews"
+        },
+        {
+          "title": "When Two Chokepoints Close : Ethiopia Reckoning With A Red Sea In Turmoil",
+          "link": "https://www.thereporterethiopia.com/52030/",
+          "source": "thereporterethiopia.com",
+          "pubDate": "2026-07-25T11:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "When Two Chokepoints Close : Ethiopia Reckoning With A Red Sea In Turmoil"
         },
         {
           "title": "Confindustria sounds alarm about outlook amid fresh conflict in the Gulf",
@@ -84,13 +165,58 @@
           "titleIt": "Confindustria sounds alarm about outlook amid fresh conflict in the Gulf"
         },
         {
-          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
-          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
-          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
-          "pubDate": "Saturday, May 16, 2026 - 00:08",
-          "source": "Crisis Group",
+          "title": "Somalia : Kulmiye Party Urges united kingdom to Renew Somaliland Recognition in Congratulatory Letter to New Prime Minister",
+          "link": "https://allafrica.com/stories/202607240062.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-07-24T07:15:00Z",
           "lang": "en",
-          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
+          "description": "",
+          "titleIt": "Somalia : Kulmiye Party Urges united kingdom to Renew Somaliland Recognition in Congratulatory Letter to New Prime Minister"
+        },
+        {
+          "title": "Sectarian Navel - gazing Framework is Oxymoronic to Somali & African Ambitions : A Response to Ahmed  The Modagishu Blind Spot …",
+          "link": "http://www.pambazuka.org/Sectarian-Framework",
+          "source": "pambazuka.org",
+          "pubDate": "2026-07-24T00:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Sectarian Navel - gazing Framework is Oxymoronic to Somali & African Ambitions : A Response to Ahmed  The Modagishu Blind Spot …"
+        },
+        {
+          "title": "927 | Pambazuka News",
+          "link": "http://www.pambazuka.org/taxonomy/term/15768",
+          "source": "pambazuka.org",
+          "pubDate": "2026-07-24T00:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "927 | Pambazuka News"
+        },
+        {
+          "title": "Christian in Somalialand poisoned to death after secret conversion",
+          "link": "https://www.christiandaily.com/news/christian-in-somalialand-poisoned-to-death-after-secret-conversion",
+          "source": "christiandaily.com",
+          "pubDate": "2026-07-23T20:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Christian in Somalialand poisoned to death after secret conversion"
+        },
+        {
+          "title": "Gate of Tears : How key shipping route Bab al - Mandab became next front in the US - Iran war",
+          "link": "https://www.independent.co.uk/news/world/middle-east/iran-bab-al-mandab-strait-yemen-saudi-houthis-b3020001.html",
+          "source": "independent.co.uk",
+          "pubDate": "2026-07-23T12:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Gate of Tears : How key shipping route Bab al - Mandab became next front in the US - Iran war"
+        },
+        {
+          "title": "Cure Blindness Project Releases 2025 Impact Report , Marking Most Impactful Year in Organization History",
+          "link": "https://www.maravipost.com/cure-blindness-project-releases-2025-impact-report-marking-most-impactful-year-in-organizations-history-3/",
+          "source": "maravipost.com",
+          "pubDate": "2026-07-21T23:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Cure Blindness Project Releases 2025 Impact Report , Marking Most Impactful Year in Organization History"
         }
       ]
     },
@@ -98,13 +224,22 @@
       "title": "Accesso etiope al mare",
       "items": [
         {
-          "title": "Sanita': protocollo intesa su ricerca clinica tra Regione Lazio, Farmindustria e Unindustria (4)",
-          "link": "https://www.agenzianova.com/a/6a6888424aa911.11952983/7647974/2026-07-28/sanita-protocollo-intesa-su-ricerca-clinica-tra-regione-lazio-farmindustria-e-unindustria-4",
-          "description": "28 lug 12:41 - (Agenzia Nova) - \"Il Lazio e' tra le principali regioni europee per export e produzione farmaceutica e rappresenta uno dei principali... (Com)",
-          "pubDate": "2026-07-28T12:41:41+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Sanita': protocollo intesa su ricerca clinica tra Regione Lazio, Farmindustria e Unindustria (4)"
+          "title": "28% increase in passports issued by the Italian Consulate in Dubai",
+          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/07/28/28-increase-in-passports-issued-by-the-italian-consulate-in-dubai_7ce30183-4878-4fc5-b465-94c44ccd241c.html",
+          "description": "(ANSA) - ROMA, 28 LUG - The Consulate General of Italy in Dubai reports that in the first six months of 2026, it issued 1,340 passports, compared to 1,046 during the same period in 2025. This represents a 28% increase. “This increase,” explains the consulate, “did not occur in spite of the conflict, but rather because of the conflict.” Furthermore, the consular offices remained open throughout March to renew expiring passports and issue first passports to newborns. Read article...",
+          "pubDate": "Tue, 28 Jul 2026 15:39:38 +0200",
+          "source": "ANSA English",
+          "lang": "en",
+          "titleIt": "28% increase in passports issued by the Italian Consulate in Dubai"
+        },
+        {
+          "title": "Italy 'books' SAFE loan of up to €14.9 billion, but EC says deal must be signed ASAP",
+          "link": "https://www.ansa.it/english/news/2026/07/28/italy-books-safe-loan-of-up-to-14.9-billion-but-ec-says-deal-must_b339b287-79de-433e-922a-f27cf4660a2a.html",
+          "description": "(ANSA) - ROME, JUL 28 - Deputy Premier and Foreign Minister Antonio Tajani said Tuesday that the government has reserved the right to take a loan from the EU's SAFE (Security Action for Europe) facility of up to 14.9 billion euros to invest in security and defence. Tajani stressed that the loan only has been \"reserved\" and that the government will decide by the end of the year how much actually to take, if any, as he reported to a joint session of the defence and foreign affairs committees of the Lower House and Senate over the recent NATO summit in Ankara. Economy Minister Giancarlo Giorgetti",
+          "pubDate": "Tue, 28 Jul 2026 13:48:27 +0200",
+          "source": "ANSA English",
+          "lang": "en",
+          "titleIt": "Italy 'books' SAFE loan of up to €14.9 billion, but EC says deal must be signed ASAP"
         },
         {
           "title": "Govt cuts diesel duties by 17 cents to help with rise in fuel costs",
@@ -134,24 +269,6 @@
           "titleIt": "Sudan: SAF Claims Gains On Omdurman-El Obeid Road As Fighting Continues in North Kordofan"
         },
         {
-          "title": "Africa Outpaces Asia : East , North & West Africa Growth Shift",
-          "link": "https://www.riotimesonline.com/africa-overtakes-asia-growth-path-2026/",
-          "source": "riotimesonline.com",
-          "pubDate": "2026-07-27T19:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Africa Outpaces Asia : East , North & West Africa Growth Shift"
-        },
-        {
-          "title": "Columnist Richard Fein : Water bankruptcy horror and hope",
-          "link": "https://recorder.com/2026/07/26/columnist-richard-fein-water-bankruptcy-horror-and-hope/",
-          "source": "recorder.com",
-          "pubDate": "2026-07-27T18:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Columnist Richard Fein : Water bankruptcy horror and hope"
-        },
-        {
           "title": "Nigeria seizes thousands of kilograms of drugs as trafficking concerns grow",
           "link": "http://www.africanews.com/2026/07/27/nigeria-seizes-thousands-of-kilograms-of-drugs-as-trafficking-concerns-grow/",
           "description": "Authorities say criminal networks are using Nigeria's strategic ports, airports and commercial infrastructure to conceal and transport illicit substances, posing risks not only to public security but also to the country's reputation as a regional trade and investment hub.",
@@ -159,33 +276,6 @@
           "source": "Africanews",
           "lang": "en",
           "titleIt": "Nigeria seizes thousands of kilograms of drugs as trafficking concerns grow"
-        },
-        {
-          "title": "Somali Future Council Demands Political Deal Before Further AUSSOM Support",
-          "link": "https://raxanreeb.com/somali-future-council-demands-political-deal-before-further-aussom-support/",
-          "source": "raxanreeb.com",
-          "pubDate": "2026-07-27T13:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Somali Future Council Demands Political Deal Before Further AUSSOM Support"
-        },
-        {
-          "title": "Kenya , ECA , AU - IBAR and IGAD launch effort to build climate resilience in livestock , land and insurance systems",
-          "link": "https://www.uneca.org/stories/kenya,-eca,-au-ibar-and-igad-launch-effort-to-build-climate-resilience-in-livestock,-land",
-          "source": "uneca.org",
-          "pubDate": "2026-07-27T12:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Kenya , ECA , AU - IBAR and IGAD launch effort to build climate resilience in livestock , land and insurance systems"
-        },
-        {
-          "title": "Employers fear labor shortage as many immigrants lose protected status",
-          "link": "https://www.hawaiitribune-herald.com/2026/07/27/nation-world-news/employers-fear-labor-shortage-as-many-immigrants-lose-protected-status/",
-          "source": "hawaiitribune-herald.com",
-          "pubDate": "2026-07-27T12:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Employers fear labor shortage as many immigrants lose protected status"
         },
         {
           "title": "The Embassy in Norway Publishes a New Edition of the Oil & Gas Guide",
@@ -197,15 +287,6 @@
           "titleIt": "The Embassy in Norway Publishes a New Edition of the Oil & Gas Guide"
         },
         {
-          "title": "PROFILE : Who Is Olara Otunnu ? The Ugandan Diplomat Seeking to Lead the United Nations",
-          "link": "https://chimpreports.com/profile-who-is-olara-otunnu-the-ugandan-diplomat-seeking-to-lead-the-united-nations/",
-          "source": "chimpreports.com",
-          "pubDate": "2026-07-27T07:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "PROFILE : Who Is Olara Otunnu ? The Ugandan Diplomat Seeking to Lead the United Nations"
-        },
-        {
           "title": "The 2026 edition of Vinitaly.us was unveiled aboard the ship Vespucci in Québec City.",
           "link": "https://www.ansa.it/english/news/news_from_embassies/2026/07/27/the-2026-edition-of-vinitaly.us-was-unveiled-aboard-the-ship-vespucci_c6890bab-8c5e-42cc-b090-f0534c64bb50.html",
           "description": "(ANSA) - ROMA, 27 LUG - The Italian Ambassador to Canada, Alessandro Cattaneo, presented the 2026 edition of “Vinitaly.us” aboard the Amerigo Vespucci, which made a stop in Québec City. Present at the event were the president of the Italian Trade Agency, Matteo Zoppas; the CEO of Difesa Servizi, Luca Andreoli; the president of Veronafiere, Federico Bricolo; and the managing director of Vinitaly International, Stevie Kim. The event underscored the growing strategic importance of the Canadian market for Italian wine. It was also emphasized that Italy and Canada continue to strengthen their strat",
@@ -215,67 +296,67 @@
           "titleIt": "The 2026 edition of Vinitaly.us was unveiled aboard the ship Vespucci in Québec City."
         },
         {
-          "title": "Columnist Richard Fein : Water bankruptcy horror and hope - Daily Hampshire Gazette",
-          "link": "https://gazettenet.com/2026/07/26/columnist-richard-fein-water-bankruptcy-horror-and-hope/",
-          "source": "gazettenet.com",
-          "pubDate": "2026-07-27T03:00:00Z",
+          "title": "Italy’s SACE and Bank of Africa in Rabat Join Forces for the Mattei Plan",
+          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/07/24/italys-sace-and-bank-of-africa-in-rabat-join-forces-for-the_14180ec2-3052-49bc-8e1d-d11fac665ac9.html",
+          "description": "SACE, the Italian Export Credit Agency owned by the Ministry of Economy and Finance, and Bank of Africa, one of the leading banking groups on the African continent, have signed an agreement to invest jointly in Africa and promote the involvement of Italian companies in strategic projects being carried out on the continent. The agreement, signed by Mario Melillo on behalf of Sace and Khalid Nasr on behalf of Bank of Africa, brings together the African bank’s extensive presence and Sace’s financial and insurance solutions to support the competitiveness and internationalization of Italian compani",
+          "pubDate": "Fri, 24 Jul 2026 16:20:49 +0200",
+          "source": "ANSA English",
           "lang": "en",
-          "description": "",
-          "titleIt": "Columnist Richard Fein : Water bankruptcy horror and hope - Daily Hampshire Gazette"
+          "titleIt": "Italy’s SACE and Bank of Africa in Rabat Join Forces for the Mattei Plan"
         },
         {
-          "title": "Secret UAE - linked camps used to recruit mercenaries for Sudan conflict – Report – Daily Trust",
-          "link": "https://dailytrust.com/secret-uae-linked-camps-used-to-recruit-mercenaries-for-sudan-conflict-report/",
-          "source": "dailytrust.com",
-          "pubDate": "2026-07-27T02:30:00Z",
+          "title": "Confindustria sounds alarm about outlook amid fresh conflict in the Gulf",
+          "link": "https://www.ansa.it/english/news/business/2026/07/24/confindustria-sounds-alarm-about-outlook-amid-fresh-conflict-in-the-gulf_3bba7108-3ccb-4174-b87a-60ff87a88521.html",
+          "description": "(ANSA) - ROME, JUL 24 - The CSC research unit of Italian industry association Confindustria on Friday sounded the alarm about the nation's economic outlook following a breakdown of the Iran war ceasefire. \"The third quarter is off to a bad start,\" the CSC said in its latest economic outlook report. \"The war in Iran flared up again in July, and uncertainty about future developments is at a peak: oil prices were immediately affected. \"Having already slowed Italian GDP in the second quarter, the war's impact is now spilling over into the third,. \"Inflation will remain high for some time and credi",
+          "pubDate": "Fri, 24 Jul 2026 11:57:30 +0200",
+          "source": "ANSA English",
           "lang": "en",
-          "description": "",
-          "titleIt": "Secret UAE - linked camps used to recruit mercenaries for Sudan conflict – Report – Daily Trust"
+          "titleIt": "Confindustria sounds alarm about outlook amid fresh conflict in the Gulf"
         },
         {
-          "title": "Lebanon , Arab states must strengthen response to external risks",
-          "link": "https://www.arabnews.com/node/2652386",
-          "source": "arabnews.com",
-          "pubDate": "2026-07-26T23:45:00Z",
+          "title": "Confindustria sounds alarm about outlook amid fresh conflict in the Gulf",
+          "link": "https://www.ansa.it/english/news/2026/07/24/confindustria-sounds-alarm-about-outlook-amid-fresh-conflict-in-the-gulf_1cb7abfe-6d32-4b65-9d40-995d1c44366f.html",
+          "description": "(ANSA) - ROME, JUL 24 - The CSC research unit of Italian industry association Confindustria on Friday sounded the alarm about the nation's economic outlook following a breakdown of the Iran war ceasefire. \"The third quarter is off to a bad start,\" the CSC said in its latest economic outlook report. \"The war in Iran flared up again in July, and uncertainty about future developments is at a peak: oil prices were immediately affected. \"Having already slowed Italian GDP in the second quarter, the war's impact is now spilling over into the third,. \"Inflation will remain high for some time and credi",
+          "pubDate": "Fri, 24 Jul 2026 11:49:48 +0200",
+          "source": "ANSA English",
           "lang": "en",
-          "description": "",
-          "titleIt": "Lebanon , Arab states must strengthen response to external risks"
+          "titleIt": "Confindustria sounds alarm about outlook amid fresh conflict in the Gulf"
         },
         {
-          "title": "Peter Obi Bold Declaration : A Four - Year Blueprint for Nigeria Transformation and His Unwavering Commitment to a Single Term – Ghanamma . com",
-          "link": "https://www.ghanamma.com/2026/07/25/peter-obis-bold-declaration-a-four-year-blueprint-for-nigerias-transformation-and-his-unwavering-commitment-to-a-single-term/",
-          "source": "ghanamma.com",
-          "pubDate": "2026-07-25T18:15:00Z",
+          "title": "No rush to find new Italy coach says Maldini",
+          "link": "https://www.ansa.it/english/news/sports/2026/07/23/no-rush-to-find-new-italy-coach-says-maldini_edac5db3-5536-4ab7-bc45-8494f10635be.html",
+          "description": "(ANSA) - ROME, JUL 23 - The Italian Soccer Federation's (FIGC) new Technical Director Paolo Maldini said Thursday that he was not in a rush to appoint a new coach for the national team. Earlier this week FIGC President Giovanni Malagò confirmed reports that the federation had approached Pep Guardiola about taking on the role and Maldini added on Thursday that they have looked up Brazil coach Carlo Ancelotti too. \"Ideally, it would be this week, but, above all, we need to wait for the person we really want,\" Maldini said after he, Malagò and FIGC consultant Leonardo had a meeting with Serie A c",
+          "pubDate": "Thu, 23 Jul 2026 15:25:37 +0200",
+          "source": "ANSA English",
           "lang": "en",
-          "description": "",
-          "titleIt": "Peter Obi Bold Declaration : A Four - Year Blueprint for Nigeria Transformation and His Unwavering Commitment to a Single Term – Ghanamma . com"
+          "titleIt": "No rush to find new Italy coach says Maldini"
         },
         {
-          "title": "The return of the African megaproject",
-          "link": "https://www.hindustantimes.com/world-news/the-return-of-the-african-megaproject-101784987044563.html",
-          "source": "hindustantimes.com",
-          "pubDate": "2026-07-25T14:45:00Z",
+          "title": "No rush to find new Italy coach says Maldini",
+          "link": "https://www.ansa.it/english/news/2026/07/23/no-rush-to-find-new-italy-coach-says-maldini_826da0ed-e7c6-4219-a443-83754d94cf60.html",
+          "description": "(ANSA) - ROME, JUL 23 - The Italian Soccer Federation's (FIGC) new Technical Director Paolo Maldini said Thursday that he was not in a rush to appoint a new coach for the national team. Earlier this week FIGC President Giovanni Malagò confirmed reports that the federation had approached Pep Guardiola about taking on the role and Maldini added on Thursday that they have looked up Brazil coach Carlo Ancelotti too. \"Ideally, it would be this week, but, above all, we need to wait for the person we really want,\" Maldini said after he, Malagò and FIGC consultant Leonardo had a meeting with Serie A c",
+          "pubDate": "Thu, 23 Jul 2026 15:22:41 +0200",
+          "source": "ANSA English",
           "lang": "en",
-          "description": "",
-          "titleIt": "The return of the African megaproject"
+          "titleIt": "No rush to find new Italy coach says Maldini"
         },
         {
-          "title": "The Future Of Freight : What Will Liberalization Mean For Ethiopia Fledging Logistics Sector ?",
-          "link": "https://www.thereporterethiopia.com/52006/",
-          "source": "thereporterethiopia.com",
-          "pubDate": "2026-07-25T11:30:00Z",
+          "title": "Villa warned over sportswashing after Visit Rwanda deal",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cm20211g25lo?at_medium=RSS&at_campaign=rss",
+          "description": "Aston Villa are warned their new £20m-a-year sponsorship deal with Visit Rwanda will be used by the nation to sportswash its human rights record.",
+          "pubDate": "Tue, 14 Jul 2026 18:44:04 GMT",
+          "source": "BBC Africa",
           "lang": "en",
-          "description": "",
-          "titleIt": "The Future Of Freight : What Will Liberalization Mean For Ethiopia Fledging Logistics Sector ?"
+          "titleIt": "Villa warned over sportswashing after Visit Rwanda deal"
         },
         {
-          "title": "When Two Chokepoints Close : Ethiopia Reckoning With A Red Sea In Turmoil",
-          "link": "https://www.thereporterethiopia.com/52030/",
-          "source": "thereporterethiopia.com",
-          "pubDate": "2026-07-25T11:30:00Z",
+          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
+          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
+          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
+          "pubDate": "Saturday, May 16, 2026 - 00:08",
+          "source": "Crisis Group",
           "lang": "en",
-          "description": "",
-          "titleIt": "When Two Chokepoints Close : Ethiopia Reckoning With A Red Sea In Turmoil"
+          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
@@ -283,13 +364,184 @@
       "title": "Fragilità economica egiziana",
       "items": [
         {
-          "title": "Launch of a Cooperation Project for Women’s and Girls’ Leadership in Senegal",
-          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/07/24/launch-of-a-cooperation-project-for-womens-and-girls-leadership-in-senegal_462cdc6a-ba23-42f4-aaee-e4f0d3190049.html",
-          "description": "(ANSA) - IL CAIRO, 24 LUG - The Italian Ambassador to Senegal, Michele Tommasi, spoke at the first meeting of the National Steering Committee for the Parel/F project—an initiative funded by Italian Cooperation to strengthen the leadership and socioeconomic inclusion of women and girls in Senegal—to reaffirm Italy’s support for this initiative. The meeting was opened by the Chief of Staff of the Ministry of Family, Social Action, and Solidarity, Amadou Diaw, and by the Director of AICS Dakar, Giovanni Grandi, officially launching the project’s operational phase. This first meeting made it possi",
-          "pubDate": "Fri, 24 Jul 2026 19:55:54 +0200",
-          "source": "ANSA English",
+          "title": "FTSE 100 Live : Unilever leads index close to highs , US semi sell - off deepens",
+          "link": "https://www.proactiveinvestors.com/companies/news/1096116/ftse-100-live-unilever-leads-index-close-to-highs-us-semi-sell-off-deepens-1096116.html",
+          "source": "proactiveinvestors.com",
+          "pubDate": "2026-07-28T14:15:00Z",
           "lang": "en",
-          "titleIt": "Launch of a Cooperation Project for Women’s and Girls’ Leadership in Senegal"
+          "description": "",
+          "titleIt": "FTSE 100 Live : Unilever leads index close to highs , US semi sell - off deepens"
+        },
+        {
+          "title": "Rokos Capital Management LLP Invests $44 . 29 Million in Mastercard Incorporated $MA",
+          "link": "https://www.themarketsdaily.com/2026/07/28/rokos-capital-management-llp-invests-44-29-million-in-mastercard-incorporated-ma.html",
+          "source": "themarketsdaily.com",
+          "pubDate": "2026-07-28T13:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Rokos Capital Management LLP Invests $44 . 29 Million in Mastercard Incorporated $MA"
+        },
+        {
+          "title": "Latest Articles",
+          "link": "https://freerepublic.com/tag/*/index?more=4389617",
+          "source": "freerepublic.com",
+          "pubDate": "2026-07-28T13:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Latest Articles"
+        },
+        {
+          "title": "Fela Kuti - the radicalisation of Nigeria greatest star",
+          "link": "https://www.mojo4music.com/articles/stories/fela-kuti-the-rise-of-an-afrobeat-revolutionary-they-threw-tear-gas-and-beat-the-shit-outta-us/",
+          "source": "mojo4music.com",
+          "pubDate": "2026-07-28T13:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Fela Kuti - the radicalisation of Nigeria greatest star"
+        },
+        {
+          "title": "Oil Tankers Reroute to Egypt amid Houthi Threat",
+          "link": "https://www.rigzone.com/news/wire/oil_tankers_reroute_to_egypt_amid_houthi_threat-28-jul-2026-184227-article/",
+          "source": "rigzone.com",
+          "pubDate": "2026-07-28T13:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Oil Tankers Reroute to Egypt amid Houthi Threat"
+        },
+        {
+          "title": "Russia breaks Western plan and forces Ukraine to its knees as Putin issues final Poseidon and Zircon warning",
+          "link": "https://www.bankingnews.gr/diethni/articles/890844/russia-breaks-western-plan-and-forces-ukraine-to-its-knees-as-putin-issues-final-poseidon-and-zircon-warning",
+          "source": "bankingnews.gr",
+          "pubDate": "2026-07-28T12:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Russia breaks Western plan and forces Ukraine to its knees as Putin issues final Poseidon and Zircon warning"
+        },
+        {
+          "title": "Iran War : Despite Serious Damage to Saudi Oil Infrastructure and No Settlement in Sight , Oil Prices Drop ; Netanyahu to Talk War with Trump",
+          "link": "https://www.nakedcapitalism.com/2026/07/iran-war-despite-serious-damage-to-saudi-oil-infrastructure-and-no-settlement-in-sight-oil-prices-drop-netanyahu-to-talk-war-with-trump.html",
+          "source": "nakedcapitalism.com",
+          "pubDate": "2026-07-28T12:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Iran War : Despite Serious Damage to Saudi Oil Infrastructure and No Settlement in Sight , Oil Prices Drop ; Netanyahu to Talk War with Trump"
+        },
+        {
+          "title": "Iran , Oman continue talks on full restoration of shipping through Strait of Hormuz",
+          "link": "https://www.azernews.az/region/261643.html",
+          "source": "azernews.az",
+          "pubDate": "2026-07-28T12:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Iran , Oman continue talks on full restoration of shipping through Strait of Hormuz"
+        },
+        {
+          "title": "Markets & Companies - Business - Ahram Online",
+          "link": "https://english.ahram.org.eg/Category/3/14/Business/Asian-shares-slip,-South-Korea%E2%80%99s-Kospi-i.aspx",
+          "source": "english.ahram.org.eg",
+          "pubDate": "2026-07-28T11:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Markets & Companies - Business - Ahram Online"
+        },
+        {
+          "title": "Simplex inaugurates second factory with $50 million investment",
+          "link": "https://www.wamda.com/2026/07/simplex-inaugurates-second-factory-50-million-investment",
+          "source": "wamda.com",
+          "pubDate": "2026-07-28T09:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Simplex inaugurates second factory with $50 million investment"
+        },
+        {
+          "title": "West Asia crisis is rewriting India flight map : Longer routes , higher fuel burn and costlier tickets",
+          "link": "https://www.moneycontrol.com/news/business/west-asia-crisis-is-rewriting-india-s-flight-map-longer-routes-higher-fuel-burn-and-costlier-tickets-13985669.html",
+          "source": "moneycontrol.com",
+          "pubDate": "2026-07-28T09:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "West Asia crisis is rewriting India flight map : Longer routes , higher fuel burn and costlier tickets"
+        },
+        {
+          "title": "Europe primed for flat open as Brent stabilises at $87 / bbl , KOSPI - 10 % - Newsquawk EU Market Open",
+          "link": "https://www.zerohedge.com/markets/europe-primed-flat-open-brent-stabilises-87bbl-kospi-10-newsquawk-eu-market-open",
+          "source": "zerohedge.com",
+          "pubDate": "2026-07-28T08:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Europe primed for flat open as Brent stabilises at $87 / bbl , KOSPI - 10 % - Newsquawk EU Market Open"
+        },
+        {
+          "title": "US - Saudi nuclear deal puts Iran , Israel in new strategic equation",
+          "link": "https://www.azernews.az/analysis/261635.html",
+          "source": "azernews.az",
+          "pubDate": "2026-07-28T07:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "US - Saudi nuclear deal puts Iran , Israel in new strategic equation"
+        },
+        {
+          "title": "No New Ideas to end the Ukraine War",
+          "link": "https://slguardian.org/no-new-ideas-to-end-the-ukraine-war/",
+          "source": "slguardian.org",
+          "pubDate": "2026-07-28T07:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "No New Ideas to end the Ukraine War"
+        },
+        {
+          "title": "Trump hosts Netanyahu , Saudi Arabia intercepts drones and Lebanon explores new oil route",
+          "link": "https://www.thenationalnews.com/podcasts/trending-middle-east/2026/07/28/trump-hosts-netanyahu-saudi-arabia-intercepts-drones-and-lebanon-explores-new-oil-route/",
+          "source": "thenationalnews.com",
+          "pubDate": "2026-07-28T07:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Trump hosts Netanyahu , Saudi Arabia intercepts drones and Lebanon explores new oil route"
+        },
+        {
+          "title": "Fixing Imo for Tinubu : Inside Uzodimma 2027 campaign",
+          "link": "https://www.vanguardngr.com/2026/07/fixing-imo-for-tinubu-inside-uzodimmas-2027-campaign/",
+          "source": "vanguardngr.com",
+          "pubDate": "2026-07-28T07:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Fixing Imo for Tinubu : Inside Uzodimma 2027 campaign"
+        },
+        {
+          "title": "Afrodiáspora Festival 2026 : Three Nights of African Music in Bogotá",
+          "link": "https://www.riotimesonline.com/bogota-afrodiaspora-festival-2026-african-caribbean-music/",
+          "source": "riotimesonline.com",
+          "pubDate": "2026-07-28T07:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Afrodiáspora Festival 2026 : Three Nights of African Music in Bogotá"
+        },
+        {
+          "title": "Netanyahu Lands In DC Ahead Of Trump Meeting | LIVE BLOG",
+          "link": "https://www.i24news.tv/en/news/international/artc-netanyahu-lands-in-dc-ahead-of-trump-meeting-live-blog",
+          "source": "i24news.tv",
+          "pubDate": "2026-07-28T05:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Netanyahu Lands In DC Ahead Of Trump Meeting | LIVE BLOG"
+        },
+        {
+          "title": "Nigeriaâ€™s pleasant economic surprises - Blueprint Newspapers Limited",
+          "link": "https://blueprint.ng/nigerias-pleasant-economic-surprises/",
+          "source": "blueprint.ng",
+          "pubDate": "2026-07-28T05:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Nigeriaâ€™s pleasant economic surprises - Blueprint Newspapers Limited"
+        },
+        {
+          "title": "Yara introduces two new crop solutions",
+          "link": "https://thebftonline.com/article/yara-introduces-two-new-crop-solutions",
+          "source": "thebftonline.com",
+          "pubDate": "2026-07-28T05:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Yara introduces two new crop solutions"
         }
       ]
     },
@@ -304,177 +556,6 @@
           "source": "AllAfrica",
           "lang": "en",
           "titleIt": "Sudan: SAF Claims Gains On Omdurman-El Obeid Road As Fighting Continues in North Kordofan"
-        },
-        {
-          "title": "Ethiopia : GERD Huge Impetus for Ethiopia Economic Devt - US - Based Economics Professors",
-          "link": "https://allafrica.com/stories/202607270583.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-07-28T01:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia : GERD Huge Impetus for Ethiopia Economic Devt - US - Based Economics Professors"
-        },
-        {
-          "title": "Ethiopia : Egypt Campaigns Cannot Alter Ethiopia Sovereign Right Over Its Resources , Says Eustaz Jamal Bashir",
-          "link": "https://allafrica.com/stories/202607270582.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-07-28T00:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia : Egypt Campaigns Cannot Alter Ethiopia Sovereign Right Over Its Resources , Says Eustaz Jamal Bashir"
-        },
-        {
-          "title": "Columnist Richard Fein : Water bankruptcy horror and hope",
-          "link": "https://recorder.com/2026/07/26/columnist-richard-fein-water-bankruptcy-horror-and-hope/",
-          "source": "recorder.com",
-          "pubDate": "2026-07-27T18:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Columnist Richard Fein : Water bankruptcy horror and hope"
-        },
-        {
-          "title": "Columnist Richard Fein : Water bankruptcy horror and hope - Daily Hampshire Gazette",
-          "link": "https://gazettenet.com/2026/07/26/columnist-richard-fein-water-bankruptcy-horror-and-hope/",
-          "source": "gazettenet.com",
-          "pubDate": "2026-07-27T03:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Columnist Richard Fein : Water bankruptcy horror and hope - Daily Hampshire Gazette"
-        },
-        {
-          "title": "The return of the African megaproject",
-          "link": "https://www.hindustantimes.com/world-news/the-return-of-the-african-megaproject-101784987044563.html",
-          "source": "hindustantimes.com",
-          "pubDate": "2026-07-25T14:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The return of the African megaproject"
-        },
-        {
-          "title": "When Two Chokepoints Close : Ethiopia Reckoning With A Red Sea In Turmoil",
-          "link": "https://www.thereporterethiopia.com/52030/",
-          "source": "thereporterethiopia.com",
-          "pubDate": "2026-07-25T11:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "When Two Chokepoints Close : Ethiopia Reckoning With A Red Sea In Turmoil"
-        },
-        {
-          "title": "Aid cuts call for innovation - Nation Online",
-          "link": "https://mwnation.com/aid-cuts-call-for-innovation/",
-          "source": "mwnation.com",
-          "pubDate": "2026-07-24T09:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Aid cuts call for innovation - Nation Online"
-        },
-        {
-          "title": "Sudan : Water Expert Urges Binding GERD Agreement After Nile Levels Fall in Sudan",
-          "link": "https://allafrica.com/stories/202607230892.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-07-24T00:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Sudan : Water Expert Urges Binding GERD Agreement After Nile Levels Fall in Sudan"
-        },
-        {
-          "title": "Society - Egypt - Ahram Online",
-          "link": "https://english.ahram.org.eg/Category/1/2/Egypt/Infograph%7C-Egypt-mobile-subscriptions-ri.aspx",
-          "source": "english.ahram.org.eg",
-          "pubDate": "2026-07-22T11:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Society - Egypt - Ahram Online"
-        },
-        {
-          "title": "Egypt says Nile issue is existential , rejects Ethiopia unilateral moves",
-          "link": "https://www.middle-east-online.com/en/egypt-says-nile-issue-existential-rejects-ethiopia%E2%80%99s-unilateral-moves",
-          "source": "middle-east-online.com",
-          "pubDate": "2026-07-21T07:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egypt says Nile issue is existential , rejects Ethiopia unilateral moves"
-        },
-        {
-          "title": "Who is driving diplomacy in the Horn of Africa and the Red Sea , and why ? - Dominican Republic Post – Caribbean News , Business , Travel & Culture",
-          "link": "https://dominicanrepublicpost.com/who-is-driving-diplomacy-in-the-horn-of-africa-and-the-red-sea-and-why/",
-          "source": "dominicanrepublicpost.com",
-          "pubDate": "2026-07-21T05:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Who is driving diplomacy in the Horn of Africa and the Red Sea , and why ? - Dominican Republic Post – Caribbean News , Business , Travel & Culture"
-        },
-        {
-          "title": "Who is driving diplomacy in the Horn of Africa and the Red Sea , and why ?",
-          "link": "https://www.aljazeera.com/news/2026/7/21/who-is-driving-diplomacy-in-the-horn-of-africa-and-the-red-sea-and-why",
-          "source": "aljazeera.com",
-          "pubDate": "2026-07-21T05:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Who is driving diplomacy in the Horn of Africa and the Red Sea , and why ?"
-        },
-        {
-          "title": "Ethiopia Pivotal Week - National Dialogue and Diplomatic Momentum",
-          "link": "https://allafrica.com/stories/202607200017.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-07-20T08:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia Pivotal Week - National Dialogue and Diplomatic Momentum"
-        },
-        {
-          "title": "Rural Ethiopia still left in the dark as reliable electricity lags",
-          "link": "https://capitalethiopia.com/2026/07/19/rural-ethiopia-still-left-in-the-dark-as-reliable-electricity-lags/",
-          "source": "capitalethiopia.com",
-          "pubDate": "2026-07-19T16:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Rural Ethiopia still left in the dark as reliable electricity lags"
-        },
-        {
-          "title": "From abundance to retreat : what happened to Nile water levels in Sudan ?",
-          "link": "https://www.dabangasudan.org/en/all-news/article/from-abundance-to-retreat-what-happened-to-nile-water-levels-in-sudan",
-          "source": "dabangasudan.org",
-          "pubDate": "2026-07-16T15:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "From abundance to retreat : what happened to Nile water levels in Sudan ?"
-        },
-        {
-          "title": "Egypt : American Analyst Accuses Egypt of Escalating  Information Warfare  Against Ethiopia Over GERD",
-          "link": "https://allafrica.com/stories/202607150066.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-07-15T05:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egypt : American Analyst Accuses Egypt of Escalating  Information Warfare  Against Ethiopia Over GERD"
-        },
-        {
-          "title": "Ethiopia debt problem",
-          "link": "https://africasacountry.com/2026/07/ethiopias-debt-problem",
-          "source": "africasacountry.com",
-          "pubDate": "2026-07-14T18:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia debt problem"
-        },
-        {
-          "title": "Horn of Africa vital in regional power as Gulf nations compete over alliances",
-          "link": "https://www.jpost.com/middle-east/article-902454",
-          "source": "jpost.com",
-          "pubDate": "2026-07-14T12:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Horn of Africa vital in regional power as Gulf nations compete over alliances"
-        },
-        {
-          "title": "Horn of Africa vital in regional power as Gulf nations compete over alliances",
-          "link": "http://www.jpost.com/middle-east/article-902454",
-          "source": "jpost.com",
-          "pubDate": "2026-07-14T10:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Horn of Africa vital in regional power as Gulf nations compete over alliances"
         }
       ]
     }
