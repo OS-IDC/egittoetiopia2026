@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-28T03:35:06.892Z",
+  "generatedAt": "2026-07-28T06:40:27.363Z",
   "feedsChecked": 9,
   "feedsAttempted": 10,
   "topics": {
@@ -79,6 +79,15 @@
     "ethiopia-sea-access": {
       "title": "Accesso etiope al mare",
       "items": [
+        {
+          "title": "Cile-Usa: dazi, governo di Santiago avvia negoziati con Washington (2)",
+          "link": "https://www.agenzianova.com/a/6a684ed884aef1.62994537/7646532/2026-07-28/cile-usa-dazi-governo-di-santiago-avvia-negoziati-con-washington-2",
+          "description": "28 lug 08:16 - (Agenzia Nova) - Secondo quanto riferito dal ministero, circa il 60 per cento del valore delle esportazioni cilene verso gli... (Abu)",
+          "pubDate": "2026-07-28T08:16:30+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Cile-Usa: dazi, governo di Santiago avvia negoziati con Washington (2)"
+        },
         {
           "title": "Nigeria seizes thousands of kilograms of drugs as trafficking concerns grow",
           "link": "http://www.africanews.com/2026/07/27/nigeria-seizes-thousands-of-kilograms-of-drugs-as-trafficking-concerns-grow/",
@@ -175,6 +184,105 @@
       "title": "Fragilità economica egiziana",
       "items": [
         {
+          "title": "Netanyahu Lands In DC Ahead Of Trump Meeting | LIVE BLOG",
+          "link": "https://www.i24news.tv/en/news/international/artc-netanyahu-lands-in-dc-ahead-of-trump-meeting-live-blog",
+          "source": "i24news.tv",
+          "pubDate": "2026-07-28T05:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Netanyahu Lands In DC Ahead Of Trump Meeting | LIVE BLOG"
+        },
+        {
+          "title": "Nigeriaâ€™s pleasant economic surprises - Blueprint Newspapers Limited",
+          "link": "https://blueprint.ng/nigerias-pleasant-economic-surprises/",
+          "source": "blueprint.ng",
+          "pubDate": "2026-07-28T05:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Nigeriaâ€™s pleasant economic surprises - Blueprint Newspapers Limited"
+        },
+        {
+          "title": "Yara introduces two new crop solutions",
+          "link": "https://thebftonline.com/article/yara-introduces-two-new-crop-solutions",
+          "source": "thebftonline.com",
+          "pubDate": "2026-07-28T05:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Yara introduces two new crop solutions"
+        },
+        {
+          "title": "Private capital holds key to next growth chapter KPMG",
+          "link": "https://thebftonline.com/article/private-capital-holds-key-to-next-growth-chapter-kpmg",
+          "source": "thebftonline.com",
+          "pubDate": "2026-07-28T05:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Private capital holds key to next growth chapter KPMG"
+        },
+        {
+          "title": "Gold powers US$8 . 8bn trade surplus in first half",
+          "link": "https://thebftonline.com/article/gold-powers-us-8-8bn-trade-surplus-in-first-half",
+          "source": "thebftonline.com",
+          "pubDate": "2026-07-28T05:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Gold powers US$8 . 8bn trade surplus in first half"
+        },
+        {
+          "title": "From diplomacy to defence drills , Gulf states respond to rising threats",
+          "link": "https://www.middle-east-online.com/en/diplomacy-defence-drills-gulf-states-respond-rising-threats",
+          "source": "middle-east-online.com",
+          "pubDate": "2026-07-28T05:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "From diplomacy to defence drills , Gulf states respond to rising threats"
+        },
+        {
+          "title": "Standard Chartered : Oil Markets Must Now Price Two Middle East Chokepoints",
+          "link": "https://finance.yahoo.com/energy/articles/standard-chartered-oil-markets-must-230000860.html",
+          "source": "finance.yahoo.com",
+          "pubDate": "2026-07-28T05:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Standard Chartered : Oil Markets Must Now Price Two Middle East Chokepoints"
+        },
+        {
+          "title": "Asia  scraping the bottom of the barrel  as Red Sea oil blockade worsens energy crisis  | Peak Oil News and Message Boards",
+          "link": "https://peakoil.com/publicpolicy/asia-scraping-the-bottom-of-the-barrel-as-red-sea-oil-blockade-worsens-energy-crisis",
+          "source": "peakoil.com",
+          "pubDate": "2026-07-28T05:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Asia  scraping the bottom of the barrel  as Red Sea oil blockade worsens energy crisis  | Peak Oil News and Message Boards"
+        },
+        {
+          "title": "Houthi Threats Force Saudi Crude Tanker Onto Suez Route To Asia",
+          "link": "https://www.zerohedge.com/markets/houthi-threats-force-saudi-crude-tanker-suez-route-asia",
+          "source": "zerohedge.com",
+          "pubDate": "2026-07-28T03:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Houthi Threats Force Saudi Crude Tanker Onto Suez Route To Asia"
+        },
+        {
+          "title": "Reps committed to Tinubu economic reforms , says Speaker Abbas",
+          "link": "https://thenationonlineng.net/reps-committed-to-tinubus-economic-reforms-says-speaker-abbas-2/",
+          "source": "thenationonlineng.net",
+          "pubDate": "2026-07-28T03:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Reps committed to Tinubu economic reforms , says Speaker Abbas"
+        },
+        {
+          "title": "Indian Shares To Open On Cautious Note Amid AI Chip Selloff",
+          "link": "https://www.finanzen.ch/nachrichten/aktien/indian-shares-to-open-on-cautious-note-amid-ai-chip-selloff-1036369467",
+          "source": "finanzen.ch",
+          "pubDate": "2026-07-28T03:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Indian Shares To Open On Cautious Note Amid AI Chip Selloff"
+        },
+        {
           "title": "Monday Final Word",
           "link": "https://hotair.com/ed-morrissey/2026/07/27/mondays-final-word-n3817371",
           "source": "hotair.com",
@@ -251,105 +359,6 @@
           "link": "http://www.massachusettssun.com/news/279212532/u-s-stocks-end-mixed-on-monday-nasdaq-slides-44-points",
           "source": "massachusettssun.com",
           "pubDate": "2026-07-28T01:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "U . S . stocks end mixed on Monday , Nasdaq slides 44 points"
-        },
-        {
-          "title": "U . S . stocks end mixed on Monday , Nasdaq slides 44 points",
-          "link": "http://www.newzealandstar.com/news/279212532/u-s-stocks-end-mixed-on-monday-nasdaq-slides-44-points",
-          "source": "newzealandstar.com",
-          "pubDate": "2026-07-28T01:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "U . S . stocks end mixed on Monday , Nasdaq slides 44 points"
-        },
-        {
-          "title": "Satellite imagery shows big fire at Aramco Abqaiq after Yemeni drone strike",
-          "link": "https://www.islamicinvitationturkey.com/satellite-imagery-shows-big-fire-at-aramcos-abqaiq-after-yemeni-drone-strike/",
-          "source": "islamicinvitationturkey.com",
-          "pubDate": "2026-07-28T01:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Satellite imagery shows big fire at Aramco Abqaiq after Yemeni drone strike"
-        },
-        {
-          "title": "U . S . stocks end mixed on Monday , Nasdaq slides 44 points",
-          "link": "http://www.memphissun.com/news/279212532/u-s-stocks-end-mixed-on-monday-nasdaq-slides-44-points",
-          "source": "memphissun.com",
-          "pubDate": "2026-07-28T01:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "U . S . stocks end mixed on Monday , Nasdaq slides 44 points"
-        },
-        {
-          "title": "U . S . stocks end mixed on Monday , Nasdaq slides 44 points",
-          "link": "http://www.stlouisstar.com/news/279212532/u-s-stocks-end-mixed-on-monday-nasdaq-slides-44-points",
-          "source": "stlouisstar.com",
-          "pubDate": "2026-07-28T01:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "U . S . stocks end mixed on Monday , Nasdaq slides 44 points"
-        },
-        {
-          "title": "Ethiopia : ICT Firm Leaders Hail Ethiopia Ai University As Catalyst for Africa Digital Future",
-          "link": "https://allafrica.com/stories/202607270579.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-07-28T01:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia : ICT Firm Leaders Hail Ethiopia Ai University As Catalyst for Africa Digital Future"
-        },
-        {
-          "title": "Choppy trade as American stock markets kick off new week",
-          "link": "http://www.afghanistannews.net/news/279212532/choppy-trade-as-american-stock-markets-kick-off-new-week",
-          "source": "afghanistannews.net",
-          "pubDate": "2026-07-28T01:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Choppy trade as American stock markets kick off new week"
-        },
-        {
-          "title": "U . S . stocks end mixed on Monday , Nasdaq slides 44 points",
-          "link": "http://www.cincinnatisun.com/news/279212532/u-s-stocks-end-mixed-on-monday-nasdaq-slides-44-points",
-          "source": "cincinnatisun.com",
-          "pubDate": "2026-07-28T00:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "U . S . stocks end mixed on Monday , Nasdaq slides 44 points"
-        },
-        {
-          "title": "U . S . stocks end mixed on Monday , Nasdaq slides 44 points",
-          "link": "http://www.dallassun.com/news/279212532/u-s-stocks-end-mixed-on-monday-nasdaq-slides-44-points",
-          "source": "dallassun.com",
-          "pubDate": "2026-07-28T00:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "U . S . stocks end mixed on Monday , Nasdaq slides 44 points"
-        },
-        {
-          "title": "U . S . stocks end mixed on Monday , Nasdaq slides 44 points",
-          "link": "http://www.tennesseedaily.com/news/279212532/u-s-stocks-end-mixed-on-monday-nasdaq-slides-44-points",
-          "source": "tennesseedaily.com",
-          "pubDate": "2026-07-28T00:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "U . S . stocks end mixed on Monday , Nasdaq slides 44 points"
-        },
-        {
-          "title": "U . S . stocks end mixed on Monday , Nasdaq slides 44 points",
-          "link": "http://www.phoenixherald.com/news/279212532/u-s-stocks-end-mixed-on-monday-nasdaq-slides-44-points",
-          "source": "phoenixherald.com",
-          "pubDate": "2026-07-28T00:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "U . S . stocks end mixed on Monday , Nasdaq slides 44 points"
-        },
-        {
-          "title": "U . S . stocks end mixed on Monday , Nasdaq slides 44 points",
-          "link": "http://www.londonmercury.com/news/279212532/u-s-stocks-end-mixed-on-monday-nasdaq-slides-44-points",
-          "source": "londonmercury.com",
-          "pubDate": "2026-07-28T00:30:00Z",
           "lang": "en",
           "description": "",
           "titleIt": "U . S . stocks end mixed on Monday , Nasdaq slides 44 points"
