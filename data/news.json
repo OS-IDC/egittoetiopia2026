@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-30T21:32:45.880Z",
+  "generatedAt": "2026-07-30T23:19:56.165Z",
   "feedsChecked": 9,
   "feedsAttempted": 10,
   "topics": {
@@ -73,6 +73,15 @@
           "source": "AllAfrica",
           "lang": "en",
           "titleIt": "Somalia: Somalia, African Union Discuss Security, Aussom At Addis Ababa Meeting"
+        },
+        {
+          "title": "Kenya: From the Foothills of Mount Kilimanjaro, Magnolia Athletics Camp Is Helping Girls Stay in School",
+          "link": "https://allafrica.com/stories/202607300405.html",
+          "description": "[IPS] Oloitoktok, Kenya -- Before sunrise each morning, 19-year-old Josephine Sembeyo joins dozens of teenage runners leaving Magnolia Athletics Camp for training beneath the shadow of Mount Kilimanjaro.",
+          "pubDate": "Thu, 30 Jul 2026 14:35:48 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Kenya: From the Foothills of Mount Kilimanjaro, Magnolia Athletics Camp Is Helping Girls Stay in School"
         },
         {
           "title": "Equatorial Guinea and Gabon resolve 50-year border dispute",
@@ -182,7 +191,188 @@
     },
     "egypt-economy": {
       "title": "Fragilità economica egiziana",
-      "items": []
+      "items": [
+        {
+          "title": "Tech stocks roar , Nasdaq Composite jumps nearly 3 %",
+          "link": "http://www.baltimorestar.com/news/279217002/tech-stocks-roar-nasdaq-composite-jumps-nearly-3",
+          "source": "baltimorestar.com",
+          "pubDate": "2026-07-30T23:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Tech stocks roar , Nasdaq Composite jumps nearly 3 %"
+        },
+        {
+          "title": "AP News in Brief at 6 : 04 p . m . EDT",
+          "link": "https://www.yumasun.com/news/national_news/ap-news-in-brief-at-6-04-p-m-edt/article_5953daf6-9cbc-5106-b71b-f6736a744724.html",
+          "source": "yumasun.com",
+          "pubDate": "2026-07-30T23:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "AP News in Brief at 6 : 04 p . m . EDT"
+        },
+        {
+          "title": "Security Concerns About Suez Oil Rise After Tanker",
+          "link": "https://www.marinelink.com/news/security-concerns-suez-oil-rise-tanker-541670",
+          "source": "marinelink.com",
+          "pubDate": "2026-07-30T23:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Security Concerns About Suez Oil Rise After Tanker"
+        },
+        {
+          "title": "Tech stocks roar , Nasdaq Composite jumps nearly 3 %",
+          "link": "http://www.russiaherald.com/news/279217002/tech-stocks-roar-nasdaq-composite-jumps-nearly-3",
+          "source": "russiaherald.com",
+          "pubDate": "2026-07-30T23:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Tech stocks roar , Nasdaq Composite jumps nearly 3 %"
+        },
+        {
+          "title": "Today in Africa : Oprah Winfrey to close South Africa girl academy , U . S . tariffs hit seven African economies",
+          "link": "https://www.okayafrica.com/today-in-africa-july-30-2026-oprah-winfrey-to-close-south-africa-girls-school-new-us-tariffs-hit-seven-african-economies/1436579",
+          "source": "okayafrica.com",
+          "pubDate": "2026-07-30T22:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Today in Africa : Oprah Winfrey to close South Africa girl academy , U . S . tariffs hit seven African economies"
+        },
+        {
+          "title": "The Great African Float : Why Devaluation Is Failing To Deliver",
+          "link": "https://naija247news.com/the-great-african-float-why-devaluation-is-failing-to-deliver-2/",
+          "source": "naija247news.com",
+          "pubDate": "2026-07-30T22:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The Great African Float : Why Devaluation Is Failing To Deliver"
+        },
+        {
+          "title": "Prolonged Instability In The Horn Of Africa Risks Further Disruptions To Red Sea Commerce",
+          "link": "https://www.mondaq.com:443/unitedstates/terrorism-homeland-security-defence/1824642/prolonged-instability-in-the-horn-of-africa-risks-further-disruptions-to-red-sea-commerce",
+          "source": "mondaq.com",
+          "pubDate": "2026-07-30T22:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Prolonged Instability In The Horn Of Africa Risks Further Disruptions To Red Sea Commerce"
+        },
+        {
+          "title": "Tech stocks roar , Nasdaq Composite jumps nearly 3 %",
+          "link": "http://www.singaporestar.com/news/279217002/tech-stocks-roar-nasdaq-composite-jumps-nearly-3",
+          "source": "singaporestar.com",
+          "pubDate": "2026-07-30T22:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Tech stocks roar , Nasdaq Composite jumps nearly 3 %"
+        },
+        {
+          "title": "Crude oil surpasses corn and soy to become Argentina top export",
+          "link": "https://buenosairesherald.com/business/energy/crude-oil-surpasses-corn-and-soy-to-become-argentinas-top-export",
+          "source": "buenosairesherald.com",
+          "pubDate": "2026-07-30T22:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Crude oil surpasses corn and soy to become Argentina top export"
+        },
+        {
+          "title": "Multiple children killed in Russian attack on Ukraine | Morning News Bulletin 31 July 2026",
+          "link": "https://www.sbs.com.au/news/podcast-episode/multiple-children-killed-in-russian-attack-on-ukraine-morning-news-bulletin-31-july-2026/3y16uiapz",
+          "source": "sbs.com.au",
+          "pubDate": "2026-07-30T22:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Multiple children killed in Russian attack on Ukraine | Morning News Bulletin 31 July 2026"
+        },
+        {
+          "title": "Tech stocks roar , Nasdaq Composite jumps nearly 3 %",
+          "link": "http://www.nigeriasun.com/news/279217002/tech-stocks-roar-nasdaq-composite-jumps-nearly-3",
+          "source": "nigeriasun.com",
+          "pubDate": "2026-07-30T22:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Tech stocks roar , Nasdaq Composite jumps nearly 3 %"
+        },
+        {
+          "title": "Here why new fronts seem to be opening up across the Middle East",
+          "link": "https://mymotherlode.com/news/world/11028415/heres-why-new-fronts-seem-to-be-opening-up-across-the-middle-east.html",
+          "source": "mymotherlode.com",
+          "pubDate": "2026-07-30T22:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Here why new fronts seem to be opening up across the Middle East"
+        },
+        {
+          "title": "Saudi Arabia announces maritime defence alliance to secure vital waterways",
+          "link": "https://www.aljazeera.com/news/2026/7/30/saudi-arabia-announces-maritime-defence-alliance-to-secure-vital-waterways",
+          "source": "aljazeera.com",
+          "pubDate": "2026-07-30T22:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Saudi Arabia announces maritime defence alliance to secure vital waterways"
+        },
+        {
+          "title": "Tech stocks roar , Nasdaq Composite jumps nearly 3 %",
+          "link": "http://www.iranherald.com/news/279217002/tech-stocks-roar-nasdaq-composite-jumps-nearly-3",
+          "source": "iranherald.com",
+          "pubDate": "2026-07-30T22:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Tech stocks roar , Nasdaq Composite jumps nearly 3 %"
+        },
+        {
+          "title": "Tech stocks roar , Nasdaq Composite jumps nearly 3 %",
+          "link": "http://www.sandiegosun.com/news/279217002/tech-stocks-roar-nasdaq-composite-jumps-nearly-3",
+          "source": "sandiegosun.com",
+          "pubDate": "2026-07-30T22:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Tech stocks roar , Nasdaq Composite jumps nearly 3 %"
+        },
+        {
+          "title": "Tatarstan seeks stronger cooperation with BRICS , South - East Asia",
+          "link": "http://www.indiagazette.com/news/279216801/tatarstan-seeks-stronger-cooperation-with-brics-south-east-asia",
+          "source": "indiagazette.com",
+          "pubDate": "2026-07-30T22:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Tatarstan seeks stronger cooperation with BRICS , South - East Asia"
+        },
+        {
+          "title": "Tech stocks roar , Nasdaq Composite jumps nearly 3 %",
+          "link": "http://www.srilankasource.com/news/279217002/tech-stocks-roar-nasdaq-composite-jumps-nearly-3",
+          "source": "srilankasource.com",
+          "pubDate": "2026-07-30T22:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Tech stocks roar , Nasdaq Composite jumps nearly 3 %"
+        },
+        {
+          "title": "US and Iran trade missile barrages as hopes dim for a quick resolution to the five - month conflict - Las Vegas Sun News",
+          "link": "https://lasvegassun.com/news/2026/jul/30/us-and-iran-trade-missile-barrages-as-hopes-dim-fo/",
+          "source": "lasvegassun.com",
+          "pubDate": "2026-07-30T22:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "US and Iran trade missile barrages as hopes dim for a quick resolution to the five - month conflict - Las Vegas Sun News"
+        },
+        {
+          "title": "Egypt analysing drone fragments from port strike , warns of  escalation",
+          "link": "https://www.hindustantimes.com/world-news/us-news/egypt-analysing-drone-fragments-from-port-strike-warns-of-escalation-101785446350412.html",
+          "source": "hindustantimes.com",
+          "pubDate": "2026-07-30T22:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt analysing drone fragments from port strike , warns of  escalation"
+        },
+        {
+          "title": "Tech stocks roar , Nasdaq Composite jumps nearly 3 %",
+          "link": "http://www.batonrougepost.com/news/279217002/tech-stocks-roar-nasdaq-composite-jumps-nearly-3",
+          "source": "batonrougepost.com",
+          "pubDate": "2026-07-30T22:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Tech stocks roar , Nasdaq Composite jumps nearly 3 %"
+        }
+      ]
     },
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
