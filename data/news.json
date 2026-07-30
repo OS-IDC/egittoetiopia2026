@@ -1,11 +1,20 @@
 {
-  "generatedAt": "2026-07-30T17:49:17.058Z",
+  "generatedAt": "2026-07-30T19:52:51.098Z",
   "feedsChecked": 9,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
+        {
+          "title": "Egitto: primo ministro, nave per gassificazione a Daimetta ha subito \"danni significativi\"",
+          "link": "https://www.agenzianova.com/a/6a6bab8eb94507.53503544/7657993/2026-07-30/egitto-primo-ministro-nave-per-gassificazione-a-daimetta-ha-subito-danni-significativi",
+          "description": "30 lug 20:16 - (Agenzia Nova) - Una nave per la gassificazione nel porto di Damietta ha subito danni significativi a seguito di un attacco... (Cae)",
+          "pubDate": "2026-07-30T20:16:12+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Egitto: primo ministro, nave per gassificazione a Daimetta ha subito \"danni significativi\""
+        },
         {
           "title": "Somalia: Somalia, African Union Discuss Security, Aussom At Addis Ababa Meeting",
           "link": "https://allafrica.com/stories/202607300466.html",
@@ -84,6 +93,15 @@
           "titleIt": "Somalia: Somalia, African Union Discuss Security, Aussom At Addis Ababa Meeting"
         },
         {
+          "title": "Kenya: From the Foothills of Mount Kilimanjaro, Magnolia Athletics Camp Is Helping Girls Stay in School",
+          "link": "https://allafrica.com/stories/202607300405.html",
+          "description": "[IPS] Oloitoktok, Kenya -- Before sunrise each morning, 19-year-old Josephine Sembeyo joins dozens of teenage runners leaving Magnolia Athletics Camp for training beneath the shadow of Mount Kilimanjaro.",
+          "pubDate": "Thu, 30 Jul 2026 14:35:48 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Kenya: From the Foothills of Mount Kilimanjaro, Magnolia Athletics Camp Is Helping Girls Stay in School"
+        },
+        {
           "title": "Equatorial Guinea and Gabon resolve 50-year border dispute",
           "link": "http://www.africanews.com/2026/07/29/equatorial-guinea-and-gabon-resolve-50-year-dispute-over-gulf-of-guinea-islands/",
           "description": "Gabon and Equatorial Guinea resolved a 50-year dispute on Tuesday, signing an agreement over three tiny islands in the Gulf of Guinea.",
@@ -113,7 +131,7 @@
           "pubDate": "Thu, 30 Jul 2026 16:18:41 GMT",
           "source": "AllAfrica",
           "lang": "en",
-          "titleIt": "East Africa: American Analyst Warns Eritrea's Proxy Strategy Risks Destabilizing Horn of Africa"
+          "titleIt": "East Africa : American Analyst Warns Eritrea Proxy Strategy Risks Destabilizing Horn of Africa"
         },
         {
           "title": "Somalia: Somalia, African Union Discuss Security, Aussom At Addis Ababa Meeting",
@@ -200,28 +218,200 @@
     },
     "egypt-economy": {
       "title": "Fragilità economica egiziana",
-      "items": []
+      "items": [
+        {
+          "title": "Maritime Expert Warns Against Underestimating the Houthi Resolve",
+          "link": "https://gcaptain.com/maritime-expert-warns-against-underestimating-the-houthis-resolve/",
+          "source": "gcaptain.com",
+          "pubDate": "2026-07-30T19:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Maritime Expert Warns Against Underestimating the Houthi Resolve"
+        },
+        {
+          "title": "Is the Iran War expanding ?",
+          "link": "https://www.wpbf.com/article/is-iran-war-expanding-new-fronts-middle-east/73309661",
+          "source": "wpbf.com",
+          "pubDate": "2026-07-30T19:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Is the Iran War expanding ?"
+        },
+        {
+          "title": "US issues sanctions targeting support networks for Iran Mahan Air",
+          "link": "https://www.arabnews.com/node/2652846/middle-east",
+          "source": "arabnews.com",
+          "pubDate": "2026-07-30T19:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "US issues sanctions targeting support networks for Iran Mahan Air"
+        },
+        {
+          "title": "Drone Strike Near Suez Canal in Egypt Raises New Security Threat in Widening War",
+          "link": "https://gcaptain.com/drone-strike-near-suez-canal-in-egypt-raises-new-security-threat-in-widening-war/",
+          "source": "gcaptain.com",
+          "pubDate": "2026-07-30T19:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Drone Strike Near Suez Canal in Egypt Raises New Security Threat in Widening War"
+        },
+        {
+          "title": "Saudi Arabia unveils multinational maritime coalition for Red Sea",
+          "link": "https://www.dailysabah.com/world/mid-east/saudi-arabia-unveils-multinational-maritime-coalition-for-red-sea",
+          "source": "dailysabah.com",
+          "pubDate": "2026-07-30T19:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Saudi Arabia unveils multinational maritime coalition for Red Sea"
+        },
+        {
+          "title": "Tatarstan seeks stronger cooperation with BRICS , South - East Asia",
+          "link": "http://www.calcuttanews.net/news/279216801/tatarstan-seeks-stronger-cooperation-with-brics-south-east-asia",
+          "source": "calcuttanews.net",
+          "pubDate": "2026-07-30T19:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Tatarstan seeks stronger cooperation with BRICS , South - East Asia"
+        },
+        {
+          "title": "Here why new fronts seem to be opening up across the Middle East",
+          "link": "https://isp.netscape.com:443/news/world/story/0001/20260730/85aefd04354af77b20999da367c297f2",
+          "source": "isp.netscape.com",
+          "pubDate": "2026-07-30T19:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Here why new fronts seem to be opening up across the Middle East"
+        },
+        {
+          "title": "US military launches strikes on Iranian targets a day after it foiled missile attack on US forces",
+          "link": "https://www.ksla.com/2026/07/29/iran-launches-renewed-missile-attacks-us-saudis-strike-tehran-backed-militias-iraq/",
+          "source": "ksla.com",
+          "pubDate": "2026-07-30T19:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "US military launches strikes on Iranian targets a day after it foiled missile attack on US forces"
+        },
+        {
+          "title": "The US and Iran trade missile barrages as hopes dim for a quick resolution",
+          "link": "https://www.wbap.com/2026/07/30/the-us-and-iran-trade-missile-barrages-as-hopes-dim-for-a-quick-resolution/",
+          "source": "wbap.com",
+          "pubDate": "2026-07-30T19:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The US and Iran trade missile barrages as hopes dim for a quick resolution"
+        },
+        {
+          "title": "Drone attack sparks fire at Mediterranean port in Egypt",
+          "link": "https://www.upi.com/Top_News/World-News/2026/07/30/drone-attack-port-damietta/9171785430838/",
+          "source": "upi.com",
+          "pubDate": "2026-07-30T19:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Drone attack sparks fire at Mediterranean port in Egypt"
+        },
+        {
+          "title": "Here why new fronts seem to be opening up across the Middle East",
+          "link": "https://www.capitalgazette.com/2026/07/30/new-fronts-middle-east-iran-war/",
+          "source": "capitalgazette.com",
+          "pubDate": "2026-07-30T19:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Here why new fronts seem to be opening up across the Middle East"
+        },
+        {
+          "title": "New fronts are opening across the Mideast as Iran war widens",
+          "link": "https://www.wsbradio.com/news/world/heres-why-new-fronts/P4FWEUPTAE7ANANZBRU6Z5TM4U/",
+          "source": "wsbradio.com",
+          "pubDate": "2026-07-30T18:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "New fronts are opening across the Mideast as Iran war widens"
+        },
+        {
+          "title": "US - owned gas tanker catches fire after drone attack at Egypt port",
+          "link": "https://www.independent.co.uk/news/world/middle-east/egypt-gas-fire-drone-attack-damietta-energos-winter-b3024606.html",
+          "source": "independent.co.uk",
+          "pubDate": "2026-07-30T18:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "US - owned gas tanker catches fire after drone attack at Egypt port"
+        },
+        {
+          "title": "Here why new fronts seem to be opening up across the Middle East",
+          "link": "https://www.wellandtribune.ca/news/world/middle-east/heres-why-new-fronts-seem-to-be-opening-up-across-the-middle-east/article_94d93fb5-c7f9-5de6-abc9-cc707423532d.html",
+          "source": "wellandtribune.ca",
+          "pubDate": "2026-07-30T18:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Here why new fronts seem to be opening up across the Middle East"
+        },
+        {
+          "title": "Here why new fronts seem to be opening up across the Middle East",
+          "link": "https://www.bostonherald.com/2026/07/30/new-fronts-middle-east-iran-war/",
+          "source": "bostonherald.com",
+          "pubDate": "2026-07-30T18:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Here why new fronts seem to be opening up across the Middle East"
+        },
+        {
+          "title": "Peso sinks on latest US - Iran attacks - BusinessWorld Online",
+          "link": "https://bworldonline.com/banking-finance/2026/07/31/767072/peso-sinks-on-latest-us-iran-attacks/",
+          "source": "bworldonline.com",
+          "pubDate": "2026-07-30T17:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Peso sinks on latest US - Iran attacks - BusinessWorld Online"
+        },
+        {
+          "title": "Here why new fronts seem to be opening up across the Middle East",
+          "link": "https://www.therecord.com/news/world/middle-east/heres-why-new-fronts-seem-to-be-opening-up-across-the-middle-east/article_9c267f2e-d102-5133-8fd1-8c0d1a3f2667.html",
+          "source": "therecord.com",
+          "pubDate": "2026-07-30T17:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Here why new fronts seem to be opening up across the Middle East"
+        },
+        {
+          "title": "US - Iran conflict enters new phase as Saudi Arabia helps hit proxies and diplomacy stalls again",
+          "link": "https://www.miamitimesonline.com/news/world_national/us-iran-conflict-enters-new-phase-as-saudi-arabia-helps-hit-proxies-and-diplomacy-stalls/article_0b174258-5ce1-41d1-8f79-b9864cfccabc.html",
+          "source": "miamitimesonline.com",
+          "pubDate": "2026-07-30T17:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "US - Iran conflict enters new phase as Saudi Arabia helps hit proxies and diplomacy stalls again"
+        },
+        {
+          "title": "Iran and the US resume attacks as hopes for peace fade",
+          "link": "https://morningstaronline.co.uk/article/iran-and-us-resume-attacks-hopes-peace-fade",
+          "source": "morningstaronline.co.uk",
+          "pubDate": "2026-07-30T17:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Iran and the US resume attacks as hopes for peace fade"
+        },
+        {
+          "title": "East Africa : American Analyst Warns Eritrea Proxy Strategy Risks Destabilizing Horn of Africa",
+          "link": "https://allafrica.com/stories/202607300482.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-07-30T17:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "East Africa : American Analyst Warns Eritrea Proxy Strategy Risks Destabilizing Horn of Africa"
+        }
+      ]
     },
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
       "items": [
         {
-          "title": "Egitto-Spagna: Al Sisi sente Sanchez, \"indagini in corso su esplosione a Damietta\" (2)",
-          "link": "https://www.agenzianova.com/a/6a6b8e99805b67.26048667/7657960/2026-07-30/egitto-spagna-al-sisi-sente-sanchez-indagini-in-corso-su-esplosione-a-damietta-2",
-          "description": "30 lug 19:35 - (Agenzia Nova) - Al Sisi ha espresso la piena solidarieta' dell'Egitto alla Spagna in merito ai recenti incendi che hanno colpito... (Cae)",
-          "pubDate": "2026-07-30T19:35:35+02:00",
+          "title": "Egitto: primo ministro, nave per gassificazione a Daimetta ha subito \"danni significativi\"",
+          "link": "https://www.agenzianova.com/a/6a6bab8eb94507.53503544/7657993/2026-07-30/egitto-primo-ministro-nave-per-gassificazione-a-daimetta-ha-subito-danni-significativi",
+          "description": "30 lug 20:16 - (Agenzia Nova) - Una nave per la gassificazione nel porto di Damietta ha subito danni significativi a seguito di un attacco... (Cae)",
+          "pubDate": "2026-07-30T20:16:12+02:00",
           "source": "Agenzia Nova",
           "lang": "it",
-          "titleIt": "Egitto-Spagna: Al Sisi sente Sanchez, \"indagini in corso su esplosione a Damietta\" (2)"
-        },
-        {
-          "title": "Egitto-Spagna: Al Sisi sente Sanchez, \"indagini in corso su esplosione a Damietta\"",
-          "link": "https://www.agenzianova.com/a/6a6b8e99807620.96289697/7657959/2026-07-30/egitto-spagna-al-sisi-sente-sanchez-indagini-in-corso-su-esplosione-a-damietta",
-          "description": "30 lug 19:35 - (Agenzia Nova) - Il presidente dell'Egitto Abdel Fattah al Sisi ha avuto un colloquio telefonico con il primo ministro spagnolo... (Cae)",
-          "pubDate": "2026-07-30T19:35:35+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Egitto-Spagna: Al Sisi sente Sanchez, \"indagini in corso su esplosione a Damietta\""
+          "titleIt": "Egitto: primo ministro, nave per gassificazione a Daimetta ha subito \"danni significativi\""
         },
         {
           "title": "Sudan: Heavy Rains and Floods Worsen Suffering of Displaced Persons in Blue Nile State",
