@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-29T23:15:12.554Z",
+  "generatedAt": "2026-07-30T03:28:22.176Z",
   "feedsChecked": 9,
   "feedsAttempted": 10,
   "topics": {
@@ -193,190 +193,200 @@
       "title": "Fragilità economica egiziana",
       "items": [
         {
-          "title": "Iran launches missiles as 20 fighters killed by US - Saudi strikes on Iraq",
-          "link": "https://www.leighjournal.co.uk/news/national/26421332.iran-launches-missiles-20-fighters-killed-us-saudi-strikes-iraq/",
-          "source": "leighjournal.co.uk",
-          "pubDate": "2026-07-29T22:45:00Z",
+          "title": "Launch of a Cooperation Project for Women’s and Girls’ Leadership in Senegal",
+          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/07/24/launch-of-a-cooperation-project-for-womens-and-girls-leadership-in-senegal_462cdc6a-ba23-42f4-aaee-e4f0d3190049.html",
+          "description": "(ANSA) - IL CAIRO, 24 LUG - The Italian Ambassador to Senegal, Michele Tommasi, spoke at the first meeting of the National Steering Committee for the Parel/F project—an initiative funded by Italian Cooperation to strengthen the leadership and socioeconomic inclusion of women and girls in Senegal—to reaffirm Italy’s support for this initiative. The meeting was opened by the Chief of Staff of the Ministry of Family, Social Action, and Solidarity, Amadou Diaw, and by the Director of AICS Dakar, Giovanni Grandi, officially launching the project’s operational phase. This first meeting made it possi",
+          "pubDate": "Fri, 24 Jul 2026 19:55:54 +0200",
+          "source": "ANSA English",
           "lang": "en",
-          "description": "",
-          "titleIt": "Iran launches missiles as 20 fighters killed by US - Saudi strikes on Iraq"
-        },
-        {
-          "title": "Iran launches missiles as 20 fighters killed by US - Saudi strikes on Iraq",
-          "link": "https://www.warringtonguardian.co.uk/news/national/26421332.iran-launches-missiles-20-fighters-killed-us-saudi-strikes-iraq/",
-          "source": "warringtonguardian.co.uk",
-          "pubDate": "2026-07-29T22:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Iran launches missiles as 20 fighters killed by US - Saudi strikes on Iraq"
-        },
-        {
-          "title": "Iran launches missiles as 20 fighters killed by US - Saudi strikes on Iraq",
-          "link": "https://www.cotswoldjournal.co.uk/news/national/26421332.iran-launches-missiles-20-fighters-killed-us-saudi-strikes-iraq/",
-          "source": "cotswoldjournal.co.uk",
-          "pubDate": "2026-07-29T22:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Iran launches missiles as 20 fighters killed by US - Saudi strikes on Iraq"
-        },
-        {
-          "title": "How The Iran War Is Changing Security Dynamics In The Middle East",
-          "link": "http://www.azerbaijannews.net/news/279215457/how-the-iran-war-is-changing-security-dynamics-in-the-middle-east",
-          "source": "azerbaijannews.net",
-          "pubDate": "2026-07-29T22:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "How The Iran War Is Changing Security Dynamics In The Middle East"
-        },
-        {
-          "title": "Iran launches missiles as 20 fighters killed by US - Saudi strikes on Iraq",
-          "link": "https://www.dudleynews.co.uk/news/national/26421332.iran-launches-missiles-20-fighters-killed-us-saudi-strikes-iraq/",
-          "source": "dudleynews.co.uk",
-          "pubDate": "2026-07-29T22:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Iran launches missiles as 20 fighters killed by US - Saudi strikes on Iraq"
-        },
-        {
-          "title": "US - Iran conflict enters new phase as Saudi Arabia helps hit proxies",
-          "link": "https://www.timescall.com/2026/07/29/us-iran-state-of-play/",
-          "source": "timescall.com",
-          "pubDate": "2026-07-29T22:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "US - Iran conflict enters new phase as Saudi Arabia helps hit proxies"
-        },
-        {
-          "title": "Iran launches missiles as 20 fighters killed by US - Saudi strikes on Iraq",
-          "link": "https://www.thenorthernecho.co.uk/news/national/26421332.iran-launches-missiles-20-fighters-killed-us-saudi-strikes-iraq/",
-          "source": "thenorthernecho.co.uk",
-          "pubDate": "2026-07-29T22:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Iran launches missiles as 20 fighters killed by US - Saudi strikes on Iraq"
-        },
-        {
-          "title": "Iran launches missiles as 20 fighters killed by US - Saudi strikes on Iraq",
-          "link": "https://www.dorsetecho.co.uk/news/national/26421332.iran-launches-missiles-20-fighters-killed-us-saudi-strikes-iraq/",
-          "source": "dorsetecho.co.uk",
-          "pubDate": "2026-07-29T22:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Iran launches missiles as 20 fighters killed by US - Saudi strikes on Iraq"
-        },
-        {
-          "title": "Iran launches missiles as 20 fighters killed by US - Saudi strikes on Iraq",
-          "link": "https://www.freepressseries.co.uk/news/national/26421332.iran-launches-missiles-20-fighters-killed-us-saudi-strikes-iraq/",
-          "source": "freepressseries.co.uk",
-          "pubDate": "2026-07-29T22:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Iran launches missiles as 20 fighters killed by US - Saudi strikes on Iraq"
-        },
-        {
-          "title": "Wall Street tumbles after Federal Reserve leaves rates unchanged",
-          "link": "http://www.nashvilleherald.com/news/279215460/wall-street-tumbles-after-federal-reserve-leaves-rates-unchanged",
-          "source": "nashvilleherald.com",
-          "pubDate": "2026-07-29T22:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Wall Street tumbles after Federal Reserve leaves rates unchanged"
-        },
-        {
-          "title": "AP News in Brief at 6 : 04 p . m . EDT",
-          "link": "http://www.thegazette.com/news/national/ap-news-in-brief-at-6-04-p-m-edt/article_e0629a04-14fb-5b3a-8e10-bce02a485b60.html",
-          "source": "thegazette.com",
-          "pubDate": "2026-07-29T22:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "AP News in Brief at 6 : 04 p . m . EDT"
-        },
-        {
-          "title": "Iran launches missiles as 20 fighters killed by US - Saudi strikes on Iraq",
-          "link": "https://www.penarthtimes.co.uk/news/national/26421332.iran-launches-missiles-20-fighters-killed-us-saudi-strikes-iraq/",
-          "source": "penarthtimes.co.uk",
-          "pubDate": "2026-07-29T22:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Iran launches missiles as 20 fighters killed by US - Saudi strikes on Iraq"
-        },
-        {
-          "title": "U . S . stocks plummet as official interest rates left on hold",
-          "link": "http://www.azerbaijannews.net/news/279215460/u-s-stocks-plummet-as-official-interest-rates-left-on-hold",
-          "source": "azerbaijannews.net",
-          "pubDate": "2026-07-29T22:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "U . S . stocks plummet as official interest rates left on hold"
-        },
-        {
-          "title": "US - Iran conflict enters new phase as Saudi Arabia helps hit proxies",
-          "link": "https://www.twincities.com/2026/07/29/us-iran-state-of-play/",
-          "source": "twincities.com",
-          "pubDate": "2026-07-29T22:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "US - Iran conflict enters new phase as Saudi Arabia helps hit proxies"
-        },
-        {
-          "title": "Iran launches missiles as 20 fighters killed by US - Saudi strikes on Iraq",
-          "link": "https://www.harwichandmanningtreestandard.co.uk/news/national/26421332.iran-launches-missiles-20-fighters-killed-us-saudi-strikes-iraq/",
-          "source": "harwichandmanningtreestandard.co.uk",
-          "pubDate": "2026-07-29T22:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Iran launches missiles as 20 fighters killed by US - Saudi strikes on Iraq"
-        },
-        {
-          "title": "Wall Street tumbles after Federal Reserve leaves rates unchanged",
-          "link": "http://www.nigeriasun.com/news/279215460/wall-street-tumbles-after-federal-reserve-leaves-rates-unchanged",
-          "source": "nigeriasun.com",
-          "pubDate": "2026-07-29T22:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Wall Street tumbles after Federal Reserve leaves rates unchanged"
-        },
-        {
-          "title": "Iran launches missiles as 20 fighters killed by US - Saudi strikes on Iraq",
-          "link": "https://www.theboltonnews.co.uk/news/national/26421332.iran-launches-missiles-20-fighters-killed-us-saudi-strikes-iraq/",
-          "source": "theboltonnews.co.uk",
-          "pubDate": "2026-07-29T22:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Iran launches missiles as 20 fighters killed by US - Saudi strikes on Iraq"
-        },
-        {
-          "title": "Iran launches missiles as 20 fighters killed by US - Saudi strikes on Iraq",
-          "link": "https://www.eveshamjournal.co.uk/news/national/26421332.iran-launches-missiles-20-fighters-killed-us-saudi-strikes-iraq/",
-          "source": "eveshamjournal.co.uk",
-          "pubDate": "2026-07-29T22:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Iran launches missiles as 20 fighters killed by US - Saudi strikes on Iraq"
-        },
-        {
-          "title": "Wall Street tumbles after Federal Reserve leaves rates unchanged",
-          "link": "http://www.afghanistansun.com/news/279215460/wall-street-tumbles-after-federal-reserve-leaves-rates-unchanged",
-          "source": "afghanistansun.com",
-          "pubDate": "2026-07-29T22:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Wall Street tumbles after Federal Reserve leaves rates unchanged"
-        },
-        {
-          "title": "How The Iran War Is Changing Security Dynamics In The Middle East",
-          "link": "http://www.afghanistansun.com/news/279215457/how-the-iran-war-is-changing-security-dynamics-in-the-middle-east",
-          "source": "afghanistansun.com",
-          "pubDate": "2026-07-29T22:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "How The Iran War Is Changing Security Dynamics In The Middle East"
+          "titleIt": "Launch of a Cooperation Project for Women’s and Girls’ Leadership in Senegal"
         }
       ]
     },
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
-      "items": []
+      "items": [
+        {
+          "title": "Ethiopia : GERD Huge Impetus for Ethiopia Economic Devt - US - Based Economics Professors",
+          "link": "https://allafrica.com/stories/202607270583.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-07-28T01:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia : GERD Huge Impetus for Ethiopia Economic Devt - US - Based Economics Professors"
+        },
+        {
+          "title": "Ethiopia : Egypt Campaigns Cannot Alter Ethiopia Sovereign Right Over Its Resources , Says Eustaz Jamal Bashir",
+          "link": "https://allafrica.com/stories/202607270582.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-07-28T00:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia : Egypt Campaigns Cannot Alter Ethiopia Sovereign Right Over Its Resources , Says Eustaz Jamal Bashir"
+        },
+        {
+          "title": "Columnist Richard Fein : Water bankruptcy horror and hope",
+          "link": "https://recorder.com/2026/07/26/columnist-richard-fein-water-bankruptcy-horror-and-hope/",
+          "source": "recorder.com",
+          "pubDate": "2026-07-27T18:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Columnist Richard Fein : Water bankruptcy horror and hope"
+        },
+        {
+          "title": "Columnist Richard Fein : Water bankruptcy horror and hope - Daily Hampshire Gazette",
+          "link": "https://gazettenet.com/2026/07/26/columnist-richard-fein-water-bankruptcy-horror-and-hope/",
+          "source": "gazettenet.com",
+          "pubDate": "2026-07-27T03:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Columnist Richard Fein : Water bankruptcy horror and hope - Daily Hampshire Gazette"
+        },
+        {
+          "title": "The return of the African megaproject",
+          "link": "https://www.hindustantimes.com/world-news/the-return-of-the-african-megaproject-101784987044563.html",
+          "source": "hindustantimes.com",
+          "pubDate": "2026-07-25T14:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The return of the African megaproject"
+        },
+        {
+          "title": "When Two Chokepoints Close : Ethiopia Reckoning With A Red Sea In Turmoil",
+          "link": "https://www.thereporterethiopia.com/52030/",
+          "source": "thereporterethiopia.com",
+          "pubDate": "2026-07-25T11:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "When Two Chokepoints Close : Ethiopia Reckoning With A Red Sea In Turmoil"
+        },
+        {
+          "title": "Aid cuts call for innovation - Nation Online",
+          "link": "https://mwnation.com/aid-cuts-call-for-innovation/",
+          "source": "mwnation.com",
+          "pubDate": "2026-07-24T09:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Aid cuts call for innovation - Nation Online"
+        },
+        {
+          "title": "Sudan : Water Expert Urges Binding GERD Agreement After Nile Levels Fall in Sudan",
+          "link": "https://allafrica.com/stories/202607230892.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-07-24T00:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Sudan : Water Expert Urges Binding GERD Agreement After Nile Levels Fall in Sudan"
+        },
+        {
+          "title": "Society - Egypt - Ahram Online",
+          "link": "https://english.ahram.org.eg/Category/1/2/Egypt/Infograph%7C-Egypt-mobile-subscriptions-ri.aspx",
+          "source": "english.ahram.org.eg",
+          "pubDate": "2026-07-22T11:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Society - Egypt - Ahram Online"
+        },
+        {
+          "title": "Egypt says Nile issue is existential , rejects Ethiopia unilateral moves",
+          "link": "https://www.middle-east-online.com/en/egypt-says-nile-issue-existential-rejects-ethiopia%E2%80%99s-unilateral-moves",
+          "source": "middle-east-online.com",
+          "pubDate": "2026-07-21T07:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt says Nile issue is existential , rejects Ethiopia unilateral moves"
+        },
+        {
+          "title": "Who is driving diplomacy in the Horn of Africa and the Red Sea , and why ? - Dominican Republic Post – Caribbean News , Business , Travel & Culture",
+          "link": "https://dominicanrepublicpost.com/who-is-driving-diplomacy-in-the-horn-of-africa-and-the-red-sea-and-why/",
+          "source": "dominicanrepublicpost.com",
+          "pubDate": "2026-07-21T05:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Who is driving diplomacy in the Horn of Africa and the Red Sea , and why ? - Dominican Republic Post – Caribbean News , Business , Travel & Culture"
+        },
+        {
+          "title": "Who is driving diplomacy in the Horn of Africa and the Red Sea , and why ?",
+          "link": "https://www.aljazeera.com/news/2026/7/21/who-is-driving-diplomacy-in-the-horn-of-africa-and-the-red-sea-and-why",
+          "source": "aljazeera.com",
+          "pubDate": "2026-07-21T05:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Who is driving diplomacy in the Horn of Africa and the Red Sea , and why ?"
+        },
+        {
+          "title": "Ethiopia Pivotal Week - National Dialogue and Diplomatic Momentum",
+          "link": "https://allafrica.com/stories/202607200017.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-07-20T08:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia Pivotal Week - National Dialogue and Diplomatic Momentum"
+        },
+        {
+          "title": "Rural Ethiopia still left in the dark as reliable electricity lags",
+          "link": "https://capitalethiopia.com/2026/07/19/rural-ethiopia-still-left-in-the-dark-as-reliable-electricity-lags/",
+          "source": "capitalethiopia.com",
+          "pubDate": "2026-07-19T16:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Rural Ethiopia still left in the dark as reliable electricity lags"
+        },
+        {
+          "title": "From abundance to retreat : what happened to Nile water levels in Sudan ?",
+          "link": "https://www.dabangasudan.org/en/all-news/article/from-abundance-to-retreat-what-happened-to-nile-water-levels-in-sudan",
+          "source": "dabangasudan.org",
+          "pubDate": "2026-07-16T15:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "From abundance to retreat : what happened to Nile water levels in Sudan ?"
+        },
+        {
+          "title": "Egypt : American Analyst Accuses Egypt of Escalating  Information Warfare  Against Ethiopia Over GERD",
+          "link": "https://allafrica.com/stories/202607150066.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-07-15T05:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt : American Analyst Accuses Egypt of Escalating  Information Warfare  Against Ethiopia Over GERD"
+        },
+        {
+          "title": "Ethiopia debt problem",
+          "link": "https://africasacountry.com/2026/07/ethiopias-debt-problem",
+          "source": "africasacountry.com",
+          "pubDate": "2026-07-14T18:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia debt problem"
+        },
+        {
+          "title": "Horn of Africa vital in regional power as Gulf nations compete over alliances",
+          "link": "https://www.jpost.com/middle-east/article-902454",
+          "source": "jpost.com",
+          "pubDate": "2026-07-14T12:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Horn of Africa vital in regional power as Gulf nations compete over alliances"
+        },
+        {
+          "title": "Horn of Africa vital in regional power as Gulf nations compete over alliances",
+          "link": "http://www.jpost.com/middle-east/article-902454",
+          "source": "jpost.com",
+          "pubDate": "2026-07-14T10:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Horn of Africa vital in regional power as Gulf nations compete over alliances"
+        },
+        {
+          "title": "Egypt water dispute with Ethiopia overshadowed by rising Horn of Africa tension , experts say",
+          "link": "https://www.thenationalnews.com/news/mena/2026/07/14/egypts-water-dispute-with-ethiopia-complicated-by-rising-horn-of-africa-tension-experts-say/",
+          "source": "thenationalnews.com",
+          "pubDate": "2026-07-14T08:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt water dispute with Ethiopia overshadowed by rising Horn of Africa tension , experts say"
+        }
+      ]
     }
   }
 }
