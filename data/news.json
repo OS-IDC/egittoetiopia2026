@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-31T03:50:42.734Z",
-  "feedsChecked": 8,
+  "generatedAt": "2026-07-31T07:14:10.878Z",
+  "feedsChecked": 9,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
@@ -41,12 +41,39 @@
           "source": "ANSA English",
           "lang": "en",
           "titleIt": "Rome hosts meeting of Global Alliance on the Two-State Solution"
+        },
+        {
+          "title": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab",
+          "link": "https://www.crisisgroup.org/brf/africa/somalia/b212-new-chapter-same-stalemate-somalias-war-al-shabaab",
+          "description": "The Somali government’s battle with Al-Shabaab militants grinds on, with neither able to gain a decisive advantage. To improve its lot, Mogadishu needs to bolster its military and alleviate civilian suffering in areas under insurgent control, while looking for openings for dialogue with the group.",
+          "pubDate": "Tuesday, June 30, 2026 - 15:20",
+          "source": "Crisis Group",
+          "lang": "en",
+          "titleIt": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab"
+        },
+        {
+          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
+          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
+          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
+          "pubDate": "Saturday, May 16, 2026 - 00:08",
+          "source": "Crisis Group",
+          "lang": "en",
+          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
     "somaliland": {
       "title": "Dossier Somaliland",
       "items": [
+        {
+          "title": "Prolonged Instability In The Horn Of Africa Risks Further Disruptions To Red Sea Commerce",
+          "link": "https://www.mondaq.com:443/unitedstates/terrorism-homeland-security-defence/1824642/prolonged-instability-in-the-horn-of-africa-risks-further-disruptions-to-red-sea-commerce",
+          "source": "mondaq.com",
+          "pubDate": "2026-07-30T22:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Prolonged Instability In The Horn Of Africa Risks Further Disruptions To Red Sea Commerce"
+        },
         {
           "title": "Somalia: Somalia, African Union Discuss Security, Aussom At Addis Ababa Meeting",
           "link": "https://allafrica.com/stories/202607300466.html",
@@ -73,6 +100,150 @@
           "source": "Africanews",
           "lang": "en",
           "titleIt": "Equatorial Guinea and Gabon resolve 50-year border dispute"
+        },
+        {
+          "title": "Political Shock Deepens in Northeast State as Six MPs Defect to Somaliland",
+          "link": "https://wardheernews.com/political-shock-deepens-in-northeast-state-as-six-mps-defect-to-somaliland/",
+          "source": "wardheernews.com",
+          "pubDate": "2026-07-28T17:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Political Shock Deepens in Northeast State as Six MPs Defect to Somaliland"
+        },
+        {
+          "title": "Somaliland Signals Readiness to Help Secure Bab el - Mandeb",
+          "link": "https://wardheernews.com/somaliland-signals-readiness-to-help-secure-bab-el-mandeb/",
+          "source": "wardheernews.com",
+          "pubDate": "2026-07-27T21:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Somaliland Signals Readiness to Help Secure Bab el - Mandeb"
+        },
+        {
+          "title": "Is an Abraham Security Alliance possible in the Middle East ?",
+          "link": "https://www.jns.org/analysis/is-an-abraham-security-alliance-possible-in-the-middle-east",
+          "source": "jns.org",
+          "pubDate": "2026-07-27T08:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Is an Abraham Security Alliance possible in the Middle East ?"
+        },
+        {
+          "title": "Secret UAE - linked camps used to recruit mercenaries for Sudan conflict – Report – Daily Trust",
+          "link": "https://dailytrust.com/secret-uae-linked-camps-used-to-recruit-mercenaries-for-sudan-conflict-report/",
+          "source": "dailytrust.com",
+          "pubDate": "2026-07-27T02:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Secret UAE - linked camps used to recruit mercenaries for Sudan conflict – Report – Daily Trust"
+        },
+        {
+          "title": "Israel Navy collaborating with Egypt could weaken Turkish maritime threat",
+          "link": "http://www.jpost.com/israel-news/article-903706",
+          "source": "jpost.com",
+          "pubDate": "2026-07-26T17:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Israel Navy collaborating with Egypt could weaken Turkish maritime threat"
+        },
+        {
+          "title": "Israel Navy collaborating with Egypt could weaken Turkish maritime threat",
+          "link": "https://www.jpost.com/israel-news/article-903706",
+          "source": "jpost.com",
+          "pubDate": "2026-07-26T16:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Israel Navy collaborating with Egypt could weaken Turkish maritime threat"
+        },
+        {
+          "title": "Ethiopia Babile Elephant Sanctuary Nears Extinction",
+          "link": "https://www.riotimesonline.com/babile-elephant-sanctuary-extinction-ethiopia-2026/",
+          "source": "riotimesonline.com",
+          "pubDate": "2026-07-26T10:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia Babile Elephant Sanctuary Nears Extinction"
+        },
+        {
+          "title": "Somalia Turkish Illusion - WardheerNews",
+          "link": "https://wardheernews.com/somalias-turkish-illusion/",
+          "source": "wardheernews.com",
+          "pubDate": "2026-07-25T18:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Somalia Turkish Illusion - WardheerNews"
+        },
+        {
+          "title": "When Two Chokepoints Close : Ethiopia Reckoning With A Red Sea In Turmoil",
+          "link": "https://www.thereporterethiopia.com/52030/",
+          "source": "thereporterethiopia.com",
+          "pubDate": "2026-07-25T11:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "When Two Chokepoints Close : Ethiopia Reckoning With A Red Sea In Turmoil"
+        },
+        {
+          "title": "Somalia : Kulmiye Party Urges united kingdom to Renew Somaliland Recognition in Congratulatory Letter to New Prime Minister",
+          "link": "https://allafrica.com/stories/202607240062.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-07-24T07:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Somalia : Kulmiye Party Urges united kingdom to Renew Somaliland Recognition in Congratulatory Letter to New Prime Minister"
+        },
+        {
+          "title": "Sectarian Navel - gazing Framework is Oxymoronic to Somali & African Ambitions : A Response to Ahmed  The Modagishu Blind Spot …",
+          "link": "http://www.pambazuka.org/Sectarian-Framework",
+          "source": "pambazuka.org",
+          "pubDate": "2026-07-24T00:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Sectarian Navel - gazing Framework is Oxymoronic to Somali & African Ambitions : A Response to Ahmed  The Modagishu Blind Spot …"
+        },
+        {
+          "title": "927 | Pambazuka News",
+          "link": "http://www.pambazuka.org/taxonomy/term/15768",
+          "source": "pambazuka.org",
+          "pubDate": "2026-07-24T00:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "927 | Pambazuka News"
+        },
+        {
+          "title": "Christian in Somalialand poisoned to death after secret conversion",
+          "link": "https://www.christiandaily.com/news/christian-in-somalialand-poisoned-to-death-after-secret-conversion",
+          "source": "christiandaily.com",
+          "pubDate": "2026-07-23T20:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Christian in Somalialand poisoned to death after secret conversion"
+        },
+        {
+          "title": "Gate of Tears : How key shipping route Bab al - Mandab became next front in the US - Iran war",
+          "link": "https://www.independent.co.uk/news/world/middle-east/iran-bab-al-mandab-strait-yemen-saudi-houthis-b3020001.html",
+          "source": "independent.co.uk",
+          "pubDate": "2026-07-23T12:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Gate of Tears : How key shipping route Bab al - Mandab became next front in the US - Iran war"
+        },
+        {
+          "title": "Cure Blindness Project Releases 2025 Impact Report , Marking Most Impactful Year in Organization History",
+          "link": "https://www.maravipost.com/cure-blindness-project-releases-2025-impact-report-marking-most-impactful-year-in-organizations-history-3/",
+          "source": "maravipost.com",
+          "pubDate": "2026-07-21T23:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Cure Blindness Project Releases 2025 Impact Report , Marking Most Impactful Year in Organization History"
+        },
+        {
+          "title": "Christian convert poisoned to death in Somaliland",
+          "link": "https://www.christianpost.com/news/christian-convert-poisoned-to-death-in-somaliland.html",
+          "source": "christianpost.com",
+          "pubDate": "2026-07-21T16:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Christian convert poisoned to death in Somaliland"
         }
       ]
     },
@@ -150,6 +321,15 @@
           "source": "ANSA English",
           "lang": "en",
           "titleIt": "The Embassy in Norway Publishes a New Edition of the Oil & Gas Guide"
+        },
+        {
+          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
+          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
+          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
+          "pubDate": "Saturday, May 16, 2026 - 00:08",
+          "source": "Crisis Group",
+          "lang": "en",
+          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
@@ -157,190 +337,199 @@
       "title": "Fragilità economica egiziana",
       "items": [
         {
-          "title": "Iranian Foreign Minister Abbas Araghchi Warns of  Israeli Plot - Apple ( NASDAQ : AAPL ), Amazon . com ( NASDA",
-          "link": "https://www.benzinga.com/news/politics/26/07/60827094/samsung-skhynix-spark-kospi-surge",
-          "source": "benzinga.com",
-          "pubDate": "2026-07-31T03:00:00Z",
+          "title": "Gold Price Today ( July 31 , 2026 ): Check 18K , 22K , 24K Gold and Silver Rates Across Delhi , Mumbai , Chennai and More",
+          "link": "https://www.newsx.com/business/gold-price-today-july-31-2026-check-18k-22k-24k-gold-and-silver-rates-across-delhi-mumbai-chennai-and-more-254782/",
+          "source": "newsx.com",
+          "pubDate": "2026-07-31T06:45:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Iranian Foreign Minister Abbas Araghchi Warns of  Israeli Plot - Apple ( NASDAQ : AAPL ), Amazon . com ( NASDA"
+          "titleIt": "Gold Price Today ( July 31 , 2026 ): Check 18K , 22K , 24K Gold and Silver Rates Across Delhi , Mumbai , Chennai and More"
         },
         {
-          "title": "US hits network supporting Iran Mahan Air with new sanctions",
-          "link": "https://www.middle-east-online.com/en/us-hits-network-supporting-irans-mahan-air-new-sanctions",
-          "source": "middle-east-online.com",
-          "pubDate": "2026-07-31T03:00:00Z",
+          "title": "Historic breakthrough : Board of Peace says Hamas agrees to roadmap to  relinquish  weapons",
+          "link": "https://aninews.in/news/world/us/historic-breakthrough-board-of-peace-says-hamas-agrees-to-roadmap-to-relinquish-weapons20260731091235/",
+          "source": "aninews.in",
+          "pubDate": "2026-07-31T06:15:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "US hits network supporting Iran Mahan Air with new sanctions"
+          "titleIt": "Historic breakthrough : Board of Peace says Hamas agrees to roadmap to  relinquish  weapons"
         },
         {
-          "title": "Drone strike near Suez Canal in Egypt raises new security threat in widening war",
-          "link": "https://www.asiaone.com/world/drone-strike-near-suez-canal-egypt-raises-new-security-threat-widening-war",
-          "source": "asiaone.com",
-          "pubDate": "2026-07-31T02:45:00Z",
+          "title": "Historic breakthrough : Board of Peace says Hamas agrees to roadmap to  relinquish  weapons",
+          "link": "http://www.israelherald.com/news/279217319/historic-breakthrough-board-of-peace-says-hamas-agrees-to-roadmap-to-relinquish-weapons",
+          "source": "israelherald.com",
+          "pubDate": "2026-07-31T06:15:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Drone strike near Suez Canal in Egypt raises new security threat in widening war"
+          "titleIt": "Historic breakthrough : Board of Peace says Hamas agrees to roadmap to  relinquish  weapons"
         },
         {
           "title": "Drone strike at Egypt port near Suez Canal ignites new shipping risks",
-          "link": "https://www.internazionale.it/ultime-notizie-reuters/2026/07/31/us-military-says-it-hit-dozens-of-iran-s-irgc-targets",
-          "source": "internazionale.it",
-          "pubDate": "2026-07-31T02:45:00Z",
+          "link": "https://www.al-monitor.com/originals/2026/07/drone-strike-egypt-port-near-suez-canal-ignites-new-shipping-risks",
+          "source": "al-monitor.com",
+          "pubDate": "2026-07-31T05:45:00Z",
           "lang": "en",
           "description": "",
           "titleIt": "Drone strike at Egypt port near Suez Canal ignites new shipping risks"
         },
         {
-          "title": "World News : Trump weighs two - week expansion of military operations against Iran",
-          "link": "https://www.gdnonline.com:443/Details/1402114",
-          "source": "gdnonline.com",
-          "pubDate": "2026-07-31T02:45:00Z",
+          "title": "Historic breakthrough : Board of Peace says Hamas agrees to roadmap to  relinquish  weapons",
+          "link": "http://www.greekherald.com/news/279217319/historic-breakthrough-board-of-peace-says-hamas-agrees-to-roadmap-to-relinquish-weapons",
+          "source": "greekherald.com",
+          "pubDate": "2026-07-31T05:45:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "World News : Trump weighs two - week expansion of military operations against Iran"
+          "titleIt": "Historic breakthrough : Board of Peace says Hamas agrees to roadmap to  relinquish  weapons"
         },
         {
-          "title": "The Latest : US and Iran trade strikes as hopes dim for a quick resolution",
-          "link": "http://www.sitkasentinel.com/stories/the-latest-us-and-iran-trade-strikes-as-hopes-dim-for-a-quick-resolution,160219",
-          "source": "sitkasentinel.com",
-          "pubDate": "2026-07-31T02:45:00Z",
+          "title": "Saudi Coalition Proposal To Protect Hormuz , Bab el Mandeb Causes 2 % Decline In Oil Prices",
+          "link": "https://shipandbunker.com/news/world/253754-saudi-coalition-proposal-to-protect-hormuz-bab-el-mandeb-causes-2-decline-in-oil-prices",
+          "source": "shipandbunker.com",
+          "pubDate": "2026-07-31T05:30:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "The Latest : US and Iran trade strikes as hopes dim for a quick resolution"
+          "titleIt": "Saudi Coalition Proposal To Protect Hormuz , Bab el Mandeb Causes 2 % Decline In Oil Prices"
         },
         {
-          "title": "Is the U . S .- Iran War Expanding ?",
-          "link": "https://foreignpolicy.com/2026/07/30/us-iran-war-iraq-strikes-saudi-houthis/?tpcc=recirc_trending062921",
-          "source": "foreignpolicy.com",
-          "pubDate": "2026-07-31T02:45:00Z",
+          "title": "中東風雲錄 -- 開欄文 ： 埃及的加薩重建方案 -- Al Jazeera - 時事論壇",
+          "link": "https://city.udn.com/2976/7247690?raid=7297465",
+          "source": "city.udn.com",
+          "pubDate": "2026-07-31T05:30:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Is the U . S .- Iran War Expanding ?"
+          "titleIt": "中東風雲錄 -- 開欄文 ： 埃及的加薩重建方案 -- Al Jazeera - 時事論壇"
         },
         {
-          "title": "Asia stocks surge , Japan yen in the spotlight",
-          "link": "https://www.perthnow.com.au/news/business/asia-stocks-surge-japans-yen-in-the-spotlight-c-22656640",
-          "source": "perthnow.com.au",
-          "pubDate": "2026-07-31T02:30:00Z",
+          "title": "US and Iran trade missile barrages as hopes dim for a quick resolution to the five - month conflict",
+          "link": "https://www.manilatimes.net/2026/07/31/world/us-and-iran-trade-missile-barrages-as-hopes-dim-for-a-quick-resolution-to-the-five-month-conflict/2395640",
+          "source": "manilatimes.net",
+          "pubDate": "2026-07-31T05:30:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Asia stocks surge , Japan yen in the spotlight"
+          "titleIt": "US and Iran trade missile barrages as hopes dim for a quick resolution to the five - month conflict"
         },
         {
-          "title": "There are NO  fetus baby part in the COVID vaccination",
-          "link": "https://www.dailykos.com/stories/2026/7/30/800077507/community/there-are-no-fetus-baby-parts-in-the-covid-vaccination/",
-          "source": "dailykos.com",
-          "pubDate": "2026-07-31T02:30:00Z",
+          "title": "Shipping Tribune",
+          "link": "https://www.shippingtribune.com/news/shipping/Iran+war+widens+as+Egypt+port+drone+strike+sparks+Suez+route+fears",
+          "source": "shippingtribune.com",
+          "pubDate": "2026-07-31T05:30:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "There are NO  fetus baby part in the COVID vaccination"
+          "titleIt": "Shipping Tribune"
         },
         {
-          "title": "Here why new fronts seem to be opening up across the Middl ...",
-          "link": "https://www.semissourian.com/world/heres-why-new-fronts-seem-to-be-opening-up-across-the-middle-east-8eb7f90f",
-          "source": "semissourian.com",
-          "pubDate": "2026-07-31T02:15:00Z",
+          "title": "Historic breakthrough : Board of Peace says Hamas agrees to roadmap to  relinquish  weapons",
+          "link": "http://www.bignewsnetwork.com/news/279217319/historic-breakthrough-board-of-peace-says-hamas-agrees-to-roadmap-to-relinquish-weapons",
+          "source": "bignewsnetwork.com",
+          "pubDate": "2026-07-31T05:30:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Here why new fronts seem to be opening up across the Middl ..."
+          "titleIt": "Historic breakthrough : Board of Peace says Hamas agrees to roadmap to  relinquish  weapons"
         },
         {
-          "title": "Pakistan backs Saudi maritime defence coalition",
-          "link": "https://tribune.com.pk/story/2621259/pakistan-backs-saudi-maritime-defence-coalition",
-          "source": "tribune.com.pk",
-          "pubDate": "2026-07-31T02:15:00Z",
+          "title": "Shipping Tribune",
+          "link": "https://www.shippingtribune.com/index.php/news/shipping/Iran+war+widens+as+Egypt+port+drone+strike+sparks+Suez+route+fears",
+          "source": "shippingtribune.com",
+          "pubDate": "2026-07-31T05:30:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Pakistan backs Saudi maritime defence coalition"
+          "titleIt": "Shipping Tribune"
         },
         {
-          "title": "Is the U . S .- Iran War Expanding ?",
-          "link": "https://foreignpolicy.com/2026/07/30/us-iran-war-iraq-strikes-saudi-houthis/",
-          "source": "foreignpolicy.com",
-          "pubDate": "2026-07-31T02:15:00Z",
+          "title": "Sanctions Shift Focus To The Transnational Terror  Control Rooms",
+          "link": "https://www.freepressjournal.in/world/sanctions-shift-focus-to-the-transnational-terror-control-rooms",
+          "source": "freepressjournal.in",
+          "pubDate": "2026-07-31T05:30:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Is the U . S .- Iran War Expanding ?"
+          "titleIt": "Sanctions Shift Focus To The Transnational Terror  Control Rooms"
         },
         {
-          "title": "Shell ( SHEL ) Q2 2026 Earnings Call Transcript",
-          "link": "https://www.fool.com/earnings/call-transcripts/2026/07/30/shell-shel-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
-          "source": "fool.com",
-          "pubDate": "2026-07-31T02:00:00Z",
+          "title": "US , Iran trade missile barrages , hope for quick resolution dims",
+          "link": "https://theshillongtimes.com/2026/07/31/us-iran-trade-missile-barrages-hope-for-quick-resolution-dims/",
+          "source": "theshillongtimes.com",
+          "pubDate": "2026-07-31T05:15:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Shell ( SHEL ) Q2 2026 Earnings Call Transcript"
+          "titleIt": "US , Iran trade missile barrages , hope for quick resolution dims"
         },
         {
-          "title": "وزارة الدفاع تستضيف اجتماعاً لمناقشة مبادرة المملكة لإنشاء التحالف البحري الدفاعي",
-          "link": "https://www.okaz.com.sa/local/na/2259269",
-          "source": "okaz.com.sa",
-          "pubDate": "2026-07-31T02:00:00Z",
+          "title": "US hits dozens of targets in Iran overnight as peace efforts under threat",
+          "link": "https://www.aol.co.uk/articles/us-hits-dozens-targets-iran-153033000.html",
+          "source": "aol.co.uk",
+          "pubDate": "2026-07-31T05:15:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "وزارة الدفاع تستضيف اجتماعاً لمناقشة مبادرة المملكة لإنشاء التحالف البحري الدفاعي"
+          "titleIt": "US hits dozens of targets in Iran overnight as peace efforts under threat"
         },
         {
-          "title": "Here why new fronts seem to be opening up across the Middle East",
-          "link": "http://www.rockymounttelegram.com/news/world/heres-why-new-fronts-seem-to-be-opening-up-across-the-middle-east/article_a95c8fe1-870b-5bd1-9d0e-f02dbe2fe7ab.html",
-          "source": "rockymounttelegram.com",
-          "pubDate": "2026-07-31T02:00:00Z",
+          "title": "Hamas Agrees to Disarm in Historic Gaza Peace Roadmap",
+          "link": "https://www.newkerala.com/news/a/historic-breakthrough-board-peace-says-hamas-agrees-roadmap-849.htm",
+          "source": "newkerala.com",
+          "pubDate": "2026-07-31T05:00:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Here why new fronts seem to be opening up across the Middle East"
+          "titleIt": "Hamas Agrees to Disarm in Historic Gaza Peace Roadmap"
         },
         {
-          "title": "IMF Completes Key Reviews for Egypt Fund Facilities",
-          "link": "https://www.miragenews.com/imf-completes-key-reviews-for-egypts-fund-1719664/",
-          "source": "miragenews.com",
-          "pubDate": "2026-07-31T02:00:00Z",
+          "title": "Drone strike at Egypt port near Suez Canal ignites new shipping risks",
+          "link": "https://www.rappler.com/world/middle-east/drone-strike-egypt-port-near-suez-canal-new-shipping-risks/",
+          "source": "rappler.com",
+          "pubDate": "2026-07-31T05:00:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "IMF Completes Key Reviews for Egypt Fund Facilities"
+          "titleIt": "Drone strike at Egypt port near Suez Canal ignites new shipping risks"
         },
         {
-          "title": "Here why new fronts seem to be opening up across the Middle East",
-          "link": "https://www.yakimaherald.com/news/nation_and_world/world/heres-why-new-fronts-seem-to-be-opening-up-across-the-middle-east/article_531104f6-f0ec-585d-a1ed-fcf39c6e16c1.html",
-          "source": "yakimaherald.com",
-          "pubDate": "2026-07-31T02:00:00Z",
+          "title": "Historic breakthrough : Board of Peace says Hamas agrees to roadmap to  relinquish  weapons",
+          "link": "http://www.middleeaststar.com/news/279217319/historic-breakthrough-board-of-peace-says-hamas-agrees-to-roadmap-to-relinquish-weapons",
+          "source": "middleeaststar.com",
+          "pubDate": "2026-07-31T04:45:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Here why new fronts seem to be opening up across the Middle East"
+          "titleIt": "Historic breakthrough : Board of Peace says Hamas agrees to roadmap to  relinquish  weapons"
         },
         {
-          "title": "The real reason for Netanyahu trip to Washington - Israel & Jewish News",
-          "link": "https://www.jns.org/opinion/amit-segal/the-real-reason-for-netanyahus-trip-to-washington",
-          "source": "jns.org",
-          "pubDate": "2026-07-31T01:45:00Z",
+          "title": "U . S . strikes Iran again as conflict widens across Middle East",
+          "link": "https://www.nny360.com/top_stories/u-s-strikes-iran-again-as-conflict-widens-across-middle-east/article_3d66736b-8046-59f9-8752-a5c42348b7d8.html",
+          "source": "nny360.com",
+          "pubDate": "2026-07-31T04:45:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "The real reason for Netanyahu trip to Washington - Israel & Jewish News"
+          "titleIt": "U . S . strikes Iran again as conflict widens across Middle East"
         },
         {
-          "title": "US - Iran conflict enters new phase as Saudi Arabia helps hit proxies and diplomacy stalls again",
-          "link": "https://www.wtvm.com/2026/07/30/us-iran-conflict-enters-new-phase-saudi-arabia-helps-hit-proxies-diplomacy-stalls-again/",
-          "source": "wtvm.com",
-          "pubDate": "2026-07-31T01:30:00Z",
+          "title": "Historic breakthrough : Board of Peace says Hamas agrees to roadmap to  relinquish  weapons",
+          "link": "http://www.iraqsun.com/news/279217319/historic-breakthrough-board-of-peace-says-hamas-agrees-to-roadmap-to-relinquish-weapons",
+          "source": "iraqsun.com",
+          "pubDate": "2026-07-31T04:45:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "US - Iran conflict enters new phase as Saudi Arabia helps hit proxies and diplomacy stalls again"
+          "titleIt": "Historic breakthrough : Board of Peace says Hamas agrees to roadmap to  relinquish  weapons"
         },
         {
-          "title": "Here why new fronts seem to be opening up across the Middle East",
-          "link": "https://www.union-bulletin.com/news/world/heres-why-new-fronts-seem-to-be-opening-up-across-the-middle-east/article_91fc803b-e02f-5ca7-8ea0-33e7a1af7ce8.html",
-          "source": "union-bulletin.com",
-          "pubDate": "2026-07-31T01:30:00Z",
+          "title": "Gold slips but on track to end four - month losing streak - The HinduBusinessLine",
+          "link": "https://www.thehindubusinessline.com/markets/gold/gold-slips-but-on-track-to-end-four-month-losing-streak/article71288936.ece",
+          "source": "thehindubusinessline.com",
+          "pubDate": "2026-07-31T04:45:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Here why new fronts seem to be opening up across the Middle East"
+          "titleIt": "Gold slips but on track to end four - month losing streak - The HinduBusinessLine"
         }
       ]
     },
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
       "items": [
+        {
+          "title": "Prolonged Instability In The Horn Of Africa Risks Further Disruptions To Red Sea Commerce",
+          "link": "https://www.mondaq.com:443/unitedstates/terrorism-homeland-security-defence/1824642/prolonged-instability-in-the-horn-of-africa-risks-further-disruptions-to-red-sea-commerce",
+          "source": "mondaq.com",
+          "pubDate": "2026-07-30T22:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Prolonged Instability In The Horn Of Africa Risks Further Disruptions To Red Sea Commerce"
+        },
         {
           "title": "Sudan: Heavy Rains and Floods Worsen Suffering of Displaced Persons in Blue Nile State",
           "link": "https://allafrica.com/stories/202607300363.html",
@@ -349,6 +538,168 @@
           "source": "AllAfrica",
           "lang": "en",
           "titleIt": "Sudan: Heavy Rains and Floods Worsen Suffering of Displaced Persons in Blue Nile State"
+        },
+        {
+          "title": "A Movement of World Citizens Could Change the Course of History",
+          "link": "https://larouchepub.com/hzl/2026/5329-a_movement_of_world_citizens_c-hzl.html",
+          "source": "larouchepub.com",
+          "pubDate": "2026-07-30T03:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "A Movement of World Citizens Could Change the Course of History"
+        },
+        {
+          "title": "Ethiopia : GERD Huge Impetus for Ethiopia Economic Devt - US - Based Economics Professors",
+          "link": "https://allafrica.com/stories/202607270583.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-07-28T01:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia : GERD Huge Impetus for Ethiopia Economic Devt - US - Based Economics Professors"
+        },
+        {
+          "title": "Ethiopia : Egypt Campaigns Cannot Alter Ethiopia Sovereign Right Over Its Resources , Says Eustaz Jamal Bashir",
+          "link": "https://allafrica.com/stories/202607270582.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-07-28T00:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia : Egypt Campaigns Cannot Alter Ethiopia Sovereign Right Over Its Resources , Says Eustaz Jamal Bashir"
+        },
+        {
+          "title": "Columnist Richard Fein : Water bankruptcy horror and hope",
+          "link": "https://recorder.com/2026/07/26/columnist-richard-fein-water-bankruptcy-horror-and-hope/",
+          "source": "recorder.com",
+          "pubDate": "2026-07-27T18:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Columnist Richard Fein : Water bankruptcy horror and hope"
+        },
+        {
+          "title": "Columnist Richard Fein : Water bankruptcy horror and hope - Daily Hampshire Gazette",
+          "link": "https://gazettenet.com/2026/07/26/columnist-richard-fein-water-bankruptcy-horror-and-hope/",
+          "source": "gazettenet.com",
+          "pubDate": "2026-07-27T03:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Columnist Richard Fein : Water bankruptcy horror and hope - Daily Hampshire Gazette"
+        },
+        {
+          "title": "The return of the African megaproject",
+          "link": "https://www.hindustantimes.com/world-news/the-return-of-the-african-megaproject-101784987044563.html",
+          "source": "hindustantimes.com",
+          "pubDate": "2026-07-25T14:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The return of the African megaproject"
+        },
+        {
+          "title": "When Two Chokepoints Close : Ethiopia Reckoning With A Red Sea In Turmoil",
+          "link": "https://www.thereporterethiopia.com/52030/",
+          "source": "thereporterethiopia.com",
+          "pubDate": "2026-07-25T11:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "When Two Chokepoints Close : Ethiopia Reckoning With A Red Sea In Turmoil"
+        },
+        {
+          "title": "Aid cuts call for innovation - Nation Online",
+          "link": "https://mwnation.com/aid-cuts-call-for-innovation/",
+          "source": "mwnation.com",
+          "pubDate": "2026-07-24T09:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Aid cuts call for innovation - Nation Online"
+        },
+        {
+          "title": "Sudan : Water Expert Urges Binding GERD Agreement After Nile Levels Fall in Sudan",
+          "link": "https://allafrica.com/stories/202607230892.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-07-24T00:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Sudan : Water Expert Urges Binding GERD Agreement After Nile Levels Fall in Sudan"
+        },
+        {
+          "title": "Society - Egypt - Ahram Online",
+          "link": "https://english.ahram.org.eg/Category/1/2/Egypt/Infograph%7C-Egypt-mobile-subscriptions-ri.aspx",
+          "source": "english.ahram.org.eg",
+          "pubDate": "2026-07-22T11:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Society - Egypt - Ahram Online"
+        },
+        {
+          "title": "Egypt says Nile issue is existential , rejects Ethiopia unilateral moves",
+          "link": "https://www.middle-east-online.com/en/egypt-says-nile-issue-existential-rejects-ethiopia%E2%80%99s-unilateral-moves",
+          "source": "middle-east-online.com",
+          "pubDate": "2026-07-21T07:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt says Nile issue is existential , rejects Ethiopia unilateral moves"
+        },
+        {
+          "title": "Who is driving diplomacy in the Horn of Africa and the Red Sea , and why ? - Dominican Republic Post – Caribbean News , Business , Travel & Culture",
+          "link": "https://dominicanrepublicpost.com/who-is-driving-diplomacy-in-the-horn-of-africa-and-the-red-sea-and-why/",
+          "source": "dominicanrepublicpost.com",
+          "pubDate": "2026-07-21T05:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Who is driving diplomacy in the Horn of Africa and the Red Sea , and why ? - Dominican Republic Post – Caribbean News , Business , Travel & Culture"
+        },
+        {
+          "title": "Who is driving diplomacy in the Horn of Africa and the Red Sea , and why ?",
+          "link": "https://www.aljazeera.com/news/2026/7/21/who-is-driving-diplomacy-in-the-horn-of-africa-and-the-red-sea-and-why",
+          "source": "aljazeera.com",
+          "pubDate": "2026-07-21T05:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Who is driving diplomacy in the Horn of Africa and the Red Sea , and why ?"
+        },
+        {
+          "title": "Ethiopia Pivotal Week - National Dialogue and Diplomatic Momentum",
+          "link": "https://allafrica.com/stories/202607200017.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-07-20T08:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia Pivotal Week - National Dialogue and Diplomatic Momentum"
+        },
+        {
+          "title": "Rural Ethiopia still left in the dark as reliable electricity lags",
+          "link": "https://capitalethiopia.com/2026/07/19/rural-ethiopia-still-left-in-the-dark-as-reliable-electricity-lags/",
+          "source": "capitalethiopia.com",
+          "pubDate": "2026-07-19T16:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Rural Ethiopia still left in the dark as reliable electricity lags"
+        },
+        {
+          "title": "From abundance to retreat : what happened to Nile water levels in Sudan ?",
+          "link": "https://www.dabangasudan.org/en/all-news/article/from-abundance-to-retreat-what-happened-to-nile-water-levels-in-sudan",
+          "source": "dabangasudan.org",
+          "pubDate": "2026-07-16T15:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "From abundance to retreat : what happened to Nile water levels in Sudan ?"
+        },
+        {
+          "title": "Egypt : American Analyst Accuses Egypt of Escalating  Information Warfare  Against Ethiopia Over GERD",
+          "link": "https://allafrica.com/stories/202607150066.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-07-15T05:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt : American Analyst Accuses Egypt of Escalating  Information Warfare  Against Ethiopia Over GERD"
+        },
+        {
+          "title": "Ethiopia debt problem",
+          "link": "https://africasacountry.com/2026/07/ethiopias-debt-problem",
+          "source": "africasacountry.com",
+          "pubDate": "2026-07-14T18:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia debt problem"
         }
       ]
     }
