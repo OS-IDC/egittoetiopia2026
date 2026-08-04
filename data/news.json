@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T19:57:07.365Z",
+  "generatedAt": "2026-08-04T21:37:13.935Z",
   "feedsChecked": 9,
   "feedsAttempted": 10,
   "topics": {
@@ -66,24 +66,6 @@
       "title": "Dossier Somaliland",
       "items": [
         {
-          "title": "Sudan : Liberal Peacebuilding and the Price of Impunity",
-          "link": "https://newpol.org/issue_post/sudan-liberal-peacebuilding-and-the-price-of-impunity/",
-          "source": "newpol.org",
-          "pubDate": "2026-08-04T19:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Sudan : Liberal Peacebuilding and the Price of Impunity"
-        },
-        {
-          "title": "Has the UAE meteoric rise reached its limit ?",
-          "link": "https://www.middleeasteye.net/opinion/has-uaes-meteoric-rise-reached-its-limit",
-          "source": "middleeasteye.net",
-          "pubDate": "2026-08-04T17:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Has the UAE meteoric rise reached its limit ?"
-        },
-        {
           "title": "Somalia: Somali Army Chief Closes Advanced Training for Elite Danab Commandos",
           "link": "https://allafrica.com/stories/202608040480.html",
           "description": "[Shabelle] Mogadishu -- Somalia's army chief, Major General Ibrahim Mohamed Mohamud, on Tuesday presided over the graduation of an elite unit of the 16th Danab Special Forces Brigade after the troops completed advanced training at the Ballidogle military base.",
@@ -93,6 +75,15 @@
           "titleIt": "Somalia: Somali Army Chief Closes Advanced Training for Elite Danab Commandos"
         },
         {
+          "title": "Kenya: Kaguchia Legal Team Raises Preliminary Objection Over Arraignment",
+          "link": "https://allafrica.com/stories/202608040402.html",
+          "description": "[Capital FM] Nairobi -- Lawyers representing Mukurwe-ini MP John Kaguchia on Tuesday opposed the State's attempt to arraign him before a Milimani Magistrate's Court, arguing that taking his plea would amount to contempt of active conservatory orders issued by the High Court.",
+          "pubDate": "Tue, 04 Aug 2026 12:24:55 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Kenya: Kaguchia Legal Team Raises Preliminary Objection Over Arraignment"
+        },
+        {
           "title": "Somalia: Cabinet Officials Brace to Relinquish Kenyan Passports After Presidential Ultimatum",
           "link": "https://allafrica.com/stories/202608040400.html",
           "description": "[Radio Dalsan] A mounting cohort of senior Somali government ministers is poised to surrender their Kenyan passports and national identity documents within days, heeding President Hassan Sheikh Mohamud's ultimatum that dual citizens holding public office must forswear their foreign nationality or immediately vacate their posts, according to multiple informed sources.",
@@ -100,15 +91,6 @@
           "source": "AllAfrica",
           "lang": "en",
           "titleIt": "Somalia: Cabinet Officials Brace to Relinquish Kenyan Passports After Presidential Ultimatum"
-        },
-        {
-          "title": "Genel Energy issues Results to 30th June | Iraq Business News",
-          "link": "https://www.iraq-businessnews.com/2026/08/04/genel-energy-issues-results-to-30th-june/",
-          "source": "iraq-businessnews.com",
-          "pubDate": "2026-08-04T10:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Genel Energy issues Results to 30th June | Iraq Business News"
         },
         {
           "title": "Deadly landslide hits Ethiopia mountain monastery during prayer service",
@@ -129,85 +111,307 @@
           "titleIt": "Sudan: U.S. Senators Press Trump Administration to Act in Sudan"
         },
         {
-          "title": "Somalia : Whilst the World Debates Somaliland Recognition , Its Girls Remain Invisible",
-          "link": "https://allafrica.com/stories/202608040008.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-08-04T08:45:00Z",
+          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
+          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
+          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
+          "pubDate": "Saturday, May 16, 2026 - 00:08",
+          "source": "Crisis Group",
           "lang": "en",
-          "description": "",
-          "titleIt": "Somalia : Whilst the World Debates Somaliland Recognition , Its Girls Remain Invisible"
+          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
+        }
+      ]
+    },
+    "ethiopia-sea-access": {
+      "title": "Accesso etiope al mare",
+      "items": [
+        {
+          "title": "U.S.-brokered peace efforts for Sudan encounter new obstacles",
+          "link": "http://www.africanews.com/2026/08/04/us-brokered-peace-efforts-for-sudan-encounter-new-obstacles/",
+          "description": "U.S.-brokered peace efforts for Sudan have encountered new obstacles after the paramilitary Rapid Support Forces (RSF) rejected demands to withdraw from cities under their control and the Sudanese Armed Forces (SAF) insisted that any agreement must begin with the RSF's withdrawa",
+          "pubDate": "Tue, 04 Aug 2026 15:02:55 +0000",
+          "source": "Africanews",
+          "lang": "en",
+          "titleIt": "U.S.-brokered peace efforts for Sudan encounter new obstacles"
         },
         {
-          "title": "Genel Energy PLC : Unaudited results for the period ended 30 June 2026 | Company Announcement",
-          "link": "https://www.investegate.co.uk/announcement/eqs/genel-energy--genl/genel-energy-plc-unaudited-results-for-the-p-/9702685",
-          "source": "investegate.co.uk",
-          "pubDate": "2026-08-04T08:00:00Z",
+          "title": "Somalia: Cabinet Officials Brace to Relinquish Kenyan Passports After Presidential Ultimatum",
+          "link": "https://allafrica.com/stories/202608040400.html",
+          "description": "[Radio Dalsan] A mounting cohort of senior Somali government ministers is poised to surrender their Kenyan passports and national identity documents within days, heeding President Hassan Sheikh Mohamud's ultimatum that dual citizens holding public office must forswear their foreign nationality or immediately vacate their posts, according to multiple informed sources.",
+          "pubDate": "Tue, 04 Aug 2026 12:24:54 GMT",
+          "source": "AllAfrica",
           "lang": "en",
-          "description": "",
-          "titleIt": "Genel Energy PLC : Unaudited results for the period ended 30 June 2026 | Company Announcement"
+          "titleIt": "Somalia: Cabinet Officials Brace to Relinquish Kenyan Passports After Presidential Ultimatum"
         },
         {
-          "title": "US Signs Deal To Expand Its Military Presence in Somalia Bosaso on the Gulf of Aden",
-          "link": "https://news.antiwar.com/2026/08/03/us-signs-deal-to-expand-its-military-presence-in-somalias-bosaso-on-the-gulf-of-aden/",
-          "source": "news.antiwar.com",
-          "pubDate": "2026-08-03T18:45:00Z",
+          "title": "Italy to propose Albania-style EU migrant hubs at post-Ceuta meeting",
+          "link": "https://www.ansa.it/english/news/politics/2026/08/03/italy-to-propose-albania-style-eu-migrant-hubs-at-post-ceuta-meeting_ba5525a0-cce7-4233-9fef-6005f8ac67bf.html",
+          "description": "(ANSA) - ROME, AUG 3 - Italy will propose the creation of EU migrant hubs outside the bloc along the lines of its centres in Albania at Tuesday's emergency meeting of European interior ministers following the arrival of thousands of migrants at the Spain's North African enclave of Ceuta last week, sources have said, confirming newspaper reports. Premier Giorgia Meloni's government has suspended arrangements regarding the Schengen agreement allowing for control-free movement between borders with Spain for a month following the events in Ceuta. Madrid and Italy's opposition parties have blasted ",
+          "pubDate": "Mon, 3 Aug 2026 16:05:22 +0200",
+          "source": "ANSA English",
           "lang": "en",
-          "description": "",
-          "titleIt": "US Signs Deal To Expand Its Military Presence in Somalia Bosaso on the Gulf of Aden"
+          "titleIt": "Italy to propose Albania-style EU migrant hubs at post-Ceuta meeting"
         },
         {
-          "title": "AUSSOM Funding Cliff Sends Somalia Mission to the UN",
-          "link": "https://www.riotimesonline.com/aussom-funding-un-security-council-somalia-2026/",
-          "source": "riotimesonline.com",
-          "pubDate": "2026-08-03T10:00:00Z",
+          "title": "English FA to drop support for Infantino's re-election",
+          "link": "http://www.africanews.com/2026/08/03/english-fa-to-drop-support-for-infantinos-re-election/",
+          "description": "The English Football Association (FA) plans to formally withdraw its support for FIFA President Gianni Infantino, dealing him a major blow just days after he dropped his bid to sell some of his equity to private investors.",
+          "pubDate": "Mon, 03 Aug 2026 10:15:55 +0000",
+          "source": "Africanews",
           "lang": "en",
-          "description": "",
-          "titleIt": "AUSSOM Funding Cliff Sends Somalia Mission to the UN"
+          "titleIt": "English FA to drop support for Infantino's re-election"
         },
         {
-          "title": "Prime Minister Las Anod Visit Sparks Speculation as Federal Government Announces Revival of Historic 26th Military Command",
-          "link": "https://wardheernews.com/prime-ministers-las-anod-visit-sparks-speculation-as-federal-government-announces-revival-of-historic-26th-military-command/",
-          "source": "wardheernews.com",
-          "pubDate": "2026-08-02T20:00:00Z",
+          "title": "Italy to propose Albania-style EU migrant hubs at post-Ceuta meeting",
+          "link": "https://www.ansa.it/english/news/2026/08/03/italy-to-propose-albania-style-eu-migrant-hubs-at-post-ceuta-meeting_0a2b42db-7e8c-4226-8422-94e31b17210b.html",
+          "description": "(ANSA) - ROME, AUG 3 - Italy will propose the creation of EU migrant hubs outside the bloc along the lines of its centres in Albania at Tuesday's emergency meeting of European interior ministers following the arrival of thousands of migrants at the Spain's North African enclave of Ceuta last week, sources have said, confirming newspaper reports. Premier Giorgia Meloni's government has suspended arrangements regarding the Schengen agreement allowing for control-free movement between borders with Spain for a month following the events in Ceuta. Madrid and Italy's opposition parties have blasted ",
+          "pubDate": "Mon, 3 Aug 2026 11:38:13 +0200",
+          "source": "ANSA English",
           "lang": "en",
-          "description": "",
-          "titleIt": "Prime Minister Las Anod Visit Sparks Speculation as Federal Government Announces Revival of Historic 26th Military Command"
+          "titleIt": "Italy to propose Albania-style EU migrant hubs at post-Ceuta meeting"
         },
         {
-          "title": "How the Israel - Somaliland alliance rewrites American diplomacy",
-          "link": "http://www.jpost.com/opinion/article-903889",
-          "source": "jpost.com",
-          "pubDate": "2026-08-02T05:00:00Z",
+          "title": "Ambassador Prunas: ‘The Mediterranean Games are an opportunity to strengthen dialogue’",
+          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/08/01/ambassador-prunas-the-mediterranean-games-are-an-opportunity-to-strengthen-dialogue_bdc52f1c-0fbc-4cc4-84c6-de8c072f5f70.html",
+          "description": "(ANSA) - TUNISI, 01 AGO - Ahead of the start of the Taranto 2026 Mediterranean Games, the Italian Embassy in Tunis, in collaboration with the Tunisian National Olympic Committee, organized an event to present the Games, which brought together at the “La Charmeuse” Residence a delegation of Tunisian athletes, representatives of sports federations, and great champions from the past and present. On this occasion, Ambassador Alessandro Prunas emphasized that “in an international context marked by growing tensions, the Taranto Mediterranean Games represent an important opportunity to strengthen, th",
+          "pubDate": "Sat, 1 Aug 2026 09:25:36 +0200",
+          "source": "ANSA English",
           "lang": "en",
-          "description": "",
-          "titleIt": "How the Israel - Somaliland alliance rewrites American diplomacy"
+          "titleIt": "Ambassador Prunas: ‘The Mediterranean Games are an opportunity to strengthen dialogue’"
         },
         {
-          "title": "How the Israel - Somaliland alliance rewrites American diplomacy",
-          "link": "https://www.jpost.com/opinion/article-903889",
-          "source": "jpost.com",
-          "pubDate": "2026-08-02T02:00:00Z",
+          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
+          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
+          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
+          "pubDate": "Saturday, May 16, 2026 - 00:08",
+          "source": "Crisis Group",
+          "lang": "en",
+          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
+        }
+      ]
+    },
+    "egypt-economy": {
+      "title": "Fragilità economica egiziana",
+      "items": [
+        {
+          "title": "Record - breaking day for U . S . stock Tuesday as war jitters subside",
+          "link": "http://www.baltimorestar.com/news/279222614/record-breaking-day-for-u-s-stock-tuesday-as-war-jitters-subside",
+          "source": "baltimorestar.com",
+          "pubDate": "2026-08-04T21:15:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "How the Israel - Somaliland alliance rewrites American diplomacy"
+          "titleIt": "Record - breaking day for U . S . stock Tuesday as war jitters subside"
         },
         {
-          "title": "AFRICOM Commander Dismisses Reports of U . S . Military Base in Berbera",
-          "link": "https://raxanreeb.com/africom-commander-dismisses-reports-of-u-s-military-base-in-berbera/",
-          "source": "raxanreeb.com",
-          "pubDate": "2026-08-01T21:15:00Z",
+          "title": "Record - breaking day for U . S . stock Tuesday as war jitters subside",
+          "link": "http://www.singaporestar.com/news/279222614/record-breaking-day-for-u-s-stock-tuesday-as-war-jitters-subside",
+          "source": "singaporestar.com",
+          "pubDate": "2026-08-04T21:15:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "AFRICOM Commander Dismisses Reports of U . S . Military Base in Berbera"
+          "titleIt": "Record - breaking day for U . S . stock Tuesday as war jitters subside"
         },
         {
-          "title": "Somalia : U . S . has no plans to recognize Somaliland , AFRICOM chief says",
-          "link": "https://www.garoweonline.com/en/news/somalia/somalia-u-s-has-no-plans-to-recognize-somaliland-africom-chief-says",
-          "source": "garoweonline.com",
-          "pubDate": "2026-08-01T14:30:00Z",
+          "title": "Record - breaking day for U . S . stock Tuesday as war jitters subside",
+          "link": "http://www.taiwansun.com/news/279222614/record-breaking-day-for-u-s-stock-tuesday-as-war-jitters-subside",
+          "source": "taiwansun.com",
+          "pubDate": "2026-08-04T21:15:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Somalia : U . S . has no plans to recognize Somaliland , AFRICOM chief says"
+          "titleIt": "Record - breaking day for U . S . stock Tuesday as war jitters subside"
+        },
+        {
+          "title": "Record - breaking day for U . S . stock Tuesday as war jitters subside",
+          "link": "http://www.nashvilleherald.com/news/279222614/record-breaking-day-for-u-s-stock-tuesday-as-war-jitters-subside",
+          "source": "nashvilleherald.com",
+          "pubDate": "2026-08-04T21:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Record - breaking day for U . S . stock Tuesday as war jitters subside"
+        },
+        {
+          "title": "Record - breaking day for U . S . stock Tuesday as war jitters subside",
+          "link": "http://www.philippinetimes.com/news/279222614/record-breaking-day-for-u-s-stock-tuesday-as-war-jitters-subside",
+          "source": "philippinetimes.com",
+          "pubDate": "2026-08-04T21:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Record - breaking day for U . S . stock Tuesday as war jitters subside"
+        },
+        {
+          "title": "Record - breaking day for U . S . stock Tuesday as war jitters subside",
+          "link": "http://www.vietnamtribune.com/news/279222614/record-breaking-day-for-u-s-stock-tuesday-as-war-jitters-subside",
+          "source": "vietnamtribune.com",
+          "pubDate": "2026-08-04T20:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Record - breaking day for U . S . stock Tuesday as war jitters subside"
+        },
+        {
+          "title": "Record - breaking day for U . S . stock Tuesday as war jitters subside",
+          "link": "http://www.nigeriasun.com/news/279222614/record-breaking-day-for-u-s-stock-tuesday-as-war-jitters-subside",
+          "source": "nigeriasun.com",
+          "pubDate": "2026-08-04T20:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Record - breaking day for U . S . stock Tuesday as war jitters subside"
+        },
+        {
+          "title": "Record - breaking day for U . S . stock Tuesday as war jitters subside",
+          "link": "http://www.iranherald.com/news/279222614/record-breaking-day-for-u-s-stock-tuesday-as-war-jitters-subside",
+          "source": "iranherald.com",
+          "pubDate": "2026-08-04T20:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Record - breaking day for U . S . stock Tuesday as war jitters subside"
+        },
+        {
+          "title": "Record - breaking day for U . S . stock Tuesday as war jitters subside",
+          "link": "http://www.newyorktelegraph.com/news/279222614/record-breaking-day-for-u-s-stock-tuesday-as-war-jitters-subside",
+          "source": "newyorktelegraph.com",
+          "pubDate": "2026-08-04T20:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Record - breaking day for U . S . stock Tuesday as war jitters subside"
+        },
+        {
+          "title": "Record - breaking day for U . S . stock Tuesday as war jitters subside",
+          "link": "http://www.pittsburghstar.com/news/279222614/record-breaking-day-for-u-s-stock-tuesday-as-war-jitters-subside",
+          "source": "pittsburghstar.com",
+          "pubDate": "2026-08-04T20:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Record - breaking day for U . S . stock Tuesday as war jitters subside"
+        },
+        {
+          "title": "Oil shortages escalate from wars in Iran and Ukraine , with few signs of relief - 05 - Aug - 2026",
+          "link": "https://home.nzcity.co.nz/news/article.aspx?id=451321",
+          "source": "home.nzcity.co.nz",
+          "pubDate": "2026-08-04T20:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Oil shortages escalate from wars in Iran and Ukraine , with few signs of relief - 05 - Aug - 2026"
+        },
+        {
+          "title": "Record - breaking day for U . S . stock Tuesday as war jitters subside",
+          "link": "http://www.argentinastar.com/news/279222614/record-breaking-day-for-u-s-stock-tuesday-as-war-jitters-subside",
+          "source": "argentinastar.com",
+          "pubDate": "2026-08-04T20:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Record - breaking day for U . S . stock Tuesday as war jitters subside"
+        },
+        {
+          "title": "Dow Jones soars 908 points Tuesday , Nasdaq surges 671 points",
+          "link": "http://www.azerbaijannews.net/news/279222614/dow-jones-soars-908-points-tuesday-nasdaq-surges-671-points",
+          "source": "azerbaijannews.net",
+          "pubDate": "2026-08-04T20:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Dow Jones soars 908 points Tuesday , Nasdaq surges 671 points"
+        },
+        {
+          "title": "Saudi Aramco adjusted profit jumps 33 % as oil prices surge",
+          "link": "https://www.oilandgas360.com/saudi-aramcos-adjusted-profit-jumps-33-as-oil-prices-surge/",
+          "source": "oilandgas360.com",
+          "pubDate": "2026-08-04T20:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Saudi Aramco adjusted profit jumps 33 % as oil prices surge"
+        },
+        {
+          "title": "Record - breaking day for U . S . stock Tuesday as war jitters subside",
+          "link": "http://www.russiaherald.com/news/279222614/record-breaking-day-for-u-s-stock-tuesday-as-war-jitters-subside",
+          "source": "russiaherald.com",
+          "pubDate": "2026-08-04T20:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Record - breaking day for U . S . stock Tuesday as war jitters subside"
+        },
+        {
+          "title": "Morocco Ranks 11th Among Recipients of Mobilized Private Finance",
+          "link": "https://www.moroccoworldnews.com/2026/08/333086/morocco-ranks-11th-among-recipients-of-mobilized-private-finance/",
+          "source": "moroccoworldnews.com",
+          "pubDate": "2026-08-04T19:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Morocco Ranks 11th Among Recipients of Mobilized Private Finance"
+        },
+        {
+          "title": "India to host 3rd BRICS Culture Working Group meeting in Bhopal on August 5 - 6",
+          "link": "http://www.heraldglobe.com/news/279222482/india-to-host-3rd-brics-culture-working-group-meeting-in-bhopal-on-august-5-6",
+          "source": "heraldglobe.com",
+          "pubDate": "2026-08-04T19:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "India to host 3rd BRICS Culture Working Group meeting in Bhopal on August 5 - 6"
+        },
+        {
+          "title": "Sudan : Liberal Peacebuilding and the Price of Impunity",
+          "link": "https://newpol.org/issue_post/sudan-liberal-peacebuilding-and-the-price-of-impunity/",
+          "source": "newpol.org",
+          "pubDate": "2026-08-04T19:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Sudan : Liberal Peacebuilding and the Price of Impunity"
+        },
+        {
+          "title": "India to host 3rd BRICS Culture Working Group meeting in Bhopal on August 5 - 6",
+          "link": "http://www.calcuttanews.net/news/279222482/india-to-host-3rd-brics-culture-working-group-meeting-in-bhopal-on-august-5-6",
+          "source": "calcuttanews.net",
+          "pubDate": "2026-08-04T18:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "India to host 3rd BRICS Culture Working Group meeting in Bhopal on August 5 - 6"
+        },
+        {
+          "title": "India Market Opportunity is Growing , and the Trade is Taking Notice",
+          "link": "http://www.greekherald.com/news/279222188/india-market-opportunity-is-growing-and-the-trade-is-taking-notice",
+          "source": "greekherald.com",
+          "pubDate": "2026-08-04T18:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "India Market Opportunity is Growing , and the Trade is Taking Notice"
+        }
+      ]
+    },
+    "gerd-opacity": {
+      "title": "Opacità sui rilasci GERD",
+      "items": [
+        {
+          "title": "Renewed Tigray clashes could deepen Horn of Africa instability – Channel Africa",
+          "link": "https://www.channelafrica.co.za/channelafrica/news/renewed-tigray-clashes-could-deepen-horn-of-africa-instability/",
+          "source": "channelafrica.co.za",
+          "pubDate": "2026-08-04T17:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Renewed Tigray clashes could deepen Horn of Africa instability – Channel Africa"
+        },
+        {
+          "title": "U.S.-brokered peace efforts for Sudan encounter new obstacles",
+          "link": "http://www.africanews.com/2026/08/04/us-brokered-peace-efforts-for-sudan-encounter-new-obstacles/",
+          "description": "U.S.-brokered peace efforts for Sudan have encountered new obstacles after the paramilitary Rapid Support Forces (RSF) rejected demands to withdraw from cities under their control and the Sudanese Armed Forces (SAF) insisted that any agreement must begin with the RSF's withdrawa",
+          "pubDate": "Tue, 04 Aug 2026 15:02:55 +0000",
+          "source": "Africanews",
+          "lang": "en",
+          "titleIt": "U.S.-brokered peace efforts for Sudan encounter new obstacles"
+        },
+        {
+          "title": "Magnitude 5.5 quake jolts Egypt, triggering emergency response",
+          "link": "http://www.africanews.com/2026/08/03/magnitude-55-quake-jolts-egypt-triggering-emergency-response/",
+          "description": "A magnitude 5.5 earthquake struck near the Egyptian city of Suez early Monday, shaking buildings across Cairo and prompting authorities to activate emergency response plans. No casualties or significant damage were immediately reported.",
+          "pubDate": "Mon, 03 Aug 2026 06:33:45 +0000",
+          "source": "Africanews",
+          "lang": "en",
+          "titleIt": "Magnitude 5.5 quake jolts Egypt, triggering emergency response"
+        },
+        {
+          "title": "Pakistan UNSC Push on Indus Waters Treaty Faces Major Legal and Political Hurdles",
+          "link": "https://idrw.org/pakistans-unsc-push-on-indus-waters-treaty-faces-major-legal-and-political-hurdles/",
+          "source": "idrw.org",
+          "pubDate": "2026-08-02T16:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Pakistan UNSC Push on Indus Waters Treaty Faces Major Legal and Political Hurdles"
         },
         {
           "title": "The Horn Of Africa After Ethiopia 2026 Elections : What To Watch ?",
@@ -228,244 +432,130 @@
           "titleIt": "Prolonged Instability In The Horn Of Africa Risks Further Disruptions To Red Sea Commerce"
         },
         {
-          "title": "Political Shock Deepens in Northeast State as Six MPs Defect to Somaliland",
-          "link": "https://wardheernews.com/political-shock-deepens-in-northeast-state-as-six-mps-defect-to-somaliland/",
-          "source": "wardheernews.com",
-          "pubDate": "2026-07-28T17:15:00Z",
+          "title": "A Movement of World Citizens Could Change the Course of History",
+          "link": "https://larouchepub.com/hzl/2026/5329-a_movement_of_world_citizens_c-hzl.html",
+          "source": "larouchepub.com",
+          "pubDate": "2026-07-30T03:15:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Political Shock Deepens in Northeast State as Six MPs Defect to Somaliland"
+          "titleIt": "A Movement of World Citizens Could Change the Course of History"
         },
         {
-          "title": "Somaliland Signals Readiness to Help Secure Bab el - Mandeb",
-          "link": "https://wardheernews.com/somaliland-signals-readiness-to-help-secure-bab-el-mandeb/",
-          "source": "wardheernews.com",
-          "pubDate": "2026-07-27T21:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Somaliland Signals Readiness to Help Secure Bab el - Mandeb"
-        }
-      ]
-    },
-    "ethiopia-sea-access": {
-      "title": "Accesso etiope al mare",
-      "items": [
-        {
-          "title": "Sudan : Liberal Peacebuilding and the Price of Impunity",
-          "link": "https://newpol.org/issue_post/sudan-liberal-peacebuilding-and-the-price-of-impunity/",
-          "source": "newpol.org",
-          "pubDate": "2026-08-04T19:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Sudan : Liberal Peacebuilding and the Price of Impunity"
-        },
-        {
-          "title": "Anita Namata returns to Kawempe Muslim for third stint",
-          "link": "https://kawowo.com/2026/08/04/anita-namata-returns-to-kawempe-muslim-for-third-stint/",
-          "source": "kawowo.com",
-          "pubDate": "2026-08-04T18:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Anita Namata returns to Kawempe Muslim for third stint"
-        },
-        {
-          "title": "Renewed Tigray clashes could deepen Horn of Africa instability – Channel Africa",
-          "link": "https://www.channelafrica.co.za/channelafrica/news/renewed-tigray-clashes-could-deepen-horn-of-africa-instability/",
-          "source": "channelafrica.co.za",
-          "pubDate": "2026-08-04T17:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Renewed Tigray clashes could deepen Horn of Africa instability – Channel Africa"
-        },
-        {
-          "title": "U.S.-brokered peace efforts for Sudan encounter new obstacles",
-          "link": "http://www.africanews.com/2026/08/04/us-brokered-peace-efforts-for-sudan-encounter-new-obstacles/",
-          "description": "U.S.-brokered peace efforts for Sudan have encountered new obstacles after the paramilitary Rapid Support Forces (RSF) rejected demands to withdraw from cities under their control and the Sudanese Armed Forces (SAF) insisted that any agreement must begin with the RSF's withdrawa",
-          "pubDate": "Tue, 04 Aug 2026 15:02:55 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "U.S.-brokered peace efforts for Sudan encounter new obstacles"
-        },
-        {
-          "title": "Zimbabwe : Bodies of united kingdom Murder Victims Nothabo Tshuma , Two Daughters Finally Arrive in Zimbabwe",
-          "link": "https://allafrica.com/stories/202608040285.html",
+          "title": "Ethiopia : GERD Huge Impetus for Ethiopia Economic Devt - US - Based Economics Professors",
+          "link": "https://allafrica.com/stories/202607270583.html",
           "source": "allafrica.com",
-          "pubDate": "2026-08-04T14:45:00Z",
+          "pubDate": "2026-07-28T01:00:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Zimbabwe : Bodies of united kingdom Murder Victims Nothabo Tshuma , Two Daughters Finally Arrive in Zimbabwe"
+          "titleIt": "Ethiopia : GERD Huge Impetus for Ethiopia Economic Devt - US - Based Economics Professors"
         },
         {
-          "title": "Somalia: Cabinet Officials Brace to Relinquish Kenyan Passports After Presidential Ultimatum",
-          "link": "https://allafrica.com/stories/202608040400.html",
-          "description": "[Radio Dalsan] A mounting cohort of senior Somali government ministers is poised to surrender their Kenyan passports and national identity documents within days, heeding President Hassan Sheikh Mohamud's ultimatum that dual citizens holding public office must forswear their foreign nationality or immediately vacate their posts, according to multiple informed sources.",
-          "pubDate": "Tue, 04 Aug 2026 12:24:54 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Somalia: Cabinet Officials Brace to Relinquish Kenyan Passports After Presidential Ultimatum"
-        },
-        {
-          "title": "50 countries affected by $20 , 000 U . S . visa bond policy",
-          "link": "https://thenationonlineng.net/50-countries-affected-by-20000-u-s-visa-bond-policy/",
-          "source": "thenationonlineng.net",
-          "pubDate": "2026-08-04T10:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "50 countries affected by $20 , 000 U . S . visa bond policy"
-        },
-        {
-          "title": "Africa and China Advance Great Green Walls as Continental Wildlife Corridors",
-          "link": "https://www.archdaily.com/1182133/africa-and-china-advance-great-green-walls-as-continental-wildlife-corridors",
-          "source": "archdaily.com",
-          "pubDate": "2026-08-04T10:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Africa and China Advance Great Green Walls as Continental Wildlife Corridors"
-        },
-        {
-          "title": "Gambia : Female Genital Mutilation - Winning the Argument , Losing the Funding",
-          "link": "https://allafrica.com/stories/202608040001.html",
+          "title": "Ethiopia : Egypt Campaigns Cannot Alter Ethiopia Sovereign Right Over Its Resources , Says Eustaz Jamal Bashir",
+          "link": "https://allafrica.com/stories/202607270582.html",
           "source": "allafrica.com",
-          "pubDate": "2026-08-04T08:15:00Z",
+          "pubDate": "2026-07-28T00:15:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Gambia : Female Genital Mutilation - Winning the Argument , Losing the Funding"
+          "titleIt": "Ethiopia : Egypt Campaigns Cannot Alter Ethiopia Sovereign Right Over Its Resources , Says Eustaz Jamal Bashir"
         },
         {
-          "title": "Ethiopia : Two Presidents , No Government - Why Tigray War Is Coming Back",
-          "link": "https://allafrica.com/stories/202608040009.html",
+          "title": "Columnist Richard Fein : Water bankruptcy horror and hope",
+          "link": "https://recorder.com/2026/07/26/columnist-richard-fein-water-bankruptcy-horror-and-hope/",
+          "source": "recorder.com",
+          "pubDate": "2026-07-27T18:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Columnist Richard Fein : Water bankruptcy horror and hope"
+        },
+        {
+          "title": "Columnist Richard Fein : Water bankruptcy horror and hope - Daily Hampshire Gazette",
+          "link": "https://gazettenet.com/2026/07/26/columnist-richard-fein-water-bankruptcy-horror-and-hope/",
+          "source": "gazettenet.com",
+          "pubDate": "2026-07-27T03:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Columnist Richard Fein : Water bankruptcy horror and hope - Daily Hampshire Gazette"
+        },
+        {
+          "title": "The return of the African megaproject",
+          "link": "https://www.hindustantimes.com/world-news/the-return-of-the-african-megaproject-101784987044563.html",
+          "source": "hindustantimes.com",
+          "pubDate": "2026-07-25T14:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The return of the African megaproject"
+        },
+        {
+          "title": "When Two Chokepoints Close : Ethiopia Reckoning With A Red Sea In Turmoil",
+          "link": "https://www.thereporterethiopia.com/52030/",
+          "source": "thereporterethiopia.com",
+          "pubDate": "2026-07-25T11:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "When Two Chokepoints Close : Ethiopia Reckoning With A Red Sea In Turmoil"
+        },
+        {
+          "title": "Aid cuts call for innovation - Nation Online",
+          "link": "https://mwnation.com/aid-cuts-call-for-innovation/",
+          "source": "mwnation.com",
+          "pubDate": "2026-07-24T09:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Aid cuts call for innovation - Nation Online"
+        },
+        {
+          "title": "Sudan : Water Expert Urges Binding GERD Agreement After Nile Levels Fall in Sudan",
+          "link": "https://allafrica.com/stories/202607230892.html",
           "source": "allafrica.com",
-          "pubDate": "2026-08-04T07:00:00Z",
+          "pubDate": "2026-07-24T00:30:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Ethiopia : Two Presidents , No Government - Why Tigray War Is Coming Back"
+          "titleIt": "Sudan : Water Expert Urges Binding GERD Agreement After Nile Levels Fall in Sudan"
         },
         {
-          "title": "Bodies of united kingdom murder victims Nothabo Tshuma , two daughters finally arrive in Zimbabwe",
-          "link": "https://www.newzimbabwe.com/bodies-of-uk-murder-victims-nothabo-tshuma-two-daughters-finally-arrive-in-zimbabwe/",
-          "source": "newzimbabwe.com",
-          "pubDate": "2026-08-04T03:15:00Z",
+          "title": "Society - Egypt - Ahram Online",
+          "link": "https://english.ahram.org.eg/Category/1/2/Egypt/Infograph%7C-Egypt-mobile-subscriptions-ri.aspx",
+          "source": "english.ahram.org.eg",
+          "pubDate": "2026-07-22T11:15:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Bodies of united kingdom murder victims Nothabo Tshuma , two daughters finally arrive in Zimbabwe"
+          "titleIt": "Society - Egypt - Ahram Online"
         },
         {
-          "title": "Female Genital Mutilation : Winning the Argument , Losing the Funding",
-          "link": "https://www.globalissues.org/news/2026/08/03/43727",
-          "source": "globalissues.org",
-          "pubDate": "2026-08-03T16:00:00Z",
+          "title": "Egypt says Nile issue is existential , rejects Ethiopia unilateral moves",
+          "link": "https://www.middle-east-online.com/en/egypt-says-nile-issue-existential-rejects-ethiopia%E2%80%99s-unilateral-moves",
+          "source": "middle-east-online.com",
+          "pubDate": "2026-07-21T07:45:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Female Genital Mutilation : Winning the Argument , Losing the Funding"
+          "titleIt": "Egypt says Nile issue is existential , rejects Ethiopia unilateral moves"
         },
         {
-          "title": "Teen success story as he becomes Centrepoint student of the year",
-          "link": "https://www.bridgwatermercury.co.uk/news/26430647.teens-success-story-becomes-centrepoints-student-year/",
-          "source": "bridgwatermercury.co.uk",
-          "pubDate": "2026-08-03T14:15:00Z",
+          "title": "Who is driving diplomacy in the Horn of Africa and the Red Sea , and why ? - Dominican Republic Post – Caribbean News , Business , Travel & Culture",
+          "link": "https://dominicanrepublicpost.com/who-is-driving-diplomacy-in-the-horn-of-africa-and-the-red-sea-and-why/",
+          "source": "dominicanrepublicpost.com",
+          "pubDate": "2026-07-21T05:30:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Teen success story as he becomes Centrepoint student of the year"
+          "titleIt": "Who is driving diplomacy in the Horn of Africa and the Red Sea , and why ? - Dominican Republic Post – Caribbean News , Business , Travel & Culture"
         },
         {
-          "title": "Italy to propose Albania-style EU migrant hubs at post-Ceuta meeting",
-          "link": "https://www.ansa.it/english/news/politics/2026/08/03/italy-to-propose-albania-style-eu-migrant-hubs-at-post-ceuta-meeting_ba5525a0-cce7-4233-9fef-6005f8ac67bf.html",
-          "description": "(ANSA) - ROME, AUG 3 - Italy will propose the creation of EU migrant hubs outside the bloc along the lines of its centres in Albania at Tuesday's emergency meeting of European interior ministers following the arrival of thousands of migrants at the Spain's North African enclave of Ceuta last week, sources have said, confirming newspaper reports. Premier Giorgia Meloni's government has suspended arrangements regarding the Schengen agreement allowing for control-free movement between borders with Spain for a month following the events in Ceuta. Madrid and Italy's opposition parties have blasted ",
-          "pubDate": "Mon, 3 Aug 2026 16:05:22 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "Italy to propose Albania-style EU migrant hubs at post-Ceuta meeting"
-        },
-        {
-          "title": "Trump Makes U . S . Visa Bond Program Permanent : Could a Future President End It ?",
-          "link": "https://finchannel.com/trump-makes-u-s-visa-bonds-permanent-will-the-requirement-survive-after-his-presidency/133235/world-2/2026/08/",
-          "source": "finchannel.com",
-          "pubDate": "2026-08-03T13:30:00Z",
+          "title": "Who is driving diplomacy in the Horn of Africa and the Red Sea , and why ?",
+          "link": "https://www.aljazeera.com/news/2026/7/21/who-is-driving-diplomacy-in-the-horn-of-africa-and-the-red-sea-and-why",
+          "source": "aljazeera.com",
+          "pubDate": "2026-07-21T05:15:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Trump Makes U . S . Visa Bond Program Permanent : Could a Future President End It ?"
+          "titleIt": "Who is driving diplomacy in the Horn of Africa and the Red Sea , and why ?"
         },
         {
-          "title": "Teen success story as he becomes Centrepoint student of the year",
-          "link": "https://www.maldonandburnhamstandard.co.uk/news/26430732.teens-success-story-becomes-centrepoints-student-year/",
-          "source": "maldonandburnhamstandard.co.uk",
-          "pubDate": "2026-08-03T13:30:00Z",
+          "title": "Ethiopia Pivotal Week - National Dialogue and Diplomatic Momentum",
+          "link": "https://allafrica.com/stories/202607200017.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-07-20T08:30:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Teen success story as he becomes Centrepoint student of the year"
-        },
-        {
-          "title": "Teen success story as he becomes Centrepoint student of the year",
-          "link": "https://www.thisiswiltshire.co.uk/news/26430788.teens-success-story-becomes-centrepoints-student-year/",
-          "source": "thisiswiltshire.co.uk",
-          "pubDate": "2026-08-03T13:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Teen success story as he becomes Centrepoint student of the year"
-        },
-        {
-          "title": "Teen success story as he becomes Centrepoint student of the year",
-          "link": "https://www.wharfedaleobserver.co.uk/news/26430799.teens-success-story-becomes-centrepoints-student-year/",
-          "source": "wharfedaleobserver.co.uk",
-          "pubDate": "2026-08-03T13:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Teen success story as he becomes Centrepoint student of the year"
-        },
-        {
-          "title": "Teen success story as he becomes Centrepoint student of the year",
-          "link": "https://www.in-cumbria.com/news/26430713.teens-success-story-becomes-centrepoints-student-year/",
-          "source": "in-cumbria.com",
-          "pubDate": "2026-08-03T13:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Teen success story as he becomes Centrepoint student of the year"
-        },
-        {
-          "title": "AFRICOM Says Al - Shabaab Funnels Part of Its Revenue to Al - Qaeda Network",
-          "link": "https://www.garoweonline.com/en/news/somalia/africom-says-al-shabaab-funnels-part-of-its-revenue-to-al-qaeda-network",
-          "source": "garoweonline.com",
-          "pubDate": "2026-08-03T13:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "AFRICOM Says Al - Shabaab Funnels Part of Its Revenue to Al - Qaeda Network"
-        }
-      ]
-    },
-    "egypt-economy": {
-      "title": "Fragilità economica egiziana",
-      "items": [
-        {
-          "title": "Magnitude 5.5 quake jolts Egypt, triggering emergency response",
-          "link": "http://www.africanews.com/2026/08/03/magnitude-55-quake-jolts-egypt-triggering-emergency-response/",
-          "description": "A magnitude 5.5 earthquake struck near the Egyptian city of Suez early Monday, shaking buildings across Cairo and prompting authorities to activate emergency response plans. No casualties or significant damage were immediately reported.",
-          "pubDate": "Mon, 03 Aug 2026 06:33:45 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "Magnitude 5.5 quake jolts Egypt, triggering emergency response"
-        }
-      ]
-    },
-    "gerd-opacity": {
-      "title": "Opacità sui rilasci GERD",
-      "items": [
-        {
-          "title": "U.S.-brokered peace efforts for Sudan encounter new obstacles",
-          "link": "http://www.africanews.com/2026/08/04/us-brokered-peace-efforts-for-sudan-encounter-new-obstacles/",
-          "description": "U.S.-brokered peace efforts for Sudan have encountered new obstacles after the paramilitary Rapid Support Forces (RSF) rejected demands to withdraw from cities under their control and the Sudanese Armed Forces (SAF) insisted that any agreement must begin with the RSF's withdrawa",
-          "pubDate": "Tue, 04 Aug 2026 15:02:55 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "U.S.-brokered peace efforts for Sudan encounter new obstacles"
-        },
-        {
-          "title": "Magnitude 5.5 quake jolts Egypt, triggering emergency response",
-          "link": "http://www.africanews.com/2026/08/03/magnitude-55-quake-jolts-egypt-triggering-emergency-response/",
-          "description": "A magnitude 5.5 earthquake struck near the Egyptian city of Suez early Monday, shaking buildings across Cairo and prompting authorities to activate emergency response plans. No casualties or significant damage were immediately reported.",
-          "pubDate": "Mon, 03 Aug 2026 06:33:45 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "Magnitude 5.5 quake jolts Egypt, triggering emergency response"
+          "titleIt": "Ethiopia Pivotal Week - National Dialogue and Diplomatic Momentum"
         }
       ]
     }
