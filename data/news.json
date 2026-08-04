@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-04T03:37:18.399Z",
-  "feedsChecked": 9,
+  "generatedAt": "2026-08-04T06:42:05.806Z",
+  "feedsChecked": 8,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
@@ -14,24 +14,6 @@
           "source": "AllAfrica",
           "lang": "en",
           "titleIt": "Somalia: Somali Army Chief, Turksom Commander Visit Baidoa for Security Talks"
-        },
-        {
-          "title": "Libya: Somali Human Rights Commission Visits Detained Migrants in Eastern Libya",
-          "link": "https://allafrica.com/stories/202608030806.html",
-          "description": "[Shabelle] Benghazi -- A delegation from Somalia's Independent Human Rights Commission visited a prison in eastern Libya on Monday, where dozens of Somali nationals are being held, as part of efforts to assess their conditions and strengthen cooperation with Libyan authorities.",
-          "pubDate": "Mon, 03 Aug 2026 15:35:11 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Libya: Somali Human Rights Commission Visits Detained Migrants in Eastern Libya"
-        },
-        {
-          "title": "Somalia: Somalia, China Hold Talks On Defence Cooperation, AU Mission's Future",
-          "link": "https://allafrica.com/stories/202608030805.html",
-          "description": "[Shabelle] Mogadishu -- Somalia's Defence Minister Ahmed Moallim Fiqi and Chinese Ambassador Wang Yu held talks in Mogadishu on Sunday focusing on defence cooperation, the campaign against Al-Shabaab and the future of the African Union Support and Stabilisation Mission in Somalia (AUSSOM).",
-          "pubDate": "Mon, 03 Aug 2026 15:33:31 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Somalia: Somalia, China Hold Talks On Defence Cooperation, AU Mission's Future"
         },
         {
           "title": "Magnitude 5.5 quake jolts Egypt, triggering emergency response",
@@ -68,48 +50,12 @@
           "source": "ANSA English",
           "lang": "en",
           "titleIt": "Rome hosts meeting of Global Alliance on the Two-State Solution"
-        },
-        {
-          "title": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab",
-          "link": "https://www.crisisgroup.org/brf/africa/somalia/b212-new-chapter-same-stalemate-somalias-war-al-shabaab",
-          "description": "The Somali government’s battle with Al-Shabaab militants grinds on, with neither able to gain a decisive advantage. To improve its lot, Mogadishu needs to bolster its military and alleviate civilian suffering in areas under insurgent control, while looking for openings for dialogue with the group.",
-          "pubDate": "Tuesday, June 30, 2026 - 15:20",
-          "source": "Crisis Group",
-          "lang": "en",
-          "titleIt": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab"
-        },
-        {
-          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
-          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
-          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
-          "pubDate": "Saturday, May 16, 2026 - 00:08",
-          "source": "Crisis Group",
-          "lang": "en",
-          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
     "somaliland": {
       "title": "Dossier Somaliland",
       "items": [
-        {
-          "title": "Somalia: Somalia, China Hold Talks On Defence Cooperation, AU Mission's Future",
-          "link": "https://allafrica.com/stories/202608030805.html",
-          "description": "[Shabelle] Mogadishu -- Somalia's Defence Minister Ahmed Moallim Fiqi and Chinese Ambassador Wang Yu held talks in Mogadishu on Sunday focusing on defence cooperation, the campaign against Al-Shabaab and the future of the African Union Support and Stabilisation Mission in Somalia (AUSSOM).",
-          "pubDate": "Mon, 03 Aug 2026 15:33:31 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Somalia: Somalia, China Hold Talks On Defence Cooperation, AU Mission's Future"
-        },
-        {
-          "title": "Kenya: The Wine Fair Signals a New Era for Experience-Led Events With 100 Wine Brands and 37 Exhibitors Gathering",
-          "link": "https://allafrica.com/stories/202608030802.html",
-          "description": "[Capital FM] More than 100 wine brands, represented by 37 exhibitors, transformed The Jockey Club, Ngong Road, into a vibrant showcase of wine, gastronomy and lifestyle on Saturday as over 1,000 attendees gathered for the seventh edition of The Wine Fair Kenya. Featuring exhibitors including Galina Wines, Lolie wines, KWV, Wines of South Africa (WOSA), California Wines Institute, Millésimes Wines, and The Wine Box, the event brought together producers, importers, hospitality players and consumers for a day that",
-          "pubDate": "Mon, 03 Aug 2026 15:30:43 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Kenya: The Wine Fair Signals a New Era for Experience-Led Events With 100 Wine Brands and 37 Exhibitors Gathering"
-        },
         {
           "title": "Hundreds flee fighting in northern Ethiopia as fears rise of return to civil war",
           "link": "https://www.bbc.co.uk/news/articles/cdrv6r3xgyeo?at_medium=RSS&at_campaign=rss",
@@ -118,39 +64,12 @@
           "source": "BBC Africa",
           "lang": "en",
           "titleIt": "Hundreds flee fighting in northern Ethiopia as fears rise of return to civil war"
-        },
-        {
-          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
-          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
-          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
-          "pubDate": "Saturday, May 16, 2026 - 00:08",
-          "source": "Crisis Group",
-          "lang": "en",
-          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
     "ethiopia-sea-access": {
       "title": "Accesso etiope al mare",
       "items": [
-        {
-          "title": "Bodies of united kingdom murder victims Nothabo Tshuma , two daughters finally arrive in Zimbabwe",
-          "link": "https://www.newzimbabwe.com/bodies-of-uk-murder-victims-nothabo-tshuma-two-daughters-finally-arrive-in-zimbabwe/",
-          "source": "newzimbabwe.com",
-          "pubDate": "2026-08-04T03:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Bodies of united kingdom murder victims Nothabo Tshuma , two daughters finally arrive in Zimbabwe"
-        },
-        {
-          "title": "Female Genital Mutilation : Winning the Argument , Losing the Funding",
-          "link": "https://www.globalissues.org/news/2026/08/03/43727",
-          "source": "globalissues.org",
-          "pubDate": "2026-08-03T16:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Female Genital Mutilation : Winning the Argument , Losing the Funding"
-        },
         {
           "title": "Somalia: Somali Army Chief, Turksom Commander Visit Baidoa for Security Talks",
           "link": "https://allafrica.com/stories/202608030808.html",
@@ -159,24 +78,6 @@
           "source": "AllAfrica",
           "lang": "en",
           "titleIt": "Somalia: Somali Army Chief, Turksom Commander Visit Baidoa for Security Talks"
-        },
-        {
-          "title": "Somalia: Somalia, China Hold Talks On Defence Cooperation, AU Mission's Future",
-          "link": "https://allafrica.com/stories/202608030805.html",
-          "description": "[Shabelle] Mogadishu -- Somalia's Defence Minister Ahmed Moallim Fiqi and Chinese Ambassador Wang Yu held talks in Mogadishu on Sunday focusing on defence cooperation, the campaign against Al-Shabaab and the future of the African Union Support and Stabilisation Mission in Somalia (AUSSOM).",
-          "pubDate": "Mon, 03 Aug 2026 15:33:31 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Somalia: Somalia, China Hold Talks On Defence Cooperation, AU Mission's Future"
-        },
-        {
-          "title": "Teen success story as he becomes Centrepoint student of the year",
-          "link": "https://www.bridgwatermercury.co.uk/news/26430647.teens-success-story-becomes-centrepoints-student-year/",
-          "source": "bridgwatermercury.co.uk",
-          "pubDate": "2026-08-03T14:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Teen success story as he becomes Centrepoint student of the year"
         },
         {
           "title": "Italy to propose Albania-style EU migrant hubs at post-Ceuta meeting",
@@ -188,60 +89,6 @@
           "titleIt": "Italy to propose Albania-style EU migrant hubs at post-Ceuta meeting"
         },
         {
-          "title": "Trump Makes U . S . Visa Bond Program Permanent : Could a Future President End It ?",
-          "link": "https://finchannel.com/trump-makes-u-s-visa-bonds-permanent-will-the-requirement-survive-after-his-presidency/133235/world-2/2026/08/",
-          "source": "finchannel.com",
-          "pubDate": "2026-08-03T13:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Trump Makes U . S . Visa Bond Program Permanent : Could a Future President End It ?"
-        },
-        {
-          "title": "Teen success story as he becomes Centrepoint student of the year",
-          "link": "https://www.maldonandburnhamstandard.co.uk/news/26430732.teens-success-story-becomes-centrepoints-student-year/",
-          "source": "maldonandburnhamstandard.co.uk",
-          "pubDate": "2026-08-03T13:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Teen success story as he becomes Centrepoint student of the year"
-        },
-        {
-          "title": "Teen success story as he becomes Centrepoint student of the year",
-          "link": "https://www.thisiswiltshire.co.uk/news/26430788.teens-success-story-becomes-centrepoints-student-year/",
-          "source": "thisiswiltshire.co.uk",
-          "pubDate": "2026-08-03T13:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Teen success story as he becomes Centrepoint student of the year"
-        },
-        {
-          "title": "Teen success story as he becomes Centrepoint student of the year",
-          "link": "https://www.wharfedaleobserver.co.uk/news/26430799.teens-success-story-becomes-centrepoints-student-year/",
-          "source": "wharfedaleobserver.co.uk",
-          "pubDate": "2026-08-03T13:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Teen success story as he becomes Centrepoint student of the year"
-        },
-        {
-          "title": "Teen success story as he becomes Centrepoint student of the year",
-          "link": "https://www.in-cumbria.com/news/26430713.teens-success-story-becomes-centrepoints-student-year/",
-          "source": "in-cumbria.com",
-          "pubDate": "2026-08-03T13:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Teen success story as he becomes Centrepoint student of the year"
-        },
-        {
-          "title": "AFRICOM Says Al - Shabaab Funnels Part of Its Revenue to Al - Qaeda Network",
-          "link": "https://www.garoweonline.com/en/news/somalia/africom-says-al-shabaab-funnels-part-of-its-revenue-to-al-qaeda-network",
-          "source": "garoweonline.com",
-          "pubDate": "2026-08-03T13:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "AFRICOM Says Al - Shabaab Funnels Part of Its Revenue to Al - Qaeda Network"
-        },
-        {
           "title": "Ethiopia: Hundreds Flee Ethiopia to War-Torn Sudan Following New Fighting in Tigray",
           "link": "https://allafrica.com/stories/202608030664.html",
           "description": "[RFI] In Ethiopia, hundreds of people have started to flee to Sudan following Saturday's fighting, when clashes in Tigray pitted federal forces against rebels from the Tigray People's Liberation Front (TPLF). Both sides accuse each other of seeking to trigger a new conflict.",
@@ -251,67 +98,40 @@
           "titleIt": "Ethiopia: Hundreds Flee Ethiopia to War-Torn Sudan Following New Fighting in Tigray"
         },
         {
-          "title": "Teen success story as he becomes Centrepoint student of the year",
-          "link": "https://www.westerntelegraph.co.uk/news/26430801.teens-success-story-becomes-centrepoints-student-year/",
-          "source": "westerntelegraph.co.uk",
-          "pubDate": "2026-08-03T12:45:00Z",
+          "title": "Hundreds flee fighting in northern Ethiopia as fears rise of return to civil war",
+          "link": "https://www.bbc.co.uk/news/articles/cdrv6r3xgyeo?at_medium=RSS&at_campaign=rss",
+          "description": "There are concerns of a full-scale conflict once again as a peace deal has not been fully implemented.",
+          "pubDate": "Mon, 03 Aug 2026 11:49:48 GMT",
+          "source": "BBC Africa",
           "lang": "en",
-          "description": "",
-          "titleIt": "Teen success story as he becomes Centrepoint student of the year"
+          "titleIt": "Hundreds flee fighting in northern Ethiopia as fears rise of return to civil war"
         },
         {
-          "title": "Teen success story as he becomes Centrepoint student of the year",
-          "link": "https://www.asianimage.co.uk/news/26430630.teens-success-story-becomes-centrepoints-student-year/",
-          "source": "asianimage.co.uk",
-          "pubDate": "2026-08-03T12:30:00Z",
+          "title": "English FA to drop support for Infantino's re-election",
+          "link": "http://www.africanews.com/2026/08/03/english-fa-to-drop-support-for-infantinos-re-election/",
+          "description": "The English Football Association (FA) plans to formally withdraw its support for FIFA President Gianni Infantino, dealing him a major blow just days after he dropped his bid to sell some of his equity to private investors.",
+          "pubDate": "Mon, 03 Aug 2026 10:15:55 +0000",
+          "source": "Africanews",
           "lang": "en",
-          "description": "",
-          "titleIt": "Teen success story as he becomes Centrepoint student of the year"
+          "titleIt": "English FA to drop support for Infantino's re-election"
         },
         {
-          "title": "Teen success story as he becomes Centrepoint student of the year",
-          "link": "https://www.falmouthpacket.co.uk/news/26430693.teens-success-story-becomes-centrepoints-student-year/",
-          "source": "falmouthpacket.co.uk",
-          "pubDate": "2026-08-03T12:30:00Z",
+          "title": "Italy to propose Albania-style EU migrant hubs at post-Ceuta meeting",
+          "link": "https://www.ansa.it/english/news/2026/08/03/italy-to-propose-albania-style-eu-migrant-hubs-at-post-ceuta-meeting_0a2b42db-7e8c-4226-8422-94e31b17210b.html",
+          "description": "(ANSA) - ROME, AUG 3 - Italy will propose the creation of EU migrant hubs outside the bloc along the lines of its centres in Albania at Tuesday's emergency meeting of European interior ministers following the arrival of thousands of migrants at the Spain's North African enclave of Ceuta last week, sources have said, confirming newspaper reports. Premier Giorgia Meloni's government has suspended arrangements regarding the Schengen agreement allowing for control-free movement between borders with Spain for a month following the events in Ceuta. Madrid and Italy's opposition parties have blasted ",
+          "pubDate": "Mon, 3 Aug 2026 11:38:13 +0200",
+          "source": "ANSA English",
           "lang": "en",
-          "description": "",
-          "titleIt": "Teen success story as he becomes Centrepoint student of the year"
+          "titleIt": "Italy to propose Albania-style EU migrant hubs at post-Ceuta meeting"
         },
         {
-          "title": "Teen success story as he becomes Centrepoint student of the year",
-          "link": "https://www.stourbridgenews.co.uk/news/26430763.teens-success-story-becomes-centrepoints-student-year/",
-          "source": "stourbridgenews.co.uk",
-          "pubDate": "2026-08-03T12:30:00Z",
+          "title": "Ambassador Prunas: ‘The Mediterranean Games are an opportunity to strengthen dialogue’",
+          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/08/01/ambassador-prunas-the-mediterranean-games-are-an-opportunity-to-strengthen-dialogue_bdc52f1c-0fbc-4cc4-84c6-de8c072f5f70.html",
+          "description": "(ANSA) - TUNISI, 01 AGO - Ahead of the start of the Taranto 2026 Mediterranean Games, the Italian Embassy in Tunis, in collaboration with the Tunisian National Olympic Committee, organized an event to present the Games, which brought together at the “La Charmeuse” Residence a delegation of Tunisian athletes, representatives of sports federations, and great champions from the past and present. On this occasion, Ambassador Alessandro Prunas emphasized that “in an international context marked by growing tensions, the Taranto Mediterranean Games represent an important opportunity to strengthen, th",
+          "pubDate": "Sat, 1 Aug 2026 09:25:36 +0200",
+          "source": "ANSA English",
           "lang": "en",
-          "description": "",
-          "titleIt": "Teen success story as he becomes Centrepoint student of the year"
-        },
-        {
-          "title": "Teen success story as he becomes Centrepoint student of the year",
-          "link": "https://www.hillingdontimes.co.uk/news/26430715.teens-success-story-becomes-centrepoints-student-year/",
-          "source": "hillingdontimes.co.uk",
-          "pubDate": "2026-08-03T12:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Teen success story as he becomes Centrepoint student of the year"
-        },
-        {
-          "title": "Teen success story as he becomes Centrepoint student of the year",
-          "link": "https://www.royston-crow.co.uk/news/26430753.teens-success-story-becomes-centrepoints-student-year/",
-          "source": "royston-crow.co.uk",
-          "pubDate": "2026-08-03T12:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Teen success story as he becomes Centrepoint student of the year"
-        },
-        {
-          "title": "Teen success story as he becomes Centrepoint student of the year",
-          "link": "https://www.herefordtimes.com/news/26430712.teens-success-story-becomes-centrepoints-student-year/",
-          "source": "herefordtimes.com",
-          "pubDate": "2026-08-03T12:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Teen success story as he becomes Centrepoint student of the year"
+          "titleIt": "Ambassador Prunas: ‘The Mediterranean Games are an opportunity to strengthen dialogue’"
         }
       ]
     },
