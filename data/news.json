@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T14:34:17.196Z",
+  "generatedAt": "2026-08-05T17:55:05.994Z",
   "feedsChecked": 9,
   "feedsAttempted": 10,
   "topics": {
@@ -7,13 +7,22 @@
       "title": "Accordi Egitto-Somalia",
       "items": [
         {
-          "title": "Somalia: Somali Commandos Raid Al-Shabaab Positions in Lower Shabelle",
-          "link": "https://allafrica.com/stories/202608040483.html",
-          "description": "[Shabelle] Mogadishu -- Somalia's elite Danab Special Forces carried out a planned operation targeting suspected Al-Shabaab positions in villages near Basro, an area between the Lower Shabelle and Middle Shabelle regions, military officials said on Tuesday.",
-          "pubDate": "Tue, 04 Aug 2026 15:29:25 GMT",
+          "title": "Sudan: fonti \"Nova\", aeroporto di Al-Kufra riprende trasferimenti di armi per Rsf (2)",
+          "link": "https://www.agenzianova.com/a/6a7378f313e987.33625137/7675204/2026-08-05/sudan-fonti-nova-aeroporto-di-al-kufra-riprende-trasferimenti-di-armi-per-rsf-2",
+          "description": "05 ago 19:43 - (Agenzia Nova) - Gli Emirati Arabi Uniti hanno utilizzato il Ciad come rotta alternativa, aggirando il confine libico-egiziano,... (Res)",
+          "pubDate": "2026-08-05T19:43:40+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Sudan: fonti \"Nova\", aeroporto di Al-Kufra riprende trasferimenti di armi per Rsf (2)"
+        },
+        {
+          "title": "Somalia: Deni Accuses Somali Federal Government of Backing Rival Forces After Galkayo Clashes",
+          "link": "https://allafrica.com/stories/202608050596.html",
+          "description": "[Shabelle] Garowe, Somalia -- Puntland President Said Abdullahi Deni on Wednesday accused Somalia's federal government of supporting rival forces involved in clashes in the central city of Galkayo, saying a military operation by Puntland had sent a \"clear message\" against threats to the region's security.",
+          "pubDate": "Wed, 05 Aug 2026 14:45:12 GMT",
           "source": "AllAfrica",
           "lang": "en",
-          "titleIt": "Somalia: Somali Commandos Raid Al-Shabaab Positions in Lower Shabelle"
+          "titleIt": "Somalia: Deni Accuses Somali Federal Government of Backing Rival Forces After Galkayo Clashes"
         },
         {
           "title": "Magnitude 5.5 quake jolts Egypt, triggering emergency response",
@@ -48,6 +57,24 @@
       "title": "Dossier Somaliland",
       "items": [
         {
+          "title": "Sudan: fonti \"Nova\", aeroporto di Al-Kufra riprende trasferimenti di armi per Rsf (2)",
+          "link": "https://www.agenzianova.com/a/6a7378f313e987.33625137/7675204/2026-08-05/sudan-fonti-nova-aeroporto-di-al-kufra-riprende-trasferimenti-di-armi-per-rsf-2",
+          "description": "05 ago 19:43 - (Agenzia Nova) - Gli Emirati Arabi Uniti hanno utilizzato il Ciad come rotta alternativa, aggirando il confine libico-egiziano,... (Res)",
+          "pubDate": "2026-08-05T19:43:40+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Sudan: fonti \"Nova\", aeroporto di Al-Kufra riprende trasferimenti di armi per Rsf (2)"
+        },
+        {
+          "title": "Somalia: Deni Accuses Somali Federal Government of Backing Rival Forces After Galkayo Clashes",
+          "link": "https://allafrica.com/stories/202608050596.html",
+          "description": "[Shabelle] Garowe, Somalia -- Puntland President Said Abdullahi Deni on Wednesday accused Somalia's federal government of supporting rival forces involved in clashes in the central city of Galkayo, saying a military operation by Puntland had sent a \"clear message\" against threats to the region's security.",
+          "pubDate": "Wed, 05 Aug 2026 14:45:12 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Somalia: Deni Accuses Somali Federal Government of Backing Rival Forces After Galkayo Clashes"
+        },
+        {
           "title": "East Africa: Interpol Flags Kenya Among East Africa's Most Targeted Digital Economies",
           "link": "https://allafrica.com/stories/202608050481.html",
           "description": "[Capital FM] Nairobi -- Kenya's expanding digital economy is increasingly under threat from organised cybercriminals targeting mobile money services, telecommunications networks and government systems, according to the latest INTERPOL African Cyberthreat Assessment Report 2026.",
@@ -70,6 +97,24 @@
     "ethiopia-sea-access": {
       "title": "Accesso etiope al mare",
       "items": [
+        {
+          "title": "Somalia: Deni Accuses Somali Federal Government of Backing Rival Forces After Galkayo Clashes",
+          "link": "https://allafrica.com/stories/202608050596.html",
+          "description": "[Shabelle] Garowe, Somalia -- Puntland President Said Abdullahi Deni on Wednesday accused Somalia's federal government of supporting rival forces involved in clashes in the central city of Galkayo, saying a military operation by Puntland had sent a \"clear message\" against threats to the region's security.",
+          "pubDate": "Wed, 05 Aug 2026 14:45:12 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Somalia: Deni Accuses Somali Federal Government of Backing Rival Forces After Galkayo Clashes"
+        },
+        {
+          "title": "Somalia: Somalia Offers Condolences to Ethiopia After Deadly Landslide in Amhara Region",
+          "link": "https://allafrica.com/stories/202608050590.html",
+          "description": "[Shabelle] Mogadishu -- Somalia has extended its condolences to Ethiopia following a devastating landslide in the Amhara region that caused deaths and destruction, expressing solidarity with its neighbouring country during the tragedy.",
+          "pubDate": "Wed, 05 Aug 2026 14:42:15 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Somalia: Somalia Offers Condolences to Ethiopia After Deadly Landslide in Amhara Region"
+        },
         {
           "title": "U.S.-brokered peace efforts for Sudan encounter new obstacles",
           "link": "http://www.africanews.com/2026/08/04/us-brokered-peace-efforts-for-sudan-encounter-new-obstacles/",
@@ -143,6 +188,15 @@
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
       "items": [
+        {
+          "title": "Sudan: fonti \"Nova\", aeroporto di Al-Kufra riprende trasferimenti di armi per Rsf",
+          "link": "https://www.agenzianova.com/a/6a7378f3140402.66378236/7675203/2026-08-05/sudan-fonti-nova-aeroporto-di-al-kufra-riprende-trasferimenti-di-armi-per-rsf",
+          "description": "05 ago 19:43 - (Agenzia Nova) - L'aeroporto di Al-Kufra, nella Libia orientale, e' tornato al suo precedente livello di attivita' come hub... (Res)",
+          "pubDate": "2026-08-05T19:43:40+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Sudan: fonti \"Nova\", aeroporto di Al-Kufra riprende trasferimenti di armi per Rsf"
+        },
         {
           "title": "U.S.-brokered peace efforts for Sudan encounter new obstacles",
           "link": "http://www.africanews.com/2026/08/04/us-brokered-peace-efforts-for-sudan-encounter-new-obstacles/",
