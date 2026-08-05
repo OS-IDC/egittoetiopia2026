@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-04T23:19:40.919Z",
-  "feedsChecked": 9,
+  "generatedAt": "2026-08-05T03:32:49.490Z",
+  "feedsChecked": 8,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
@@ -41,48 +41,12 @@
           "source": "Africanews",
           "lang": "en",
           "titleIt": "Magnitude 5.5 quake jolts Egypt, triggering emergency response"
-        },
-        {
-          "title": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab",
-          "link": "https://www.crisisgroup.org/brf/africa/somalia/b212-new-chapter-same-stalemate-somalias-war-al-shabaab",
-          "description": "The Somali government’s battle with Al-Shabaab militants grinds on, with neither able to gain a decisive advantage. To improve its lot, Mogadishu needs to bolster its military and alleviate civilian suffering in areas under insurgent control, while looking for openings for dialogue with the group.",
-          "pubDate": "Tuesday, June 30, 2026 - 15:20",
-          "source": "Crisis Group",
-          "lang": "en",
-          "titleIt": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab"
-        },
-        {
-          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
-          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
-          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
-          "pubDate": "Saturday, May 16, 2026 - 00:08",
-          "source": "Crisis Group",
-          "lang": "en",
-          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
     "somaliland": {
       "title": "Dossier Somaliland",
       "items": [
-        {
-          "title": "Sudan : Liberal Peacebuilding and the Price of Impunity",
-          "link": "https://newpol.org/issue_post/sudan-liberal-peacebuilding-and-the-price-of-impunity/",
-          "source": "newpol.org",
-          "pubDate": "2026-08-04T19:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Sudan : Liberal Peacebuilding and the Price of Impunity"
-        },
-        {
-          "title": "Has the UAE meteoric rise reached its limit ?",
-          "link": "https://www.middleeasteye.net/opinion/has-uaes-meteoric-rise-reached-its-limit",
-          "source": "middleeasteye.net",
-          "pubDate": "2026-08-04T17:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Has the UAE meteoric rise reached its limit ?"
-        },
         {
           "title": "Somalia: Somali Army Chief Closes Advanced Training for Elite Danab Commandos",
           "link": "https://allafrica.com/stories/202608040480.html",
@@ -111,15 +75,6 @@
           "titleIt": "Somalia: Cabinet Officials Brace to Relinquish Kenyan Passports After Presidential Ultimatum"
         },
         {
-          "title": "Genel Energy issues Results to 30th June | Iraq Business News",
-          "link": "https://www.iraq-businessnews.com/2026/08/04/genel-energy-issues-results-to-30th-june/",
-          "source": "iraq-businessnews.com",
-          "pubDate": "2026-08-04T10:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Genel Energy issues Results to 30th June | Iraq Business News"
-        },
-        {
           "title": "Deadly landslide hits Ethiopia mountain monastery during prayer service",
           "link": "https://www.bbc.co.uk/news/articles/c2lqpx1qd8lo?at_medium=RSS&at_campaign=rss",
           "description": "It sent rocks and earth crashing on to those praying at an overnight service, the authorities say.",
@@ -127,129 +82,21 @@
           "source": "BBC Africa",
           "lang": "en",
           "titleIt": "Deadly landslide hits Ethiopia mountain monastery during prayer service"
-        },
-        {
-          "title": "Somalia : Whilst the World Debates Somaliland Recognition , Its Girls Remain Invisible",
-          "link": "https://allafrica.com/stories/202608040008.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-08-04T08:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Somalia : Whilst the World Debates Somaliland Recognition , Its Girls Remain Invisible"
-        },
-        {
-          "title": "Genel Energy PLC : Unaudited results for the period ended 30 June 2026 | Company Announcement",
-          "link": "https://www.investegate.co.uk/announcement/eqs/genel-energy--genl/genel-energy-plc-unaudited-results-for-the-p-/9702685",
-          "source": "investegate.co.uk",
-          "pubDate": "2026-08-04T08:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Genel Energy PLC : Unaudited results for the period ended 30 June 2026 | Company Announcement"
-        },
-        {
-          "title": "US Signs Deal To Expand Its Military Presence in Somalia Bosaso on the Gulf of Aden",
-          "link": "https://news.antiwar.com/2026/08/03/us-signs-deal-to-expand-its-military-presence-in-somalias-bosaso-on-the-gulf-of-aden/",
-          "source": "news.antiwar.com",
-          "pubDate": "2026-08-03T18:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "US Signs Deal To Expand Its Military Presence in Somalia Bosaso on the Gulf of Aden"
-        },
-        {
-          "title": "AUSSOM Funding Cliff Sends Somalia Mission to the UN",
-          "link": "https://www.riotimesonline.com/aussom-funding-un-security-council-somalia-2026/",
-          "source": "riotimesonline.com",
-          "pubDate": "2026-08-03T10:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "AUSSOM Funding Cliff Sends Somalia Mission to the UN"
-        },
-        {
-          "title": "Prime Minister Las Anod Visit Sparks Speculation as Federal Government Announces Revival of Historic 26th Military Command",
-          "link": "https://wardheernews.com/prime-ministers-las-anod-visit-sparks-speculation-as-federal-government-announces-revival-of-historic-26th-military-command/",
-          "source": "wardheernews.com",
-          "pubDate": "2026-08-02T20:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Prime Minister Las Anod Visit Sparks Speculation as Federal Government Announces Revival of Historic 26th Military Command"
-        },
-        {
-          "title": "How the Israel - Somaliland alliance rewrites American diplomacy",
-          "link": "http://www.jpost.com/opinion/article-903889",
-          "source": "jpost.com",
-          "pubDate": "2026-08-02T05:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "How the Israel - Somaliland alliance rewrites American diplomacy"
-        },
-        {
-          "title": "How the Israel - Somaliland alliance rewrites American diplomacy",
-          "link": "https://www.jpost.com/opinion/article-903889",
-          "source": "jpost.com",
-          "pubDate": "2026-08-02T02:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "How the Israel - Somaliland alliance rewrites American diplomacy"
-        },
-        {
-          "title": "AFRICOM Commander Dismisses Reports of U . S . Military Base in Berbera",
-          "link": "https://raxanreeb.com/africom-commander-dismisses-reports-of-u-s-military-base-in-berbera/",
-          "source": "raxanreeb.com",
-          "pubDate": "2026-08-01T21:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "AFRICOM Commander Dismisses Reports of U . S . Military Base in Berbera"
-        },
-        {
-          "title": "Somalia : U . S . has no plans to recognize Somaliland , AFRICOM chief says",
-          "link": "https://www.garoweonline.com/en/news/somalia/somalia-u-s-has-no-plans-to-recognize-somaliland-africom-chief-says",
-          "source": "garoweonline.com",
-          "pubDate": "2026-08-01T14:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Somalia : U . S . has no plans to recognize Somaliland , AFRICOM chief says"
-        },
-        {
-          "title": "The Horn Of Africa After Ethiopia 2026 Elections : What To Watch ?",
-          "link": "https://www.thereporterethiopia.com/51980/",
-          "source": "thereporterethiopia.com",
-          "pubDate": "2026-08-01T12:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The Horn Of Africa After Ethiopia 2026 Elections : What To Watch ?"
-        },
-        {
-          "title": "Prolonged Instability In The Horn Of Africa Risks Further Disruptions To Red Sea Commerce",
-          "link": "https://www.mondaq.com:443/unitedstates/terrorism-homeland-security-defence/1824642/prolonged-instability-in-the-horn-of-africa-risks-further-disruptions-to-red-sea-commerce",
-          "source": "mondaq.com",
-          "pubDate": "2026-07-30T22:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Prolonged Instability In The Horn Of Africa Risks Further Disruptions To Red Sea Commerce"
-        },
-        {
-          "title": "Political Shock Deepens in Northeast State as Six MPs Defect to Somaliland",
-          "link": "https://wardheernews.com/political-shock-deepens-in-northeast-state-as-six-mps-defect-to-somaliland/",
-          "source": "wardheernews.com",
-          "pubDate": "2026-07-28T17:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Political Shock Deepens in Northeast State as Six MPs Defect to Somaliland"
-        },
-        {
-          "title": "Somaliland Signals Readiness to Help Secure Bab el - Mandeb",
-          "link": "https://wardheernews.com/somaliland-signals-readiness-to-help-secure-bab-el-mandeb/",
-          "source": "wardheernews.com",
-          "pubDate": "2026-07-27T21:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Somaliland Signals Readiness to Help Secure Bab el - Mandeb"
         }
       ]
     },
     "ethiopia-sea-access": {
       "title": "Accesso etiope al mare",
       "items": [
+        {
+          "title": "Hormuz: proseguono colloqui tra Iran e Oman, progressi verso la definizione di una \"cornice tecnica\"",
+          "link": "https://www.agenzianova.com/a/6a72aede02e787.67103805/7672332/2026-08-05/hormuz-proseguono-colloqui-tra-iran-e-oman-progressi-verso-la-definizione-di-una-cornice-tecnica",
+          "description": "05 ago 05:12 - (Agenzia Nova) - Iran e Oman stanno portando avanti i negoziati per regolamentare il passaggio delle navi nello Stretto di Hormuz,... (Res)",
+          "pubDate": "2026-08-05T05:12:53+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Hormuz: proseguono colloqui tra Iran e Oman, progressi verso la definizione di una \"cornice tecnica\""
+        },
         {
           "title": "U.S.-brokered peace efforts for Sudan encounter new obstacles",
           "link": "http://www.africanews.com/2026/08/04/us-brokered-peace-efforts-for-sudan-encounter-new-obstacles/",
@@ -303,15 +150,6 @@
           "source": "ANSA English",
           "lang": "en",
           "titleIt": "Ambassador Prunas: ‘The Mediterranean Games are an opportunity to strengthen dialogue’"
-        },
-        {
-          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
-          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
-          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
-          "pubDate": "Saturday, May 16, 2026 - 00:08",
-          "source": "Crisis Group",
-          "lang": "en",
-          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
@@ -319,13 +157,184 @@
       "title": "Fragilità economica egiziana",
       "items": [
         {
-          "title": "Magnitude 5.5 quake jolts Egypt, triggering emergency response",
-          "link": "http://www.africanews.com/2026/08/03/magnitude-55-quake-jolts-egypt-triggering-emergency-response/",
-          "description": "A magnitude 5.5 earthquake struck near the Egyptian city of Suez early Monday, shaking buildings across Cairo and prompting authorities to activate emergency response plans. No casualties or significant damage were immediately reported.",
-          "pubDate": "Mon, 03 Aug 2026 06:33:45 +0000",
-          "source": "Africanews",
+          "title": "Record - breaking day for U . S . stocks Tuesday as war jitters subside",
+          "link": "http://www.clevelandstar.com/news/279222614/record-breaking-day-for-u-s-stocks-tuesday-as-war-jitters-subside",
+          "source": "clevelandstar.com",
+          "pubDate": "2026-08-05T03:00:00Z",
           "lang": "en",
-          "titleIt": "Magnitude 5.5 quake jolts Egypt, triggering emergency response"
+          "description": "",
+          "titleIt": "Record - breaking day for U . S . stocks Tuesday as war jitters subside"
+        },
+        {
+          "title": "July Top Commodity Performers and Underperformers",
+          "link": "https://finance.yahoo.com/markets/commodities/articles/july-top-commodity-performers-underperformers-154213235.html",
+          "source": "finance.yahoo.com",
+          "pubDate": "2026-08-05T03:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "July Top Commodity Performers and Underperformers"
+        },
+        {
+          "title": "Who Is Abdul El - Sayed ? 5 Things Amid Michigan Senate Race – Hollywood Life",
+          "link": "http://hollywoodlife.com/feature/who-is-abdul-el-sayed-5-things-about-the-democrat-amid-michigan-primary-5553988/",
+          "source": "hollywoodlife.com",
+          "pubDate": "2026-08-05T03:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Who Is Abdul El - Sayed ? 5 Things Amid Michigan Senate Race – Hollywood Life"
+        },
+        {
+          "title": "Record - breaking day for U . S . stocks Tuesday as war jitters subside",
+          "link": "http://www.africaleader.com/news/279222614/record-breaking-day-for-u-s-stocks-tuesday-as-war-jitters-subside",
+          "source": "africaleader.com",
+          "pubDate": "2026-08-05T02:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Record - breaking day for U . S . stocks Tuesday as war jitters subside"
+        },
+        {
+          "title": "Record - breaking day for U . S . stocks Tuesday as war jitters subside",
+          "link": "http://www.sydneysun.com/news/279222614/record-breaking-day-for-u-s-stocks-tuesday-as-war-jitters-subside",
+          "source": "sydneysun.com",
+          "pubDate": "2026-08-05T02:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Record - breaking day for U . S . stocks Tuesday as war jitters subside"
+        },
+        {
+          "title": "Record - breaking day for U . S . stocks Tuesday as war jitters subside",
+          "link": "http://www.tennesseedaily.com/news/279222614/record-breaking-day-for-u-s-stocks-tuesday-as-war-jitters-subside",
+          "source": "tennesseedaily.com",
+          "pubDate": "2026-08-05T02:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Record - breaking day for U . S . stocks Tuesday as war jitters subside"
+        },
+        {
+          "title": "HSBC ( HSBC ) Q2 2026 Earnings Call Transcript",
+          "link": "https://www.fool.com/earnings/call-transcripts/2026/08/04/hsbc-hsbc-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
+          "source": "fool.com",
+          "pubDate": "2026-08-05T02:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "HSBC ( HSBC ) Q2 2026 Earnings Call Transcript"
+        },
+        {
+          "title": "Record - breaking day for U . S . stocks Tuesday as war jitters subside",
+          "link": "http://www.neworleanssun.com/news/279222614/record-breaking-day-for-u-s-stocks-tuesday-as-war-jitters-subside",
+          "source": "neworleanssun.com",
+          "pubDate": "2026-08-05T02:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Record - breaking day for U . S . stocks Tuesday as war jitters subside"
+        },
+        {
+          "title": "Record - breaking day for U . S . stocks Tuesday as war jitters subside",
+          "link": "http://www.sandiegosun.com/news/279222614/record-breaking-day-for-u-s-stocks-tuesday-as-war-jitters-subside",
+          "source": "sandiegosun.com",
+          "pubDate": "2026-08-05T02:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Record - breaking day for U . S . stocks Tuesday as war jitters subside"
+        },
+        {
+          "title": "Record - breaking day for U . S . stocks Tuesday as war jitters subside",
+          "link": "http://www.caribbeanherald.com/news/279222614/record-breaking-day-for-u-s-stocks-tuesday-as-war-jitters-subside",
+          "source": "caribbeanherald.com",
+          "pubDate": "2026-08-05T02:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Record - breaking day for U . S . stocks Tuesday as war jitters subside"
+        },
+        {
+          "title": "Record - breaking day for U . S . stocks Tuesday as war jitters subside",
+          "link": "http://www.hongkongherald.com/news/279222614/record-breaking-day-for-u-s-stocks-tuesday-as-war-jitters-subside",
+          "source": "hongkongherald.com",
+          "pubDate": "2026-08-05T02:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Record - breaking day for U . S . stocks Tuesday as war jitters subside"
+        },
+        {
+          "title": "Record - breaking day for U . S . stocks Tuesday as war jitters subside",
+          "link": "http://www.srilankasource.com/news/279222614/record-breaking-day-for-u-s-stocks-tuesday-as-war-jitters-subside",
+          "source": "srilankasource.com",
+          "pubDate": "2026-08-05T02:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Record - breaking day for U . S . stocks Tuesday as war jitters subside"
+        },
+        {
+          "title": "Record - breaking day for U . S . stocks Tuesday as war jitters subside",
+          "link": "http://www.stlouisstar.com/news/279222614/record-breaking-day-for-u-s-stocks-tuesday-as-war-jitters-subside",
+          "source": "stlouisstar.com",
+          "pubDate": "2026-08-05T02:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Record - breaking day for U . S . stocks Tuesday as war jitters subside"
+        },
+        {
+          "title": "Record - breaking day for U . S . stocks Tuesday as war jitters subside",
+          "link": "http://www.saltlakecitysun.com/news/279222614/record-breaking-day-for-u-s-stocks-tuesday-as-war-jitters-subside",
+          "source": "saltlakecitysun.com",
+          "pubDate": "2026-08-05T02:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Record - breaking day for U . S . stocks Tuesday as war jitters subside"
+        },
+        {
+          "title": "Record - breaking day for U . S . stocks Tuesday as war jitters subside",
+          "link": "http://www.chinanationalnews.com/news/279222614/record-breaking-day-for-u-s-stocks-tuesday-as-war-jitters-subside",
+          "source": "chinanationalnews.com",
+          "pubDate": "2026-08-05T02:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Record - breaking day for U . S . stocks Tuesday as war jitters subside"
+        },
+        {
+          "title": "Dangote Refinery targets $5bn IPO in October",
+          "link": "https://thesun.ng/dangote-refinery-targets-5bn-ipo-in-october/",
+          "source": "thesun.ng",
+          "pubDate": "2026-08-05T01:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Dangote Refinery targets $5bn IPO in October"
+        },
+        {
+          "title": "Record - breaking day for U . S . stocks Tuesday as war jitters subside",
+          "link": "http://www.iranherald.com/news/279222614/record-breaking-day-for-u-s-stocks-tuesday-as-war-jitters-subside",
+          "source": "iranherald.com",
+          "pubDate": "2026-08-05T01:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Record - breaking day for U . S . stocks Tuesday as war jitters subside"
+        },
+        {
+          "title": "Record - breaking day for U . S . stocks Tuesday as war jitters subside",
+          "link": "http://www.argentinastar.com/news/279222614/record-breaking-day-for-u-s-stocks-tuesday-as-war-jitters-subside",
+          "source": "argentinastar.com",
+          "pubDate": "2026-08-05T01:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Record - breaking day for U . S . stocks Tuesday as war jitters subside"
+        },
+        {
+          "title": "Record - breaking day for U . S . stocks Tuesday as war jitters subside",
+          "link": "http://www.taiwansun.com/news/279222614/record-breaking-day-for-u-s-stocks-tuesday-as-war-jitters-subside",
+          "source": "taiwansun.com",
+          "pubDate": "2026-08-05T01:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Record - breaking day for U . S . stocks Tuesday as war jitters subside"
+        },
+        {
+          "title": "Record - breaking day for U . S . stocks Tuesday as war jitters subside",
+          "link": "http://www.nigeriasun.com/news/279222614/record-breaking-day-for-u-s-stocks-tuesday-as-war-jitters-subside",
+          "source": "nigeriasun.com",
+          "pubDate": "2026-08-05T01:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Record - breaking day for U . S . stocks Tuesday as war jitters subside"
         }
       ]
     },
