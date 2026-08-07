@@ -1,11 +1,29 @@
 {
-  "generatedAt": "2026-08-07T13:39:30.961Z",
-  "feedsChecked": 9,
+  "generatedAt": "2026-08-07T15:08:54.776Z",
+  "feedsChecked": 8,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
+        {
+          "title": "I fatti del giorno - Nord Africa (2)",
+          "link": "https://www.agenzianova.com/a/6a75f502413f54.49142009/7681491/2026-08-07/i-fatti-del-giorno-nord-africa-2",
+          "description": "07 ago 17:00 - (Agenzia Nova) - Egitto-Ciad: firmati accordi di cooperazione in materia di di infrastrutture, sanita' e istruzione - Egitto... (Res)",
+          "pubDate": "2026-08-07T17:00:00+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "I fatti del giorno - Nord Africa (2)"
+        },
+        {
+          "title": "I fatti del giorno - Africa sub-sahariana (2)",
+          "link": "https://www.agenzianova.com/a/6a75f50242faa7.70636324/7681322/2026-08-07/i-fatti-del-giorno-africa-sub-sahariana-2",
+          "description": "07 ago 17:00 - (Agenzia Nova) - Egitto-Ciad: firmati accordi di cooperazione in materia di di infrastrutture, sanita' e istruzione - Egitto... (Res)",
+          "pubDate": "2026-08-07T17:00:00+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "I fatti del giorno - Africa sub-sahariana (2)"
+        },
         {
           "title": "EU to Support Libya in the Fight Against Terrorism and for Border Security",
           "link": "https://www.ansa.it/english/news/news_from_embassies/2026/08/07/eu-to-support-libya-in-the-fight-against-terrorism-and-for-border-security_742e172c-5d23-469b-907d-8645ce88d816.html",
@@ -23,30 +41,21 @@
           "source": "ANSA English",
           "lang": "en",
           "titleIt": "The first Senegalese selected for the “New Destinies” project visited the embassy"
-        },
-        {
-          "title": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab",
-          "link": "https://www.crisisgroup.org/brf/africa/somalia/b212-new-chapter-same-stalemate-somalias-war-al-shabaab",
-          "description": "The Somali government’s battle with Al-Shabaab militants grinds on, with neither able to gain a decisive advantage. To improve its lot, Mogadishu needs to bolster its military and alleviate civilian suffering in areas under insurgent control, while looking for openings for dialogue with the group.",
-          "pubDate": "Tuesday, June 30, 2026 - 15:20",
-          "source": "Crisis Group",
-          "lang": "en",
-          "titleIt": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab"
-        },
-        {
-          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
-          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
-          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
-          "pubDate": "Saturday, May 16, 2026 - 00:08",
-          "source": "Crisis Group",
-          "lang": "en",
-          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
     "somaliland": {
       "title": "Dossier Somaliland",
       "items": [
+        {
+          "title": "I fatti del giorno - Africa sub-sahariana (4)",
+          "link": "https://www.agenzianova.com/a/6a75f50242be65.40373238/7681324/2026-08-07/i-fatti-del-giorno-africa-sub-sahariana-4",
+          "description": "07 ago 17:00 - (Agenzia Nova) - Etiopia: arrestato caporedattore del quotidiano \"Addis Standard\" - Il caporedattore del quotidiano online indipendente... (Res)",
+          "pubDate": "2026-08-07T17:00:00+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "I fatti del giorno - Africa sub-sahariana (4)"
+        },
         {
           "title": "Kenya: Murkomen Warns Against Illegal Use of Police Military, Style Uniforms",
           "link": "https://allafrica.com/stories/202608070502.html",
@@ -64,30 +73,21 @@
           "source": "ANSA English",
           "lang": "en",
           "titleIt": "Ambassador Del Monaco Meets with the Governor of the Central Bank of Kenya"
-        },
-        {
-          "title": "Ethiopia: Ethiopian Publication Condemns Violent Office Raid and Staff Abduction",
-          "link": "https://allafrica.com/stories/202608060534.html",
-          "description": "[Addis Standard] JAKENN Publishing PLC wishes to inform its partners, supporters, members of the diplomatic community, human rights groups, press freedom organizations, and the public of a series of grave incidents targeting our organization over the past several days. On Saturday, 01 August 2026, Yonas Kedir, the Editor-in-Chief of Addis Standard, a publication by JAKENN Publishing PLC, reported being abducted by security personnel, physically assaulted, and held for approximately 24 hours while subjected to prolonged",
-          "pubDate": "Thu, 06 Aug 2026 13:41:11 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Ethiopia: Ethiopian Publication Condemns Violent Office Raid and Staff Abduction"
-        },
-        {
-          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
-          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
-          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
-          "pubDate": "Saturday, May 16, 2026 - 00:08",
-          "source": "Crisis Group",
-          "lang": "en",
-          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
     "ethiopia-sea-access": {
       "title": "Accesso etiope al mare",
       "items": [
+        {
+          "title": "Swedish gummies , Parisian linens and Moroccan mint tea : what travel experts always bring home from their trips",
+          "link": "https://www.aol.co.uk/articles/swedish-gummies-parisian-linens-moroccan-140019000.html",
+          "source": "aol.co.uk",
+          "pubDate": "2026-08-07T14:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Swedish gummies , Parisian linens and Moroccan mint tea : what travel experts always bring home from their trips"
+        },
         {
           "title": "Tanzania: Uganda, Tanzania Seal Deal to Develop Tanga Into Regional Energy Hub",
           "link": "https://allafrica.com/stories/202608070230.html",
@@ -242,15 +242,6 @@
           "titleIt": "India BRICS presidency faces serious challenges – The Frontier Post"
         },
         {
-          "title": "Ethiopia: Ethiopian Publication Condemns Violent Office Raid and Staff Abduction",
-          "link": "https://allafrica.com/stories/202608060534.html",
-          "description": "[Addis Standard] JAKENN Publishing PLC wishes to inform its partners, supporters, members of the diplomatic community, human rights groups, press freedom organizations, and the public of a series of grave incidents targeting our organization over the past several days. On Saturday, 01 August 2026, Yonas Kedir, the Editor-in-Chief of Addis Standard, a publication by JAKENN Publishing PLC, reported being abducted by security personnel, physically assaulted, and held for approximately 24 hours while subjected to prolonged",
-          "pubDate": "Thu, 06 Aug 2026 13:41:11 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Ethiopia: Ethiopian Publication Condemns Violent Office Raid and Staff Abduction"
-        },
-        {
           "title": "Ethiopia Historic Rise Is Shattering Cairo Campaign of Hostility",
           "link": "https://allafrica.com/stories/202608060479.html",
           "source": "allafrica.com",
@@ -273,6 +264,24 @@
     "egypt-economy": {
       "title": "Fragilità economica egiziana",
       "items": [
+        {
+          "title": "India - led BRICS meeting backs MSME finance plan , reaffirms food security stance",
+          "link": "https://www.moneycontrol.com/news/economy/policy/india-led-brics-meeting-backs-msme-finance-plan-reaffirms-food-security-stance-13998282.html",
+          "source": "moneycontrol.com",
+          "pubDate": "2026-08-07T14:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "India - led BRICS meeting backs MSME finance plan , reaffirms food security stance"
+        },
+        {
+          "title": "APA Raises U . S . Oil Forecast as Second - Quarter Output Beats Guidance",
+          "link": "https://finance.yahoo.com/energy/articles/apa-raises-u-oil-forecast-040126345.html",
+          "source": "finance.yahoo.com",
+          "pubDate": "2026-08-07T13:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "APA Raises U . S . Oil Forecast as Second - Quarter Output Beats Guidance"
+        },
         {
           "title": "Blue Mountain League semifinal series delayed again",
           "link": "https://www.mcall.com/2026/08/07/blue-mountain-league-semifinals-just-another-game-and-another-8-run-lead-wiped-out-by-a-postponement/",
@@ -434,24 +443,6 @@
           "lang": "en",
           "description": "",
           "titleIt": "Nigeria mango industry can drive food security , create jobs – FG"
-        },
-        {
-          "title": "Sri Lanka Hirdaramani Group Sets Sights on Expanding Into Egypt Textile Industry",
-          "link": "https://www.lankanewspapers.com/2026/08/07/sri-lanka-s-hirdaramani-group-sets-sights-on-expanding-into-egypt-s-textile-industry",
-          "source": "lankanewspapers.com",
-          "pubDate": "2026-08-07T02:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Sri Lanka Hirdaramani Group Sets Sights on Expanding Into Egypt Textile Industry"
-        },
-        {
-          "title": "Dow Jones dives 464 points as U . S . equity markets cool",
-          "link": "http://www.pittsburghstar.com/news/279225420/dow-jones-dives-464-points-as-u-s-equity-markets-cool",
-          "source": "pittsburghstar.com",
-          "pubDate": "2026-08-07T01:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Dow Jones dives 464 points as U . S . equity markets cool"
         }
       ]
     },
