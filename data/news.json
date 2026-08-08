@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-08T13:11:55.850Z",
-  "feedsChecked": 8,
+  "generatedAt": "2026-08-08T14:49:36.590Z",
+  "feedsChecked": 9,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
@@ -23,12 +23,39 @@
           "source": "ANSA English",
           "lang": "en",
           "titleIt": "The first Senegalese selected for the “New Destinies” project visited the embassy"
+        },
+        {
+          "title": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab",
+          "link": "https://www.crisisgroup.org/brf/africa/somalia/b212-new-chapter-same-stalemate-somalias-war-al-shabaab",
+          "description": "The Somali government’s battle with Al-Shabaab militants grinds on, with neither able to gain a decisive advantage. To improve its lot, Mogadishu needs to bolster its military and alleviate civilian suffering in areas under insurgent control, while looking for openings for dialogue with the group.",
+          "pubDate": "Tuesday, June 30, 2026 - 15:20",
+          "source": "Crisis Group",
+          "lang": "en",
+          "titleIt": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab"
+        },
+        {
+          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
+          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
+          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
+          "pubDate": "Saturday, May 16, 2026 - 00:08",
+          "source": "Crisis Group",
+          "lang": "en",
+          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
     "somaliland": {
       "title": "Dossier Somaliland",
       "items": [
+        {
+          "title": "Saudi Arabia , Pakistan , Turkey Sign Joint Defense Pact Amid US - Iran Tensions",
+          "link": "https://www.globalsecurity.org/military/library/news/2026/08/mil-260807-rferl01.htm",
+          "source": "globalsecurity.org",
+          "pubDate": "2026-08-08T13:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Saudi Arabia , Pakistan , Turkey Sign Joint Defense Pact Amid US - Iran Tensions"
+        },
         {
           "title": "Flashpoint : Military Or Diplomacy ? Horn Of Africa Geopolitical Alliances Reach Tipping Point",
           "link": "https://www.thereporterethiopia.com/52198/",
@@ -73,15 +100,6 @@
           "lang": "en",
           "description": "",
           "titleIt": "Riyadh Sudan Contradiction : Mediator by Day , Arms Broker by Night"
-        },
-        {
-          "title": "Kenya: Murkomen Warns Against Illegal Use of Police Military, Style Uniforms",
-          "link": "https://allafrica.com/stories/202608070502.html",
-          "description": "[Capital FM] Nairobi -- Interior Cabinet Secretary Kipchumba Murkomen has directed Inspector General of Police Douglas Kanja to move with speed against individuals wearing camouflage and other security-style uniforms while allegedly posing as police officers or members of specialised security units.",
-          "pubDate": "Fri, 07 Aug 2026 13:15:59 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Kenya: Murkomen Warns Against Illegal Use of Police Military, Style Uniforms"
         },
         {
           "title": "Ambassador Del Monaco Meets with the Governor of the Central Bank of Kenya",
@@ -215,15 +233,6 @@
       "title": "Accesso etiope al mare",
       "items": [
         {
-          "title": "Hormuz: ministro Esteri Iran, \"vicini ad accordo con Oman su nuova rotta marittima\"",
-          "link": "https://www.agenzianova.com/a/6a772b181ad786.54645423/7683236/2026-08-08/hormuz-ministro-esteri-iran-vicini-ad-accordo-con-oman-su-nuova-rotta-marittima",
-          "description": "08 ago 13:54 - (Agenzia Nova) - Iran e Oman \"sono molto vicini a raggiungere un accordo su una nuova rotta marittima nello Stretto di Hormuz\".... (Irb)",
-          "pubDate": "2026-08-08T13:54:53+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Hormuz: ministro Esteri Iran, \"vicini ad accordo con Oman su nuova rotta marittima\""
-        },
-        {
           "title": "Centemero, 'porterò all'Onu candidatura di Milano come hub per governance etica IA'",
           "link": "https://www.ansa.it/ansamednew/ar/notizie/politica/2026/08/07/centemero-portero-allonu-candidatura-di-milano-come-hub-per-governance-etica_95da0875-17ed-4487-a5fc-c36c3418674f.html",
           "description": "(ANSA) - ROMA, 07 AGO - \"L'Italia ha davanti un'opportunità strategica: non limitarsi a partecipare al dibattito sull'intelligenza artificiale, ma contribuire a costruirne la futura governance globale. Il policy paper dell'American Chamber of Commerce in Italy e il successivo intervento del managing director Simone Crolla indicano una strada concreta: candidare Milano a ospitare una futura piattaforma o organismo delle Nazioni Unite dedicato alla governance etica dell'intelligenza artificiale. È una proposta che condivido pienamente\". Lo afferma il deputato della Lega Giulio Centemero, preside",
@@ -231,15 +240,6 @@
           "source": "ANSAmed (ar)",
           "lang": "ar",
           "titleIt": "Centemero, 'porterò all'Onu candidatura di Milano come hub per governance etica IA'"
-        },
-        {
-          "title": "Malawi: MMC Publishing Offers Malawi Solution for Royalty Transparency Amid Cosoma Storm",
-          "link": "https://allafrica.com/stories/202608070536.html",
-          "description": "[Nyasa Times] The country's pioneer music listening and monitoring digital platform, Malawi-Music.com (MMC), has offered to support the Copyright Society of Malawi (COSOMA) and the country's musicians in resolving royalty-sharing disputes stemming from a lack of proper monitoring.",
-          "pubDate": "Fri, 07 Aug 2026 14:36:41 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Malawi: MMC Publishing Offers Malawi Solution for Royalty Transparency Amid Cosoma Storm"
         },
         {
           "title": "Women in El-Obeid testify to rape during Sudan conflict",
@@ -267,6 +267,15 @@
           "source": "BBC Africa",
           "lang": "en",
           "titleIt": "Real Madrid sign Diomande in deal worth up to £120m"
+        },
+        {
+          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
+          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
+          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
+          "pubDate": "Saturday, May 16, 2026 - 00:08",
+          "source": "Crisis Group",
+          "lang": "en",
+          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
@@ -274,9 +283,81 @@
       "title": "Fragilità economica egiziana",
       "items": [
         {
+          "title": "What to expect from the new Saudi - Turkey - Pakistan deal",
+          "link": "https://economictimes.indiatimes.com/news/defence/what-to-expect-from-the-new-saudi-turkey-pakistan-deal/articleshow/133053699.cms",
+          "source": "economictimes.indiatimes.com",
+          "pubDate": "2026-08-08T14:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "What to expect from the new Saudi - Turkey - Pakistan deal"
+        },
+        {
+          "title": "Mecca pact riddled with inherent contradictions , but India to be hit",
+          "link": "https://www.theweek.in/news/defence/2026/08/08/mecca-pact-riddled-with-inherent-contradictions-but-india-to-be-hit.html",
+          "source": "theweek.in",
+          "pubDate": "2026-08-08T14:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Mecca pact riddled with inherent contradictions , but India to be hit"
+        },
+        {
+          "title": "Africa wants more homegrown solar to boost self - reliance , but China shadow remains",
+          "link": "https://mymotherlode.com/news/world/11052614/africa-wants-more-homegrown-solar-to-boost-self-reliance-but-chinas-shadow-remains.html",
+          "source": "mymotherlode.com",
+          "pubDate": "2026-08-08T14:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Africa wants more homegrown solar to boost self - reliance , but China shadow remains"
+        },
+        {
+          "title": "Trump slapdash Reflecting Pool renovations stand in stark contrast to ingenuity of its creation",
+          "link": "https://kspress.com/news/2026/08/08/trump%E2%80%99s-slapdash-reflecting-pool-renovations-stand-in-stark-contrast-to-ingenuity-of",
+          "source": "kspress.com",
+          "pubDate": "2026-08-08T13:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Trump slapdash Reflecting Pool renovations stand in stark contrast to ingenuity of its creation"
+        },
+        {
+          "title": "BRICS cultural conference concludes with  Bhopal Declaration",
+          "link": "https://www.prokerala.com/news/articles/a1798009.html",
+          "source": "prokerala.com",
+          "pubDate": "2026-08-08T13:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "BRICS cultural conference concludes with  Bhopal Declaration"
+        },
+        {
+          "title": "Saudi Arabia , Pakistan , Turkey Sign Joint Defense Pact Amid US - Iran Tensions",
+          "link": "https://www.globalsecurity.org/military/library/news/2026/08/mil-260807-rferl01.htm",
+          "source": "globalsecurity.org",
+          "pubDate": "2026-08-08T13:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Saudi Arabia , Pakistan , Turkey Sign Joint Defense Pact Amid US - Iran Tensions"
+        },
+        {
           "title": "11th BRICS culture minister meeting concludes in Madhya Pradesh ; Bhopal Declaration adopted",
-          "link": "http://www.bignewsnetwork.com/news/279227416/11th-brics-culture-ministers-meeting-concludes-in-madhya-pradesh-bhopal-declaration-adopted",
-          "source": "bignewsnetwork.com",
+          "link": "http://www.centralasiatimes.com/news/279227416/11th-brics-culture-ministers-meeting-concludes-in-madhya-pradesh-bhopal-declaration-adopted",
+          "source": "centralasiatimes.com",
+          "pubDate": "2026-08-08T13:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "11th BRICS culture minister meeting concludes in Madhya Pradesh ; Bhopal Declaration adopted"
+        },
+        {
+          "title": "The post - American Middle East is beginning to take shape",
+          "link": "https://www.aljazeera.com/opinions/2026/8/8/the-post-american-middle-east-is-beginning-to-take-shape",
+          "source": "aljazeera.com",
+          "pubDate": "2026-08-08T13:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The post - American Middle East is beginning to take shape"
+        },
+        {
+          "title": "11th BRICS culture minister meeting concludes in Madhya Pradesh ; Bhopal Declaration adopted",
+          "link": "http://www.calcuttanews.net/news/279227416/11th-brics-culture-ministers-meeting-concludes-in-madhya-pradesh-bhopal-declaration-adopted",
+          "source": "calcuttanews.net",
           "pubDate": "2026-08-08T12:30:00Z",
           "lang": "en",
           "description": "",
@@ -284,8 +365,8 @@
         },
         {
           "title": "11th BRICS culture minister meeting concludes in Madhya Pradesh ; Bhopal Declaration adopted",
-          "link": "http://www.calcuttanews.net/news/279227416/11th-brics-culture-ministers-meeting-concludes-in-madhya-pradesh-bhopal-declaration-adopted",
-          "source": "calcuttanews.net",
+          "link": "http://www.bignewsnetwork.com/news/279227416/11th-brics-culture-ministers-meeting-concludes-in-madhya-pradesh-bhopal-declaration-adopted",
+          "source": "bignewsnetwork.com",
           "pubDate": "2026-08-08T12:30:00Z",
           "lang": "en",
           "description": "",
@@ -380,78 +461,6 @@
           "lang": "en",
           "description": "",
           "titleIt": "Saudi Arabia $5 Oil Detour Is Expensive and Worth It"
-        },
-        {
-          "title": "Trump slapdash Reflecting Pool renovations stand in stark contrast to ingenuity of its creation",
-          "link": "https://www.yahoo.com/news/politics/articles/trump-slapdash-reflecting-pool-renovations-083357821.html",
-          "source": "yahoo.com",
-          "pubDate": "2026-08-08T09:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Trump slapdash Reflecting Pool renovations stand in stark contrast to ingenuity of its creation"
-        },
-        {
-          "title": "Panic over the  Mecca Joint Defense Agreement  in Israel and Greece !  Potential war scenario",
-          "link": "https://en.milliyet.com.tr/news/panic-over-the-mecca-joint-defense-agreement-in-israel-and-greece-potential-war-scenario-7637459",
-          "source": "en.milliyet.com.tr",
-          "pubDate": "2026-08-08T09:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Panic over the  Mecca Joint Defense Agreement  in Israel and Greece !  Potential war scenario"
-        },
-        {
-          "title": "How MENA homegrown platforms are democratizing access to finance",
-          "link": "https://www.arabnews.com/node/2653859/business-economy",
-          "source": "arabnews.com",
-          "pubDate": "2026-08-08T08:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "How MENA homegrown platforms are democratizing access to finance"
-        },
-        {
-          "title": "Brief History of Bench Jewelry",
-          "link": "https://internationaltimes.it/brief-history-of-bench-jewelry/",
-          "source": "internationaltimes.it",
-          "pubDate": "2026-08-08T08:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Brief History of Bench Jewelry"
-        },
-        {
-          "title": "Shani Abeysekara promoted to Deputy Inspector General of Police",
-          "link": "https://srilankamirror.com/news/shani-abeysekara-promoted-to-deputy-inspector-general-of-police/",
-          "source": "srilankamirror.com",
-          "pubDate": "2026-08-08T08:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Shani Abeysekara promoted to Deputy Inspector General of Police"
-        },
-        {
-          "title": "New legal guidance on protecting personal data in State institutions",
-          "link": "https://srilankamirror.com/news/new-legal-guidance-on-protecting-personal-data-in-state-institutions/",
-          "source": "srilankamirror.com",
-          "pubDate": "2026-08-08T08:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "New legal guidance on protecting personal data in State institutions"
-        },
-        {
-          "title": "Africa wants more homegrown solar to boost self - reliance , but China shadow remains",
-          "link": "https://www.stcatharinesstandard.ca/business/africa-wants-more-homegrown-solar-to-boost-self-reliance-but-chinas-shadow-remains/article_6cf5948f-333e-55be-8319-52e4b341e416.html",
-          "source": "stcatharinesstandard.ca",
-          "pubDate": "2026-08-08T08:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Africa wants more homegrown solar to boost self - reliance , but China shadow remains"
-        },
-        {
-          "title": "The full story of Hela Apparel collapse extending to Kenya – Sri Lanka Mirror – Right to Know . Power to Change",
-          "link": "https://srilankamirror.com/news/the-full-story-of-hela-apparels-collapse-extending-to-kenya/",
-          "source": "srilankamirror.com",
-          "pubDate": "2026-08-08T08:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The full story of Hela Apparel collapse extending to Kenya – Sri Lanka Mirror – Right to Know . Power to Change"
         }
       ]
     },
