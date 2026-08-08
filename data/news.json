@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-08T05:10:43.273Z",
-  "feedsChecked": 8,
+  "generatedAt": "2026-08-08T07:15:10.696Z",
+  "feedsChecked": 9,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
@@ -23,39 +23,30 @@
           "source": "ANSA English",
           "lang": "en",
           "titleIt": "The first Senegalese selected for the “New Destinies” project visited the embassy"
+        },
+        {
+          "title": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab",
+          "link": "https://www.crisisgroup.org/brf/africa/somalia/b212-new-chapter-same-stalemate-somalias-war-al-shabaab",
+          "description": "The Somali government’s battle with Al-Shabaab militants grinds on, with neither able to gain a decisive advantage. To improve its lot, Mogadishu needs to bolster its military and alleviate civilian suffering in areas under insurgent control, while looking for openings for dialogue with the group.",
+          "pubDate": "Tuesday, June 30, 2026 - 15:20",
+          "source": "Crisis Group",
+          "lang": "en",
+          "titleIt": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab"
+        },
+        {
+          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
+          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
+          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
+          "pubDate": "Saturday, May 16, 2026 - 00:08",
+          "source": "Crisis Group",
+          "lang": "en",
+          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
     "somaliland": {
       "title": "Dossier Somaliland",
       "items": [
-        {
-          "title": "Somaliland President Cirro Meets International Representatives in Nairobi to Discuss Security and Development",
-          "link": "https://horseedmedia.net/somaliland-president-cirro-meets-international-representatives-in-nairobi-to-discuss-security-and-development/424582/",
-          "source": "horseedmedia.net",
-          "pubDate": "2026-08-07T22:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Somaliland President Cirro Meets International Representatives in Nairobi to Discuss Security and Development"
-        },
-        {
-          "title": "Israeli Navy conducts largest drill since Oct . 7",
-          "link": "https://www.clevelandjewishnews.com/news/world_news/israeli-navy-conducts-largest-drill-since-oct-7/article_9e62e6ad-ec7f-58e1-8776-741d7a792d56.html",
-          "source": "clevelandjewishnews.com",
-          "pubDate": "2026-08-07T19:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Israeli Navy conducts largest drill since Oct . 7"
-        },
-        {
-          "title": "Riyadh Sudan Contradiction : Mediator by Day , Arms Broker by Night",
-          "link": "https://www.fairobserver.com/region/middle_east_north_africa/riyadhs-sudan-contradiction-mediator-by-day-arms-broker-by-night/",
-          "source": "fairobserver.com",
-          "pubDate": "2026-08-07T15:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Riyadh Sudan Contradiction : Mediator by Day , Arms Broker by Night"
-        },
         {
           "title": "Kenya: Murkomen Warns Against Illegal Use of Police Military, Style Uniforms",
           "link": "https://allafrica.com/stories/202608070502.html",
@@ -75,145 +66,82 @@
           "titleIt": "Ambassador Del Monaco Meets with the Governor of the Central Bank of Kenya"
         },
         {
-          "title": "Turkiye Erdogan visits Saudi Arabia : What to expect - Dominican Republic Post – Caribbean News , Business , Travel & Culture",
-          "link": "https://dominicanrepublicpost.com/turkiyes-erdogan-visits-saudi-arabia-what-to-expect/",
-          "source": "dominicanrepublicpost.com",
-          "pubDate": "2026-08-07T06:30:00Z",
+          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
+          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
+          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
+          "pubDate": "Saturday, May 16, 2026 - 00:08",
+          "source": "Crisis Group",
           "lang": "en",
-          "description": "",
-          "titleIt": "Turkiye Erdogan visits Saudi Arabia : What to expect - Dominican Republic Post – Caribbean News , Business , Travel & Culture"
-        },
-        {
-          "title": "Strategic Blunders Have Plagued Saudi Arabia Approach to the Middle East",
-          "link": "https://foreignpolicy.com/2026/08/05/saudi-arabia-iran-israel-united-states-trump-uae-oil-houthis/?tpcc=recirc_trending062921",
-          "source": "foreignpolicy.com",
-          "pubDate": "2026-08-06T19:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Strategic Blunders Have Plagued Saudi Arabia Approach to the Middle East"
-        },
-        {
-          "title": "The power to paralyze a country by sea : Israel Navy unveils new vision",
-          "link": "https://www.ynetnews.com/article/bk4fy7mugx",
-          "source": "ynetnews.com",
-          "pubDate": "2026-08-06T16:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The power to paralyze a country by sea : Israel Navy unveils new vision"
-        },
-        {
-          "title": "East Africa : Trump Horn Envoy Rejects  Anti - Ethiopian Alliance  Claims After Cairo Diplomatic Meetings",
-          "link": "https://allafrica.com/stories/202608060151.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-08-06T08:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "East Africa : Trump Horn Envoy Rejects  Anti - Ethiopian Alliance  Claims After Cairo Diplomatic Meetings"
-        },
-        {
-          "title": "Three Federal States , One Political Strategy , and Somalia Most Dangerous Gamble",
-          "link": "https://wardheernews.com/three-federal-states-one-political-strategy-and-somalias-most-dangerous-gamble/",
-          "source": "wardheernews.com",
-          "pubDate": "2026-08-06T05:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Three Federal States , One Political Strategy , and Somalia Most Dangerous Gamble"
-        },
-        {
-          "title": "RED SEA ATTACK : Indian Cargo Ship Sinks Off Yemen as Israel Boosts Naval Readiness",
-          "link": "https://www.theyeshivaworld.com/news/israel-news/2582738/red-sea-attack-indian-cargo-ship-sinks-off-yemen-as-israel-boosts-naval-readiness.html",
-          "source": "theyeshivaworld.com",
-          "pubDate": "2026-08-05T19:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "RED SEA ATTACK : Indian Cargo Ship Sinks Off Yemen as Israel Boosts Naval Readiness"
-        },
-        {
-          "title": "Bristol man accused of trying to join ISIS said  dying was not a problem , court told",
-          "link": "https://www.bristolpost.co.uk/news/bristol-news/bristol-man-accused-trying-join-11094389",
-          "source": "bristolpost.co.uk",
-          "pubDate": "2026-08-05T16:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Bristol man accused of trying to join ISIS said  dying was not a problem , court told"
-        },
-        {
-          "title": "Sudan : Liberal Peacebuilding and the Price of Impunity",
-          "link": "https://newpol.org/issue_post/sudan-liberal-peacebuilding-and-the-price-of-impunity/",
-          "source": "newpol.org",
-          "pubDate": "2026-08-04T19:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Sudan : Liberal Peacebuilding and the Price of Impunity"
-        },
-        {
-          "title": "Has the UAE meteoric rise reached its limit ?",
-          "link": "https://www.middleeasteye.net/opinion/has-uaes-meteoric-rise-reached-its-limit",
-          "source": "middleeasteye.net",
-          "pubDate": "2026-08-04T17:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Has the UAE meteoric rise reached its limit ?"
-        },
-        {
-          "title": "Genel Energy issues Results to 30th June | Iraq Business News",
-          "link": "https://www.iraq-businessnews.com/2026/08/04/genel-energy-issues-results-to-30th-june/",
-          "source": "iraq-businessnews.com",
-          "pubDate": "2026-08-04T10:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Genel Energy issues Results to 30th June | Iraq Business News"
-        },
-        {
-          "title": "Somalia : Whilst the World Debates Somaliland Recognition , Its Girls Remain Invisible",
-          "link": "https://allafrica.com/stories/202608040008.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-08-04T08:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Somalia : Whilst the World Debates Somaliland Recognition , Its Girls Remain Invisible"
-        },
-        {
-          "title": "Genel Energy PLC : Unaudited results for the period ended 30 June 2026 | Company Announcement",
-          "link": "https://www.investegate.co.uk/announcement/eqs/genel-energy--genl/genel-energy-plc-unaudited-results-for-the-p-/9702685",
-          "source": "investegate.co.uk",
-          "pubDate": "2026-08-04T08:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Genel Energy PLC : Unaudited results for the period ended 30 June 2026 | Company Announcement"
-        },
-        {
-          "title": "US Signs Deal To Expand Its Military Presence in Somalia Bosaso on the Gulf of Aden",
-          "link": "https://news.antiwar.com/2026/08/03/us-signs-deal-to-expand-its-military-presence-in-somalias-bosaso-on-the-gulf-of-aden/",
-          "source": "news.antiwar.com",
-          "pubDate": "2026-08-03T18:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "US Signs Deal To Expand Its Military Presence in Somalia Bosaso on the Gulf of Aden"
-        },
-        {
-          "title": "AUSSOM Funding Cliff Sends Somalia Mission to the UN",
-          "link": "https://www.riotimesonline.com/aussom-funding-un-security-council-somalia-2026/",
-          "source": "riotimesonline.com",
-          "pubDate": "2026-08-03T10:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "AUSSOM Funding Cliff Sends Somalia Mission to the UN"
-        },
-        {
-          "title": "Prime Minister Las Anod Visit Sparks Speculation as Federal Government Announces Revival of Historic 26th Military Command",
-          "link": "https://wardheernews.com/prime-ministers-las-anod-visit-sparks-speculation-as-federal-government-announces-revival-of-historic-26th-military-command/",
-          "source": "wardheernews.com",
-          "pubDate": "2026-08-02T20:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Prime Minister Las Anod Visit Sparks Speculation as Federal Government Announces Revival of Historic 26th Military Command"
+          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
     "ethiopia-sea-access": {
       "title": "Accesso etiope al mare",
       "items": [
+        {
+          "title": "JSE Listing Fuels Speculation Over Dangote South Africa Refinery Plans",
+          "link": "https://leadership.ng/jse-listing-fuels-speculation-over-dangotes-south-africa-refinery-plans-2/",
+          "source": "leadership.ng",
+          "pubDate": "2026-08-08T06:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "JSE Listing Fuels Speculation Over Dangote South Africa Refinery Plans"
+        },
+        {
+          "title": "A Premature Obituary : Semere Russom and the Fragile State of PFDJ Elite – Awate . com",
+          "link": "https://awate.com/a-premature-obituary-semere-russom-and-the-fragile-state-of-pfdjs-elite/",
+          "source": "awate.com",
+          "pubDate": "2026-08-08T06:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "A Premature Obituary : Semere Russom and the Fragile State of PFDJ Elite – Awate . com"
+        },
+        {
+          "title": "Israeli Navy conducts largest drill since Oct . 7",
+          "link": "https://www.clevelandjewishnews.com/news/world_news/israeli-navy-conducts-largest-drill-since-oct-7/article_9e62e6ad-ec7f-58e1-8776-741d7a792d56.html",
+          "source": "clevelandjewishnews.com",
+          "pubDate": "2026-08-07T19:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Israeli Navy conducts largest drill since Oct . 7"
+        },
+        {
+          "title": "India BRICS presidency tests its balancing act in a divided World",
+          "link": "https://weeklyblitz.net/2026/08/08/indias-brics-presidency-tests-its-balancing-act-in-a-divided-world/",
+          "source": "weeklyblitz.net",
+          "pubDate": "2026-08-07T19:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "India BRICS presidency tests its balancing act in a divided World"
+        },
+        {
+          "title": "U . S . wheat , rice shipment will feed 1 million in Kenya",
+          "link": "https://capitalpress.com/2026/08/07/u-s-wheat-rice-shipment-will-feed-1-million-in-kenya/",
+          "source": "capitalpress.com",
+          "pubDate": "2026-08-07T19:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "U . S . wheat , rice shipment will feed 1 million in Kenya"
+        },
+        {
+          "title": "Tigray civilians face fresh danger as clashes return , says Amnesty",
+          "link": "https://www.tamilguardian.com/content/tigray-civilians-face-fresh-danger-clashes-return-says-amnesty",
+          "source": "tamilguardian.com",
+          "pubDate": "2026-08-07T17:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Tigray civilians face fresh danger as clashes return , says Amnesty"
+        },
+        {
+          "title": "Rethinking the AU Somalia peace mission after US funding cuts",
+          "link": "https://horseedmedia.net/rethinking-the-aus-somalia-peace-mission-after-us-funding-cuts/424562/",
+          "source": "horseedmedia.net",
+          "pubDate": "2026-08-07T17:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Rethinking the AU Somalia peace mission after US funding cuts"
+        },
         {
           "title": "Centemero, 'porterò all'Onu candidatura di Milano come hub per governance etica IA'",
           "link": "https://www.ansa.it/ansamednew/ar/notizie/politica/2026/08/07/centemero-portero-allonu-candidatura-di-milano-come-hub-per-governance-etica_95da0875-17ed-4487-a5fc-c36c3418674f.html",
@@ -222,6 +150,15 @@
           "source": "ANSAmed (ar)",
           "lang": "ar",
           "titleIt": "Centemero, 'porterò all'Onu candidatura di Milano come hub per governance etica IA'"
+        },
+        {
+          "title": "Tanzania : CAF Champions League and Confederation Cup - Tz Envoys Learn Their Routes",
+          "link": "https://allafrica.com/stories/202608070320.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-08-07T15:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Tanzania : CAF Champions League and Confederation Cup - Tz Envoys Learn Their Routes"
         },
         {
           "title": "Malawi: MMC Publishing Offers Malawi Solution for Royalty Transparency Amid Cosoma Storm",
@@ -233,6 +170,15 @@
           "titleIt": "Malawi: MMC Publishing Offers Malawi Solution for Royalty Transparency Amid Cosoma Storm"
         },
         {
+          "title": "Swedish gummies , Parisian linens and Moroccan mint tea : what travel experts always bring home from their trips",
+          "link": "https://www.aol.co.uk/articles/swedish-gummies-parisian-linens-moroccan-140019000.html",
+          "source": "aol.co.uk",
+          "pubDate": "2026-08-07T14:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Swedish gummies , Parisian linens and Moroccan mint tea : what travel experts always bring home from their trips"
+        },
+        {
           "title": "Tanzania: Uganda, Tanzania Seal Deal to Develop Tanga Into Regional Energy Hub",
           "link": "https://allafrica.com/stories/202608070230.html",
           "description": "[Independent (Kampala)] Dar es Salaam -- President Yoweri Kaguta Museveni of Uganda and Samia Suluhu Hassan of Tanzania have endorsed a landmark Memorandum of Understanding (MoU) aimed at reshaping East Africa's energy economy by shifting the region's focus from crude oil exports to building an integrated regional energy and industrial hub.",
@@ -242,31 +188,76 @@
           "titleIt": "Tanzania: Uganda, Tanzania Seal Deal to Develop Tanga Into Regional Energy Hub"
         },
         {
-          "title": "Women in El-Obeid testify to rape during Sudan conflict",
-          "link": "http://www.africanews.com/2026/08/06/women-in-el-obeid-testify-to-rape-during-sudan-conflict/",
-          "description": "Displaced women living in a camp in El-Obeid, in North Kordofan, say they were raped by Rapid Support Forces (RSF) members in front of their children before fleeing.",
-          "pubDate": "Thu, 06 Aug 2026 16:38:32 +0000",
-          "source": "Africanews",
+          "title": "Electricity Is Capital , Not Just A Commodity Rethinking Nepal Electricity Strategy In The Era Of Surplus Power",
+          "link": "https://www.spotlightnepal.com/2026/08/07/electricity-capital-not-just-commodity-rethinking-nepals-electricity-strategy-era-surplus-power/",
+          "source": "spotlightnepal.com",
+          "pubDate": "2026-08-07T07:15:00Z",
           "lang": "en",
-          "titleIt": "Women in El-Obeid testify to rape during Sudan conflict"
+          "description": "",
+          "titleIt": "Electricity Is Capital , Not Just A Commodity Rethinking Nepal Electricity Strategy In The Era Of Surplus Power"
         },
         {
-          "title": "An Alliance for Vocational Training in Mozambique with Italy’s Support",
-          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/08/06/an-alliance-for-vocational-training-in-mozambique-with-italys-support_3ef414b4-467a-4e7b-8d2b-9a8910a23fe5.html",
-          "description": "(ANSA) - MAPUTO, 06 AGO - Mozambique’s Minister of Youth and Sports, Caifadine Paulo Manasse, opened the workshop “Alliance for the Future: Co-Investing in Training, Nurturing Talent,\" in Maputo Province on Thursday, August 6, calling for a new strategic partnership between the government, industry, and development partners, with the goal of transforming vocational training into a driver of industrialization and job creation. The event, organized by the Alberto Cassimo Institute for Vocational Training and Labor Studies (Ifpelac), is funded by the Italian government through the “Job Creation t",
-          "pubDate": "Thu, 6 Aug 2026 17:56:29 +0200",
-          "source": "ANSA English",
+          "title": "America Visa Bond Becomes Permanent on August 3 . Africa Will Feel It Most",
+          "link": "https://www.africa.com/headlines/americas-visa-bond-becomes-permanent-on-august-3-africa-will-feel-it-most",
+          "source": "africa.com",
+          "pubDate": "2026-08-07T00:00:00Z",
           "lang": "en",
-          "titleIt": "An Alliance for Vocational Training in Mozambique with Italy’s Support"
+          "description": "",
+          "titleIt": "America Visa Bond Becomes Permanent on August 3 . Africa Will Feel It Most"
         },
         {
-          "title": "Real Madrid sign Diomande in deal worth up to £120m",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c4g3906pz65o?at_medium=RSS&at_campaign=rss",
-          "description": "Real Madrid sign Ivory Coast international Yan Diomande from German side RB Leipzig for a fee worth up to 140m euros (£120m).",
-          "pubDate": "Thu, 06 Aug 2026 14:58:56 GMT",
-          "source": "BBC Africa",
+          "title": "IndyCar Race at the National Mall : Morning Links for August 6 , 2026",
+          "link": "https://www.artnews.com/art-news/news/john-galliano-at-the-met-raises-questions-uk-show-of-sarah-cunningham-paintings-planned-and-more-morning-links-for-august-6-2026-1234794410/",
+          "source": "artnews.com",
+          "pubDate": "2026-08-06T19:45:00Z",
           "lang": "en",
-          "titleIt": "Real Madrid sign Diomande in deal worth up to £120m"
+          "description": "",
+          "titleIt": "IndyCar Race at the National Mall : Morning Links for August 6 , 2026"
+        },
+        {
+          "title": "Strategic Blunders Have Plagued Saudi Arabia Approach to the Middle East",
+          "link": "https://foreignpolicy.com/2026/08/05/saudi-arabia-iran-israel-united-states-trump-uae-oil-houthis/?tpcc=recirc_trending062921",
+          "source": "foreignpolicy.com",
+          "pubDate": "2026-08-06T19:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Strategic Blunders Have Plagued Saudi Arabia Approach to the Middle East"
+        },
+        {
+          "title": "Egypt Declares Strong Opposition to New Ethiopian Nile Dams",
+          "link": "https://www.tanzanianewsreports.com/egypt-declares-strong-opposition-to-new-ethiopian-nile-dams/",
+          "source": "tanzanianewsreports.com",
+          "pubDate": "2026-08-06T19:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt Declares Strong Opposition to New Ethiopian Nile Dams"
+        },
+        {
+          "title": "Ethiopia : PM Abiy Inaugurates New Terminal At Bahir Dar Intl Airport",
+          "link": "https://allafrica.com/stories/202608060676.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-08-06T18:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia : PM Abiy Inaugurates New Terminal At Bahir Dar Intl Airport"
+        },
+        {
+          "title": "UN Watch Slams Eritrea UN Rights Forum Chair",
+          "link": "https://www.miragenews.com/un-watch-slams-eritreas-un-rights-forum-chair-1723205/",
+          "source": "miragenews.com",
+          "pubDate": "2026-08-06T17:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "UN Watch Slams Eritrea UN Rights Forum Chair"
+        },
+        {
+          "title": "BRICS Culture Working Group meeting begins in Bhopal",
+          "link": "https://www.ummid.com/news/2026/8/6/brics-culture-working-group-meeting-begins-in-bhopal.html",
+          "source": "ummid.com",
+          "pubDate": "2026-08-06T17:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "BRICS Culture Working Group meeting begins in Bhopal"
         }
       ]
     },
@@ -274,13 +265,184 @@
       "title": "Fragilità economica egiziana",
       "items": [
         {
-          "title": "The first Senegalese selected for the “New Destinies” project visited the embassy",
-          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/08/07/the-first-senegalese-selected-for-the-new-destinies-project-visited_4bf68272-c586-47bf-bc20-f242c1b3b863.html",
-          "description": "(ANSA) - IL CAIRO, 07 AGO - The Italian Ambassador to Dakar, Michele Tommasi, welcomed the first twelve Senegalese workers who will soon take part in the “New Destinies – New Horizons” project in Italy, in the presence of representatives from institutions, training organizations, and partners involved in the initiative. The program, managed by Umana, an Italian agency specializing in employment services, recruitment, and vocational training, was developed in collaboration with the Italian Confederation of Trade Unions (CISL) in Venice, the National Association Beyond Borders (ANOLF) in Venice,",
-          "pubDate": "Fri, 7 Aug 2026 12:08:40 +0200",
-          "source": "ANSA English",
+          "title": "Breakthrough possible on Strait of Hormuz as Iran finalizes deal",
+          "link": "http://www.sydneysun.com/news/279225268/iran-nears-strait-of-hormuz-deal-as-trump-signals-announcement",
+          "source": "sydneysun.com",
+          "pubDate": "2026-08-08T06:45:00Z",
           "lang": "en",
-          "titleIt": "The first Senegalese selected for the “New Destinies” project visited the embassy"
+          "description": "",
+          "titleIt": "Breakthrough possible on Strait of Hormuz as Iran finalizes deal"
+        },
+        {
+          "title": "Breakthrough possible on Strait of Hormuz as Iran finalizes deal",
+          "link": "http://www.coloradostar.com/news/279225268/iran-nears-strait-of-hormuz-deal-as-trump-signals-announcement",
+          "source": "coloradostar.com",
+          "pubDate": "2026-08-08T06:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Breakthrough possible on Strait of Hormuz as Iran finalizes deal"
+        },
+        {
+          "title": "Breakthrough possible on Strait of Hormuz as Iran finalizes deal",
+          "link": "http://www.stlouisstar.com/news/279225268/iran-nears-strait-of-hormuz-deal-as-trump-signals-announcement",
+          "source": "stlouisstar.com",
+          "pubDate": "2026-08-08T06:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Breakthrough possible on Strait of Hormuz as Iran finalizes deal"
+        },
+        {
+          "title": "Breakthrough possible on Strait of Hormuz as Iran finalizes deal",
+          "link": "http://www.africaleader.com/news/279225268/iran-nears-strait-of-hormuz-deal-as-trump-signals-announcement",
+          "source": "africaleader.com",
+          "pubDate": "2026-08-08T06:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Breakthrough possible on Strait of Hormuz as Iran finalizes deal"
+        },
+        {
+          "title": "Breakthrough possible on Strait of Hormuz as Iran finalizes deal",
+          "link": "http://www.singaporestar.com/news/279225268/iran-nears-strait-of-hormuz-deal-as-trump-signals-announcement",
+          "source": "singaporestar.com",
+          "pubDate": "2026-08-08T06:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Breakthrough possible on Strait of Hormuz as Iran finalizes deal"
+        },
+        {
+          "title": "Breakthrough possible on Strait of Hormuz as Iran finalizes deal",
+          "link": "http://www.neworleanssun.com/news/279225268/iran-nears-strait-of-hormuz-deal-as-trump-signals-announcement",
+          "source": "neworleanssun.com",
+          "pubDate": "2026-08-08T06:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Breakthrough possible on Strait of Hormuz as Iran finalizes deal"
+        },
+        {
+          "title": "Breakthrough possible on Strait of Hormuz as Iran finalizes deal",
+          "link": "http://www.middleeaststar.com/news/279225268/iran-nears-strait-of-hormuz-deal-as-trump-signals-announcement",
+          "source": "middleeaststar.com",
+          "pubDate": "2026-08-08T06:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Breakthrough possible on Strait of Hormuz as Iran finalizes deal"
+        },
+        {
+          "title": "Breakthrough possible on Strait of Hormuz as Iran finalizes deal",
+          "link": "http://www.clevelandstar.com/news/279225268/iran-nears-strait-of-hormuz-deal-as-trump-signals-announcement",
+          "source": "clevelandstar.com",
+          "pubDate": "2026-08-08T06:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Breakthrough possible on Strait of Hormuz as Iran finalizes deal"
+        },
+        {
+          "title": "Breakthrough possible on Strait of Hormuz as Iran finalizes deal",
+          "link": "http://www.hongkongherald.com/news/279225268/iran-nears-strait-of-hormuz-deal-as-trump-signals-announcement",
+          "source": "hongkongherald.com",
+          "pubDate": "2026-08-08T06:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Breakthrough possible on Strait of Hormuz as Iran finalizes deal"
+        },
+        {
+          "title": "Breakthrough possible on Strait of Hormuz as Iran finalizes deal",
+          "link": "http://www.orlandoecho.com/news/279225268/iran-nears-strait-of-hormuz-deal-as-trump-signals-announcement",
+          "source": "orlandoecho.com",
+          "pubDate": "2026-08-08T06:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Breakthrough possible on Strait of Hormuz as Iran finalizes deal"
+        },
+        {
+          "title": "Breakthrough possible on Strait of Hormuz as Iran finalizes deal",
+          "link": "http://www.azerbaijannews.net/news/279225268/iran-oman-strait-of-hormuz-agreement-close-u-s-too-hints-at-deal",
+          "source": "azerbaijannews.net",
+          "pubDate": "2026-08-08T06:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Breakthrough possible on Strait of Hormuz as Iran finalizes deal"
+        },
+        {
+          "title": "Breakthrough possible on Strait of Hormuz as Iran finalizes deal",
+          "link": "http://www.afghanistannews.net/news/279225268/iran-oman-strait-of-hormuz-agreement-close-u-s-too-hints-at-deal",
+          "source": "afghanistannews.net",
+          "pubDate": "2026-08-08T06:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Breakthrough possible on Strait of Hormuz as Iran finalizes deal"
+        },
+        {
+          "title": "Viking ( NYSE : VIK ) Hits New 12 - Month High on Analyst Upgrade",
+          "link": "https://www.themarketsdaily.com/2026/08/08/viking-nysevik-hits-new-12-month-high-on-analyst-upgrade.html",
+          "source": "themarketsdaily.com",
+          "pubDate": "2026-08-08T05:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Viking ( NYSE : VIK ) Hits New 12 - Month High on Analyst Upgrade"
+        },
+        {
+          "title": "Breakthrough possible on Strait of Hormuz as Iran finalizes deal",
+          "link": "http://www.nigeriasun.com/news/279225268/iran-nears-strait-of-hormuz-deal-as-trump-signals-announcement",
+          "source": "nigeriasun.com",
+          "pubDate": "2026-08-08T05:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Breakthrough possible on Strait of Hormuz as Iran finalizes deal"
+        },
+        {
+          "title": "Breakthrough possible on Strait of Hormuz as Iran finalizes deal",
+          "link": "http://www.indiagazette.com/news/279225268/iran-nears-strait-of-hormuz-deal-as-trump-signals-announcement",
+          "source": "indiagazette.com",
+          "pubDate": "2026-08-08T05:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Breakthrough possible on Strait of Hormuz as Iran finalizes deal"
+        },
+        {
+          "title": "Breakthrough possible on Strait of Hormuz as Iran finalizes deal",
+          "link": "http://www.philippinetimes.com/news/279225268/iran-nears-strait-of-hormuz-deal-as-trump-signals-announcement",
+          "source": "philippinetimes.com",
+          "pubDate": "2026-08-08T05:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Breakthrough possible on Strait of Hormuz as Iran finalizes deal"
+        },
+        {
+          "title": "Breakthrough possible on Strait of Hormuz as Iran finalizes deal",
+          "link": "http://www.sierraleonetimes.com/news/279225268/iran-nears-strait-of-hormuz-deal-as-trump-signals-announcement",
+          "source": "sierraleonetimes.com",
+          "pubDate": "2026-08-08T05:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Breakthrough possible on Strait of Hormuz as Iran finalizes deal"
+        },
+        {
+          "title": "Breakthrough possible on Strait of Hormuz as Iran finalizes deal",
+          "link": "http://www.bruneinews.net/news/279225268/iran-oman-strait-of-hormuz-agreement-close-u-s-too-hints-at-deal",
+          "source": "bruneinews.net",
+          "pubDate": "2026-08-08T05:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Breakthrough possible on Strait of Hormuz as Iran finalizes deal"
+        },
+        {
+          "title": "India Opposes BRICS Currency Plan , Commerce Minister Piyush Goyal Says New Delhi Does Not Support Scheme",
+          "link": "https://www.freepressjournal.in/business/india-opposes-brics-currency-plan-commerce-minister-piyush-goyal-says-new-delhi-does-not-support-scheme",
+          "source": "freepressjournal.in",
+          "pubDate": "2026-08-08T05:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "India Opposes BRICS Currency Plan , Commerce Minister Piyush Goyal Says New Delhi Does Not Support Scheme"
+        },
+        {
+          "title": "Breakthrough possible on Strait of Hormuz as Iran finalizes deal",
+          "link": "http://www.phoenixherald.com/news/279225268/iran-nears-strait-of-hormuz-deal-as-trump-signals-announcement",
+          "source": "phoenixherald.com",
+          "pubDate": "2026-08-08T05:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Breakthrough possible on Strait of Hormuz as Iran finalizes deal"
         }
       ]
     },
