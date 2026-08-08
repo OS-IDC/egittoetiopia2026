@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T10:52:10.328Z",
+  "generatedAt": "2026-08-08T13:11:55.850Z",
   "feedsChecked": 8,
   "feedsAttempted": 10,
   "topics": {
@@ -30,63 +30,31 @@
       "title": "Dossier Somaliland",
       "items": [
         {
-          "title": "Kenya: Murkomen Warns Against Illegal Use of Police Military, Style Uniforms",
-          "link": "https://allafrica.com/stories/202608070502.html",
-          "description": "[Capital FM] Nairobi -- Interior Cabinet Secretary Kipchumba Murkomen has directed Inspector General of Police Douglas Kanja to move with speed against individuals wearing camouflage and other security-style uniforms while allegedly posing as police officers or members of specialised security units.",
-          "pubDate": "Fri, 07 Aug 2026 13:15:59 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Kenya: Murkomen Warns Against Illegal Use of Police Military, Style Uniforms"
-        },
-        {
-          "title": "Kenya: Aliko Dangote - Kenya Among 10 Promising African Countries for Investment",
-          "link": "https://allafrica.com/stories/202608070460.html",
-          "description": "[Capital FM] Africa's richest man Aliko Dangote has mentioned Kenya as one of the top 10 African countries for investment, citing the opportunities available across the continent.",
-          "pubDate": "Fri, 07 Aug 2026 12:50:47 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Kenya: Aliko Dangote - Kenya Among 10 Promising African Countries for Investment"
-        },
-        {
-          "title": "Ambassador Del Monaco Meets with the Governor of the Central Bank of Kenya",
-          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/08/07/ambassador-del-monaco-meets-with-the-governor-of-the-central-bank_98723a78-8014-4ced-9f2f-a463887f1000.html",
-          "description": "(ANSA) - ROMA, 07 AGO - The Italian Ambassador to the Republic of Kenya and the Seychelles, Vincenzo Del Monaco, met with the Governor of the Central Bank of Kenya, Kamau Thugge, with whom he had “an important exchange of information.” “It was an opportunity to discuss the country’s economic situation,” the embassy noted, “and the growing bilateral relationship between Italy and Kenya.” Read article...",
-          "pubDate": "Fri, 7 Aug 2026 10:59:36 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "Ambassador Del Monaco Meets with the Governor of the Central Bank of Kenya"
-        }
-      ]
-    },
-    "ethiopia-sea-access": {
-      "title": "Accesso etiope al mare",
-      "items": [
-        {
-          "title": "Somalia early troop exit rethink as US funding cut hits AU mission",
-          "link": "https://www.riotimesonline.com/somalia-early-troop-exit-rethink-us-funding-cut-2026/",
-          "source": "riotimesonline.com",
-          "pubDate": "2026-08-08T08:30:00Z",
+          "title": "Flashpoint : Military Or Diplomacy ? Horn Of Africa Geopolitical Alliances Reach Tipping Point",
+          "link": "https://www.thereporterethiopia.com/52198/",
+          "source": "thereporterethiopia.com",
+          "pubDate": "2026-08-08T10:45:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Somalia early troop exit rethink as US funding cut hits AU mission"
+          "titleIt": "Flashpoint : Military Or Diplomacy ? Horn Of Africa Geopolitical Alliances Reach Tipping Point"
         },
         {
-          "title": "JSE Listing Fuels Speculation Over Dangote South Africa Refinery Plans",
-          "link": "https://leadership.ng/jse-listing-fuels-speculation-over-dangotes-south-africa-refinery-plans-2/",
-          "source": "leadership.ng",
-          "pubDate": "2026-08-08T06:15:00Z",
+          "title": "Who Owns the Credit ? Minister Presents World Bank – Funded Hargeisa Project as a Federal Government Initiative",
+          "link": "https://wardheernews.com/who-owns-the-credit-minister-presents-world-bank-funded-hargeisa-project-as-a-federal-government-initiative/",
+          "source": "wardheernews.com",
+          "pubDate": "2026-08-08T09:00:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "JSE Listing Fuels Speculation Over Dangote South Africa Refinery Plans"
+          "titleIt": "Who Owns the Credit ? Minister Presents World Bank – Funded Hargeisa Project as a Federal Government Initiative"
         },
         {
-          "title": "A Premature Obituary : Semere Russom and the Fragile State of PFDJ Elite – Awate . com",
-          "link": "https://awate.com/a-premature-obituary-semere-russom-and-the-fragile-state-of-pfdjs-elite/",
-          "source": "awate.com",
-          "pubDate": "2026-08-08T06:00:00Z",
+          "title": "Somaliland President Cirro Meets International Representatives in Nairobi to Discuss Security and Development",
+          "link": "https://horseedmedia.net/somaliland-president-cirro-meets-international-representatives-in-nairobi-to-discuss-security-and-development/424582/",
+          "source": "horseedmedia.net",
+          "pubDate": "2026-08-07T22:15:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "A Premature Obituary : Semere Russom and the Fragile State of PFDJ Elite – Awate . com"
+          "titleIt": "Somaliland President Cirro Meets International Representatives in Nairobi to Discuss Security and Development"
         },
         {
           "title": "Israeli Navy conducts largest drill since Oct . 7",
@@ -98,112 +66,40 @@
           "titleIt": "Israeli Navy conducts largest drill since Oct . 7"
         },
         {
-          "title": "India BRICS presidency tests its balancing act in a divided World",
-          "link": "https://weeklyblitz.net/2026/08/08/indias-brics-presidency-tests-its-balancing-act-in-a-divided-world/",
-          "source": "weeklyblitz.net",
-          "pubDate": "2026-08-07T19:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "India BRICS presidency tests its balancing act in a divided World"
-        },
-        {
-          "title": "U . S . wheat , rice shipment will feed 1 million in Kenya",
-          "link": "https://capitalpress.com/2026/08/07/u-s-wheat-rice-shipment-will-feed-1-million-in-kenya/",
-          "source": "capitalpress.com",
-          "pubDate": "2026-08-07T19:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "U . S . wheat , rice shipment will feed 1 million in Kenya"
-        },
-        {
-          "title": "Tigray civilians face fresh danger as clashes return , says Amnesty",
-          "link": "https://www.tamilguardian.com/content/tigray-civilians-face-fresh-danger-clashes-return-says-amnesty",
-          "source": "tamilguardian.com",
-          "pubDate": "2026-08-07T17:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Tigray civilians face fresh danger as clashes return , says Amnesty"
-        },
-        {
-          "title": "Rethinking the AU Somalia peace mission after US funding cuts",
-          "link": "https://horseedmedia.net/rethinking-the-aus-somalia-peace-mission-after-us-funding-cuts/424562/",
-          "source": "horseedmedia.net",
-          "pubDate": "2026-08-07T17:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Rethinking the AU Somalia peace mission after US funding cuts"
-        },
-        {
-          "title": "Centemero, 'porterò all'Onu candidatura di Milano come hub per governance etica IA'",
-          "link": "https://www.ansa.it/ansamednew/ar/notizie/politica/2026/08/07/centemero-portero-allonu-candidatura-di-milano-come-hub-per-governance-etica_95da0875-17ed-4487-a5fc-c36c3418674f.html",
-          "description": "(ANSA) - ROMA, 07 AGO - \"L'Italia ha davanti un'opportunità strategica: non limitarsi a partecipare al dibattito sull'intelligenza artificiale, ma contribuire a costruirne la futura governance globale. Il policy paper dell'American Chamber of Commerce in Italy e il successivo intervento del managing director Simone Crolla indicano una strada concreta: candidare Milano a ospitare una futura piattaforma o organismo delle Nazioni Unite dedicato alla governance etica dell'intelligenza artificiale. È una proposta che condivido pienamente\". Lo afferma il deputato della Lega Giulio Centemero, preside",
-          "pubDate": "Fri, 7 Aug 2026 19:14:25 +0200",
-          "source": "ANSAmed (ar)",
-          "lang": "ar",
-          "titleIt": "Centemero, 'porterò all'Onu candidatura di Milano come hub per governance etica IA'"
-        },
-        {
-          "title": "Tanzania : CAF Champions League and Confederation Cup - Tz Envoys Learn Their Routes",
-          "link": "https://allafrica.com/stories/202608070320.html",
-          "source": "allafrica.com",
+          "title": "Riyadh Sudan Contradiction : Mediator by Day , Arms Broker by Night",
+          "link": "https://www.fairobserver.com/region/middle_east_north_africa/riyadhs-sudan-contradiction-mediator-by-day-arms-broker-by-night/",
+          "source": "fairobserver.com",
           "pubDate": "2026-08-07T15:15:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Tanzania : CAF Champions League and Confederation Cup - Tz Envoys Learn Their Routes"
+          "titleIt": "Riyadh Sudan Contradiction : Mediator by Day , Arms Broker by Night"
         },
         {
-          "title": "Malawi: MMC Publishing Offers Malawi Solution for Royalty Transparency Amid Cosoma Storm",
-          "link": "https://allafrica.com/stories/202608070536.html",
-          "description": "[Nyasa Times] The country's pioneer music listening and monitoring digital platform, Malawi-Music.com (MMC), has offered to support the Copyright Society of Malawi (COSOMA) and the country's musicians in resolving royalty-sharing disputes stemming from a lack of proper monitoring.",
-          "pubDate": "Fri, 07 Aug 2026 14:36:41 GMT",
+          "title": "Kenya: Murkomen Warns Against Illegal Use of Police Military, Style Uniforms",
+          "link": "https://allafrica.com/stories/202608070502.html",
+          "description": "[Capital FM] Nairobi -- Interior Cabinet Secretary Kipchumba Murkomen has directed Inspector General of Police Douglas Kanja to move with speed against individuals wearing camouflage and other security-style uniforms while allegedly posing as police officers or members of specialised security units.",
+          "pubDate": "Fri, 07 Aug 2026 13:15:59 GMT",
           "source": "AllAfrica",
           "lang": "en",
-          "titleIt": "Malawi: MMC Publishing Offers Malawi Solution for Royalty Transparency Amid Cosoma Storm"
+          "titleIt": "Kenya: Murkomen Warns Against Illegal Use of Police Military, Style Uniforms"
         },
         {
-          "title": "Swedish gummies , Parisian linens and Moroccan mint tea : what travel experts always bring home from their trips",
-          "link": "https://www.aol.co.uk/articles/swedish-gummies-parisian-linens-moroccan-140019000.html",
-          "source": "aol.co.uk",
-          "pubDate": "2026-08-07T14:30:00Z",
+          "title": "Ambassador Del Monaco Meets with the Governor of the Central Bank of Kenya",
+          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/08/07/ambassador-del-monaco-meets-with-the-governor-of-the-central-bank_98723a78-8014-4ced-9f2f-a463887f1000.html",
+          "description": "(ANSA) - ROMA, 07 AGO - The Italian Ambassador to the Republic of Kenya and the Seychelles, Vincenzo Del Monaco, met with the Governor of the Central Bank of Kenya, Kamau Thugge, with whom he had “an important exchange of information.” “It was an opportunity to discuss the country’s economic situation,” the embassy noted, “and the growing bilateral relationship between Italy and Kenya.” Read article...",
+          "pubDate": "Fri, 7 Aug 2026 10:59:36 +0200",
+          "source": "ANSA English",
+          "lang": "en",
+          "titleIt": "Ambassador Del Monaco Meets with the Governor of the Central Bank of Kenya"
+        },
+        {
+          "title": "Turkiye Erdogan visits Saudi Arabia : What to expect - Dominican Republic Post – Caribbean News , Business , Travel & Culture",
+          "link": "https://dominicanrepublicpost.com/turkiyes-erdogan-visits-saudi-arabia-what-to-expect/",
+          "source": "dominicanrepublicpost.com",
+          "pubDate": "2026-08-07T06:30:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Swedish gummies , Parisian linens and Moroccan mint tea : what travel experts always bring home from their trips"
-        },
-        {
-          "title": "Sudan: Trauma Healing Workshop Supports 41 Sudanese Refugee Women and Youth in Uganda",
-          "link": "https://allafrica.com/stories/202608070407.html",
-          "description": "[Darfur Network for Human Rights] A trauma healing and psychosocial support training reached 41 Sudanese women and youth on 3-4 August 2026. Organizers delivered the training across two groups: 20 participants on the first day and 21 on the second. All were survivors directly affected by the war in Sudan, now living as refugees in Uganda. Most came from Darfur and South Kordofan, regions heavily affected by the ongoing conflict.",
-          "pubDate": "Fri, 07 Aug 2026 12:43:18 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Sudan: Trauma Healing Workshop Supports 41 Sudanese Refugee Women and Youth in Uganda"
-        },
-        {
-          "title": "Electricity Is Capital , Not Just A Commodity Rethinking Nepal Electricity Strategy In The Era Of Surplus Power",
-          "link": "https://www.spotlightnepal.com/2026/08/07/electricity-capital-not-just-commodity-rethinking-nepals-electricity-strategy-era-surplus-power/",
-          "source": "spotlightnepal.com",
-          "pubDate": "2026-08-07T07:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Electricity Is Capital , Not Just A Commodity Rethinking Nepal Electricity Strategy In The Era Of Surplus Power"
-        },
-        {
-          "title": "America Visa Bond Becomes Permanent on August 3 . Africa Will Feel It Most",
-          "link": "https://www.africa.com/headlines/americas-visa-bond-becomes-permanent-on-august-3-africa-will-feel-it-most",
-          "source": "africa.com",
-          "pubDate": "2026-08-07T00:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "America Visa Bond Becomes Permanent on August 3 . Africa Will Feel It Most"
-        },
-        {
-          "title": "IndyCar Race at the National Mall : Morning Links for August 6 , 2026",
-          "link": "https://www.artnews.com/art-news/news/john-galliano-at-the-met-raises-questions-uk-show-of-sarah-cunningham-paintings-planned-and-more-morning-links-for-august-6-2026-1234794410/",
-          "source": "artnews.com",
-          "pubDate": "2026-08-06T19:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "IndyCar Race at the National Mall : Morning Links for August 6 , 2026"
+          "titleIt": "Turkiye Erdogan visits Saudi Arabia : What to expect - Dominican Republic Post – Caribbean News , Business , Travel & Culture"
         },
         {
           "title": "Strategic Blunders Have Plagued Saudi Arabia Approach to the Middle East",
@@ -215,37 +111,240 @@
           "titleIt": "Strategic Blunders Have Plagued Saudi Arabia Approach to the Middle East"
         },
         {
-          "title": "Egypt Declares Strong Opposition to New Ethiopian Nile Dams",
-          "link": "https://www.tanzanianewsreports.com/egypt-declares-strong-opposition-to-new-ethiopian-nile-dams/",
-          "source": "tanzanianewsreports.com",
-          "pubDate": "2026-08-06T19:45:00Z",
+          "title": "The power to paralyze a country by sea : Israel Navy unveils new vision",
+          "link": "https://www.ynetnews.com/article/bk4fy7mugx",
+          "source": "ynetnews.com",
+          "pubDate": "2026-08-06T16:15:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Egypt Declares Strong Opposition to New Ethiopian Nile Dams"
+          "titleIt": "The power to paralyze a country by sea : Israel Navy unveils new vision"
         },
         {
-          "title": "Ethiopia : PM Abiy Inaugurates New Terminal At Bahir Dar Intl Airport",
-          "link": "https://allafrica.com/stories/202608060676.html",
+          "title": "East Africa : Trump Horn Envoy Rejects  Anti - Ethiopian Alliance  Claims After Cairo Diplomatic Meetings",
+          "link": "https://allafrica.com/stories/202608060151.html",
           "source": "allafrica.com",
-          "pubDate": "2026-08-06T18:30:00Z",
+          "pubDate": "2026-08-06T08:15:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Ethiopia : PM Abiy Inaugurates New Terminal At Bahir Dar Intl Airport"
+          "titleIt": "East Africa : Trump Horn Envoy Rejects  Anti - Ethiopian Alliance  Claims After Cairo Diplomatic Meetings"
         },
         {
-          "title": "UN Watch Slams Eritrea UN Rights Forum Chair",
-          "link": "https://www.miragenews.com/un-watch-slams-eritreas-un-rights-forum-chair-1723205/",
-          "source": "miragenews.com",
-          "pubDate": "2026-08-06T17:30:00Z",
+          "title": "Three Federal States , One Political Strategy , and Somalia Most Dangerous Gamble",
+          "link": "https://wardheernews.com/three-federal-states-one-political-strategy-and-somalias-most-dangerous-gamble/",
+          "source": "wardheernews.com",
+          "pubDate": "2026-08-06T05:00:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "UN Watch Slams Eritrea UN Rights Forum Chair"
+          "titleIt": "Three Federal States , One Political Strategy , and Somalia Most Dangerous Gamble"
+        },
+        {
+          "title": "RED SEA ATTACK : Indian Cargo Ship Sinks Off Yemen as Israel Boosts Naval Readiness",
+          "link": "https://www.theyeshivaworld.com/news/israel-news/2582738/red-sea-attack-indian-cargo-ship-sinks-off-yemen-as-israel-boosts-naval-readiness.html",
+          "source": "theyeshivaworld.com",
+          "pubDate": "2026-08-05T19:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "RED SEA ATTACK : Indian Cargo Ship Sinks Off Yemen as Israel Boosts Naval Readiness"
+        },
+        {
+          "title": "Bristol man accused of trying to join ISIS said  dying was not a problem , court told",
+          "link": "https://www.bristolpost.co.uk/news/bristol-news/bristol-man-accused-trying-join-11094389",
+          "source": "bristolpost.co.uk",
+          "pubDate": "2026-08-05T16:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Bristol man accused of trying to join ISIS said  dying was not a problem , court told"
+        },
+        {
+          "title": "Sudan : Liberal Peacebuilding and the Price of Impunity",
+          "link": "https://newpol.org/issue_post/sudan-liberal-peacebuilding-and-the-price-of-impunity/",
+          "source": "newpol.org",
+          "pubDate": "2026-08-04T19:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Sudan : Liberal Peacebuilding and the Price of Impunity"
+        },
+        {
+          "title": "Has the UAE meteoric rise reached its limit ?",
+          "link": "https://www.middleeasteye.net/opinion/has-uaes-meteoric-rise-reached-its-limit",
+          "source": "middleeasteye.net",
+          "pubDate": "2026-08-04T17:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Has the UAE meteoric rise reached its limit ?"
+        },
+        {
+          "title": "Genel Energy issues Results to 30th June | Iraq Business News",
+          "link": "https://www.iraq-businessnews.com/2026/08/04/genel-energy-issues-results-to-30th-june/",
+          "source": "iraq-businessnews.com",
+          "pubDate": "2026-08-04T10:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Genel Energy issues Results to 30th June | Iraq Business News"
+        },
+        {
+          "title": "Somalia : Whilst the World Debates Somaliland Recognition , Its Girls Remain Invisible",
+          "link": "https://allafrica.com/stories/202608040008.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-08-04T08:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Somalia : Whilst the World Debates Somaliland Recognition , Its Girls Remain Invisible"
+        },
+        {
+          "title": "Genel Energy PLC : Unaudited results for the period ended 30 June 2026 | Company Announcement",
+          "link": "https://www.investegate.co.uk/announcement/eqs/genel-energy--genl/genel-energy-plc-unaudited-results-for-the-p-/9702685",
+          "source": "investegate.co.uk",
+          "pubDate": "2026-08-04T08:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Genel Energy PLC : Unaudited results for the period ended 30 June 2026 | Company Announcement"
+        },
+        {
+          "title": "US Signs Deal To Expand Its Military Presence in Somalia Bosaso on the Gulf of Aden",
+          "link": "https://news.antiwar.com/2026/08/03/us-signs-deal-to-expand-its-military-presence-in-somalias-bosaso-on-the-gulf-of-aden/",
+          "source": "news.antiwar.com",
+          "pubDate": "2026-08-03T18:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "US Signs Deal To Expand Its Military Presence in Somalia Bosaso on the Gulf of Aden"
+        }
+      ]
+    },
+    "ethiopia-sea-access": {
+      "title": "Accesso etiope al mare",
+      "items": [
+        {
+          "title": "Hormuz: ministro Esteri Iran, \"vicini ad accordo con Oman su nuova rotta marittima\"",
+          "link": "https://www.agenzianova.com/a/6a772b181ad786.54645423/7683236/2026-08-08/hormuz-ministro-esteri-iran-vicini-ad-accordo-con-oman-su-nuova-rotta-marittima",
+          "description": "08 ago 13:54 - (Agenzia Nova) - Iran e Oman \"sono molto vicini a raggiungere un accordo su una nuova rotta marittima nello Stretto di Hormuz\".... (Irb)",
+          "pubDate": "2026-08-08T13:54:53+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Hormuz: ministro Esteri Iran, \"vicini ad accordo con Oman su nuova rotta marittima\""
+        },
+        {
+          "title": "Centemero, 'porterò all'Onu candidatura di Milano come hub per governance etica IA'",
+          "link": "https://www.ansa.it/ansamednew/ar/notizie/politica/2026/08/07/centemero-portero-allonu-candidatura-di-milano-come-hub-per-governance-etica_95da0875-17ed-4487-a5fc-c36c3418674f.html",
+          "description": "(ANSA) - ROMA, 07 AGO - \"L'Italia ha davanti un'opportunità strategica: non limitarsi a partecipare al dibattito sull'intelligenza artificiale, ma contribuire a costruirne la futura governance globale. Il policy paper dell'American Chamber of Commerce in Italy e il successivo intervento del managing director Simone Crolla indicano una strada concreta: candidare Milano a ospitare una futura piattaforma o organismo delle Nazioni Unite dedicato alla governance etica dell'intelligenza artificiale. È una proposta che condivido pienamente\". Lo afferma il deputato della Lega Giulio Centemero, preside",
+          "pubDate": "Fri, 7 Aug 2026 19:14:25 +0200",
+          "source": "ANSAmed (ar)",
+          "lang": "ar",
+          "titleIt": "Centemero, 'porterò all'Onu candidatura di Milano come hub per governance etica IA'"
+        },
+        {
+          "title": "Malawi: MMC Publishing Offers Malawi Solution for Royalty Transparency Amid Cosoma Storm",
+          "link": "https://allafrica.com/stories/202608070536.html",
+          "description": "[Nyasa Times] The country's pioneer music listening and monitoring digital platform, Malawi-Music.com (MMC), has offered to support the Copyright Society of Malawi (COSOMA) and the country's musicians in resolving royalty-sharing disputes stemming from a lack of proper monitoring.",
+          "pubDate": "Fri, 07 Aug 2026 14:36:41 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Malawi: MMC Publishing Offers Malawi Solution for Royalty Transparency Amid Cosoma Storm"
+        },
+        {
+          "title": "Women in El-Obeid testify to rape during Sudan conflict",
+          "link": "http://www.africanews.com/2026/08/06/women-in-el-obeid-testify-to-rape-during-sudan-conflict/",
+          "description": "Displaced women living in a camp in El-Obeid, in North Kordofan, say they were raped by Rapid Support Forces (RSF) members in front of their children before fleeing.",
+          "pubDate": "Thu, 06 Aug 2026 16:38:32 +0000",
+          "source": "Africanews",
+          "lang": "en",
+          "titleIt": "Women in El-Obeid testify to rape during Sudan conflict"
+        },
+        {
+          "title": "An Alliance for Vocational Training in Mozambique with Italy’s Support",
+          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/08/06/an-alliance-for-vocational-training-in-mozambique-with-italys-support_3ef414b4-467a-4e7b-8d2b-9a8910a23fe5.html",
+          "description": "(ANSA) - MAPUTO, 06 AGO - Mozambique’s Minister of Youth and Sports, Caifadine Paulo Manasse, opened the workshop “Alliance for the Future: Co-Investing in Training, Nurturing Talent,\" in Maputo Province on Thursday, August 6, calling for a new strategic partnership between the government, industry, and development partners, with the goal of transforming vocational training into a driver of industrialization and job creation. The event, organized by the Alberto Cassimo Institute for Vocational Training and Labor Studies (Ifpelac), is funded by the Italian government through the “Job Creation t",
+          "pubDate": "Thu, 6 Aug 2026 17:56:29 +0200",
+          "source": "ANSA English",
+          "lang": "en",
+          "titleIt": "An Alliance for Vocational Training in Mozambique with Italy’s Support"
+        },
+        {
+          "title": "Real Madrid sign Diomande in deal worth up to £120m",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c4g3906pz65o?at_medium=RSS&at_campaign=rss",
+          "description": "Real Madrid sign Ivory Coast international Yan Diomande from German side RB Leipzig for a fee worth up to 140m euros (£120m).",
+          "pubDate": "Thu, 06 Aug 2026 14:58:56 GMT",
+          "source": "BBC Africa",
+          "lang": "en",
+          "titleIt": "Real Madrid sign Diomande in deal worth up to £120m"
         }
       ]
     },
     "egypt-economy": {
       "title": "Fragilità economica egiziana",
       "items": [
+        {
+          "title": "11th BRICS culture minister meeting concludes in Madhya Pradesh ; Bhopal Declaration adopted",
+          "link": "http://www.bignewsnetwork.com/news/279227416/11th-brics-culture-ministers-meeting-concludes-in-madhya-pradesh-bhopal-declaration-adopted",
+          "source": "bignewsnetwork.com",
+          "pubDate": "2026-08-08T12:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "11th BRICS culture minister meeting concludes in Madhya Pradesh ; Bhopal Declaration adopted"
+        },
+        {
+          "title": "11th BRICS culture minister meeting concludes in Madhya Pradesh ; Bhopal Declaration adopted",
+          "link": "http://www.calcuttanews.net/news/279227416/11th-brics-culture-ministers-meeting-concludes-in-madhya-pradesh-bhopal-declaration-adopted",
+          "source": "calcuttanews.net",
+          "pubDate": "2026-08-08T12:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "11th BRICS culture minister meeting concludes in Madhya Pradesh ; Bhopal Declaration adopted"
+        },
+        {
+          "title": "11th BRICS Culture Minister Meeting Concludes In Madhya Pradesh ; Bhopal Declaration Adopted",
+          "link": "https://www.freepressjournal.in/bhopal/11th-brics-culture-ministers-meeting-concludes-in-madhya-pradesh-bhopal-declaration-adopted",
+          "source": "freepressjournal.in",
+          "pubDate": "2026-08-08T12:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "11th BRICS Culture Minister Meeting Concludes In Madhya Pradesh ; Bhopal Declaration Adopted"
+        },
+        {
+          "title": "World Cup final : Real reasons we lost 1 - 0 to Spain - Argentina Tagliafico",
+          "link": "https://dailypost.ng/2026/08/08/world-cup-final-real-reasons-we-lost-1-0-to-spain-argentinas-tagliafico/",
+          "source": "dailypost.ng",
+          "pubDate": "2026-08-08T12:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "World Cup final : Real reasons we lost 1 - 0 to Spain - Argentina Tagliafico"
+        },
+        {
+          "title": "We Eat So We Dont Die : Daily Life with Hunger in Sudan",
+          "link": "https://english.aawsat.com/arab-world/5304658-%E2%80%98we-eat-so-we-don%E2%80%99t-die%E2%80%99-daily-life-hunger-sudan",
+          "source": "english.aawsat.com",
+          "pubDate": "2026-08-08T11:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "We Eat So We Dont Die : Daily Life with Hunger in Sudan"
+        },
+        {
+          "title": "Islamic NATO alliance formed : Turkey , Saudi Arabia , and Pakistan sign defense pact",
+          "link": "https://www.bankingnews.gr/analyseis-ektheseis/articles/892764/islamic-nato-alliance-formed-turkey-saudi-arabia-and-pakistan-sign-defense-pact",
+          "source": "bankingnews.gr",
+          "pubDate": "2026-08-08T11:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Islamic NATO alliance formed : Turkey , Saudi Arabia , and Pakistan sign defense pact"
+        },
+        {
+          "title": "11th BRICS culture minister meeting concludes in Madhya Pradesh ; Bhopal Declaration adopted",
+          "link": "https://news.webindia123.com/news/Articles/World/20260808/4484815.html",
+          "source": "news.webindia123.com",
+          "pubDate": "2026-08-08T11:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "11th BRICS culture minister meeting concludes in Madhya Pradesh ; Bhopal Declaration adopted"
+        },
+        {
+          "title": "Flashpoint : Military Or Diplomacy ? Horn Of Africa Geopolitical Alliances Reach Tipping Point",
+          "link": "https://www.thereporterethiopia.com/52198/",
+          "source": "thereporterethiopia.com",
+          "pubDate": "2026-08-08T10:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Flashpoint : Military Or Diplomacy ? Horn Of Africa Geopolitical Alliances Reach Tipping Point"
+        },
         {
           "title": "BRICS Culture Ministers Adopt Bhopal Declaration",
           "link": "https://www.newkerala.com/news/a/11th-brics-culture-ministers-meeting-concludes-madhya-pradesh-433.htm",
@@ -353,78 +452,6 @@
           "lang": "en",
           "description": "",
           "titleIt": "The full story of Hela Apparel collapse extending to Kenya – Sri Lanka Mirror – Right to Know . Power to Change"
-        },
-        {
-          "title": "Oh , here comes the King - Newsday Zimbabwe",
-          "link": "https://www.newsday.co.zw/opinion-analysis/article/200059134/oh-here-comes-the-king",
-          "source": "newsday.co.zw",
-          "pubDate": "2026-08-08T08:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Oh , here comes the King - Newsday Zimbabwe"
-        },
-        {
-          "title": "Former US Rep Ruppe from UP dies at age 99",
-          "link": "https://www.ironmountaindailynews.com/news/local-news/2026/08/former-us-rep-ruppe-from-up-dies-at-age-99/",
-          "source": "ironmountaindailynews.com",
-          "pubDate": "2026-08-08T08:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Former US Rep Ruppe from UP dies at age 99"
-        },
-        {
-          "title": "Africa wants more homegrown solar to boost self - reliance , but China shadow remains",
-          "link": "https://www.niagarafallsreview.ca/business/africa-wants-more-homegrown-solar-to-boost-self-reliance-but-chinas-shadow-remains/article_f10672a9-09d6-5114-bc70-7830aae3d23a.html",
-          "source": "niagarafallsreview.ca",
-          "pubDate": "2026-08-08T07:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Africa wants more homegrown solar to boost self - reliance , but China shadow remains"
-        },
-        {
-          "title": "Breakthrough possible on Strait of Hormuz as Iran finalizes deal",
-          "link": "http://www.floridastatesman.com/news/279225268/iran-nears-strait-of-hormuz-deal-as-trump-signals-announcement",
-          "source": "floridastatesman.com",
-          "pubDate": "2026-08-08T07:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Breakthrough possible on Strait of Hormuz as Iran finalizes deal"
-        },
-        {
-          "title": "Africa wants more homegrown solar to boost self - reliance , but China shadow remains",
-          "link": "https://abcnews.com/International/wireStory/africa-homegrown-solar-boost-reliance-chinas-shadow-remains-135477288",
-          "source": "abcnews.com",
-          "pubDate": "2026-08-08T07:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Africa wants more homegrown solar to boost self - reliance , but China shadow remains"
-        },
-        {
-          "title": "Breakthrough possible on Strait of Hormuz as Iran finalizes deal",
-          "link": "http://www.newyorkstatesman.com/news/279225268/iran-nears-strait-of-hormuz-deal-as-trump-signals-announcement",
-          "source": "newyorkstatesman.com",
-          "pubDate": "2026-08-08T07:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Breakthrough possible on Strait of Hormuz as Iran finalizes deal"
-        },
-        {
-          "title": "India Opposes BRICS Currency Proposal , Says Piyush Goyal",
-          "link": "https://dailypioneer.com/news/india-not-in-favour-of-separate-brics-currency-piyush-goyal",
-          "source": "dailypioneer.com",
-          "pubDate": "2026-08-08T07:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "India Opposes BRICS Currency Proposal , Says Piyush Goyal"
-        },
-        {
-          "title": "Mastercard Incorporated ( NYSE : MA ) Given Consensus Recommendation of  Buy  by Analysts",
-          "link": "https://www.dailypolitical.com/2026/08/07/mastercard-incorporated-nysema-given-consensus-recommendation-of-buy-by-analysts.html",
-          "source": "dailypolitical.com",
-          "pubDate": "2026-08-08T07:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Mastercard Incorporated ( NYSE : MA ) Given Consensus Recommendation of  Buy  by Analysts"
         }
       ]
     },
