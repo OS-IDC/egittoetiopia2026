@@ -1,20 +1,11 @@
 {
-  "generatedAt": "2026-08-11T15:17:13.834Z",
+  "generatedAt": "2026-08-11T17:13:22.456Z",
   "feedsChecked": 9,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
-        {
-          "title": "Somalia: UN Puts Somalia Mission Assets Up for Sale As U.S. Funding Cutoff Looms",
-          "link": "https://allafrica.com/stories/202608110106.html",
-          "description": "[Radio Dalsan] Mogadishu, Somalia -- The United Nations Support Office in Somalia (UNSOS) has opened a tender seeking licensed auctioneers to sell off a wide range of its vehicles, generators and other equipment in Somalia, a notice published on the UN Global Marketplace shows.",
-          "pubDate": "Tue, 11 Aug 2026 04:40:45 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Somalia: UN Puts Somalia Mission Assets Up for Sale As U.S. Funding Cutoff Looms"
-        },
         {
           "title": "EU to Support Libya in the Fight Against Terrorism and for Border Security",
           "link": "https://www.ansa.it/english/news/news_from_embassies/2026/08/07/eu-to-support-libya-in-the-fight-against-terrorism-and-for-border-security_742e172c-5d23-469b-907d-8645ce88d816.html",
@@ -57,6 +48,15 @@
       "title": "Dossier Somaliland",
       "items": [
         {
+          "title": "Kenya: Gachagua Warns Kenya 'Not Safe' for Foreigners, Cites Cross-Border Abductions, Deportations",
+          "link": "https://allafrica.com/stories/202608110588.html",
+          "description": "[Capital FM] Nairobi -- Former Deputy President Rigathi Gachagua has warned that Kenya is becoming unsafe for foreigners, accusing the Ruto administration of allowing a pattern of cross-border abductions, forced deportations and alleged transnational repression.",
+          "pubDate": "Tue, 11 Aug 2026 16:04:59 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Kenya: Gachagua Warns Kenya 'Not Safe' for Foreigners, Cites Cross-Border Abductions, Deportations"
+        },
+        {
           "title": "Kenya: U.S. Pledges $242mn for Ebola Response As Kenya Strengthens Regional Preparedness",
           "link": "https://allafrica.com/stories/202608110462.html",
           "description": "[Capital FM] Nairobi -- The United States has announced an additional $242 million to support immediate Ebola response, preparedness and humanitarian efforts in countries affected by or at risk from the outbreak in East and Central Africa.",
@@ -73,15 +73,6 @@
           "source": "Africanews",
           "lang": "en",
           "titleIt": "Tigray rebels accuse Ethiopia of drone strikes amid fears of renewed war"
-        },
-        {
-          "title": "Somalia: UN Puts Somalia Mission Assets Up for Sale As U.S. Funding Cutoff Looms",
-          "link": "https://allafrica.com/stories/202608110106.html",
-          "description": "[Radio Dalsan] Mogadishu, Somalia -- The United Nations Support Office in Somalia (UNSOS) has opened a tender seeking licensed auctioneers to sell off a wide range of its vehicles, generators and other equipment in Somalia, a notice published on the UN Global Marketplace shows.",
-          "pubDate": "Tue, 11 Aug 2026 04:40:45 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Somalia: UN Puts Somalia Mission Assets Up for Sale As U.S. Funding Cutoff Looms"
         },
         {
           "title": "Ambassador Del Monaco Meets with the Governor of the Central Bank of Kenya",
@@ -107,13 +98,22 @@
       "title": "Accesso etiope al mare",
       "items": [
         {
-          "title": "Houthis kill three in first deadly attack since start of Iran war - reports",
+          "title": "Trump tariffs fallout : China moves to join Brazil WTO challenge of US forced labor duties",
+          "link": "https://www.undercurrentnews.com/2026/08/11/trump-tariffs-fallout/",
+          "source": "undercurrentnews.com",
+          "pubDate": "2026-08-11T16:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Trump tariffs fallout : China moves to join Brazil WTO challenge of US forced labor duties"
+        },
+        {
+          "title": "Houthis reportedly kill four in first deadly attack since start of Iran war",
           "link": "https://www.bbc.co.uk/news/articles/ckg9wpmzmlno?at_medium=RSS&at_campaign=rss",
           "description": "The attack was reportedly carried out by Iranian proxy on a small cargo ship, as tensions in region over the US-Iran conflict remain high.",
-          "pubDate": "Tue, 11 Aug 2026 13:35:57 GMT",
+          "pubDate": "Tue, 11 Aug 2026 15:41:13 GMT",
           "source": "BBC World",
           "lang": "en",
-          "titleIt": "Houthis kill three in first deadly attack since start of Iran war - reports"
+          "titleIt": "Houthis reportedly kill four in first deadly attack since start of Iran war"
         },
         {
           "title": "Tigray rebels accuse Ethiopia of drone strikes amid fears of renewed war",
@@ -132,15 +132,6 @@
           "lang": "en",
           "description": "",
           "titleIt": "African exporters reap early benefits of China zero - tariff treatment -- China Economic Net"
-        },
-        {
-          "title": "Somalia: UN Puts Somalia Mission Assets Up for Sale As U.S. Funding Cutoff Looms",
-          "link": "https://allafrica.com/stories/202608110106.html",
-          "description": "[Radio Dalsan] Mogadishu, Somalia -- The United Nations Support Office in Somalia (UNSOS) has opened a tender seeking licensed auctioneers to sell off a wide range of its vehicles, generators and other equipment in Somalia, a notice published on the UN Global Marketplace shows.",
-          "pubDate": "Tue, 11 Aug 2026 04:40:45 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Somalia: UN Puts Somalia Mission Assets Up for Sale As U.S. Funding Cutoff Looms"
         },
         {
           "title": "African exporters reap early benefits of China zero - tariff treatment -- Beijing Review",
@@ -306,6 +297,15 @@
       "title": "Opacità sui rilasci GERD",
       "items": [
         {
+          "title": "Liberia : Burrowes Calls for Historical Reckoning",
+          "link": "https://allafrica.com/stories/202608110475.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-08-11T16:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Liberia : Burrowes Calls for Historical Reckoning"
+        },
+        {
           "title": "Pope Leo XIV calls for humanitarian corridor in Sudan",
           "link": "http://www.africanews.com/2026/08/10/pope-leo-xiv-calls-for-humanitarian-corridor-in-sudan/",
           "description": "Pope Leo called for peace in Sudan on Sunday during an address at the Vatican. Leo singled out El-Obeid, the beseiged capital of North Kordofan state. Residents are facing a lack food, water and medical supplies as fighting in the city continues.",
@@ -313,6 +313,168 @@
           "source": "Africanews",
           "lang": "en",
           "titleIt": "Pope Leo XIV calls for humanitarian corridor in Sudan"
+        },
+        {
+          "title": "East Africa : Eritrea Regime Military Adventurism Risks Dragging Horn of Africa Back Into Conflict",
+          "link": "https://allafrica.com/stories/202608100033.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-08-10T06:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "East Africa : Eritrea Regime Military Adventurism Risks Dragging Horn of Africa Back Into Conflict"
+        },
+        {
+          "title": "Ethiopia : Diaspora Members Visit GERD , Hail It As  Ethiopia Liquid Gold  On the Abay River",
+          "link": "https://allafrica.com/stories/202608100052.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-08-10T06:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia : Diaspora Members Visit GERD , Hail It As  Ethiopia Liquid Gold  On the Abay River"
+        },
+        {
+          "title": "Ethiopia Historic Week of Green Revolution , Digital Sovereignty and National Consensus",
+          "link": "https://allafrica.com/stories/202608100053.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-08-10T06:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia Historic Week of Green Revolution , Digital Sovereignty and National Consensus"
+        },
+        {
+          "title": "Islamic NATO  or paper alliance ? The truth behind Saudi Arabia new defense pact",
+          "link": "https://www.ynetnews.com/opinions-analysis/article/rjmp11isifl",
+          "source": "ynetnews.com",
+          "pubDate": "2026-08-09T11:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Islamic NATO  or paper alliance ? The truth behind Saudi Arabia new defense pact"
+        },
+        {
+          "title": "Flashpoint : Military Or Diplomacy ? Horn Of Africa Geopolitical Alliances Reach Tipping Point",
+          "link": "https://www.thereporterethiopia.com/52198/",
+          "source": "thereporterethiopia.com",
+          "pubDate": "2026-08-08T10:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Flashpoint : Military Or Diplomacy ? Horn Of Africa Geopolitical Alliances Reach Tipping Point"
+        },
+        {
+          "title": "Electricity Is Capital , Not Just A Commodity Rethinking Nepal Electricity Strategy In The Era Of Surplus Power",
+          "link": "https://www.spotlightnepal.com/2026/08/07/electricity-capital-not-just-commodity-rethinking-nepals-electricity-strategy-era-surplus-power/",
+          "source": "spotlightnepal.com",
+          "pubDate": "2026-08-07T07:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Electricity Is Capital , Not Just A Commodity Rethinking Nepal Electricity Strategy In The Era Of Surplus Power"
+        },
+        {
+          "title": "Egypt Declares Strong Opposition to New Ethiopian Nile Dams",
+          "link": "https://www.tanzanianewsreports.com/egypt-declares-strong-opposition-to-new-ethiopian-nile-dams/",
+          "source": "tanzanianewsreports.com",
+          "pubDate": "2026-08-06T19:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt Declares Strong Opposition to New Ethiopian Nile Dams"
+        },
+        {
+          "title": "Ethiopia accuses Egypt of using GERD dispute to divert attention from domestic challenges – Medafrica Times",
+          "link": "https://medafricatimes.com/46583-ethiopia-accuses-egypt-of-using-gerd-dispute-to-divert-attention-from-domestic-challenges.html",
+          "source": "medafricatimes.com",
+          "pubDate": "2026-08-06T18:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia accuses Egypt of using GERD dispute to divert attention from domestic challenges – Medafrica Times"
+        },
+        {
+          "title": "Ethiopia Historic Rise Is Shattering Cairo Campaign of Hostility",
+          "link": "https://allafrica.com/stories/202608060479.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-08-06T13:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia Historic Rise Is Shattering Cairo Campaign of Hostility"
+        },
+        {
+          "title": "East Africa : Trump Horn Envoy Rejects  Anti - Ethiopian Alliance  Claims After Cairo Diplomatic Meetings",
+          "link": "https://allafrica.com/stories/202608060151.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-08-06T08:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "East Africa : Trump Horn Envoy Rejects  Anti - Ethiopian Alliance  Claims After Cairo Diplomatic Meetings"
+        },
+        {
+          "title": "Ethiopia Rejects Egypt Latest GERD Accusations , Again Urges Return to Negotiated Framework",
+          "link": "https://allafrica.com/stories/202608060164.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-08-06T08:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia Rejects Egypt Latest GERD Accusations , Again Urges Return to Negotiated Framework"
+        },
+        {
+          "title": "Egypt Uses GERD Issue to Divert Attention From Domestic Challenges - EIPD President",
+          "link": "https://allafrica.com/stories/202608060100.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-08-06T07:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt Uses GERD Issue to Divert Attention From Domestic Challenges - EIPD President"
+        },
+        {
+          "title": "Africa : Ethiopia Well Positioned to Become Africa Energy Hub , Says Ministry",
+          "link": "https://allafrica.com/stories/202608060077.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-08-06T06:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Africa : Ethiopia Well Positioned to Become Africa Energy Hub , Says Ministry"
+        },
+        {
+          "title": "Africa : CNN Highlights GERD Landmark Engineering Achievement Transforming Ethiopia Remote Valley Into Africa Largest Project",
+          "link": "https://allafrica.com/stories/202608050079.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-08-05T08:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Africa : CNN Highlights GERD Landmark Engineering Achievement Transforming Ethiopia Remote Valley Into Africa Largest Project"
+        },
+        {
+          "title": "Egypt says it wont allow new Ethiopian dams on Nile River",
+          "link": "https://aa.com.tr/en/middle-east/egypt-says-it-won-t-allow-new-ethiopian-dams-on-nile-river/4018528",
+          "source": "aa.com.tr",
+          "pubDate": "2026-08-04T22:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt says it wont allow new Ethiopian dams on Nile River"
+        },
+        {
+          "title": "Renewed Tigray clashes could deepen Horn of Africa instability – Channel Africa",
+          "link": "https://www.channelafrica.co.za/channelafrica/news/renewed-tigray-clashes-could-deepen-horn-of-africa-instability/",
+          "source": "channelafrica.co.za",
+          "pubDate": "2026-08-04T17:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Renewed Tigray clashes could deepen Horn of Africa instability – Channel Africa"
+        },
+        {
+          "title": "Pakistan UNSC Push on Indus Waters Treaty Faces Major Legal and Political Hurdles",
+          "link": "https://idrw.org/pakistans-unsc-push-on-indus-waters-treaty-faces-major-legal-and-political-hurdles/",
+          "source": "idrw.org",
+          "pubDate": "2026-08-02T16:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Pakistan UNSC Push on Indus Waters Treaty Faces Major Legal and Political Hurdles"
+        },
+        {
+          "title": "The Horn Of Africa After Ethiopia 2026 Elections : What To Watch ?",
+          "link": "https://www.thereporterethiopia.com/51980/",
+          "source": "thereporterethiopia.com",
+          "pubDate": "2026-08-01T12:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The Horn Of Africa After Ethiopia 2026 Elections : What To Watch ?"
         }
       ]
     }
