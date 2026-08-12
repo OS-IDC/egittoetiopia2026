@@ -1,11 +1,20 @@
 {
-  "generatedAt": "2026-08-12T15:15:59.515Z",
+  "generatedAt": "2026-08-12T17:13:33.614Z",
   "feedsChecked": 9,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
+        {
+          "title": "Egitto: Al Sisi esamina piano per aumento quota energie rinnovabili al 45 per cento (2)",
+          "link": "https://www.agenzianova.com/a/6a7ca9b95c3c16.68399756/7695023/2026-08-12/egitto-al-sisi-esamina-piano-per-aumento-quota-energie-rinnovabili-al-45-per-cento-2",
+          "description": "12 ago 18:44 - (Agenzia Nova) - Durante l'incontro e' stato discusso il ruolo dei partner internazionali nel fornire supporto tecnico e finanziamenti... (Cae)",
+          "pubDate": "2026-08-12T18:44:41+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Egitto: Al Sisi esamina piano per aumento quota energie rinnovabili al 45 per cento (2)"
+        },
         {
           "title": "Africa: Mounting Fatalities Linked to Militant Islamist Violence in Africa Amid Shifting Tactics",
           "link": "https://allafrica.com/stories/202608120420.html",
@@ -84,6 +93,15 @@
       "title": "Dossier Somaliland",
       "items": [
         {
+          "title": "Central African Republic: UAE's Global South Utilities Inaugurates 50mw Solar Plant in Central African Republic",
+          "link": "https://allafrica.com/stories/202608120537.html",
+          "description": "[Horn Diplomat] Bangui (Horndiplomat) -- Abu Dhabi-based Global South Utilities (GSU) has inaugurated a 50-megawatt solar power plant in the Central African Republic, a project the company says is the largest infrastructure development in the country's history and will increase national electricity generation capacity by more than 60%.",
+          "pubDate": "Wed, 12 Aug 2026 16:48:43 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Central African Republic: UAE's Global South Utilities Inaugurates 50mw Solar Plant in Central African Republic"
+        },
+        {
           "title": "Africa: Mounting Fatalities Linked to Militant Islamist Violence in Africa Amid Shifting Tactics",
           "link": "https://allafrica.com/stories/202608120420.html",
           "description": "[ACSS] Fatalities linked to militant Islamist violence in Africa surpassed 20,000 deaths for the fourth consecutive year, underscoring the resiliency of militant groups across the Sahel, Somalia, the Lake Chad Basin, and Mozambique.",
@@ -161,13 +179,13 @@
       "title": "Accesso etiope al mare",
       "items": [
         {
-          "title": "Sport: media, raggiunto accordo da 12,5 miliardi per la cessione dei Los Angeles Lakers",
-          "link": "https://www.agenzianova.com/a/6a7c8e2be48e72.40067774/7694751/2026-08-12/sport-media-raggiunto-accordo-da-12-5-miliardi-per-la-cessione-dei-los-angeles-lakers",
-          "description": "12 ago 17:10 - (Agenzia Nova) - Un gruppo guidato da Bob Iger e Joshua Kushner ha raggiunto un accordo per acquistare da Mark Walter una quota... (Was)",
-          "pubDate": "2026-08-12T17:10:45+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Sport: media, raggiunto accordo da 12,5 miliardi per la cessione dei Los Angeles Lakers"
+          "title": "LA Lakers to be sold in record $12.5bn deal",
+          "link": "https://www.bbc.co.uk/sport/basketball/articles/c04k2dn422xo?at_medium=RSS&at_campaign=rss",
+          "description": "The Los Angeles Lakers is to be sold for a reported record $12.5bn - less than a year after Mark Walter took a majority stake in the NBA franchise.",
+          "pubDate": "Wed, 12 Aug 2026 16:11:04 GMT",
+          "source": "BBC World",
+          "lang": "en",
+          "titleIt": "LA Lakers to be sold in record $12.5bn deal"
         },
         {
           "title": "Sudan: Sudan Paramilitary Forces Attack Border Town, Army Alleges Assault Launched From Ethiopia",
@@ -264,6 +282,15 @@
     "egypt-economy": {
       "title": "Fragilità economica egiziana",
       "items": [
+        {
+          "title": "Egitto: Al Sisi esamina piano per aumento quota energie rinnovabili al 45 per cento (2)",
+          "link": "https://www.agenzianova.com/a/6a7ca9b95c3c16.68399756/7695023/2026-08-12/egitto-al-sisi-esamina-piano-per-aumento-quota-energie-rinnovabili-al-45-per-cento-2",
+          "description": "12 ago 18:44 - (Agenzia Nova) - Durante l'incontro e' stato discusso il ruolo dei partner internazionali nel fornire supporto tecnico e finanziamenti... (Cae)",
+          "pubDate": "2026-08-12T18:44:41+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Egitto: Al Sisi esamina piano per aumento quota energie rinnovabili al 45 per cento (2)"
+        },
         {
           "title": "The first Senegalese selected for the “New Destinies” project visited the embassy",
           "link": "https://www.ansa.it/english/news/news_from_embassies/2026/08/07/the-first-senegalese-selected-for-the-new-destinies-project-visited_4bf68272-c586-47bf-bc20-f242c1b3b863.html",
