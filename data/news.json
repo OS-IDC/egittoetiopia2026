@@ -1,11 +1,20 @@
 {
-  "generatedAt": "2026-08-12T07:53:23.150Z",
+  "generatedAt": "2026-08-12T09:33:18.936Z",
   "feedsChecked": 9,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
+        {
+          "title": "Somalia and Italy Together for Fisheries and the Blue Economy",
+          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/08/12/somalia-and-italy-together-for-fisheries-and-the-blue-economy_1865aa60-d732-41b4-b323-3a976dae254a.html",
+          "description": "(ANSA) - NAIROBI, 12 AGO - The Italian Ambassador to Somalia, Pier Mario Daccò Coppi, met with the Minister of Fisheries and the Blue Economy, Ahmed Hassan Adan, to receive an update on ongoing programs and exchange views on the prospects for a greater Italian presence in the sector. The Somali minister thanked Italy for funding the cooperation project aimed at strengthening the fisheries supply chain in the city of Bosaso (Puntland), expressing the hope that this initiative could be replicated in other locations across Somalia to contribute to the development of coastal communities. Minister ",
+          "pubDate": "Wed, 12 Aug 2026 10:09:15 +0200",
+          "source": "ANSA English",
+          "lang": "en",
+          "titleIt": "Somalia and Italy Together for Fisheries and the Blue Economy"
+        },
         {
           "title": "Africa: Somalia - a Government With One Foot Out the Door",
           "link": "https://allafrica.com/stories/202608120048.html",
@@ -115,6 +124,24 @@
     "ethiopia-sea-access": {
       "title": "Accesso etiope al mare",
       "items": [
+        {
+          "title": "Yemen: \"Al Arabiya\", Houthi prendono di mira il porto di Al Makha con due missili balistici",
+          "link": "https://www.agenzianova.com/a/6a7c3dda78b743.51403411/7693148/2026-08-12/yemen-al-arabiya-houthi-prendono-di-mira-il-porto-di-al-makha-con-due-missili-balistici",
+          "description": "12 ago 10:56 - (Agenzia Nova) - Il movimento sciita filo-iraniano Houthi ha preso di mira il porto di Al Makha, nello Yemen occidentale, con... (Res)",
+          "pubDate": "2026-08-12T10:56:44+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Yemen: \"Al Arabiya\", Houthi prendono di mira il porto di Al Makha con due missili balistici"
+        },
+        {
+          "title": "Somalia and Italy Together for Fisheries and the Blue Economy",
+          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/08/12/somalia-and-italy-together-for-fisheries-and-the-blue-economy_1865aa60-d732-41b4-b323-3a976dae254a.html",
+          "description": "(ANSA) - NAIROBI, 12 AGO - The Italian Ambassador to Somalia, Pier Mario Daccò Coppi, met with the Minister of Fisheries and the Blue Economy, Ahmed Hassan Adan, to receive an update on ongoing programs and exchange views on the prospects for a greater Italian presence in the sector. The Somali minister thanked Italy for funding the cooperation project aimed at strengthening the fisheries supply chain in the city of Bosaso (Puntland), expressing the hope that this initiative could be replicated in other locations across Somalia to contribute to the development of coastal communities. Minister ",
+          "pubDate": "Wed, 12 Aug 2026 10:09:15 +0200",
+          "source": "ANSA English",
+          "lang": "en",
+          "titleIt": "Somalia and Italy Together for Fisheries and the Blue Economy"
+        },
         {
           "title": "Africa: Somalia - a Government With One Foot Out the Door",
           "link": "https://allafrica.com/stories/202608120048.html",
