@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T21:04:37.428Z",
+  "generatedAt": "2026-08-12T23:02:40.470Z",
   "feedsChecked": 9,
   "feedsAttempted": 10,
   "topics": {
@@ -74,15 +74,6 @@
     "somaliland": {
       "title": "Dossier Somaliland",
       "items": [
-        {
-          "title": "Ethiopia: Ethiopia to Host African Mayoral Leadership Forum in October",
-          "link": "https://allafrica.com/stories/202608120538.html",
-          "description": "[Horn Diplomat] Addis Ababa, Aug. 12 (Horndiplomat) -- Ethiopia has been selected to host the African Mayoral Leadership Initiative (AMALI) Leadership Forum in October, bringing mayors and city leaders from across the continent to Addis Ababa and Bishoftu, the Ethiopian News Agency (ENA) reported on Wednesday.",
-          "pubDate": "Wed, 12 Aug 2026 16:56:41 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Ethiopia: Ethiopia to Host African Mayoral Leadership Forum in October"
-        },
         {
           "title": "Central African Republic: UAE's Global South Utilities Inaugurates 50mw Solar Plant in Central African Republic",
           "link": "https://allafrica.com/stories/202608120537.html",
@@ -160,24 +151,6 @@
     "ethiopia-sea-access": {
       "title": "Accesso etiope al mare",
       "items": [
-        {
-          "title": "Medio Oriente: Erdogan, Israele vuole rimuovere Palestina da agenda globale (7)",
-          "link": "https://www.agenzianova.com/a/6a7cdfe1c820b9.88269556/7695222/2026-08-12/medio-oriente-erdogan-israele-vuole-rimuovere-palestina-da-agenda-globale-7",
-          "description": "12 ago 19:54 - (Agenzia Nova) - Il presidente dell'Anp ha quindi sottolineato l'importanza dell'Accordo di difesa congiunta di Turchia, Arabia... (Tua)",
-          "pubDate": "2026-08-12T19:54:16+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Medio Oriente: Erdogan, Israele vuole rimuovere Palestina da agenda globale (7)"
-        },
-        {
-          "title": "Ethiopia: Ethiopia to Host African Mayoral Leadership Forum in October",
-          "link": "https://allafrica.com/stories/202608120538.html",
-          "description": "[Horn Diplomat] Addis Ababa, Aug. 12 (Horndiplomat) -- Ethiopia has been selected to host the African Mayoral Leadership Initiative (AMALI) Leadership Forum in October, bringing mayors and city leaders from across the continent to Addis Ababa and Bishoftu, the Ethiopian News Agency (ENA) reported on Wednesday.",
-          "pubDate": "Wed, 12 Aug 2026 16:56:41 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Ethiopia: Ethiopia to Host African Mayoral Leadership Forum in October"
-        },
         {
           "title": "LA Lakers to be sold in record $12.5bn deal",
           "link": "https://www.bbc.co.uk/sport/basketball/articles/c04k2dn422xo?at_medium=RSS&at_campaign=rss",
