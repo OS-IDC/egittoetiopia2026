@@ -1,11 +1,20 @@
 {
-  "generatedAt": "2026-08-13T07:53:40.120Z",
+  "generatedAt": "2026-08-13T09:35:06.988Z",
   "feedsChecked": 9,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
+        {
+          "title": "Egitto-Arabia Saudita: ministri Esteri respingono le voci di tensioni (3)",
+          "link": "https://www.agenzianova.com/a/6a7d8fc54fbe44.48637402/7696452/2026-08-13/egitto-arabia-saudita-ministri-esteri-respingono-le-voci-di-tensioni-3",
+          "description": "13 ago 11:24 - (Agenzia Nova) - Sul piano regionale, Abdelatty e bin Farhan hanno esaminato gli sforzi per contenere l'escalation militare... (Cae)",
+          "pubDate": "2026-08-13T11:24:01+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Egitto-Arabia Saudita: ministri Esteri respingono le voci di tensioni (3)"
+        },
         {
           "title": "Africa: Mounting Fatalities Linked to Militant Islamist Violence in Africa Amid Shifting Tactics",
           "link": "https://allafrica.com/stories/202608120420.html",
@@ -102,15 +111,6 @@
           "titleIt": "Africa: Mounting Fatalities Linked to Militant Islamist Violence in Africa Amid Shifting Tactics"
         },
         {
-          "title": "Sudan: Sudan Paramilitary Forces Attack Border Town, Army Alleges Assault Launched From Ethiopia",
-          "link": "https://allafrica.com/stories/202608120407.html",
-          "description": "[Addis Standard] Addis Abeba -- Sudan's paramilitary Rapid Support Forces (RSF) attacked the border town of Geissan in Blue Nile State on Tuesday, according to the RSF and local authorities, while a Sudanese army source told AFP that the assault was launched \"from inside Ethiopian territory.\"",
-          "pubDate": "Wed, 12 Aug 2026 14:15:19 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Sudan: Sudan Paramilitary Forces Attack Border Town, Army Alleges Assault Launched From Ethiopia"
-        },
-        {
           "title": "Malawi: Diplomatic Tension Erupts As SA Tells Malawi to Reimburse Deportation Costs",
           "link": "https://allafrica.com/stories/202608120147.html",
           "description": "[Nyasa Times] South Africa has sparked a diplomatic storm after formally demanding that Malawi, Nigeria and Ethiopia reimburse part of the R292 million (about K29 billion) it has spent this year deporting undocumented migrants -- with Malawians making up the largest share of those removed.",
@@ -151,24 +151,6 @@
     "ethiopia-sea-access": {
       "title": "Accesso etiope al mare",
       "items": [
-        {
-          "title": "Sudan: Sudan Paramilitary Forces Attack Border Town, Army Alleges Assault Launched From Ethiopia",
-          "link": "https://allafrica.com/stories/202608120407.html",
-          "description": "[Addis Standard] Addis Abeba -- Sudan's paramilitary Rapid Support Forces (RSF) attacked the border town of Geissan in Blue Nile State on Tuesday, according to the RSF and local authorities, while a Sudanese army source told AFP that the assault was launched \"from inside Ethiopian territory.\"",
-          "pubDate": "Wed, 12 Aug 2026 14:15:19 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Sudan: Sudan Paramilitary Forces Attack Border Town, Army Alleges Assault Launched From Ethiopia"
-        },
-        {
-          "title": "Ethiopia: Ethiopians Make Up Overwhelming Majority of Migrants Arriving in Yemen Amid Worsening Regional Conditions",
-          "link": "https://allafrica.com/stories/202608120405.html",
-          "description": "[Addis Standard] Addis Abeba -- Ethiopian nationals accounted for 91% of the 13,687 migrants who arrived in Yemen in July 2026, making them by far the largest group of migrants recorded entering the conflict-affected country during the month, according to the International Organization for Migration (IOM).",
-          "pubDate": "Wed, 12 Aug 2026 14:11:14 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Ethiopia: Ethiopians Make Up Overwhelming Majority of Migrants Arriving in Yemen Amid Worsening Regional Conditions"
-        },
         {
           "title": "Malawi: Diplomatic Tension Erupts As SA Tells Malawi to Reimburse Deportation Costs",
           "link": "https://allafrica.com/stories/202608120147.html",
@@ -243,13 +225,40 @@
       "title": "Opacità sui rilasci GERD",
       "items": [
         {
-          "title": "Ethiopia: Drought Returns to Devastate Tigray's Abergelle Yechila",
-          "link": "https://allafrica.com/stories/202608120404.html",
-          "description": "[Addis Standard] Addis Abeba -- Severe drought has \"killed thousands of livestock and left over 4,000 hectares of farmland\" without satisfactory yields in Abergelle Yechila district in the Central Tigray Zone, as persistent rainfall deficits continue to threaten agricultural production and livelihoods in the war-torn region.",
-          "pubDate": "Wed, 12 Aug 2026 14:10:35 GMT",
+          "title": "Egitto-Arabia Saudita: ministri Esteri respingono le voci di tensioni (3)",
+          "link": "https://www.agenzianova.com/a/6a7d8fc54fbe44.48637402/7696452/2026-08-13/egitto-arabia-saudita-ministri-esteri-respingono-le-voci-di-tensioni-3",
+          "description": "13 ago 11:24 - (Agenzia Nova) - Sul piano regionale, Abdelatty e bin Farhan hanno esaminato gli sforzi per contenere l'escalation militare... (Cae)",
+          "pubDate": "2026-08-13T11:24:01+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Egitto-Arabia Saudita: ministri Esteri respingono le voci di tensioni (3)"
+        },
+        {
+          "title": "Egitto-Arabia Saudita: ministri Esteri respingono le voci di tensioni (2)",
+          "link": "https://www.agenzianova.com/a/6a7d8fc54fdce1.11945335/7696451/2026-08-13/egitto-arabia-saudita-ministri-esteri-respingono-le-voci-di-tensioni-2",
+          "description": "13 ago 11:24 - (Agenzia Nova) - Il Consiglio superiore di coordinamento e' stato istituito nell'ottobre 2024 durante la visita al Cairo del... (Cae)",
+          "pubDate": "2026-08-13T11:24:01+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Egitto-Arabia Saudita: ministri Esteri respingono le voci di tensioni (2)"
+        },
+        {
+          "title": "Egitto-Arabia Saudita: ministri Esteri respingono le voci di tensioni",
+          "link": "https://www.agenzianova.com/a/6a7d8fc54ffd20.17375994/7696450/2026-08-13/egitto-arabia-saudita-ministri-esteri-respingono-le-voci-di-tensioni",
+          "description": "13 ago 11:24 - (Agenzia Nova) - Egitto e Arabia Saudita hanno invitato a non dare credito alle indiscrezioni circolate su alcuni mezzi d'informazione... (Cae)",
+          "pubDate": "2026-08-13T11:24:01+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Egitto-Arabia Saudita: ministri Esteri respingono le voci di tensioni"
+        },
+        {
+          "title": "Sudan: SAF Accused of Civilian Killings As RSF Drones Strike Three States",
+          "link": "https://allafrica.com/stories/202608130032.html",
+          "description": "[Dabanga] Jabra El Sheikh / Omdurman / Khartoum / Ed Damer / -- The Sudanese Armed Forces (SAF) were accused on Wednesday of killing at least five civilians and wounding more than 10 others in North Kordofan, while paramilitary Rapid Support Forces (RSF) drones struck targets across River Nile, Khartoum and North Kordofan states, highlighting the growing threat to civilians beyond Sudan's active front lines.",
+          "pubDate": "Thu, 13 Aug 2026 07:48:41 GMT",
           "source": "AllAfrica",
           "lang": "en",
-          "titleIt": "Ethiopia: Drought Returns to Devastate Tigray's Abergelle Yechila"
+          "titleIt": "Sudan: SAF Accused of Civilian Killings As RSF Drones Strike Three States"
         },
         {
           "title": "Malawi: Diplomatic Tension Erupts As SA Tells Malawi to Reimburse Deportation Costs",
