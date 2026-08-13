@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T05:50:24.445Z",
+  "generatedAt": "2026-08-13T07:53:40.120Z",
   "feedsChecked": 9,
   "feedsAttempted": 10,
   "topics": {
@@ -75,6 +75,15 @@
       "title": "Dossier Somaliland",
       "items": [
         {
+          "title": "Africa: Will Kenya Investigate and Prosecute Sudan's RSF?",
+          "link": "https://allafrica.com/stories/202608130020.html",
+          "description": "[ISS] Prosecuting Rapid Support Forces members in Kenya won't be easy, but will ultimately depend more on politics than on law or capacity.",
+          "pubDate": "Thu, 13 Aug 2026 07:38:34 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Africa: Will Kenya Investigate and Prosecute Sudan's RSF?"
+        },
+        {
           "title": "Central African Republic: UAE's Global South Utilities Inaugurates 50mw Solar Plant in Central African Republic",
           "link": "https://allafrica.com/stories/202608120537.html",
           "description": "[Horn Diplomat] Bangui (Horndiplomat) -- Abu Dhabi-based Global South Utilities (GSU) has inaugurated a 50-megawatt solar power plant in the Central African Republic, a project the company says is the largest infrastructure development in the country's history and will increase national electricity generation capacity by more than 60%.",
@@ -109,15 +118,6 @@
           "source": "AllAfrica",
           "lang": "en",
           "titleIt": "Malawi: Diplomatic Tension Erupts As SA Tells Malawi to Reimburse Deportation Costs"
-        },
-        {
-          "title": "Kenya: MPs to Consider Six Bills Seeking Sweeping Reforms in Education Sector",
-          "link": "https://allafrica.com/stories/202608120068.html",
-          "description": "[Capital FM] Nairobi -- The National Assembly is set to consider six Bills proposing far-reaching reforms across Kenya's education sector, with the proposed legislation targeting basic education governance, national assessments, curriculum development, teacher training, tertiary education funding and the recognition of academic and professional qualifications.",
-          "pubDate": "Wed, 12 Aug 2026 07:44:42 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Kenya: MPs to Consider Six Bills Seeking Sweeping Reforms in Education Sector"
         },
         {
           "title": "Tigray rebels accuse Ethiopia of drone strikes amid fears of renewed war",
@@ -229,184 +229,13 @@
       "title": "Fragilità economica egiziana",
       "items": [
         {
-          "title": "Nigeria eyes crude reform - CAJ News Africa",
-          "link": "https://cajnewsafrica.com/2026/08/13/nigeria-eyes-crude-reform/",
-          "source": "cajnewsafrica.com",
-          "pubDate": "2026-08-13T05:15:00Z",
+          "title": "The first Senegalese selected for the “New Destinies” project visited the embassy",
+          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/08/07/the-first-senegalese-selected-for-the-new-destinies-project-visited_4bf68272-c586-47bf-bc20-f242c1b3b863.html",
+          "description": "(ANSA) - IL CAIRO, 07 AGO - The Italian Ambassador to Dakar, Michele Tommasi, welcomed the first twelve Senegalese workers who will soon take part in the “New Destinies – New Horizons” project in Italy, in the presence of representatives from institutions, training organizations, and partners involved in the initiative. The program, managed by Umana, an Italian agency specializing in employment services, recruitment, and vocational training, was developed in collaboration with the Italian Confederation of Trade Unions (CISL) in Venice, the National Association Beyond Borders (ANOLF) in Venice,",
+          "pubDate": "Fri, 7 Aug 2026 12:08:40 +0200",
+          "source": "ANSA English",
           "lang": "en",
-          "description": "",
-          "titleIt": "Nigeria eyes crude reform - CAJ News Africa"
-        },
-        {
-          "title": "Morning Briefing : Aug . 13 , 2026",
-          "link": "https://aa.com.tr/en/world/morning-briefing-aug-13-2026/4025849",
-          "source": "aa.com.tr",
-          "pubDate": "2026-08-13T05:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Morning Briefing : Aug . 13 , 2026"
-        },
-        {
-          "title": "Nigeria fails fiscal transparency test for 2nd year US Report",
-          "link": "https://www.vanguardngr.com/2026/08/nigeria-fails-fiscal-transparency-test-for-2nd-year-us-report/",
-          "source": "vanguardngr.com",
-          "pubDate": "2026-08-13T04:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Nigeria fails fiscal transparency test for 2nd year US Report"
-        },
-        {
-          "title": "Business . Scoop » Science & Social Sciences Curriculum Updated – Expert Reaction",
-          "link": "https://business.scoop.co.nz/2026/08/13/science-social-sciences-curriculum-updated-expert-reaction/",
-          "source": "business.scoop.co.nz",
-          "pubDate": "2026-08-13T04:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Business . Scoop » Science & Social Sciences Curriculum Updated – Expert Reaction"
-        },
-        {
-          "title": "Trump Iran War Spirals Into a Wider Middle East Conflict . – ThyBlackMan . com",
-          "link": "https://thyblackman.com/2026/08/12/donald-trump-iran-war-middle-east-conflict/",
-          "source": "thyblackman.com",
-          "pubDate": "2026-08-13T04:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Trump Iran War Spirals Into a Wider Middle East Conflict . – ThyBlackMan . com"
-        },
-        {
-          "title": "hamas agreed to the plan call to disarm .....",
-          "link": "https://www.yourdemocracy.net.au/drupal/node/60770",
-          "source": "yourdemocracy.net.au",
-          "pubDate": "2026-08-13T03:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "hamas agreed to the plan call to disarm ....."
-        },
-        {
-          "title": "Mecca Pact : What does a new West Asian Security Order means for Nepal ?",
-          "link": "https://peoplesreview.com.np/2026/08/13/mecca-pact-what-does-a-new-west-asian-security-order-means-for-nepal/",
-          "source": "peoplesreview.com.np",
-          "pubDate": "2026-08-13T03:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Mecca Pact : What does a new West Asian Security Order means for Nepal ?"
-        },
-        {
-          "title": "China $33 . 5 Billion Surge : Africa Becomes the New Heart of the Belt and Road",
-          "link": "https://www.africa.com/business/chinas-33-5-billion-surge-africa-becomes-the-new-heart-of-the-belt-and-road",
-          "source": "africa.com",
-          "pubDate": "2026-08-13T03:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "China $33 . 5 Billion Surge : Africa Becomes the New Heart of the Belt and Road"
-        },
-        {
-          "title": "Attacks in Middle East seas escalate tensions",
-          "link": "http://usa.chinadaily.com.cn/a/202608/13/WS6a7d2290a31073853ec5317d.html",
-          "source": "usa.chinadaily.com.cn",
-          "pubDate": "2026-08-13T03:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Attacks in Middle East seas escalate tensions"
-        },
-        {
-          "title": "Africa Startup Spring : $3 . 3 Billion Raised as Investors Bet Big on Fewer Winners",
-          "link": "https://www.africa.com/business/africas-startup-spring-3-3-billion-raised-as-investors-bet-big-on-fewer-winners",
-          "source": "africa.com",
-          "pubDate": "2026-08-13T03:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Africa Startup Spring : $3 . 3 Billion Raised as Investors Bet Big on Fewer Winners"
-        },
-        {
-          "title": "Science & Social Sciences Curriculum Updated – Expert Reaction",
-          "link": "https://www.scoop.co.nz/stories/SC2608/S00018/science-social-sciences-curriculum-updated-expert-reaction.htm",
-          "source": "scoop.co.nz",
-          "pubDate": "2026-08-13T03:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Science & Social Sciences Curriculum Updated – Expert Reaction"
-        },
-        {
-          "title": "Iran vows to keep Strait of Hormuz closed until US meets demands",
-          "link": "http://www.pakistantelegraph.com/news/279228549/iran-vows-to-keep-strait-of-hormuz-closed-until-us-meets-demands",
-          "source": "pakistantelegraph.com",
-          "pubDate": "2026-08-13T03:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Iran vows to keep Strait of Hormuz closed until US meets demands"
-        },
-        {
-          "title": "Novorossiysk Struck by Ukraine Veto - Proof Missiles , Ending Fleet Black Sea Sanctuary",
-          "link": "https://www.techtimes.com/articles/324123/20260812/novorossiysk-struck-ukraines-veto-proof-missiles-ending-fleets-black-sea-sanctuary.htm",
-          "source": "techtimes.com",
-          "pubDate": "2026-08-13T02:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Novorossiysk Struck by Ukraine Veto - Proof Missiles , Ending Fleet Black Sea Sanctuary"
-        },
-        {
-          "title": "SKYX Platforms Q2 Earnings Call Highlights",
-          "link": "https://www.themarketsdaily.com/2026/08/13/skyx-platforms-q2-earnings-call-highlights.html",
-          "source": "themarketsdaily.com",
-          "pubDate": "2026-08-13T02:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "SKYX Platforms Q2 Earnings Call Highlights"
-        },
-        {
-          "title": "Uganda : Karamoja Needs More Than Food Relief - It Needs Climate Justice",
-          "link": "https://allafrica.com/stories/202608120653.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-08-13T02:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Uganda : Karamoja Needs More Than Food Relief - It Needs Climate Justice"
-        },
-        {
-          "title": "Netanyahu gave a ‘ victory to Hamas by rejecting US - backed Gaza peace plan",
-          "link": "https://mizonews.net/middle-east-news/17256/",
-          "source": "mizonews.net",
-          "pubDate": "2026-08-13T02:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Netanyahu gave a ‘ victory to Hamas by rejecting US - backed Gaza peace plan"
-        },
-        {
-          "title": "Iran Central Bank Says Country Will Soon Join BRICS New Development Bank – NaturalNews . com",
-          "link": "https://www.naturalnews.com/2026-08-12-iran-central-bank-soon-join-brics-ndb.html",
-          "source": "naturalnews.com",
-          "pubDate": "2026-08-13T01:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Iran Central Bank Says Country Will Soon Join BRICS New Development Bank – NaturalNews . com"
-        },
-        {
-          "title": "APA ( APA ) Q2 2026 Earnings Call Transcript",
-          "link": "https://www.fool.com/earnings/call-transcripts/2026/08/12/apa-apa-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
-          "source": "fool.com",
-          "pubDate": "2026-08-13T01:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "APA ( APA ) Q2 2026 Earnings Call Transcript"
-        },
-        {
-          "title": "U . S . stocks end divided as CPI reading comes in as expected",
-          "link": "http://www.batonrougepost.com/news/279237666/u-s-stocks-end-divided-as-cpi-reading-comes-in-as-expected",
-          "source": "batonrougepost.com",
-          "pubDate": "2026-08-13T01:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "U . S . stocks end divided as CPI reading comes in as expected"
-        },
-        {
-          "title": "U . S . stocks end divided as CPI reading comes in as expected",
-          "link": "http://www.sydneysun.com/news/279237666/u-s-stocks-end-divided-as-cpi-reading-comes-in-as-expected",
-          "source": "sydneysun.com",
-          "pubDate": "2026-08-13T01:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "U . S . stocks end divided as CPI reading comes in as expected"
+          "titleIt": "The first Senegalese selected for the “New Destinies” project visited the embassy"
         }
       ]
     },
