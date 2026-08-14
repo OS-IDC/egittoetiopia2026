@@ -1,11 +1,20 @@
 {
-  "generatedAt": "2026-08-14T09:21:45.722Z",
-  "feedsChecked": 9,
+  "generatedAt": "2026-08-14T11:09:02.354Z",
+  "feedsChecked": 8,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
+        {
+          "title": "Turkey urges Egypt to join its defence pact with Saudi Arabia and Pakistan",
+          "link": "http://www.africanews.com/2026/08/14/turkey-urges-egypt-to-join-its-defence-pact-with-saudi-arabia-and-pakistan/",
+          "description": "The trilateral deal signed last week stipulates that an attack on any of the three states will be treated as an attack on all.",
+          "pubDate": "Fri, 14 Aug 2026 10:06:43 +0000",
+          "source": "Africanews",
+          "lang": "en",
+          "titleIt": "Turkey urges Egypt to join its defence pact with Saudi Arabia and Pakistan"
+        },
         {
           "title": "Quake leaves Colombian towns in ruins as Valle del Cauca counts dead",
           "link": "http://www.africanews.com/2026/08/12/quake-leaves-colombian-towns-in-ruins-as-valle-del-cauca-counts-dead/",
@@ -23,24 +32,6 @@
           "source": "ANSA English",
           "lang": "en",
           "titleIt": "Somalia and Italy Together for Fisheries and the Blue Economy"
-        },
-        {
-          "title": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab",
-          "link": "https://www.crisisgroup.org/brf/africa/somalia/b212-new-chapter-same-stalemate-somalias-war-al-shabaab",
-          "description": "The Somali government’s battle with Al-Shabaab militants grinds on, with neither able to gain a decisive advantage. To improve its lot, Mogadishu needs to bolster its military and alleviate civilian suffering in areas under insurgent control, while looking for openings for dialogue with the group.",
-          "pubDate": "Tuesday, June 30, 2026 - 15:20",
-          "source": "Crisis Group",
-          "lang": "en",
-          "titleIt": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab"
-        },
-        {
-          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
-          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
-          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
-          "pubDate": "Saturday, May 16, 2026 - 00:08",
-          "source": "Crisis Group",
-          "lang": "en",
-          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
@@ -57,24 +48,6 @@
           "titleIt": "Ethiopia: Forced Conscription Resurfaces Across Oromia As Ethiopia Continues to Grapple With Security Crises"
         },
         {
-          "title": "Sudan: RSF Says It Captures Key Sudan Town Near Ethiopian Border As Army Withdraws",
-          "link": "https://allafrica.com/stories/202608140047.html",
-          "description": "[Addis Standard] Addis Abeba -- Sudan's Rapid Support Forces (RSF) and allied fighters have advanced into Al Kurmuk, a strategically important town in Blue Nile State bordering Ethiopia, according to reports by Al Jazeera and The National.",
-          "pubDate": "Fri, 14 Aug 2026 07:14:58 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Sudan: RSF Says It Captures Key Sudan Town Near Ethiopian Border As Army Withdraws"
-        },
-        {
-          "title": "Kenya: Trade CS Kinyanjui Says Agoa Extension Eases Trade Uncertainty",
-          "link": "https://allafrica.com/stories/202608130201.html",
-          "description": "[Capital FM] Nairobi -- The proposed extension of the African Growth and Opportunity Act (AGOA) to December 2028 will give Kenyan manufacturers greater certainty to plan production, Investment, Trade and Industry Cabinet Secretary Lee Kinyanjui has said.",
-          "pubDate": "Thu, 13 Aug 2026 12:11:47 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Kenya: Trade CS Kinyanjui Says Agoa Extension Eases Trade Uncertainty"
-        },
-        {
           "title": "RSF claims key victory in Sudan’s Blue Nile region",
           "link": "http://www.africanews.com/2026/08/13/rsf-claims-key-victory-in-sudans-blue-nile-region/",
           "description": "Sudan’s paramilitary Rapid Support Forces, or RSF, say they have taken full control of Geissan, in the Blue Nile region, near the Ethiopian border.",
@@ -82,30 +55,12 @@
           "source": "Africanews",
           "lang": "en",
           "titleIt": "RSF claims key victory in Sudan’s Blue Nile region"
-        },
-        {
-          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
-          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
-          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
-          "pubDate": "Saturday, May 16, 2026 - 00:08",
-          "source": "Crisis Group",
-          "lang": "en",
-          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
     "ethiopia-sea-access": {
       "title": "Accesso etiope al mare",
       "items": [
-        {
-          "title": "Libia-Tunisia: al lavoro per attuare accordo del 1996 sul trasporto stradale",
-          "link": "https://www.agenzianova.com/a/6a7ede253feab6.62304497/7699682/2026-08-14/libia-tunisia-al-lavoro-per-attuare-accordo-del-1996-sul-trasporto-stradale",
-          "description": "14 ago 11:02 - (Agenzia Nova) - Libia e Tunisia intendono dare attuazione all'accordo bilaterale del 1996 sul trasporto stradale di passeggeri... (Res)",
-          "pubDate": "2026-08-14T11:02:26+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Libia-Tunisia: al lavoro per attuare accordo del 1996 sul trasporto stradale"
-        },
         {
           "title": "Ethiopia: Forced Conscription Resurfaces Across Oromia As Ethiopia Continues to Grapple With Security Crises",
           "link": "https://allafrica.com/stories/202608140050.html",
@@ -114,15 +69,6 @@
           "source": "AllAfrica",
           "lang": "en",
           "titleIt": "Ethiopia: Forced Conscription Resurfaces Across Oromia As Ethiopia Continues to Grapple With Security Crises"
-        },
-        {
-          "title": "Sudan: RSF Says It Captures Key Sudan Town Near Ethiopian Border As Army Withdraws",
-          "link": "https://allafrica.com/stories/202608140047.html",
-          "description": "[Addis Standard] Addis Abeba -- Sudan's Rapid Support Forces (RSF) and allied fighters have advanced into Al Kurmuk, a strategically important town in Blue Nile State bordering Ethiopia, according to reports by Al Jazeera and The National.",
-          "pubDate": "Fri, 14 Aug 2026 07:14:58 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Sudan: RSF Says It Captures Key Sudan Town Near Ethiopian Border As Army Withdraws"
         },
         {
           "title": "Mangione lawyers to meet federal prosecutors amid reports of plea deal",
@@ -141,15 +87,6 @@
           "source": "BBC World",
           "lang": "en",
           "titleIt": "‘Justified’ or ’no business being there’? Tennessee munitions town loyal to Trump but divided on Iran"
-        },
-        {
-          "title": "Kenya: Trade CS Kinyanjui Says Agoa Extension Eases Trade Uncertainty",
-          "link": "https://allafrica.com/stories/202608130201.html",
-          "description": "[Capital FM] Nairobi -- The proposed extension of the African Growth and Opportunity Act (AGOA) to December 2028 will give Kenyan manufacturers greater certainty to plan production, Investment, Trade and Industry Cabinet Secretary Lee Kinyanjui has said.",
-          "pubDate": "Thu, 13 Aug 2026 12:11:47 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Kenya: Trade CS Kinyanjui Says Agoa Extension Eases Trade Uncertainty"
         },
         {
           "title": "RSF claims key victory in Sudan’s Blue Nile region",
@@ -186,33 +123,205 @@
           "source": "BBC Africa",
           "lang": "en",
           "titleIt": "Real Madrid sign Diomande in deal worth up to £120m"
-        },
-        {
-          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
-          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
-          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
-          "pubDate": "Saturday, May 16, 2026 - 00:08",
-          "source": "Crisis Group",
-          "lang": "en",
-          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
     "egypt-economy": {
       "title": "Fragilità economica egiziana",
-      "items": []
+      "items": [
+        {
+          "title": "Gaza Board of Pieces « nuclear - news",
+          "link": "https://nuclear-news.net/2026/08/14/1-a-gazas-board-of-pieces/",
+          "source": "nuclear-news.net",
+          "pubDate": "2026-08-14T10:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Gaza Board of Pieces « nuclear - news"
+        },
+        {
+          "title": "Saudi foreign minister meets with Turkish , Egyptian counterparts",
+          "link": "https://www.arabnews.com/node/2654628/saudi-arabia",
+          "source": "arabnews.com",
+          "pubDate": "2026-08-14T10:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Saudi foreign minister meets with Turkish , Egyptian counterparts"
+        },
+        {
+          "title": "The pro - Israel lobby has swayed US presidents since Truman . It must end with Trump",
+          "link": "https://nuclear-news.net/2026/08/14/1-a-the-pro-israel-lobby-has-swayed-us-presidents-since-truman-it-must-end-with-trump/",
+          "source": "nuclear-news.net",
+          "pubDate": "2026-08-14T10:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The pro - Israel lobby has swayed US presidents since Truman . It must end with Trump"
+        },
+        {
+          "title": "Diplomacy , peacekeeping cuts weaken Carney middle - power vision : South African envoy",
+          "link": "https://lethbridgeherald.com/news/national-news/2026/08/14/diplomacy-peacekeeping-cuts-weaken-carneys-middle-power-vision-south-african-envoy/",
+          "source": "lethbridgeherald.com",
+          "pubDate": "2026-08-14T09:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Diplomacy , peacekeeping cuts weaken Carney middle - power vision : South African envoy"
+        },
+        {
+          "title": "UAE denounces Iranian attack on ADNOC vessels in Strait of Hormuz as  act of piracy",
+          "link": "https://aninews.in/news/world/middle-east/uae-denounces-iranian-attack-on-adnoc-vessels-in-strait-of-hormuz-as-act-of-piracy20260814130039/",
+          "source": "aninews.in",
+          "pubDate": "2026-08-14T09:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "UAE denounces Iranian attack on ADNOC vessels in Strait of Hormuz as  act of piracy"
+        },
+        {
+          "title": "The Mecca Agreement 2026 raises the question : Is it a Muslim NATO , and if so , against whom ?",
+          "link": "https://countercurrents.org/2026/08/the-mecca-agreement-2026-raises-the-question-is-it-a-muslim-nato-and-if-so-against-whom/",
+          "source": "countercurrents.org",
+          "pubDate": "2026-08-14T09:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The Mecca Agreement 2026 raises the question : Is it a Muslim NATO , and if so , against whom ?"
+        },
+        {
+          "title": "Seventy - nine years : an audit",
+          "link": "https://www.geo.tv/latest/677571-seventy-nine-years-an-audit",
+          "source": "geo.tv",
+          "pubDate": "2026-08-14T09:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Seventy - nine years : an audit"
+        },
+        {
+          "title": "UAE denounces Iranian attack on ADNOC vessels in Strait of Hormuz as  act of piracy",
+          "link": "https://news.webindia123.com/news/Articles/World/20260814/4486993.html",
+          "source": "news.webindia123.com",
+          "pubDate": "2026-08-14T09:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "UAE denounces Iranian attack on ADNOC vessels in Strait of Hormuz as  act of piracy"
+        },
+        {
+          "title": "Review : Al - Qatai ; Ibn Tulun City Without Walls by Reem Bassiouney",
+          "link": "https://www.hindustantimes.com/books/review-al-qata-i-ibn-tulun-s-city-without-walls-by-reem-bassiouney-101786696004492.html",
+          "source": "hindustantimes.com",
+          "pubDate": "2026-08-14T09:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Review : Al - Qatai ; Ibn Tulun City Without Walls by Reem Bassiouney"
+        },
+        {
+          "title": "Cats , long ridiculed , are the new stars of Alley Cats , Gatto",
+          "link": "https://www.niagarafallsreview.ca/entertainment/cats-and-their-owners-have-long-been-ridiculed-now-theyre-having-their-pop-culture-moment/article_78ded30c-e56e-5d76-a00c-7ec7279f488a.html",
+          "source": "niagarafallsreview.ca",
+          "pubDate": "2026-08-14T09:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Cats , long ridiculed , are the new stars of Alley Cats , Gatto"
+        },
+        {
+          "title": "Iran President Pezeshkian said to attend BRICS summit in Delhi",
+          "link": "https://economictimes.indiatimes.com/news/india/iran-president-pezeshkian-said-to-be-attend-brics-summit-in-delhi/articleshow/133231967.cms",
+          "source": "economictimes.indiatimes.com",
+          "pubDate": "2026-08-14T09:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Iran President Pezeshkian said to attend BRICS summit in Delhi"
+        },
+        {
+          "title": "Diplomacy , peacekeeping cuts weaken Carney middle - power vision : South African envoy – Winnipeg Free Press",
+          "link": "https://www.winnipegfreepress.com/business/2026/08/14/diplomacy-peacekeeping-cuts-weaken-carneys-middle-power-vision-south-african-envoy",
+          "source": "winnipegfreepress.com",
+          "pubDate": "2026-08-14T08:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Diplomacy , peacekeeping cuts weaken Carney middle - power vision : South African envoy – Winnipeg Free Press"
+        },
+        {
+          "title": "Toyota Tsusho , Unicharm launch Kenya venture with $12 . 6 million capital",
+          "link": "https://jp.ibtimes.com/toyota-tsusho-unicharm-launch-kenya-venture-126-million-capital-103675",
+          "source": "jp.ibtimes.com",
+          "pubDate": "2026-08-14T08:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Toyota Tsusho , Unicharm launch Kenya venture with $12 . 6 million capital"
+        },
+        {
+          "title": "Mining -  Jordan and Egypt forge strategic phosphate and energy alliance",
+          "link": "https://technicalreviewmiddleeast.com/mining/jordan-and-egypt-forge-strategic-phosphate-and-energy-alliance",
+          "source": "technicalreviewmiddleeast.com",
+          "pubDate": "2026-08-14T07:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Mining -  Jordan and Egypt forge strategic phosphate and energy alliance"
+        },
+        {
+          "title": "Iran - US war latest : Trump sends new aircraft carrier to Middle East as war puts troops under strain",
+          "link": "https://www.independent.co.uk/news/world/middle-east/iran-us-war-live-trump-hormuz-naval-blockade-oil-prices-b3032930.html",
+          "source": "independent.co.uk",
+          "pubDate": "2026-08-14T07:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Iran - US war latest : Trump sends new aircraft carrier to Middle East as war puts troops under strain"
+        },
+        {
+          "title": "AD Ports Group Q2 profit surges on boost from trade through Hormuz alternatives",
+          "link": "https://www.thenationalnews.com/business/economy/2026/08/14/ad-ports-group-q2-profit-surges-on-boost-from-trade-through-hormuz-alternatives/",
+          "source": "thenationalnews.com",
+          "pubDate": "2026-08-14T07:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "AD Ports Group Q2 profit surges on boost from trade through Hormuz alternatives"
+        },
+        {
+          "title": "Netanyahu Opposition Sells The Same Poison",
+          "link": "https://www.thecitizen.in/opinion/netanyahus-opposition-sells-the-same-poison-1344235",
+          "source": "thecitizen.in",
+          "pubDate": "2026-08-14T07:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Netanyahu Opposition Sells The Same Poison"
+        },
+        {
+          "title": "APA ( NASDAQ : APA ) Price Target Raised to $47 . 00",
+          "link": "https://www.themarketsdaily.com/2026/08/14/apa-nasdaqapa-price-target-raised-to-47-00.html",
+          "source": "themarketsdaily.com",
+          "pubDate": "2026-08-14T07:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "APA ( NASDAQ : APA ) Price Target Raised to $47 . 00"
+        },
+        {
+          "title": "Nolan Odyssey gave the Classics a blockbuster moment . Will academia answer the call ?",
+          "link": "https://neoskosmos.com/en/2026/08/14/life/nolans-odyssey-gave-the-classics-a-blockbuster-moment-will-academia-answer-the-call/",
+          "source": "neoskosmos.com",
+          "pubDate": "2026-08-14T06:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Nolan Odyssey gave the Classics a blockbuster moment . Will academia answer the call ?"
+        },
+        {
+          "title": "Worker Struggles : Europe , Middle East & Africa - World Socialist Web Site",
+          "link": "https://www.wsws.org/en/articles/2026/08/13/awqr-a13.html",
+          "source": "wsws.org",
+          "pubDate": "2026-08-14T05:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Worker Struggles : Europe , Middle East & Africa - World Socialist Web Site"
+        }
+      ]
     },
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
       "items": [
         {
-          "title": "Sudan: Refugees, Lost Trade and Security Costs - How Conflict in One African Country Drives Up Debt for Its Neighbours",
-          "link": "https://allafrica.com/stories/202608140062.html",
-          "description": "[The Conversation Africa] Conflicts in Africa vary in scope and intensity. They range from large-scale civil wars to territorial disputes, localised insurgencies, inter-communal violence, political instability, armed conflict and terrorism. The continent has earned the reputation of being the world's bloodiest.",
-          "pubDate": "Fri, 14 Aug 2026 07:33:35 GMT",
+          "title": "Ethiopia: Five Detained Ethiopian Journalists Pressured to Admit Terrorism Involvement in Exchange for Release, CPJ Says",
+          "link": "https://allafrica.com/stories/202608140178.html",
+          "description": "[Addis Standard] Addis Abeba -- The Committee to Protect Journalists (CPJ) has called on Ethiopian authorities to release five journalists who have been detained for about three years while awaiting trial, alleging that they are being pressured to admit involvement in an armed insurgency and apologize in exchange for their freedom.",
+          "pubDate": "Fri, 14 Aug 2026 10:42:57 GMT",
           "source": "AllAfrica",
           "lang": "en",
-          "titleIt": "Sudan: Refugees, Lost Trade and Security Costs - How Conflict in One African Country Drives Up Debt for Its Neighbours"
+          "titleIt": "Ethiopia: Five Detained Ethiopian Journalists Pressured to Admit Terrorism Involvement in Exchange for Release, CPJ Says"
         },
         {
           "title": "Ethiopia: Forced Conscription Resurfaces Across Oromia As Ethiopia Continues to Grapple With Security Crises",
