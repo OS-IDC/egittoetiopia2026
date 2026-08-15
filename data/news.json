@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-15T16:42:40.955Z",
-  "feedsChecked": 9,
+  "generatedAt": "2026-08-15T18:48:12.079Z",
+  "feedsChecked": 8,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
@@ -32,30 +32,39 @@
           "source": "ANSA English",
           "lang": "en",
           "titleIt": "Somalia and Italy Together for Fisheries and the Blue Economy"
-        },
-        {
-          "title": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab",
-          "link": "https://www.crisisgroup.org/brf/africa/somalia/b212-new-chapter-same-stalemate-somalias-war-al-shabaab",
-          "description": "The Somali government’s battle with Al-Shabaab militants grinds on, with neither able to gain a decisive advantage. To improve its lot, Mogadishu needs to bolster its military and alleviate civilian suffering in areas under insurgent control, while looking for openings for dialogue with the group.",
-          "pubDate": "Tuesday, June 30, 2026 - 15:20",
-          "source": "Crisis Group",
-          "lang": "en",
-          "titleIt": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab"
-        },
-        {
-          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
-          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
-          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
-          "pubDate": "Saturday, May 16, 2026 - 00:08",
-          "source": "Crisis Group",
-          "lang": "en",
-          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
     "somaliland": {
       "title": "Dossier Somaliland",
       "items": [
+        {
+          "title": "The Saudi – Turkish – Pakistani Security Agreement : A Preliminary Assessment",
+          "link": "https://www.middleeastmonitor.com/20260815-the-saudi-turkish-pakistani-security-agreement-a-preliminary-assessment/",
+          "source": "middleeastmonitor.com",
+          "pubDate": "2026-08-15T11:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The Saudi – Turkish – Pakistani Security Agreement : A Preliminary Assessment"
+        },
+        {
+          "title": "The Makkah Joint Defence Agreement , Gulf Dynamics , And The Horn Of Africa",
+          "link": "https://www.thereporterethiopia.com/52268/",
+          "source": "thereporterethiopia.com",
+          "pubDate": "2026-08-15T09:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The Makkah Joint Defence Agreement , Gulf Dynamics , And The Horn Of Africa"
+        },
+        {
+          "title": "Somaliland , AFRICOM Hold Talks on Maritime Security and Defense Cooperation",
+          "link": "https://wardheernews.com/somaliland-africom-hold-talks-on-maritime-security-and-defense-cooperation/",
+          "source": "wardheernews.com",
+          "pubDate": "2026-08-14T17:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Somaliland , AFRICOM Hold Talks on Maritime Security and Defense Cooperation"
+        },
         {
           "title": "Worries grow over mysterious illness killing Kenyan elephants",
           "link": "http://www.africanews.com/2026/08/14/worries-grow-over-mysterious-illness-killing-kenyan-elephants/",
@@ -75,6 +84,33 @@
           "titleIt": "Sudan: RSF Says It Captures Key Sudan Town Near Ethiopian Border As Army Withdraws"
         },
         {
+          "title": "How the Mecca Agreement aims to manage US separation from Middle East",
+          "link": "https://www.chinatechnews.com/2026/08/14/127304-how-the-mecca-agreement-aims-to-manage-us-separation-from-middle-east",
+          "source": "chinatechnews.com",
+          "pubDate": "2026-08-13T23:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "How the Mecca Agreement aims to manage US separation from Middle East"
+        },
+        {
+          "title": "How Riyadh lost the war in Yemen long before the Red Sea blew up",
+          "link": "http://www.jpost.com/opinion/article-905397",
+          "source": "jpost.com",
+          "pubDate": "2026-08-13T22:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "How Riyadh lost the war in Yemen long before the Red Sea blew up"
+        },
+        {
+          "title": "Africa : Houthi Red Sea Threat Puts Somaliland in Focus As Analysts See Possible U . S . Strategy Shift",
+          "link": "https://allafrica.com/stories/202608130200.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-08-13T12:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Africa : Houthi Red Sea Threat Puts Somaliland in Focus As Analysts See Possible U . S . Strategy Shift"
+        },
+        {
           "title": "RSF claims key victory in Sudan’s Blue Nile region",
           "link": "http://www.africanews.com/2026/08/13/rsf-claims-key-victory-in-sudans-blue-nile-region/",
           "description": "Sudan’s paramilitary Rapid Support Forces, or RSF, say they have taken full control of Geissan, in the Blue Nile region, near the Ethiopian border.",
@@ -84,13 +120,103 @@
           "titleIt": "RSF claims key victory in Sudan’s Blue Nile region"
         },
         {
-          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
-          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
-          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
-          "pubDate": "Saturday, May 16, 2026 - 00:08",
-          "source": "Crisis Group",
+          "title": "The Mecca Pact : The Unfinished Asabiyyah of a World in Search of Power",
+          "link": "https://countercurrents.org/2026/08/the-mecca-pact-the-unfinished-asabiyyah-of-a-world-in-search-of-power/",
+          "source": "countercurrents.org",
+          "pubDate": "2026-08-13T06:00:00Z",
           "lang": "en",
-          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
+          "description": "",
+          "titleIt": "The Mecca Pact : The Unfinished Asabiyyah of a World in Search of Power"
+        },
+        {
+          "title": "القرن الأفريقي .. التفاعلات الاستراتيجية وصراع النفوذ الدولي",
+          "link": "https://www.okaz.com.sa/articles/na/2261085",
+          "source": "okaz.com.sa",
+          "pubDate": "2026-08-12T21:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "القرن الأفريقي .. التفاعلات الاستراتيجية وصراع النفوذ الدولي"
+        },
+        {
+          "title": "Radio Station WHMI 93 . 5 FM Livingston County Michigan News , Weather , Traffic , Sports , School Updates , and the Best Classic Hit",
+          "link": "https://www.whmi.com/news/fox/iran-backed-houthi-threat-red-sea-could-lead-major-us-policy-shift-analysts-say",
+          "source": "whmi.com",
+          "pubDate": "2026-08-12T17:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Radio Station WHMI 93 . 5 FM Livingston County Michigan News , Weather , Traffic , Sports , School Updates , and the Best Classic Hit"
+        },
+        {
+          "title": "Saudi Arabia doubles down on its failed Yemen strategy",
+          "link": "https://www.jns.org/opinion/habtom-ghebrezghiabher/saudi-arabia-doubles-down-on-its-failed-yemen-strategy",
+          "source": "jns.org",
+          "pubDate": "2026-08-12T02:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Saudi Arabia doubles down on its failed Yemen strategy"
+        },
+        {
+          "title": "Saudi Arabia opposed Egypt inclusion in Mecca agreement , sources say",
+          "link": "https://www.middleeasteye.net/news/saudi-arabia-opposed-egypts-inclusion-mecca-agreement-sources-say",
+          "source": "middleeasteye.net",
+          "pubDate": "2026-08-11T18:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Saudi Arabia opposed Egypt inclusion in Mecca agreement , sources say"
+        },
+        {
+          "title": "India new Middle East power play - opinion | The Jerusalem Post",
+          "link": "http://www.jpost.com/defense-and-tech/article-905189",
+          "source": "jpost.com",
+          "pubDate": "2026-08-11T13:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "India new Middle East power play - opinion | The Jerusalem Post"
+        },
+        {
+          "title": "The Recurrent Injustice Against the SSC People in Somali Politics Preamble",
+          "link": "https://wardheernews.com/the-recurrent-injustice-against-the-ssc-people-in-somali-politicspreamble/",
+          "source": "wardheernews.com",
+          "pubDate": "2026-08-11T08:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The Recurrent Injustice Against the SSC People in Somali Politics Preamble"
+        },
+        {
+          "title": "Dubai ruler confronted in London over UAE involvement in Sudan war",
+          "link": "https://www.middleeasteye.net/news/dubai-ruler-confronted-london-over-uae-involvement-sudan-war",
+          "source": "middleeasteye.net",
+          "pubDate": "2026-08-10T15:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Dubai ruler confronted in London over UAE involvement in Sudan war"
+        },
+        {
+          "title": "The US Back in Ethiopia , a New Hub of Major Power Competition",
+          "link": "https://www.theepochtimes.com/opinion/the-us-back-in-ethiopia-a-new-hub-of-major-power-competition-6072382",
+          "source": "theepochtimes.com",
+          "pubDate": "2026-08-09T11:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The US Back in Ethiopia , a New Hub of Major Power Competition"
+        },
+        {
+          "title": "Saudi Arabia , Pakistan , Turkey Sign Joint Defense Pact Amid US - Iran Tensions",
+          "link": "https://www.globalsecurity.org/military/library/news/2026/08/mil-260807-rferl01.htm",
+          "source": "globalsecurity.org",
+          "pubDate": "2026-08-08T13:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Saudi Arabia , Pakistan , Turkey Sign Joint Defense Pact Amid US - Iran Tensions"
+        },
+        {
+          "title": "Flashpoint : Military Or Diplomacy ? Horn Of Africa Geopolitical Alliances Reach Tipping Point",
+          "link": "https://www.thereporterethiopia.com/52198/",
+          "source": "thereporterethiopia.com",
+          "pubDate": "2026-08-08T10:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Flashpoint : Military Or Diplomacy ? Horn Of Africa Geopolitical Alliances Reach Tipping Point"
         }
       ]
     },
@@ -150,25 +276,165 @@
           "source": "BBC Africa",
           "lang": "en",
           "titleIt": "Real Madrid sign Diomande in deal worth up to £120m"
-        },
-        {
-          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
-          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
-          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
-          "pubDate": "Saturday, May 16, 2026 - 00:08",
-          "source": "Crisis Group",
-          "lang": "en",
-          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
     "egypt-economy": {
       "title": "Fragilità economica egiziana",
-      "items": []
-    },
-    "gerd-opacity": {
-      "title": "Opacità sui rilasci GERD",
       "items": [
+        {
+          "title": "India fills us with awe at scale of its achievements , vastness of potential : Global leaders extend wishes on Independence Day",
+          "link": "https://aninews.in/news/world/asia/india-fills-us-with-awe-at-scale-of-its-achievements-vastness-of-potential-global-leaders-extend-wishes-on-independence-day20260815221304/",
+          "source": "aninews.in",
+          "pubDate": "2026-08-15T18:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "India fills us with awe at scale of its achievements , vastness of potential : Global leaders extend wishes on Independence Day"
+        },
+        {
+          "title": "Egypt , Turkey Sign Cooperation Agreements in Alamein , Discuss $15B Trade Target",
+          "link": "https://egyptianstreets.com/2026/08/15/egypt-turkey-sign-cooperation-agreements-in-alamein-discuss-15b-trade-target/",
+          "source": "egyptianstreets.com",
+          "pubDate": "2026-08-15T18:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt , Turkey Sign Cooperation Agreements in Alamein , Discuss $15B Trade Target"
+        },
+        {
+          "title": "Egypt Growth Outlook Cut to 5 % as Rate Cuts Slip to 2027",
+          "link": "https://www.riotimesonline.com/egypt-growth-outlook-cut-5-percent-inflation-delays-rate-cuts-2026/",
+          "source": "riotimesonline.com",
+          "pubDate": "2026-08-15T18:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt Growth Outlook Cut to 5 % as Rate Cuts Slip to 2027"
+        },
+        {
+          "title": "Trump Says He Will  Soon  Declare Strait Of Hormuz US Territory",
+          "link": "http://www.pakistantelegraph.com/news/279242419/trump-says-he-will-soon-declare-strait-of-hormuz-us-territory",
+          "source": "pakistantelegraph.com",
+          "pubDate": "2026-08-15T15:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Trump Says He Will  Soon  Declare Strait Of Hormuz US Territory"
+        },
+        {
+          "title": "Global partners extend greetings to India on 80th Independence Day",
+          "link": "https://www.orissapost.com/global-partners-extend-greetings-to-india-on-80th-independence-day/",
+          "source": "orissapost.com",
+          "pubDate": "2026-08-15T15:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Global partners extend greetings to India on 80th Independence Day"
+        },
+        {
+          "title": "Morocco Shows How Migration Has Become Weaponized",
+          "link": "https://www.scoop.co.nz/stories/WO2608/S00107/morocco-shows-how-migration-has-become-weaponized.htm",
+          "source": "scoop.co.nz",
+          "pubDate": "2026-08-15T15:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Morocco Shows How Migration Has Become Weaponized"
+        },
+        {
+          "title": "SKYX Platforms Q2 Earnings Call Highlights",
+          "link": "https://www.dailypolitical.com/2026/08/15/skyx-platforms-q2-earnings-call-highlights.html",
+          "source": "dailypolitical.com",
+          "pubDate": "2026-08-15T15:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "SKYX Platforms Q2 Earnings Call Highlights"
+        },
+        {
+          "title": "Igboho : Vindicated By Reality - By Abiodun KOMOLAFE",
+          "link": "https://www.opinionnigeria.com/igboho-vindicated-by-reality-by-abiodun-komolafe/",
+          "source": "opinionnigeria.com",
+          "pubDate": "2026-08-15T13:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Igboho : Vindicated By Reality - By Abiodun KOMOLAFE"
+        },
+        {
+          "title": "Egypt Denies Connection to Ship Targeted Near Yemen , Condemns Red Sea Maritime Attacks **",
+          "link": "https://www.tanzanianewsreports.com/egypt-denies-connection-to-ship-targeted-near-yemen-condemns-red-sea-maritime-attacks/",
+          "source": "tanzanianewsreports.com",
+          "pubDate": "2026-08-15T13:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt Denies Connection to Ship Targeted Near Yemen , Condemns Red Sea Maritime Attacks **"
+        },
+        {
+          "title": "Israeli President Isaac Herzog Greets India on 80th Independence Day , Hails  Beautiful Friendship",
+          "link": "https://www.rozanaspokesman.com/news/nation/150826/israeli-president-isaac-herzog-congratulates-india-on-80th-independenc.html",
+          "source": "rozanaspokesman.com",
+          "pubDate": "2026-08-15T12:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Israeli President Isaac Herzog Greets India on 80th Independence Day , Hails  Beautiful Friendship"
+        },
+        {
+          "title": "Trump Says He Will  Soon  Declare Strait Of Hormuz US Territory",
+          "link": "http://www.southeastasiapost.com/news/279242419/trump-says-he-will-soon-declare-strait-of-hormuz-us-territory",
+          "source": "southeastasiapost.com",
+          "pubDate": "2026-08-15T12:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Trump Says He Will  Soon  Declare Strait Of Hormuz US Territory"
+        },
+        {
+          "title": "From Cairo to Mamdani : Obama Long Game - American Thinker",
+          "link": "https://www.americanthinker.com/articles/2026/08/from-cairo-to-mamdani-obama-s-long-game/",
+          "source": "americanthinker.com",
+          "pubDate": "2026-08-15T12:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "From Cairo to Mamdani : Obama Long Game - American Thinker"
+        },
+        {
+          "title": "The Saudi – Turkish – Pakistani Security Agreement : A Preliminary Assessment",
+          "link": "https://www.middleeastmonitor.com/20260815-the-saudi-turkish-pakistani-security-agreement-a-preliminary-assessment/",
+          "source": "middleeastmonitor.com",
+          "pubDate": "2026-08-15T11:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The Saudi – Turkish – Pakistani Security Agreement : A Preliminary Assessment"
+        },
+        {
+          "title": "Iran President Pezeshkian India Visit in September : BRICS Summit",
+          "link": "https://dailypioneer.com/news/iran-president-likely-to-attend-brics-summit-in-delhi",
+          "source": "dailypioneer.com",
+          "pubDate": "2026-08-15T09:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Iran President Pezeshkian India Visit in September : BRICS Summit"
+        },
+        {
+          "title": "World Leaders Congratulate Pakistan on 79th Independence Day",
+          "link": "https://www.pakistantimes.com/world-leaders-congratulate-pakistan-on-79th-independence-day-14130/",
+          "source": "pakistantimes.com",
+          "pubDate": "2026-08-15T09:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "World Leaders Congratulate Pakistan on 79th Independence Day"
+        },
+        {
+          "title": "National Dialogue , Youth Ownership , And The Path To Stability : Girma Seifu On Ethiopia Political Future",
+          "link": "https://www.thereporterethiopia.com/52293/",
+          "source": "thereporterethiopia.com",
+          "pubDate": "2026-08-15T09:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "National Dialogue , Youth Ownership , And The Path To Stability : Girma Seifu On Ethiopia Political Future"
+        },
+        {
+          "title": "Addis Ababa : The Governance Disconnect And Ethiopia Mounting Challenges",
+          "link": "https://www.thereporterethiopia.com/52277/",
+          "source": "thereporterethiopia.com",
+          "pubDate": "2026-08-15T09:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Addis Ababa : The Governance Disconnect And Ethiopia Mounting Challenges"
+        },
         {
           "title": "Egypt Aggressive Nile Policy No Longer Serves The Region",
           "link": "https://www.thereporterethiopia.com/52282/",
@@ -179,6 +445,29 @@
           "titleIt": "Egypt Aggressive Nile Policy No Longer Serves The Region"
         },
         {
+          "title": "The Zionist lobby , the left and the far right : Dont let imperialism off the hook",
+          "link": "https://socialistworker.co.uk/in-depth/the-zionist-lobby-the-left-and-the-far-right-dont-let-imperialism-off-the-hook/",
+          "source": "socialistworker.co.uk",
+          "pubDate": "2026-08-15T08:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The Zionist lobby , the left and the far right : Dont let imperialism off the hook"
+        },
+        {
+          "title": "China Focus : China landmark Ecological and Environmental Code takes effect to drive green modernization - Xinhua",
+          "link": "https://english.news.cn/20260815/45a7e31bf9f9425cad36febad253ab13/c.html",
+          "source": "english.news.cn",
+          "pubDate": "2026-08-15T08:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "China Focus : China landmark Ecological and Environmental Code takes effect to drive green modernization - Xinhua"
+        }
+      ]
+    },
+    "gerd-opacity": {
+      "title": "Opacità sui rilasci GERD",
+      "items": [
+        {
           "title": "Governing The Invisible Grid : Ethiopia Missing Biomass Account",
           "link": "https://www.thereporterethiopia.com/52279/",
           "source": "thereporterethiopia.com",
@@ -186,6 +475,15 @@
           "lang": "en",
           "description": "",
           "titleIt": "Governing The Invisible Grid : Ethiopia Missing Biomass Account"
+        },
+        {
+          "title": "Egypt Aggressive Nile Policy No Longer Serves The Region",
+          "link": "https://www.thereporterethiopia.com/52282/",
+          "source": "thereporterethiopia.com",
+          "pubDate": "2026-08-15T09:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt Aggressive Nile Policy No Longer Serves The Region"
         },
         {
           "title": "RSF drone attacks in Sudan, Somalia’s drought emergency, and WFP sticks with Palantir: The Cheat Sheet",
