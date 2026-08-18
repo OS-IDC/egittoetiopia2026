@@ -1,11 +1,20 @@
 {
-  "generatedAt": "2026-08-18T14:53:53.451Z",
+  "generatedAt": "2026-08-18T16:49:40.931Z",
   "feedsChecked": 9,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
+        {
+          "title": "Kenya: Somaliland President's Nairobi Visit Deepens Kenya Ties, Mission Says",
+          "link": "https://allafrica.com/stories/202608180617.html",
+          "description": "[Horn Diplomat] Nairobi -- Somaliland President Abdirahman Mohamed Abdullahi's recent visit to Nairobi brought together senior Kenyan leaders, diplomats and development partners for talks aimed at strengthening bilateral cooperation and advancing Somaliland's development priorities, the Republic of Somaliland Mission in Kenya said.",
+          "pubDate": "Tue, 18 Aug 2026 16:18:37 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Kenya: Somaliland President's Nairobi Visit Deepens Kenya Ties, Mission Says"
+        },
         {
           "title": "Somali woman to receive asylum from an evangelical church in Bavaria",
           "link": "https://www.ansa.it/english/news/2026/08/18/somali-woman-to-receive-asylum-from-an-evangelical-church-in-bavaria_635bc1af-50cf-4004-a587-4e0f5bff0ab0.html",
@@ -111,40 +120,22 @@
       "title": "Dossier Somaliland",
       "items": [
         {
-          "title": "Kenya: chiusa l'Ambasciata a Cuba, in Giamaica la nuova base della diplomazia nei Caraibi (2)",
-          "link": "https://www.agenzianova.com/a/6a8471fcebf8f7.01764307/7706652/2026-08-18/kenya-chiusa-l-ambasciata-a-cuba-in-giamaica-la-nuova-base-della-diplomazia-nei-caraibi-2",
-          "description": "18 ago 16:41 - (Agenzia Nova) - La decisione di chiudere la sede all'Avana, scrive \"Kenyan Foreign Policy\", si produce nel pieno di una riorganizzazione... (Res)",
-          "pubDate": "2026-08-18T16:41:30+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Kenya: chiusa l'Ambasciata a Cuba, in Giamaica la nuova base della diplomazia nei Caraibi (2)"
-        },
-        {
-          "title": "Kenya: chiusa l'Ambasciata a Cuba, in Giamaica la nuova base della diplomazia nei Caraibi",
-          "link": "https://www.agenzianova.com/a/6a8471fcec0f56.52067398/7706651/2026-08-18/kenya-chiusa-l-ambasciata-a-cuba-in-giamaica-la-nuova-base-della-diplomazia-nei-caraibi",
-          "description": "18 ago 16:41 - (Agenzia Nova) - Il Kenya ha deciso di chiudere la propria ambasciata a Cuba, spostando dall'Avana a Kingston, Giamaica, il... (Res)",
-          "pubDate": "2026-08-18T16:41:30+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Kenya: chiusa l'Ambasciata a Cuba, in Giamaica la nuova base della diplomazia nei Caraibi"
-        },
-        {
-          "title": "Kenya: Koome Disowns Fake Letter Alleging Plot to Influence Supreme Court",
-          "link": "https://allafrica.com/stories/202608170722.html",
-          "description": "[Capital FM] Nairobi -- The Judiciary has disowned a letter circulating on social media and purportedly signed by Chief Justice Martha Koome, dismissing it as fabricated and warning the public against using it to advance political narratives.",
-          "pubDate": "Mon, 17 Aug 2026 15:51:27 GMT",
+          "title": "Kenya: Somaliland President's Nairobi Visit Deepens Kenya Ties, Mission Says",
+          "link": "https://allafrica.com/stories/202608180617.html",
+          "description": "[Horn Diplomat] Nairobi -- Somaliland President Abdirahman Mohamed Abdullahi's recent visit to Nairobi brought together senior Kenyan leaders, diplomats and development partners for talks aimed at strengthening bilateral cooperation and advancing Somaliland's development priorities, the Republic of Somaliland Mission in Kenya said.",
+          "pubDate": "Tue, 18 Aug 2026 16:18:37 GMT",
           "source": "AllAfrica",
           "lang": "en",
-          "titleIt": "Kenya: Koome Disowns Fake Letter Alleging Plot to Influence Supreme Court"
+          "titleIt": "Kenya: Somaliland President's Nairobi Visit Deepens Kenya Ties, Mission Says"
         },
         {
-          "title": "Kenya: Gachagua Claims 12mn Votes As He Stakes Claim to Opposition Flagbearer Role",
-          "link": "https://allafrica.com/stories/202608170711.html",
-          "description": "[Capital FM] Nairobi -- Former Deputy President Rigathi Gachagua has claimed to command the support of nearly 12 million Kenyans as he positions himself for the 2027 presidential race.",
-          "pubDate": "Mon, 17 Aug 2026 15:47:08 GMT",
-          "source": "AllAfrica",
+          "title": "Ethiopia: Authorities in Tigray accuse Addis Ababa of drone strike near Mekelle",
+          "link": "http://www.africanews.com/2026/08/18/ethiopia-authorities-in-tigray-accuse-addis-ababa-of-drone-strike-near-mekelle/",
+          "description": "Authorities in Ethiopia's Tigray region have accused the federal government of launching a drone strike near the state capital Mekelle. Tensions between Tigray and Addis Ababa have been mounting in recent weeks, with both parties massing forces on either side of the regional border.",
+          "pubDate": "Tue, 18 Aug 2026 14:44:00 +0000",
+          "source": "Africanews",
           "lang": "en",
-          "titleIt": "Kenya: Gachagua Claims 12mn Votes As He Stakes Claim to Opposition Flagbearer Role"
+          "titleIt": "Ethiopia: Authorities in Tigray accuse Addis Ababa of drone strike near Mekelle"
         },
         {
           "title": "'Emergency' ship rescues migrant boat, 7 dead",
@@ -187,6 +178,15 @@
     "ethiopia-sea-access": {
       "title": "Accesso etiope al mare",
       "items": [
+        {
+          "title": "Ethiopia: Authorities in Tigray accuse Addis Ababa of drone strike near Mekelle",
+          "link": "http://www.africanews.com/2026/08/18/ethiopia-authorities-in-tigray-accuse-addis-ababa-of-drone-strike-near-mekelle/",
+          "description": "Authorities in Ethiopia's Tigray region have accused the federal government of launching a drone strike near the state capital Mekelle. Tensions between Tigray and Addis Ababa have been mounting in recent weeks, with both parties massing forces on either side of the regional border.",
+          "pubDate": "Tue, 18 Aug 2026 14:44:00 +0000",
+          "source": "Africanews",
+          "lang": "en",
+          "titleIt": "Ethiopia: Authorities in Tigray accuse Addis Ababa of drone strike near Mekelle"
+        },
         {
           "title": "Somalia: Pirates Seize Commercial Cargo Ship",
           "link": "https://allafrica.com/stories/202608180217.html",
@@ -269,6 +269,15 @@
       "title": "Opacità sui rilasci GERD",
       "items": [
         {
+          "title": "Ethiopia: Authorities in Tigray accuse Addis Ababa of drone strike near Mekelle",
+          "link": "http://www.africanews.com/2026/08/18/ethiopia-authorities-in-tigray-accuse-addis-ababa-of-drone-strike-near-mekelle/",
+          "description": "Authorities in Ethiopia's Tigray region have accused the federal government of launching a drone strike near the state capital Mekelle. Tensions between Tigray and Addis Ababa have been mounting in recent weeks, with both parties massing forces on either side of the regional border.",
+          "pubDate": "Tue, 18 Aug 2026 14:44:00 +0000",
+          "source": "Africanews",
+          "lang": "en",
+          "titleIt": "Ethiopia: Authorities in Tigray accuse Addis Ababa of drone strike near Mekelle"
+        },
+        {
           "title": "Ethiopia: Drought Threatens Livelihoods of Irob Minority Community in Eastern Tigray",
           "link": "https://allafrica.com/stories/202608180110.html",
           "description": "[Addis Standard] Addis Abeba -- A worsening shortage of rainfall is putting the livelihoods of the Irob community in eastern Tigray at growing risk, with local authorities warning that prolonged dry conditions could lead to livestock deaths, disease and starvation.",
@@ -276,24 +285,6 @@
           "source": "AllAfrica",
           "lang": "en",
           "titleIt": "Ethiopia: Drought Threatens Livelihoods of Irob Minority Community in Eastern Tigray"
-        },
-        {
-          "title": "Today in Africa : DR Congo Ebola outbreak becomes deadliest , Cameroon wins first WAFCON title",
-          "link": "https://www.okayafrica.com/today-in-africa-august-17-2026-dr-congos-ebola-outbreak-now-the-countrys-deadliest-cameroon-wins-first-ever-wafcon-title/1437871",
-          "source": "okayafrica.com",
-          "pubDate": "2026-08-17T19:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Today in Africa : DR Congo Ebola outbreak becomes deadliest , Cameroon wins first WAFCON title"
-        },
-        {
-          "title": "Egypt Warns Ethiopia Over Plans for More Nile Dams",
-          "link": "https://themedialine.org/headlines/egypt-warns-ethiopia-over-plans-for-more-nile-dams/",
-          "source": "themedialine.org",
-          "pubDate": "2026-08-17T17:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egypt Warns Ethiopia Over Plans for More Nile Dams"
         },
         {
           "title": "'Emergency' ship rescues migrant boat, 7 dead",
@@ -314,51 +305,6 @@
           "titleIt": "'Emergency' ship rescues migrant boat, 7 dead"
         },
         {
-          "title": "Egypt Warns Ethiopia against Plans to Control Nile River Flows",
-          "link": "https://english.aawsat.com/arab-world/5307849-egypt-warns-ethiopia-against-plans-control-nile-river-flows",
-          "source": "english.aawsat.com",
-          "pubDate": "2026-08-17T06:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egypt Warns Ethiopia against Plans to Control Nile River Flows"
-        },
-        {
-          "title": "Egypt supports development in Ethiopia , but not if it harms downstream nations : Abbas Sharaki",
-          "link": "https://www.egyptindependent.com/egypt-supports-development-in-ethiopia-but-not-if-it-harms-downstream-nations-abbas-sharaki/",
-          "source": "egyptindependent.com",
-          "pubDate": "2026-08-16T11:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egypt supports development in Ethiopia , but not if it harms downstream nations : Abbas Sharaki"
-        },
-        {
-          "title": "Former UAE presidential aide post mocking Pakistan exposes unease over Mecca pact",
-          "link": "https://www.middleeasteye.net/news/emirati-academics-barbed-tweet-pakistan-exposes-uae-unease-over-mecca-pact",
-          "source": "middleeasteye.net",
-          "pubDate": "2026-08-16T11:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Former UAE presidential aide post mocking Pakistan exposes unease over Mecca pact"
-        },
-        {
-          "title": "Governing The Invisible Grid : Ethiopia Missing Biomass Account",
-          "link": "https://www.thereporterethiopia.com/52279/",
-          "source": "thereporterethiopia.com",
-          "pubDate": "2026-08-15T09:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Governing The Invisible Grid : Ethiopia Missing Biomass Account"
-        },
-        {
-          "title": "Egypt Aggressive Nile Policy No Longer Serves The Region",
-          "link": "https://www.thereporterethiopia.com/52282/",
-          "source": "thereporterethiopia.com",
-          "pubDate": "2026-08-15T09:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egypt Aggressive Nile Policy No Longer Serves The Region"
-        },
-        {
           "title": "RSF drone attacks in Sudan, Somalia’s drought emergency, and WFP sticks with Palantir: The Cheat Sheet",
           "link": "https://www.thenewhumanitarian.org/cheat-sheet/2026/08/14/rsf-drone-attacks-somalias-drought-emergency-and-wfp-sticks-palantir-cheat",
           "description": "A weekly read to keep you in the loop on humanitarian issues.",
@@ -366,87 +312,6 @@
           "source": "The New Humanitarian",
           "lang": "en",
           "titleIt": "RSF drone attacks in Sudan, Somalia’s drought emergency, and WFP sticks with Palantir: The Cheat Sheet"
-        },
-        {
-          "title": "Saudi Arabia opposed Egypt inclusion in Mecca agreement , sources say",
-          "link": "https://www.middleeasteye.net/news/saudi-arabia-opposed-egypts-inclusion-mecca-agreement-sources-say",
-          "source": "middleeasteye.net",
-          "pubDate": "2026-08-11T18:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Saudi Arabia opposed Egypt inclusion in Mecca agreement , sources say"
-        },
-        {
-          "title": "Liberia : Burrowes Calls for Historical Reckoning",
-          "link": "https://allafrica.com/stories/202608110475.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-08-11T16:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Liberia : Burrowes Calls for Historical Reckoning"
-        },
-        {
-          "title": "East Africa : Eritrea Regime Military Adventurism Risks Dragging Horn of Africa Back Into Conflict",
-          "link": "https://allafrica.com/stories/202608100033.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-08-10T06:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "East Africa : Eritrea Regime Military Adventurism Risks Dragging Horn of Africa Back Into Conflict"
-        },
-        {
-          "title": "Ethiopia : Diaspora Members Visit GERD , Hail It As  Ethiopia Liquid Gold  On the Abay River",
-          "link": "https://allafrica.com/stories/202608100052.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-08-10T06:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia : Diaspora Members Visit GERD , Hail It As  Ethiopia Liquid Gold  On the Abay River"
-        },
-        {
-          "title": "Ethiopia Historic Week of Green Revolution , Digital Sovereignty and National Consensus",
-          "link": "https://allafrica.com/stories/202608100053.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-08-10T06:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia Historic Week of Green Revolution , Digital Sovereignty and National Consensus"
-        },
-        {
-          "title": "Islamic NATO  or paper alliance ? The truth behind Saudi Arabia new defense pact",
-          "link": "https://www.ynetnews.com/opinions-analysis/article/rjmp11isifl",
-          "source": "ynetnews.com",
-          "pubDate": "2026-08-09T11:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Islamic NATO  or paper alliance ? The truth behind Saudi Arabia new defense pact"
-        },
-        {
-          "title": "Flashpoint : Military Or Diplomacy ? Horn Of Africa Geopolitical Alliances Reach Tipping Point",
-          "link": "https://www.thereporterethiopia.com/52198/",
-          "source": "thereporterethiopia.com",
-          "pubDate": "2026-08-08T10:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Flashpoint : Military Or Diplomacy ? Horn Of Africa Geopolitical Alliances Reach Tipping Point"
-        },
-        {
-          "title": "Electricity Is Capital , Not Just A Commodity Rethinking Nepal Electricity Strategy In The Era Of Surplus Power",
-          "link": "https://www.spotlightnepal.com/2026/08/07/electricity-capital-not-just-commodity-rethinking-nepals-electricity-strategy-era-surplus-power/",
-          "source": "spotlightnepal.com",
-          "pubDate": "2026-08-07T07:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Electricity Is Capital , Not Just A Commodity Rethinking Nepal Electricity Strategy In The Era Of Surplus Power"
-        },
-        {
-          "title": "Egypt Declares Strong Opposition to New Ethiopian Nile Dams",
-          "link": "https://www.tanzanianewsreports.com/egypt-declares-strong-opposition-to-new-ethiopian-nile-dams/",
-          "source": "tanzanianewsreports.com",
-          "pubDate": "2026-08-06T19:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egypt Declares Strong Opposition to New Ethiopian Nile Dams"
         }
       ]
     }
