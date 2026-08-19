@@ -1,11 +1,29 @@
 {
-  "generatedAt": "2026-08-19T10:47:19.961Z",
-  "feedsChecked": 8,
+  "generatedAt": "2026-08-19T13:09:39.520Z",
+  "feedsChecked": 9,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
+        {
+          "title": "Speciale porti: Somalia, piccola imbarcazione attaccata e distrutta al largo del Puntland, si temono quattro morti",
+          "link": "https://www.agenzianova.com/a/6a85ab0f12eb85.02845720/7707125/2026-08-19/speciale-porti-somalia-piccola-imbarcazione-attaccata-e-distrutta-al-largo-del-puntland-si-temono-quattro-morti",
+          "description": "19 ago 15:00 - (Agenzia Nova) - Alcuni testimoni locali sospettano infine che il piccolo battello possa essere stato diretto verso la Mv Sward,... (Suk)",
+          "pubDate": "2026-08-19T15:00:16+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Speciale porti: Somalia, piccola imbarcazione attaccata e distrutta al largo del Puntland, si temono quattro morti"
+        },
+        {
+          "title": "Somalia: Somali Army Ground Forces Commander Visits Front Lines in Hiran Region",
+          "link": "https://allafrica.com/stories/202608190423.html",
+          "description": "[Shabelle] Hiiran -- The commander of the Somali Army Ground Forces, Brigadier General Sahal Abdullahi \"Gen. Khalid\", has visited frontline positions in Teedaan area of central Somalia's Hiran region, as government forces continue operations against al-Shabaab militants.",
+          "pubDate": "Wed, 19 Aug 2026 12:02:09 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Somalia: Somali Army Ground Forces Commander Visits Front Lines in Hiran Region"
+        },
         {
           "title": "Somalia: Dozens killed in fighting to control key city of Baidoa",
           "link": "http://www.africanews.com/2026/08/19/somalia-dozens-killed-in-fighting-to-control-key-city-of-baidoa/",
@@ -14,15 +32,6 @@
           "source": "Africanews",
           "lang": "en",
           "titleIt": "Somalia: Dozens killed in fighting to control key city of Baidoa"
-        },
-        {
-          "title": "Kenya: Somaliland President's Nairobi Visit Deepens Kenya Ties, Mission Says",
-          "link": "https://allafrica.com/stories/202608180617.html",
-          "description": "[Horn Diplomat] Nairobi -- Somaliland President Abdirahman Mohamed Abdullahi's recent visit to Nairobi brought together senior Kenyan leaders, diplomats and development partners for talks aimed at strengthening bilateral cooperation and advancing Somaliland's development priorities, the Republic of Somaliland Mission in Kenya said.",
-          "pubDate": "Tue, 18 Aug 2026 16:18:37 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Kenya: Somaliland President's Nairobi Visit Deepens Kenya Ties, Mission Says"
         },
         {
           "title": "Somali woman to receive asylum from an evangelical church in Bavaria",
@@ -77,6 +86,24 @@
           "source": "The New Humanitarian",
           "lang": "en",
           "titleIt": "Gulf war fallout: Somali households pay the price of trade disruption"
+        },
+        {
+          "title": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab",
+          "link": "https://www.crisisgroup.org/brf/africa/somalia/b212-new-chapter-same-stalemate-somalias-war-al-shabaab",
+          "description": "The Somali government’s battle with Al-Shabaab militants grinds on, with neither able to gain a decisive advantage. To improve its lot, Mogadishu needs to bolster its military and alleviate civilian suffering in areas under insurgent control, while looking for openings for dialogue with the group.",
+          "pubDate": "Tuesday, June 30, 2026 - 15:20",
+          "source": "Crisis Group",
+          "lang": "en",
+          "titleIt": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab"
+        },
+        {
+          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
+          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
+          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
+          "pubDate": "Saturday, May 16, 2026 - 00:08",
+          "source": "Crisis Group",
+          "lang": "en",
+          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
@@ -84,13 +111,22 @@
       "title": "Dossier Somaliland",
       "items": [
         {
-          "title": "Kenya: Somaliland President's Nairobi Visit Deepens Kenya Ties, Mission Says",
-          "link": "https://allafrica.com/stories/202608180617.html",
-          "description": "[Horn Diplomat] Nairobi -- Somaliland President Abdirahman Mohamed Abdullahi's recent visit to Nairobi brought together senior Kenyan leaders, diplomats and development partners for talks aimed at strengthening bilateral cooperation and advancing Somaliland's development priorities, the Republic of Somaliland Mission in Kenya said.",
-          "pubDate": "Tue, 18 Aug 2026 16:18:37 GMT",
+          "title": "Speciale porti: Somalia, piccola imbarcazione attaccata e distrutta al largo del Puntland, si temono quattro morti",
+          "link": "https://www.agenzianova.com/a/6a85ab0f12eb85.02845720/7707125/2026-08-19/speciale-porti-somalia-piccola-imbarcazione-attaccata-e-distrutta-al-largo-del-puntland-si-temono-quattro-morti",
+          "description": "19 ago 15:00 - (Agenzia Nova) - Alcuni testimoni locali sospettano infine che il piccolo battello possa essere stato diretto verso la Mv Sward,... (Suk)",
+          "pubDate": "2026-08-19T15:00:16+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Speciale porti: Somalia, piccola imbarcazione attaccata e distrutta al largo del Puntland, si temono quattro morti"
+        },
+        {
+          "title": "Kenya: Toyota Dealer Recalls Vehicles in Kenya Over Defective Airbags",
+          "link": "https://allafrica.com/stories/202608190414.html",
+          "description": "[Capital FM] Nairobi -- CFAO Mobility Kenya has recalled some Toyota vehicles manufactured between 2001 and 2017 over defective airbags linked to injuries and fatalities globally.",
+          "pubDate": "Wed, 19 Aug 2026 11:58:24 GMT",
           "source": "AllAfrica",
           "lang": "en",
-          "titleIt": "Kenya: Somaliland President's Nairobi Visit Deepens Kenya Ties, Mission Says"
+          "titleIt": "Kenya: Toyota Dealer Recalls Vehicles in Kenya Over Defective Airbags"
         },
         {
           "title": "Ethiopia: Authorities in Tigray accuse Addis Ababa of drone strike near Mekelle",
@@ -127,12 +163,39 @@
           "source": "The New Humanitarian",
           "lang": "en",
           "titleIt": "Gulf war fallout: Somali households pay the price of trade disruption"
+        },
+        {
+          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
+          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
+          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
+          "pubDate": "Saturday, May 16, 2026 - 00:08",
+          "source": "Crisis Group",
+          "lang": "en",
+          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
     "ethiopia-sea-access": {
       "title": "Accesso etiope al mare",
       "items": [
+        {
+          "title": "Speciale porti: Somalia, piccola imbarcazione attaccata e distrutta al largo del Puntland, si temono quattro morti",
+          "link": "https://www.agenzianova.com/a/6a85ab0f12eb85.02845720/7707125/2026-08-19/speciale-porti-somalia-piccola-imbarcazione-attaccata-e-distrutta-al-largo-del-puntland-si-temono-quattro-morti",
+          "description": "19 ago 15:00 - (Agenzia Nova) - Alcuni testimoni locali sospettano infine che il piccolo battello possa essere stato diretto verso la Mv Sward,... (Suk)",
+          "pubDate": "2026-08-19T15:00:16+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Speciale porti: Somalia, piccola imbarcazione attaccata e distrutta al largo del Puntland, si temono quattro morti"
+        },
+        {
+          "title": "Liberia agrees to accept 1,200 foreign deportees from the US",
+          "link": "https://www.bbc.co.uk/news/articles/cpq8g22715vo?at_medium=RSS&at_campaign=rss",
+          "description": "Liberia says the deal is a \"humanitarian arrangement\" and is receiving no compensation.",
+          "pubDate": "Wed, 19 Aug 2026 10:47:22 GMT",
+          "source": "BBC Africa",
+          "lang": "en",
+          "titleIt": "Liberia agrees to accept 1,200 foreign deportees from the US"
+        },
         {
           "title": "Liberia agrees to accept up to 1,200 US deportees under Trump migration deal",
           "link": "http://www.africanews.com/2026/08/19/liberia-agrees-to-accept-up-to-1200-us-deportees-under-trump-migration-deal/",
@@ -188,13 +251,13 @@
           "titleIt": "Gulf war fallout: Somali households pay the price of trade disruption"
         },
         {
-          "title": "Real Madrid sign Diomande in deal worth up to £120m",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c4g3906pz65o?at_medium=RSS&at_campaign=rss",
-          "description": "Real Madrid sign Ivory Coast international Yan Diomande from German side RB Leipzig for a fee worth up to 140m euros (£120m).",
-          "pubDate": "Thu, 06 Aug 2026 14:58:56 GMT",
-          "source": "BBC Africa",
+          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
+          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
+          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
+          "pubDate": "Saturday, May 16, 2026 - 00:08",
+          "source": "Crisis Group",
           "lang": "en",
-          "titleIt": "Real Madrid sign Diomande in deal worth up to £120m"
+          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
@@ -206,13 +269,13 @@
       "title": "Opacità sui rilasci GERD",
       "items": [
         {
-          "title": "Ethiopia: NASA Study Finds Black Carbon Pollution in Addis Abeba Far Higher Than in 3 U.S. Cities",
-          "link": "https://allafrica.com/stories/202608190108.html",
-          "description": "[Addis Standard] Addis Abeba -- A NASA-funded study has found that average black carbon concentrations in Addis Abeba were approximately 4 to 9 times higher than levels recorded in 3 U.S. metropolitan areas monitored by the same mission -- Los Angeles, Atlanta and Boston.",
-          "pubDate": "Wed, 19 Aug 2026 05:26:46 GMT",
-          "source": "AllAfrica",
+          "title": "Children in Khartoum slowly return back to school amid war",
+          "link": "http://www.africanews.com/2026/08/19/children-in-khartoum-slowly-return-back-to-school-amid-war/",
+          "description": "It’s a new school day in Khartoum, where children are slowly returning to classrooms as security improves. But recovery will be long, with damaged schools, overcrowded classes and too few teachers and supplies.",
+          "pubDate": "Wed, 19 Aug 2026 10:52:05 +0000",
+          "source": "Africanews",
           "lang": "en",
-          "titleIt": "Ethiopia: NASA Study Finds Black Carbon Pollution in Addis Abeba Far Higher Than in 3 U.S. Cities"
+          "titleIt": "Children in Khartoum slowly return back to school amid war"
         },
         {
           "title": "Ethiopia: Authorities in Tigray accuse Addis Ababa of drone strike near Mekelle",
@@ -222,6 +285,24 @@
           "source": "Africanews",
           "lang": "en",
           "titleIt": "Ethiopia: Authorities in Tigray accuse Addis Ababa of drone strike near Mekelle"
+        },
+        {
+          "title": "Today in Africa : DR Congo Ebola outbreak becomes deadliest , Cameroon wins first WAFCON title",
+          "link": "https://www.okayafrica.com/today-in-africa-august-17-2026-dr-congos-ebola-outbreak-now-the-countrys-deadliest-cameroon-wins-first-ever-wafcon-title/1437871",
+          "source": "okayafrica.com",
+          "pubDate": "2026-08-17T19:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Today in Africa : DR Congo Ebola outbreak becomes deadliest , Cameroon wins first WAFCON title"
+        },
+        {
+          "title": "Egypt Warns Ethiopia Over Plans for More Nile Dams",
+          "link": "https://themedialine.org/headlines/egypt-warns-ethiopia-over-plans-for-more-nile-dams/",
+          "source": "themedialine.org",
+          "pubDate": "2026-08-17T17:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt Warns Ethiopia Over Plans for More Nile Dams"
         },
         {
           "title": "'Emergency' ship rescues migrant boat, 7 dead",
@@ -242,6 +323,51 @@
           "titleIt": "'Emergency' ship rescues migrant boat, 7 dead"
         },
         {
+          "title": "Egypt Warns Ethiopia against Plans to Control Nile River Flows",
+          "link": "https://english.aawsat.com/arab-world/5307849-egypt-warns-ethiopia-against-plans-control-nile-river-flows",
+          "source": "english.aawsat.com",
+          "pubDate": "2026-08-17T06:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt Warns Ethiopia against Plans to Control Nile River Flows"
+        },
+        {
+          "title": "Egypt supports development in Ethiopia , but not if it harms downstream nations : Abbas Sharaki",
+          "link": "https://www.egyptindependent.com/egypt-supports-development-in-ethiopia-but-not-if-it-harms-downstream-nations-abbas-sharaki/",
+          "source": "egyptindependent.com",
+          "pubDate": "2026-08-16T11:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt supports development in Ethiopia , but not if it harms downstream nations : Abbas Sharaki"
+        },
+        {
+          "title": "Former UAE presidential aide post mocking Pakistan exposes unease over Mecca pact",
+          "link": "https://www.middleeasteye.net/news/emirati-academics-barbed-tweet-pakistan-exposes-uae-unease-over-mecca-pact",
+          "source": "middleeasteye.net",
+          "pubDate": "2026-08-16T11:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Former UAE presidential aide post mocking Pakistan exposes unease over Mecca pact"
+        },
+        {
+          "title": "Governing The Invisible Grid : Ethiopia Missing Biomass Account",
+          "link": "https://www.thereporterethiopia.com/52279/",
+          "source": "thereporterethiopia.com",
+          "pubDate": "2026-08-15T09:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Governing The Invisible Grid : Ethiopia Missing Biomass Account"
+        },
+        {
+          "title": "Egypt Aggressive Nile Policy No Longer Serves The Region",
+          "link": "https://www.thereporterethiopia.com/52282/",
+          "source": "thereporterethiopia.com",
+          "pubDate": "2026-08-15T09:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt Aggressive Nile Policy No Longer Serves The Region"
+        },
+        {
           "title": "RSF drone attacks in Sudan, Somalia’s drought emergency, and WFP sticks with Palantir: The Cheat Sheet",
           "link": "https://www.thenewhumanitarian.org/cheat-sheet/2026/08/14/rsf-drone-attacks-somalias-drought-emergency-and-wfp-sticks-palantir-cheat",
           "description": "A weekly read to keep you in the loop on humanitarian issues.",
@@ -249,6 +375,78 @@
           "source": "The New Humanitarian",
           "lang": "en",
           "titleIt": "RSF drone attacks in Sudan, Somalia’s drought emergency, and WFP sticks with Palantir: The Cheat Sheet"
+        },
+        {
+          "title": "Saudi Arabia opposed Egypt inclusion in Mecca agreement , sources say",
+          "link": "https://www.middleeasteye.net/news/saudi-arabia-opposed-egypts-inclusion-mecca-agreement-sources-say",
+          "source": "middleeasteye.net",
+          "pubDate": "2026-08-11T18:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Saudi Arabia opposed Egypt inclusion in Mecca agreement , sources say"
+        },
+        {
+          "title": "Liberia : Burrowes Calls for Historical Reckoning",
+          "link": "https://allafrica.com/stories/202608110475.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-08-11T16:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Liberia : Burrowes Calls for Historical Reckoning"
+        },
+        {
+          "title": "East Africa : Eritrea Regime Military Adventurism Risks Dragging Horn of Africa Back Into Conflict",
+          "link": "https://allafrica.com/stories/202608100033.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-08-10T06:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "East Africa : Eritrea Regime Military Adventurism Risks Dragging Horn of Africa Back Into Conflict"
+        },
+        {
+          "title": "Ethiopia : Diaspora Members Visit GERD , Hail It As  Ethiopia Liquid Gold  On the Abay River",
+          "link": "https://allafrica.com/stories/202608100052.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-08-10T06:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia : Diaspora Members Visit GERD , Hail It As  Ethiopia Liquid Gold  On the Abay River"
+        },
+        {
+          "title": "Ethiopia Historic Week of Green Revolution , Digital Sovereignty and National Consensus",
+          "link": "https://allafrica.com/stories/202608100053.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-08-10T06:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia Historic Week of Green Revolution , Digital Sovereignty and National Consensus"
+        },
+        {
+          "title": "Islamic NATO  or paper alliance ? The truth behind Saudi Arabia new defense pact",
+          "link": "https://www.ynetnews.com/opinions-analysis/article/rjmp11isifl",
+          "source": "ynetnews.com",
+          "pubDate": "2026-08-09T11:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Islamic NATO  or paper alliance ? The truth behind Saudi Arabia new defense pact"
+        },
+        {
+          "title": "Flashpoint : Military Or Diplomacy ? Horn Of Africa Geopolitical Alliances Reach Tipping Point",
+          "link": "https://www.thereporterethiopia.com/52198/",
+          "source": "thereporterethiopia.com",
+          "pubDate": "2026-08-08T10:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Flashpoint : Military Or Diplomacy ? Horn Of Africa Geopolitical Alliances Reach Tipping Point"
+        },
+        {
+          "title": "Electricity Is Capital , Not Just A Commodity Rethinking Nepal Electricity Strategy In The Era Of Surplus Power",
+          "link": "https://www.spotlightnepal.com/2026/08/07/electricity-capital-not-just-commodity-rethinking-nepals-electricity-strategy-era-surplus-power/",
+          "source": "spotlightnepal.com",
+          "pubDate": "2026-08-07T07:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Electricity Is Capital , Not Just A Commodity Rethinking Nepal Electricity Strategy In The Era Of Surplus Power"
         }
       ]
     }
