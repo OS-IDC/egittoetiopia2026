@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T14:53:21.360Z",
+  "generatedAt": "2026-08-19T16:47:43.785Z",
   "feedsChecked": 9,
   "feedsAttempted": 10,
   "topics": {
@@ -120,13 +120,40 @@
       "title": "Dossier Somaliland",
       "items": [
         {
+          "title": "Kenya helicopter crash kills seven in Samburu, including six tourists",
+          "link": "http://www.africanews.com/2026/08/19/kenya-helicopter-crash-kills-seven-in-samburu-including-six-tourists/",
+          "description": "Seven people, including six tourists and the pilot, have died after a helicopter came down near Mount Ololokwe in central Kenya, according to air accident officials.",
+          "pubDate": "Wed, 19 Aug 2026 15:20:10 +0000",
+          "source": "Africanews",
+          "lang": "en",
+          "titleIt": "Kenya helicopter crash kills seven in Samburu, including six tourists"
+        },
+        {
           "title": "Trump administration can target Ethiopians for deportation",
           "link": "https://www.bbc.co.uk/news/articles/c39e8zy12pyo?at_medium=RSS&at_campaign=rss",
           "description": "A judge's ruling on Tuesday removed the last remaining block on Trump officials' efforts to cancel Temporary Protected Status for Ethiopians.",
-          "pubDate": "Wed, 19 Aug 2026 14:38:11 GMT",
-          "source": "BBC World",
+          "pubDate": "Wed, 19 Aug 2026 15:11:19 GMT",
+          "source": "BBC Africa",
           "lang": "en",
           "titleIt": "Trump administration can target Ethiopians for deportation"
+        },
+        {
+          "title": "An Italian among the dead in a helicopter crash in Kenya",
+          "link": "https://www.ansa.it/english/news/2026/08/19/an-italian-among-the-dead-in-a-helicopter-crash-in-kenya_870e7d03-7c3a-4fb8-902c-f8402b6656e1.html",
+          "description": "(ANSA) - ROME, AUG 19 - An Italian citizen, with dual Ecuadorian nationality, is among the seven tourists killed in a helicopter crash in Kenya's Samburu National Reserve. According to Ecuadorian media, he is Michele Sensi Contugi, a well-known businessman in Ecuador and president of the national intelligence agency. Sensi Contugi, 44, comes from a Tuscan family. In addition to the Kenyan pilot, his wife, Stephany Vasconez, was on board the helicopter, which crashed for reasons yet to be determined near Mount Ololokwe. The Italian Embassy in Kenya immediately provided assistance on site. (ANSA",
+          "pubDate": "Wed, 19 Aug 2026 17:08:26 +0200",
+          "source": "ANSA English",
+          "lang": "en",
+          "titleIt": "An Italian among the dead in a helicopter crash in Kenya"
+        },
+        {
+          "title": "An Italian among the dead in a helicopter crash in Kenya",
+          "link": "https://www.ansa.it/english/news/world/2026/08/19/an-italian-among-the-dead-in-a-helicopter-crash-in-kenya_77db9dce-da1e-4c04-8655-033d034671e9.html",
+          "description": "(ANSA) - ROME, AUG 19 - An Italian citizen, with dual Ecuadorian nationality, is among the seven tourists killed in a helicopter crash in Kenya's Samburu National Reserve. According to Ecuadorian media, he is Michele Sensi Contugi, a well-known businessman in Ecuador and president of the national intelligence agency. Sensi Contugi, 44, comes from a Tuscan family. In addition to the Kenyan pilot, his wife, Stephany Vasconez, was on board the helicopter, which crashed for reasons yet to be determined near Mount Ololokwe. The Italian Embassy in Kenya immediately provided assistance on site. (ANSA",
+          "pubDate": "Wed, 19 Aug 2026 17:08:23 +0200",
+          "source": "ANSA English",
+          "lang": "en",
+          "titleIt": "An Italian among the dead in a helicopter crash in Kenya"
         },
         {
           "title": "35 migrants land on Lampedusa, 52 in distress 70 miles from island",
@@ -206,13 +233,58 @@
       "title": "Accesso etiope al mare",
       "items": [
         {
+          "title": "East Africa forecasts above - average rainfall amid El Nino",
+          "link": "http://www.kenyastar.com/news/279251549/east-africa-forecasts-above-average-rainfall-amid-el-nino",
+          "source": "kenyastar.com",
+          "pubDate": "2026-08-19T16:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "East Africa forecasts above - average rainfall amid El Nino"
+        },
+        {
+          "title": "Trump pauses new tariffs on Canada for three days, saying deal close",
+          "link": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
+          "description": "The US president says the two sides are finalising documents to avert import taxes targeting a range of Canadian goods.",
+          "pubDate": "Wed, 19 Aug 2026 15:47:31 GMT",
+          "source": "BBC World",
+          "lang": "en",
+          "titleIt": "Trump pauses new tariffs on Canada for three days, saying deal close"
+        },
+        {
+          "title": "Etiopia: milizie amhara Fano si alleano con il fronte tigrino Tplf contro il governo federale (3)",
+          "link": "https://www.agenzianova.com/a/6a85de2b44bbe9.13849097/7709200/2026-08-19/etiopia-milizie-amhara-fano-si-alleano-con-il-fronte-tigrino-tplf-contro-il-governo-federale-3",
+          "description": "19 ago 17:44 - (Agenzia Nova) - I combattenti amhara e tigrini hanno ora deciso di mettere temporaneamente da parte le dispute territoriali... (Suk)",
+          "pubDate": "2026-08-19T17:44:36+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Etiopia: milizie amhara Fano si alleano con il fronte tigrino Tplf contro il governo federale (3)"
+        },
+        {
+          "title": "Trump administration to soon begin targeting Ethiopians for deportation",
+          "link": "https://www.bbc.co.uk/news/articles/c39e8zy12pyo",
+          "source": "bbc.co.uk",
+          "pubDate": "2026-08-19T15:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Trump administration to soon begin targeting Ethiopians for deportation"
+        },
+        {
           "title": "Trump administration can target Ethiopians for deportation",
           "link": "https://www.bbc.co.uk/news/articles/c39e8zy12pyo?at_medium=RSS&at_campaign=rss",
           "description": "A judge's ruling on Tuesday removed the last remaining block on Trump officials' efforts to cancel Temporary Protected Status for Ethiopians.",
-          "pubDate": "Wed, 19 Aug 2026 14:38:11 GMT",
-          "source": "BBC World",
+          "pubDate": "Wed, 19 Aug 2026 15:11:19 GMT",
+          "source": "BBC Africa",
           "lang": "en",
           "titleIt": "Trump administration can target Ethiopians for deportation"
+        },
+        {
+          "title": "Ethiopia : EU Rights Report Calls Out Stalled Transitional Justice Process",
+          "link": "https://allafrica.com/stories/202608190457.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-08-19T14:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia : EU Rights Report Calls Out Stalled Transitional Justice Process"
         },
         {
           "title": "35 migrants land on Lampedusa, 52 in distress 70 miles from island",
@@ -242,15 +314,6 @@
           "titleIt": "How degradation and drought are threatening the land that feeds us"
         },
         {
-          "title": "How degradation and drought are threatening the land that feeds us",
-          "link": "http://www.sierraleonetimes.com/news/279251383/how-degradation-and-drought-are-threatening-the-land-that-feeds-us",
-          "source": "sierraleonetimes.com",
-          "pubDate": "2026-08-19T14:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "How degradation and drought are threatening the land that feeds us"
-        },
-        {
           "title": "East Africa forecasts above - average rainfall amid El Nino - Xinhua",
           "link": "https://english.news.cn/20260819/6f09a30996be44939779c198cab18108/c.html",
           "source": "english.news.cn",
@@ -258,6 +321,15 @@
           "lang": "en",
           "description": "",
           "titleIt": "East Africa forecasts above - average rainfall amid El Nino - Xinhua"
+        },
+        {
+          "title": "How degradation and drought are threatening the land that feeds us",
+          "link": "http://www.sierraleonetimes.com/news/279251383/how-degradation-and-drought-are-threatening-the-land-that-feeds-us",
+          "source": "sierraleonetimes.com",
+          "pubDate": "2026-08-19T14:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "How degradation and drought are threatening the land that feeds us"
         },
         {
           "title": "Liberia agrees to accept up to 1,200 US deportees under Trump migration deal",
@@ -285,15 +357,6 @@
           "source": "BBC Africa",
           "lang": "en",
           "titleIt": "Liberia agrees to accept 1,200 foreign deportees from the US"
-        },
-        {
-          "title": "Trump pauses new tariffs on Canada for three days, saying deal close",
-          "link": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
-          "description": "The US president says the two sides are finalising documents to avert import taxes targeting a range of Canadian goods.",
-          "pubDate": "Wed, 19 Aug 2026 03:56:35 GMT",
-          "source": "BBC World",
-          "lang": "en",
-          "titleIt": "Trump pauses new tariffs on Canada for three days, saying deal close"
         },
         {
           "title": "Chinese firms dominate Ethiopia Bishoftu airport shortlist - ch - aviation",
@@ -348,233 +411,43 @@
           "lang": "en",
           "description": "",
           "titleIt": "Who owns East Africa Corridors ?"
-        },
-        {
-          "title": "Ethiopia: Authorities in Tigray accuse Addis Ababa of drone strike near Mekelle",
-          "link": "http://www.africanews.com/2026/08/18/ethiopia-authorities-in-tigray-accuse-addis-ababa-of-drone-strike-near-mekelle/",
-          "description": "Authorities in Ethiopia's Tigray region have accused the federal government of launching a drone strike near the state capital Mekelle. Tensions between Tigray and Addis Ababa have been mounting in recent weeks, with both parties massing forces on either side of the regional border.",
-          "pubDate": "Tue, 18 Aug 2026 14:44:00 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "Ethiopia: Authorities in Tigray accuse Addis Ababa of drone strike near Mekelle"
-        },
-        {
-          "title": "Tanzania Chairs Regional Labour Migration Committee",
-          "link": "https://allafrica.com/stories/202608180115.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-08-18T06:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Tanzania Chairs Regional Labour Migration Committee"
-        },
-        {
-          "title": "DCOC States Agree On Combined Anti - Piracy Task Force",
-          "link": "https://www.marinelink.com/news/dcoc-states-agree-combined-antipiracy-542179",
-          "source": "marinelink.com",
-          "pubDate": "2026-08-18T02:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "DCOC States Agree On Combined Anti - Piracy Task Force"
-        },
-        {
-          "title": "Tanzania chairs regional labour migration committee",
-          "link": "https://dailynews.co.tz/tanzania-chairs-regional-labour-migration-committee/",
-          "source": "dailynews.co.tz",
-          "pubDate": "2026-08-17T21:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Tanzania chairs regional labour migration committee"
         }
       ]
     },
     "egypt-economy": {
       "title": "Fragilità economica egiziana",
-      "items": [
-        {
-          "title": "Saudi Arabia drives Yemen recovery with major Q2 development package",
-          "link": "https://www.arabnews.com/node/2655201/saudi-arabia",
-          "source": "arabnews.com",
-          "pubDate": "2026-08-19T14:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Saudi Arabia drives Yemen recovery with major Q2 development package"
-        },
-        {
-          "title": "Digital Entertainment Leadership Forum 2026 AI Reimagining Entertainment with Infinite Wonders",
-          "link": "https://www.thailand-business-news.com/pr-news/digital-entertainment-leadership-forum-2026-ai-reimagining-entertainment-with-infinite-wonders",
-          "source": "thailand-business-news.com",
-          "pubDate": "2026-08-19T14:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Digital Entertainment Leadership Forum 2026 AI Reimagining Entertainment with Infinite Wonders"
-        },
-        {
-          "title": "New markets for India buffalo meat aid dairy economy",
-          "link": "https://www.siasat.com/new-markets-for-indias-buffalo-meat-aid-dairy-economy-3527347/",
-          "source": "siasat.com",
-          "pubDate": "2026-08-19T13:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "New markets for India buffalo meat aid dairy economy"
-        },
-        {
-          "title": "Links 8 / 19 / 2026 | naked capitalism",
-          "link": "https://www.nakedcapitalism.com/2026/08/links-8-19-2026.html",
-          "source": "nakedcapitalism.com",
-          "pubDate": "2026-08-19T12:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Links 8 / 19 / 2026 | naked capitalism"
-        },
-        {
-          "title": "Egypt , Oman FMs stress need to keep Strait of Hormuz open",
-          "link": "https://www.egyptindependent.com/egypt-oman-fms-stress-need-to-keep-strait-of-hormuz-open/",
-          "source": "egyptindependent.com",
-          "pubDate": "2026-08-19T10:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egypt , Oman FMs stress need to keep Strait of Hormuz open"
-        },
-        {
-          "title": "Egyptian FM , Mauritanian counterpart discuss cooperation , regional developments",
-          "link": "https://www.egyptindependent.com/egyptian-fm-mauritanian-counterpart-discuss-cooperation-regional-developments/",
-          "source": "egyptindependent.com",
-          "pubDate": "2026-08-19T10:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egyptian FM , Mauritanian counterpart discuss cooperation , regional developments"
-        },
-        {
-          "title": "PM witnesses handover of SCZONE presidency - Egypt Independent",
-          "link": "https://www.egyptindependent.com/pm-witnesses-handover-of-sczone-presidency/",
-          "source": "egyptindependent.com",
-          "pubDate": "2026-08-19T10:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "PM witnesses handover of SCZONE presidency - Egypt Independent"
-        },
-        {
-          "title": "BRICS rejects punitive and discriminatory EU carbon border tax",
-          "link": "http://www.indiagazette.com/news/279251202/brics-rejects-punitive-and-discriminatory-eu-carbon-border-tax",
-          "source": "indiagazette.com",
-          "pubDate": "2026-08-19T09:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "BRICS rejects punitive and discriminatory EU carbon border tax"
-        },
-        {
-          "title": "Why Libya Next Oil Pipeline Could Be a Geopolitical Game - Changer",
-          "link": "https://finance.yahoo.com/energy/articles/why-libya-next-oil-pipeline-210000945.html",
-          "source": "finance.yahoo.com",
-          "pubDate": "2026-08-19T08:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Why Libya Next Oil Pipeline Could Be a Geopolitical Game - Changer"
-        },
-        {
-          "title": "Kenya triples its power target , aiming to expand use of nuclear and geothermal energy",
-          "link": "https://www.thepeterboroughexaminer.com/business/kenya-triples-its-power-target-aiming-to-expand-use-of-nuclear-and-geothermal-energy/article_8ef57694-6455-5d46-bbe5-34ba2b3759a0.html",
-          "source": "thepeterboroughexaminer.com",
-          "pubDate": "2026-08-19T07:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Kenya triples its power target , aiming to expand use of nuclear and geothermal energy"
-        },
-        {
-          "title": "Kenya triples its power target , aiming to expand use of nuclear and geothermal energy",
-          "link": "https://www.the-messenger.com/news/world/article_30e3114b-1c2f-5f6d-9aad-77e9b75d024a.html",
-          "source": "the-messenger.com",
-          "pubDate": "2026-08-19T07:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Kenya triples its power target , aiming to expand use of nuclear and geothermal energy"
-        },
-        {
-          "title": "Africa Biggest Bank Targets Stake in OPay Ahead of IPO - Report",
-          "link": "https://allafrica.com/stories/202608190151.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-08-19T07:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Africa Biggest Bank Targets Stake in OPay Ahead of IPO - Report"
-        },
-        {
-          "title": "Turkey : Turkey The Consigliere",
-          "link": "http://www.strategypage.com/%5Cqnd%5Cturkey%5Carticles%5C2026081865736.aspx",
-          "source": "strategypage.com",
-          "pubDate": "2026-08-19T07:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Turkey : Turkey The Consigliere"
-        },
-        {
-          "title": "Kenya triples its power target , aiming to expand use of nuclear and geothermal energy – Winnipeg Free Press",
-          "link": "https://www.winnipegfreepress.com/arts-and-life/life/greenpage/2026/08/19/kenya-triples-its-power-target-aiming-to-expand-use-of-nuclear-and-geothermal-energy",
-          "source": "winnipegfreepress.com",
-          "pubDate": "2026-08-19T07:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Kenya triples its power target , aiming to expand use of nuclear and geothermal energy – Winnipeg Free Press"
-        },
-        {
-          "title": "Trump is threatening to bomb Oman , but why ?",
-          "link": "https://www.ironmountaindailynews.com/opinion/2026/08/trump-is-threatening-to-bomb-oman-but-why/",
-          "source": "ironmountaindailynews.com",
-          "pubDate": "2026-08-19T07:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Trump is threatening to bomb Oman , but why ?"
-        },
-        {
-          "title": "Kenya triples its power target , aiming to expand use of nuclear and geothermal energy",
-          "link": "https://www.newsday.com/business/kenya-nuclear-geothermal-renewable-solar-j09205",
-          "source": "newsday.com",
-          "pubDate": "2026-08-19T07:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Kenya triples its power target , aiming to expand use of nuclear and geothermal energy"
-        },
-        {
-          "title": "Youth and social media : Weaponising the cockroach",
-          "link": "https://organiser.org/2026/08/19/375943/bharat/youth-and-social-media-weaponising-the-cockroach/",
-          "source": "organiser.org",
-          "pubDate": "2026-08-19T07:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Youth and social media : Weaponising the cockroach"
-        },
-        {
-          "title": "Upper East Side Parents Outsource Parenting to Their Drivers",
-          "link": "https://observer.com/2026/08/upper-east-side-parents-outsource-parenting-to-their-drivers/",
-          "source": "observer.com",
-          "pubDate": "2026-08-19T06:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Upper East Side Parents Outsource Parenting to Their Drivers"
-        },
-        {
-          "title": "Why is Donald Trump threatening to bomb Oman amid Iran war ? – NBC 6 South Florida",
-          "link": "https://www.nbcmiami.com/news/national-international/donald-trump-threatens-bomb-oman/3847898/",
-          "source": "nbcmiami.com",
-          "pubDate": "2026-08-19T04:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Why is Donald Trump threatening to bomb Oman amid Iran war ? – NBC 6 South Florida"
-        },
-        {
-          "title": "Why is Donald Trump threatening to bomb Oman amid Iran war ? – NBC Bay Area",
-          "link": "https://www.nbcbayarea.com/news/national-international/donald-trump-threatens-bomb-oman/4129940/",
-          "source": "nbcbayarea.com",
-          "pubDate": "2026-08-19T04:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Why is Donald Trump threatening to bomb Oman amid Iran war ? – NBC Bay Area"
-        }
-      ]
+      "items": []
     },
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
       "items": [
+        {
+          "title": "Etiopia: milizie amhara Fano si alleano con il fronte tigrino Tplf contro il governo federale (3)",
+          "link": "https://www.agenzianova.com/a/6a85de2b44bbe9.13849097/7709200/2026-08-19/etiopia-milizie-amhara-fano-si-alleano-con-il-fronte-tigrino-tplf-contro-il-governo-federale-3",
+          "description": "19 ago 17:44 - (Agenzia Nova) - I combattenti amhara e tigrini hanno ora deciso di mettere temporaneamente da parte le dispute territoriali... (Suk)",
+          "pubDate": "2026-08-19T17:44:36+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Etiopia: milizie amhara Fano si alleano con il fronte tigrino Tplf contro il governo federale (3)"
+        },
+        {
+          "title": "Ethiopia : Egypt Aggressive Nile Policy No Longer Serves the Region",
+          "link": "https://allafrica.com/stories/202608190464.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-08-19T14:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia : Egypt Aggressive Nile Policy No Longer Serves the Region"
+        },
+        {
+          "title": "Ethiopia : New Ethiopian Dams Pose No Threat - Sudanese Former Water Resources Minister",
+          "link": "https://allafrica.com/stories/202608190434.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-08-19T14:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia : New Ethiopian Dams Pose No Threat - Sudanese Former Water Resources Minister"
+        },
         {
           "title": "Children in Khartoum slowly return back to school amid war",
           "link": "http://www.africanews.com/2026/08/19/children-in-khartoum-slowly-return-back-to-school-amid-war/",
@@ -585,6 +458,15 @@
           "titleIt": "Children in Khartoum slowly return back to school amid war"
         },
         {
+          "title": "Ethiopia: NASA Study Finds Black Carbon Pollution in Addis Abeba Far Higher Than in 3 U.S. Cities",
+          "link": "https://allafrica.com/stories/202608190108.html",
+          "description": "[Addis Standard] Addis Abeba -- A NASA-funded study has found that average black carbon concentrations in Addis Abeba were approximately 4 to 9 times higher than levels recorded in 3 U.S. metropolitan areas monitored by the same mission -- Los Angeles, Atlanta and Boston.",
+          "pubDate": "Wed, 19 Aug 2026 05:26:46 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Ethiopia: NASA Study Finds Black Carbon Pollution in Addis Abeba Far Higher Than in 3 U.S. Cities"
+        },
+        {
           "title": "Ethiopia: Authorities in Tigray accuse Addis Ababa of drone strike near Mekelle",
           "link": "http://www.africanews.com/2026/08/18/ethiopia-authorities-in-tigray-accuse-addis-ababa-of-drone-strike-near-mekelle/",
           "description": "Authorities in Ethiopia's Tigray region have accused the federal government of launching a drone strike near the state capital Mekelle. Tensions between Tigray and Addis Ababa have been mounting in recent weeks, with both parties massing forces on either side of the regional border.",
@@ -592,6 +474,24 @@
           "source": "Africanews",
           "lang": "en",
           "titleIt": "Ethiopia: Authorities in Tigray accuse Addis Ababa of drone strike near Mekelle"
+        },
+        {
+          "title": "Today in Africa : DR Congo Ebola outbreak becomes deadliest , Cameroon wins first WAFCON title",
+          "link": "https://www.okayafrica.com/today-in-africa-august-17-2026-dr-congos-ebola-outbreak-now-the-countrys-deadliest-cameroon-wins-first-ever-wafcon-title/1437871",
+          "source": "okayafrica.com",
+          "pubDate": "2026-08-17T19:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Today in Africa : DR Congo Ebola outbreak becomes deadliest , Cameroon wins first WAFCON title"
+        },
+        {
+          "title": "Egypt Warns Ethiopia Over Plans for More Nile Dams",
+          "link": "https://themedialine.org/headlines/egypt-warns-ethiopia-over-plans-for-more-nile-dams/",
+          "source": "themedialine.org",
+          "pubDate": "2026-08-17T17:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt Warns Ethiopia Over Plans for More Nile Dams"
         },
         {
           "title": "'Emergency' ship rescues migrant boat, 7 dead",
@@ -612,6 +512,51 @@
           "titleIt": "'Emergency' ship rescues migrant boat, 7 dead"
         },
         {
+          "title": "Egypt Warns Ethiopia against Plans to Control Nile River Flows",
+          "link": "https://english.aawsat.com/arab-world/5307849-egypt-warns-ethiopia-against-plans-control-nile-river-flows",
+          "source": "english.aawsat.com",
+          "pubDate": "2026-08-17T06:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt Warns Ethiopia against Plans to Control Nile River Flows"
+        },
+        {
+          "title": "Egypt supports development in Ethiopia , but not if it harms downstream nations : Abbas Sharaki",
+          "link": "https://www.egyptindependent.com/egypt-supports-development-in-ethiopia-but-not-if-it-harms-downstream-nations-abbas-sharaki/",
+          "source": "egyptindependent.com",
+          "pubDate": "2026-08-16T11:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt supports development in Ethiopia , but not if it harms downstream nations : Abbas Sharaki"
+        },
+        {
+          "title": "Former UAE presidential aide post mocking Pakistan exposes unease over Mecca pact",
+          "link": "https://www.middleeasteye.net/news/emirati-academics-barbed-tweet-pakistan-exposes-uae-unease-over-mecca-pact",
+          "source": "middleeasteye.net",
+          "pubDate": "2026-08-16T11:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Former UAE presidential aide post mocking Pakistan exposes unease over Mecca pact"
+        },
+        {
+          "title": "Governing The Invisible Grid : Ethiopia Missing Biomass Account",
+          "link": "https://www.thereporterethiopia.com/52279/",
+          "source": "thereporterethiopia.com",
+          "pubDate": "2026-08-15T09:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Governing The Invisible Grid : Ethiopia Missing Biomass Account"
+        },
+        {
+          "title": "Egypt Aggressive Nile Policy No Longer Serves The Region",
+          "link": "https://www.thereporterethiopia.com/52282/",
+          "source": "thereporterethiopia.com",
+          "pubDate": "2026-08-15T09:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt Aggressive Nile Policy No Longer Serves The Region"
+        },
+        {
           "title": "RSF drone attacks in Sudan, Somalia’s drought emergency, and WFP sticks with Palantir: The Cheat Sheet",
           "link": "https://www.thenewhumanitarian.org/cheat-sheet/2026/08/14/rsf-drone-attacks-somalias-drought-emergency-and-wfp-sticks-palantir-cheat",
           "description": "A weekly read to keep you in the loop on humanitarian issues.",
@@ -619,6 +564,42 @@
           "source": "The New Humanitarian",
           "lang": "en",
           "titleIt": "RSF drone attacks in Sudan, Somalia’s drought emergency, and WFP sticks with Palantir: The Cheat Sheet"
+        },
+        {
+          "title": "Saudi Arabia opposed Egypt inclusion in Mecca agreement , sources say",
+          "link": "https://www.middleeasteye.net/news/saudi-arabia-opposed-egypts-inclusion-mecca-agreement-sources-say",
+          "source": "middleeasteye.net",
+          "pubDate": "2026-08-11T18:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Saudi Arabia opposed Egypt inclusion in Mecca agreement , sources say"
+        },
+        {
+          "title": "Liberia : Burrowes Calls for Historical Reckoning",
+          "link": "https://allafrica.com/stories/202608110475.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-08-11T16:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Liberia : Burrowes Calls for Historical Reckoning"
+        },
+        {
+          "title": "East Africa : Eritrea Regime Military Adventurism Risks Dragging Horn of Africa Back Into Conflict",
+          "link": "https://allafrica.com/stories/202608100033.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-08-10T06:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "East Africa : Eritrea Regime Military Adventurism Risks Dragging Horn of Africa Back Into Conflict"
+        },
+        {
+          "title": "Ethiopia : Diaspora Members Visit GERD , Hail It As  Ethiopia Liquid Gold  On the Abay River",
+          "link": "https://allafrica.com/stories/202608100052.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-08-10T06:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia : Diaspora Members Visit GERD , Hail It As  Ethiopia Liquid Gold  On the Abay River"
         }
       ]
     }
