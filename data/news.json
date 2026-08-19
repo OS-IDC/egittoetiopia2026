@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T07:06:31.412Z",
+  "generatedAt": "2026-08-19T08:55:52.720Z",
   "feedsChecked": 9,
   "feedsAttempted": 10,
   "topics": {
@@ -93,15 +93,6 @@
       "title": "Dossier Somaliland",
       "items": [
         {
-          "title": "Iran: ministero Esteri nega lancio missili contro gli Emirati Arabi",
-          "link": "https://www.agenzianova.com/a/6a8555f3832de7.62855893/7707635/2026-08-19/iran-ministero-esteri-nega-lancio-missili-contro-gli-emirati-arabi",
-          "description": "19 ago 08:56 - (Agenzia Nova) - Il portavoce del ministero degli Esteri iraniano, Esmail Baghaei, ha respinto l'affermazione degli Emirati... (Irb)",
-          "pubDate": "2026-08-19T08:56:03+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Iran: ministero Esteri nega lancio missili contro gli Emirati Arabi"
-        },
-        {
           "title": "Kenya: Somaliland President's Nairobi Visit Deepens Kenya Ties, Mission Says",
           "link": "https://allafrica.com/stories/202608180617.html",
           "description": "[Horn Diplomat] Nairobi -- Somaliland President Abdirahman Mohamed Abdullahi's recent visit to Nairobi brought together senior Kenyan leaders, diplomats and development partners for talks aimed at strengthening bilateral cooperation and advancing Somaliland's development priorities, the Republic of Somaliland Mission in Kenya said.",
@@ -161,13 +152,22 @@
       "title": "Accesso etiope al mare",
       "items": [
         {
-          "title": "Trump pauses new tariffs on Canada for three days, saying countries close to a deal",
+          "title": "Liberia agrees to accept up to 1,200 US deportees under Trump migration deal",
+          "link": "http://www.africanews.com/2026/08/19/liberia-agrees-to-accept-up-to-1200-us-deportees-under-trump-migration-deal/",
+          "description": "Liberia has agreed to accept hundreds of people deported from the United States, in one of the largest such arrangements under the Trump administration’s migration policy. The deportees will arrive over a year, with the first group of 20 expected Thursday.",
+          "pubDate": "Wed, 19 Aug 2026 07:39:12 +0000",
+          "source": "Africanews",
+          "lang": "en",
+          "titleIt": "Liberia agrees to accept up to 1,200 US deportees under Trump migration deal"
+        },
+        {
+          "title": "Trump pauses new tariffs on Canada for three days, saying deal close",
           "link": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
           "description": "The US president says the two sides are finalising documents to avert import taxes targeting a range of Canadian goods.",
           "pubDate": "Wed, 19 Aug 2026 03:56:35 GMT",
           "source": "BBC World",
           "lang": "en",
-          "titleIt": "Trump pauses new tariffs on Canada for three days, saying countries close to a deal"
+          "titleIt": "Trump pauses new tariffs on Canada for three days, saying deal close"
         },
         {
           "title": "Ethiopia: Authorities in Tigray accuse Addis Ababa of drone strike near Mekelle",
@@ -204,15 +204,6 @@
           "source": "The New Humanitarian",
           "lang": "en",
           "titleIt": "Gulf war fallout: Somali households pay the price of trade disruption"
-        },
-        {
-          "title": "UN calls for negotiations to end the conflict in Mozambique",
-          "link": "http://www.africanews.com/2026/08/15/un-calls-for-negotiations-to-end-the-conflict-in-mozambique/",
-          "description": "A military victory over jihadist insurgents in Mozambique's Cabo Delgado province does not appear imminent, according to a report by a United Nations special rapporteur released Friday.",
-          "pubDate": "Sat, 15 Aug 2026 06:21:25 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "UN calls for negotiations to end the conflict in Mozambique"
         },
         {
           "title": "Real Madrid sign Diomande in deal worth up to £120m",
