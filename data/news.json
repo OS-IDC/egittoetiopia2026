@@ -1,20 +1,11 @@
 {
-  "generatedAt": "2026-08-19T04:52:53.530Z",
+  "generatedAt": "2026-08-19T07:06:31.412Z",
   "feedsChecked": 9,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
-        {
-          "title": "Somalia: Somali Defence Minister Visits Danab Command in Galkayo",
-          "link": "https://allafrica.com/stories/202608180622.html",
-          "description": "[Shabelle] GALKAYO, Somalia, Aug. 18, 2026 -- Somalia's Defence Minister Ahmed Macallin Fiqi and the commander of the Somali National Army, Brigadier General Ibrahim Mohamed Mohamud, visited a Danab special forces unit in the central city of Galkayo on Tuesday as part of an inspection of military operations and readiness.",
-          "pubDate": "Tue, 18 Aug 2026 16:21:19 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Somalia: Somali Defence Minister Visits Danab Command in Galkayo"
-        },
         {
           "title": "Kenya: Somaliland President's Nairobi Visit Deepens Kenya Ties, Mission Says",
           "link": "https://allafrica.com/stories/202608180617.html",
@@ -102,6 +93,15 @@
       "title": "Dossier Somaliland",
       "items": [
         {
+          "title": "Iran: ministero Esteri nega lancio missili contro gli Emirati Arabi",
+          "link": "https://www.agenzianova.com/a/6a8555f3832de7.62855893/7707635/2026-08-19/iran-ministero-esteri-nega-lancio-missili-contro-gli-emirati-arabi",
+          "description": "19 ago 08:56 - (Agenzia Nova) - Il portavoce del ministero degli Esteri iraniano, Esmail Baghaei, ha respinto l'affermazione degli Emirati... (Irb)",
+          "pubDate": "2026-08-19T08:56:03+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Iran: ministero Esteri nega lancio missili contro gli Emirati Arabi"
+        },
+        {
           "title": "Kenya: Somaliland President's Nairobi Visit Deepens Kenya Ties, Mission Says",
           "link": "https://allafrica.com/stories/202608180617.html",
           "description": "[Horn Diplomat] Nairobi -- Somaliland President Abdirahman Mohamed Abdullahi's recent visit to Nairobi brought together senior Kenyan leaders, diplomats and development partners for talks aimed at strengthening bilateral cooperation and advancing Somaliland's development priorities, the Republic of Somaliland Mission in Kenya said.",
@@ -111,33 +111,6 @@
           "titleIt": "Kenya: Somaliland President's Nairobi Visit Deepens Kenya Ties, Mission Says"
         },
         {
-          "title": "When insurance pays back : Amanah rewards customers through surplus sharing",
-          "link": "https://www.eyeradio.org/when-insurance-pays-back-amanah-rewards-customers-through-surplus-sharing/",
-          "source": "eyeradio.org",
-          "pubDate": "2026-08-18T15:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "When insurance pays back : Amanah rewards customers through surplus sharing"
-        },
-        {
-          "title": "Regional repercussions , escalation dynamics , and future scenarios in Sudan",
-          "link": "https://aa.com.tr/en/opinion/opinion-regional-repercussions-escalation-dynamics-and-future-scenarios-in-sudan/4030706",
-          "source": "aa.com.tr",
-          "pubDate": "2026-08-18T15:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Regional repercussions , escalation dynamics , and future scenarios in Sudan"
-        },
-        {
-          "title": "Who owns East Africa Corridors ?",
-          "link": "https://www.independent.co.ug/who-owns-east-africas-trade-corridors/",
-          "source": "independent.co.ug",
-          "pubDate": "2026-08-18T15:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Who owns East Africa Corridors ?"
-        },
-        {
           "title": "Ethiopia: Authorities in Tigray accuse Addis Ababa of drone strike near Mekelle",
           "link": "http://www.africanews.com/2026/08/18/ethiopia-authorities-in-tigray-accuse-addis-ababa-of-drone-strike-near-mekelle/",
           "description": "Authorities in Ethiopia's Tigray region have accused the federal government of launching a drone strike near the state capital Mekelle. Tensions between Tigray and Addis Ababa have been mounting in recent weeks, with both parties massing forces on either side of the regional border.",
@@ -145,15 +118,6 @@
           "source": "Africanews",
           "lang": "en",
           "titleIt": "Ethiopia: Authorities in Tigray accuse Addis Ababa of drone strike near Mekelle"
-        },
-        {
-          "title": "UAE issues rare denial of  imperial ambition in Africa",
-          "link": "https://www.middleeasteye.net/news/uae-denies-it-has-imperial-ambitions-africa",
-          "source": "middleeasteye.net",
-          "pubDate": "2026-08-17T21:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "UAE issues rare denial of  imperial ambition in Africa"
         },
         {
           "title": "'Emergency' ship rescues migrant boat, 7 dead",
@@ -183,103 +147,13 @@
           "titleIt": "Gulf war fallout: Somali households pay the price of trade disruption"
         },
         {
-          "title": "India is losing West Asia , but it is not too late",
-          "link": "https://www.thehindu.com/opinion/op-ed/india-is-losing-west-asia-but-it-is-not-too-late/article71353405.ece",
-          "source": "thehindu.com",
-          "pubDate": "2026-08-16T19:00:00Z",
+          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
+          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
+          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
+          "pubDate": "Saturday, May 16, 2026 - 00:08",
+          "source": "Crisis Group",
           "lang": "en",
-          "description": "",
-          "titleIt": "India is losing West Asia , but it is not too late"
-        },
-        {
-          "title": "Is Sudan Bloody War Reaching a Tipping Point ?",
-          "link": "https://www.fairobserver.com/region/middle_east_north_africa/is-sudans-bloody-war-reaching-a-tipping-point/",
-          "source": "fairobserver.com",
-          "pubDate": "2026-08-16T17:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Is Sudan Bloody War Reaching a Tipping Point ?"
-        },
-        {
-          "title": "Former UAE presidential aide post mocking Pakistan exposes unease over Mecca pact",
-          "link": "https://www.middleeasteye.net/news/emirati-academics-barbed-tweet-pakistan-exposes-uae-unease-over-mecca-pact",
-          "source": "middleeasteye.net",
-          "pubDate": "2026-08-16T11:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Former UAE presidential aide post mocking Pakistan exposes unease over Mecca pact"
-        },
-        {
-          "title": "The Saudi – Turkish – Pakistani Security Agreement : A Preliminary Assessment",
-          "link": "https://www.middleeastmonitor.com/20260815-the-saudi-turkish-pakistani-security-agreement-a-preliminary-assessment/",
-          "source": "middleeastmonitor.com",
-          "pubDate": "2026-08-15T11:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The Saudi – Turkish – Pakistani Security Agreement : A Preliminary Assessment"
-        },
-        {
-          "title": "The Makkah Joint Defence Agreement , Gulf Dynamics , And The Horn Of Africa",
-          "link": "https://www.thereporterethiopia.com/52268/",
-          "source": "thereporterethiopia.com",
-          "pubDate": "2026-08-15T09:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The Makkah Joint Defence Agreement , Gulf Dynamics , And The Horn Of Africa"
-        },
-        {
-          "title": "Somaliland , AFRICOM Hold Talks on Maritime Security and Defense Cooperation",
-          "link": "https://wardheernews.com/somaliland-africom-hold-talks-on-maritime-security-and-defense-cooperation/",
-          "source": "wardheernews.com",
-          "pubDate": "2026-08-14T17:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Somaliland , AFRICOM Hold Talks on Maritime Security and Defense Cooperation"
-        },
-        {
-          "title": "How the Mecca Agreement aims to manage US separation from Middle East",
-          "link": "https://www.chinatechnews.com/2026/08/14/127304-how-the-mecca-agreement-aims-to-manage-us-separation-from-middle-east",
-          "source": "chinatechnews.com",
-          "pubDate": "2026-08-13T23:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "How the Mecca Agreement aims to manage US separation from Middle East"
-        },
-        {
-          "title": "How Riyadh lost the war in Yemen long before the Red Sea blew up",
-          "link": "http://www.jpost.com/opinion/article-905397",
-          "source": "jpost.com",
-          "pubDate": "2026-08-13T22:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "How Riyadh lost the war in Yemen long before the Red Sea blew up"
-        },
-        {
-          "title": "Africa : Houthi Red Sea Threat Puts Somaliland in Focus As Analysts See Possible U . S . Strategy Shift",
-          "link": "https://allafrica.com/stories/202608130200.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-08-13T12:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Africa : Houthi Red Sea Threat Puts Somaliland in Focus As Analysts See Possible U . S . Strategy Shift"
-        },
-        {
-          "title": "The Mecca Pact : The Unfinished Asabiyyah of a World in Search of Power",
-          "link": "https://countercurrents.org/2026/08/the-mecca-pact-the-unfinished-asabiyyah-of-a-world-in-search-of-power/",
-          "source": "countercurrents.org",
-          "pubDate": "2026-08-13T06:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The Mecca Pact : The Unfinished Asabiyyah of a World in Search of Power"
-        },
-        {
-          "title": "القرن الأفريقي .. التفاعلات الاستراتيجية وصراع النفوذ الدولي",
-          "link": "https://www.okaz.com.sa/articles/na/2261085",
-          "source": "okaz.com.sa",
-          "pubDate": "2026-08-12T21:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "القرن الأفريقي .. التفاعلات الاستراتيجية وصراع النفوذ الدولي"
+          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
@@ -287,13 +161,13 @@
       "title": "Accesso etiope al mare",
       "items": [
         {
-          "title": "Liberia: Fact Check - Liberian Youth and Sports Minister Correct About Hospitality Center Funding Source, but Incorrect About Total Negotiations",
-          "link": "https://allafrica.com/stories/202608180635.html",
-          "description": "[Liberian Investigator] In Summary",
-          "pubDate": "Tue, 18 Aug 2026 16:30:02 GMT",
-          "source": "AllAfrica",
+          "title": "Trump pauses new tariffs on Canada for three days, saying countries close to a deal",
+          "link": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
+          "description": "The US president says the two sides are finalising documents to avert import taxes targeting a range of Canadian goods.",
+          "pubDate": "Wed, 19 Aug 2026 03:56:35 GMT",
+          "source": "BBC World",
           "lang": "en",
-          "titleIt": "Liberia: Fact Check - Liberian Youth and Sports Minister Correct About Hospitality Center Funding Source, but Incorrect About Total Negotiations"
+          "titleIt": "Trump pauses new tariffs on Canada for three days, saying countries close to a deal"
         },
         {
           "title": "Ethiopia: Authorities in Tigray accuse Addis Ababa of drone strike near Mekelle",
@@ -362,192 +236,20 @@
     },
     "egypt-economy": {
       "title": "Fragilità economica egiziana",
-      "items": [
-        {
-          "title": "Trump is threatening to bomb Oman , but why ?",
-          "link": "http://www.bozemandailychronicle.com/wire/news/trump-is-threatening-to-bomb-oman-but-why/article_01ee77a6-ca57-5a6a-ab3b-3d0dd39df426.html",
-          "source": "bozemandailychronicle.com",
-          "pubDate": "2026-08-19T04:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Trump is threatening to bomb Oman , but why ?"
-        },
-        {
-          "title": "From hammering Iran to strangling them : Donald Trump has a new approach in Middle East war",
-          "link": "https://economictimes.indiatimes.com/news/international/global-trends/from-hammering-iran-to-strangling-them-donald-trump-has-a-new-approach-in-middle-east-war/articleshow/133336491.cms",
-          "source": "economictimes.indiatimes.com",
-          "pubDate": "2026-08-19T04:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "From hammering Iran to strangling them : Donald Trump has a new approach in Middle East war"
-        },
-        {
-          "title": "Cement Prices : FCCPC Opens Probe over Alleged Market Manipulation Amid Excess Production Capacity – THISDAYLIVE",
-          "link": "https://www.thisdaylive.com/2026/08/19/cement-prices-fccpc-opens-probe-over-alleged-market-manipulation-amid-excess-production-capacity/",
-          "source": "thisdaylive.com",
-          "pubDate": "2026-08-19T04:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Cement Prices : FCCPC Opens Probe over Alleged Market Manipulation Amid Excess Production Capacity – THISDAYLIVE"
-        },
-        {
-          "title": "Cement prices likely manipulated in Nigeria , says FCCPC",
-          "link": "https://dailytrust.com/cement-prices-likely-manipulated-in-nigeria-says-fccpc/",
-          "source": "dailytrust.com",
-          "pubDate": "2026-08-19T04:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Cement prices likely manipulated in Nigeria , says FCCPC"
-        },
-        {
-          "title": "Why is Donald Trump threatening to bomb Oman amid Iran war ? – NBC Chicago",
-          "link": "https://www.nbcchicago.com/news/national-international/donald-trump-threatens-bomb-oman/3977232/",
-          "source": "nbcchicago.com",
-          "pubDate": "2026-08-19T04:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Why is Donald Trump threatening to bomb Oman amid Iran war ? – NBC Chicago"
-        },
-        {
-          "title": "4 Specific Colors People Who Seem To Have Very Good Luck With Money Usually Wear",
-          "link": "https://www.yourtango.com/money/specific-colors-people-who-seem-have-good-luck-money-usually-wear",
-          "source": "yourtango.com",
-          "pubDate": "2026-08-19T03:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "4 Specific Colors People Who Seem To Have Very Good Luck With Money Usually Wear"
-        },
-        {
-          "title": "All trade , commercial exchanges halted : How UAE responded to Iran latest ballistic missile attack",
-          "link": "https://timesofindia.indiatimes.com/world/middle-east/ballistic-missiles-target-uae-trade-ties-snap-how-abu-dhabi-responded-to-irans-latest-escalation/articleshow/133335044.cms",
-          "source": "timesofindia.indiatimes.com",
-          "pubDate": "2026-08-19T03:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "All trade , commercial exchanges halted : How UAE responded to Iran latest ballistic missile attack"
-        },
-        {
-          "title": "Why is Donald Trump threatening to bomb Oman amid Iran war ? – NBC New York",
-          "link": "https://www.nbcnewyork.com/news/national-international/donald-trump-threatens-bomb-oman/6538063/",
-          "source": "nbcnewyork.com",
-          "pubDate": "2026-08-19T03:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Why is Donald Trump threatening to bomb Oman amid Iran war ? – NBC New York"
-        },
-        {
-          "title": "Why is Donald Trump threatening to bomb Oman amid Iran war ? – NBC Connecticut",
-          "link": "https://www.nbcconnecticut.com/news/national-international/donald-trump-threatens-bomb-oman/3766371/",
-          "source": "nbcconnecticut.com",
-          "pubDate": "2026-08-19T02:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Why is Donald Trump threatening to bomb Oman amid Iran war ? – NBC Connecticut"
-        },
-        {
-          "title": "Why is Donald Trump threatening to bomb Oman amid Iran war ? – NBC4 Washington",
-          "link": "https://www.nbcwashington.com/news/national-international/donald-trump-threatens-bomb-oman/4143788/",
-          "source": "nbcwashington.com",
-          "pubDate": "2026-08-19T02:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Why is Donald Trump threatening to bomb Oman amid Iran war ? – NBC4 Washington"
-        },
-        {
-          "title": "Why is Donald Trump threatening to bomb Oman amid Iran war ? – NBC 7 San Diego",
-          "link": "https://www.nbcsandiego.com/news/national-international/donald-trump-threatens-bomb-oman/4062819/",
-          "source": "nbcsandiego.com",
-          "pubDate": "2026-08-19T02:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Why is Donald Trump threatening to bomb Oman amid Iran war ? – NBC 7 San Diego"
-        },
-        {
-          "title": "Goodbye , M . O . U ., We Hardly Knew You",
-          "link": "https://hotair.com/generalissimo/2026/08/18/goodbye-mou-we-hardly-knew-you-n3818121",
-          "source": "hotair.com",
-          "pubDate": "2026-08-19T02:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Goodbye , M . O . U ., We Hardly Knew You"
-        },
-        {
-          "title": "Trump is threatening to bomb Oman , but why ?",
-          "link": "https://www.kvoa.com/news/national/trump-is-threatening-to-bomb-oman-but-why/article_78307e2f-5f3e-556d-a049-dc342c242124.html",
-          "source": "kvoa.com",
-          "pubDate": "2026-08-19T02:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Trump is threatening to bomb Oman , but why ?"
-        },
-        {
-          "title": "Why is Donald Trump threatening to bomb Oman amid Iran war ? – NBC 5 Dallas - Fort Worth",
-          "link": "https://www.nbcdfw.com/news/national-international/donald-trump-threatens-bomb-oman/4064514/",
-          "source": "nbcdfw.com",
-          "pubDate": "2026-08-19T02:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Why is Donald Trump threatening to bomb Oman amid Iran war ? – NBC 5 Dallas - Fort Worth"
-        },
-        {
-          "title": "Trump is threatening to bomb Oman , but why ?",
-          "link": "http://www.dailyadvance.com/news/national/trump-is-threatening-to-bomb-oman-but-why/article_05b4c0ea-6366-530a-b402-4ec98667c627.html",
-          "source": "dailyadvance.com",
-          "pubDate": "2026-08-19T02:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Trump is threatening to bomb Oman , but why ?"
-        },
-        {
-          "title": "Gaza is the world largest washing machine , and it broke down",
-          "link": "https://www.ynetnews.com/opinions-analysis/article/by00ua00mwzl",
-          "source": "ynetnews.com",
-          "pubDate": "2026-08-19T01:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Gaza is the world largest washing machine , and it broke down"
-        },
-        {
-          "title": "Why is Donald Trump threatening to bomb Oman amid Iran war ? – NBC10 Philadelphia",
-          "link": "https://www.nbcphiladelphia.com/news/national-international/donald-trump-threatens-bomb-oman/4450289/",
-          "source": "nbcphiladelphia.com",
-          "pubDate": "2026-08-19T01:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Why is Donald Trump threatening to bomb Oman amid Iran war ? – NBC10 Philadelphia"
-        },
-        {
-          "title": "Middle East Banks Grow African Presence",
-          "link": "https://gfmag.com/emerging-frontier-markets/middle-east-banks-grow-african-presence/",
-          "source": "gfmag.com",
-          "pubDate": "2026-08-19T01:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Middle East Banks Grow African Presence"
-        },
-        {
-          "title": "Trump is threatening to bomb Oman , but why ?",
-          "link": "https://economictimes.indiatimes.com/news/international/world-news/trump-is-threatening-to-bomb-oman-but-why/articleshow/133334886.cms",
-          "source": "economictimes.indiatimes.com",
-          "pubDate": "2026-08-19T01:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Trump is threatening to bomb Oman , but why ?"
-        },
-        {
-          "title": "Trump Posts Map Declaring Hormuz  New US Territory , Says No Iran Talks as Oman Deal Nears",
-          "link": "https://www.hngn.com/articles/272815/20260818/trump-posts-map-declaring-hormuz-new-us-territory-says-no-iran-talks-oman-deal-nears.htm",
-          "source": "hngn.com",
-          "pubDate": "2026-08-19T01:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Trump Posts Map Declaring Hormuz  New US Territory , Says No Iran Talks as Oman Deal Nears"
-        }
-      ]
+      "items": []
     },
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
       "items": [
+        {
+          "title": "Ethiopia: NASA Study Finds Black Carbon Pollution in Addis Abeba Far Higher Than in 3 U.S. Cities",
+          "link": "https://allafrica.com/stories/202608190108.html",
+          "description": "[Addis Standard] Addis Abeba -- A NASA-funded study has found that average black carbon concentrations in Addis Abeba were approximately 4 to 9 times higher than levels recorded in 3 U.S. metropolitan areas monitored by the same mission -- Los Angeles, Atlanta and Boston.",
+          "pubDate": "Wed, 19 Aug 2026 05:26:46 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Ethiopia: NASA Study Finds Black Carbon Pollution in Addis Abeba Far Higher Than in 3 U.S. Cities"
+        },
         {
           "title": "Ethiopia: Authorities in Tigray accuse Addis Ababa of drone strike near Mekelle",
           "link": "http://www.africanews.com/2026/08/18/ethiopia-authorities-in-tigray-accuse-addis-ababa-of-drone-strike-near-mekelle/",
@@ -556,24 +258,6 @@
           "source": "Africanews",
           "lang": "en",
           "titleIt": "Ethiopia: Authorities in Tigray accuse Addis Ababa of drone strike near Mekelle"
-        },
-        {
-          "title": "Today in Africa : DR Congo Ebola outbreak becomes deadliest , Cameroon wins first WAFCON title",
-          "link": "https://www.okayafrica.com/today-in-africa-august-17-2026-dr-congos-ebola-outbreak-now-the-countrys-deadliest-cameroon-wins-first-ever-wafcon-title/1437871",
-          "source": "okayafrica.com",
-          "pubDate": "2026-08-17T19:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Today in Africa : DR Congo Ebola outbreak becomes deadliest , Cameroon wins first WAFCON title"
-        },
-        {
-          "title": "Egypt Warns Ethiopia Over Plans for More Nile Dams",
-          "link": "https://themedialine.org/headlines/egypt-warns-ethiopia-over-plans-for-more-nile-dams/",
-          "source": "themedialine.org",
-          "pubDate": "2026-08-17T17:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egypt Warns Ethiopia Over Plans for More Nile Dams"
         },
         {
           "title": "'Emergency' ship rescues migrant boat, 7 dead",
@@ -594,51 +278,6 @@
           "titleIt": "'Emergency' ship rescues migrant boat, 7 dead"
         },
         {
-          "title": "Egypt Warns Ethiopia against Plans to Control Nile River Flows",
-          "link": "https://english.aawsat.com/arab-world/5307849-egypt-warns-ethiopia-against-plans-control-nile-river-flows",
-          "source": "english.aawsat.com",
-          "pubDate": "2026-08-17T06:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egypt Warns Ethiopia against Plans to Control Nile River Flows"
-        },
-        {
-          "title": "Egypt supports development in Ethiopia , but not if it harms downstream nations : Abbas Sharaki",
-          "link": "https://www.egyptindependent.com/egypt-supports-development-in-ethiopia-but-not-if-it-harms-downstream-nations-abbas-sharaki/",
-          "source": "egyptindependent.com",
-          "pubDate": "2026-08-16T11:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egypt supports development in Ethiopia , but not if it harms downstream nations : Abbas Sharaki"
-        },
-        {
-          "title": "Former UAE presidential aide post mocking Pakistan exposes unease over Mecca pact",
-          "link": "https://www.middleeasteye.net/news/emirati-academics-barbed-tweet-pakistan-exposes-uae-unease-over-mecca-pact",
-          "source": "middleeasteye.net",
-          "pubDate": "2026-08-16T11:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Former UAE presidential aide post mocking Pakistan exposes unease over Mecca pact"
-        },
-        {
-          "title": "Governing The Invisible Grid : Ethiopia Missing Biomass Account",
-          "link": "https://www.thereporterethiopia.com/52279/",
-          "source": "thereporterethiopia.com",
-          "pubDate": "2026-08-15T09:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Governing The Invisible Grid : Ethiopia Missing Biomass Account"
-        },
-        {
-          "title": "Egypt Aggressive Nile Policy No Longer Serves The Region",
-          "link": "https://www.thereporterethiopia.com/52282/",
-          "source": "thereporterethiopia.com",
-          "pubDate": "2026-08-15T09:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egypt Aggressive Nile Policy No Longer Serves The Region"
-        },
-        {
           "title": "RSF drone attacks in Sudan, Somalia’s drought emergency, and WFP sticks with Palantir: The Cheat Sheet",
           "link": "https://www.thenewhumanitarian.org/cheat-sheet/2026/08/14/rsf-drone-attacks-somalias-drought-emergency-and-wfp-sticks-palantir-cheat",
           "description": "A weekly read to keep you in the loop on humanitarian issues.",
@@ -646,87 +285,6 @@
           "source": "The New Humanitarian",
           "lang": "en",
           "titleIt": "RSF drone attacks in Sudan, Somalia’s drought emergency, and WFP sticks with Palantir: The Cheat Sheet"
-        },
-        {
-          "title": "Saudi Arabia opposed Egypt inclusion in Mecca agreement , sources say",
-          "link": "https://www.middleeasteye.net/news/saudi-arabia-opposed-egypts-inclusion-mecca-agreement-sources-say",
-          "source": "middleeasteye.net",
-          "pubDate": "2026-08-11T18:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Saudi Arabia opposed Egypt inclusion in Mecca agreement , sources say"
-        },
-        {
-          "title": "Liberia : Burrowes Calls for Historical Reckoning",
-          "link": "https://allafrica.com/stories/202608110475.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-08-11T16:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Liberia : Burrowes Calls for Historical Reckoning"
-        },
-        {
-          "title": "East Africa : Eritrea Regime Military Adventurism Risks Dragging Horn of Africa Back Into Conflict",
-          "link": "https://allafrica.com/stories/202608100033.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-08-10T06:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "East Africa : Eritrea Regime Military Adventurism Risks Dragging Horn of Africa Back Into Conflict"
-        },
-        {
-          "title": "Ethiopia : Diaspora Members Visit GERD , Hail It As  Ethiopia Liquid Gold  On the Abay River",
-          "link": "https://allafrica.com/stories/202608100052.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-08-10T06:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia : Diaspora Members Visit GERD , Hail It As  Ethiopia Liquid Gold  On the Abay River"
-        },
-        {
-          "title": "Ethiopia Historic Week of Green Revolution , Digital Sovereignty and National Consensus",
-          "link": "https://allafrica.com/stories/202608100053.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-08-10T06:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia Historic Week of Green Revolution , Digital Sovereignty and National Consensus"
-        },
-        {
-          "title": "Islamic NATO  or paper alliance ? The truth behind Saudi Arabia new defense pact",
-          "link": "https://www.ynetnews.com/opinions-analysis/article/rjmp11isifl",
-          "source": "ynetnews.com",
-          "pubDate": "2026-08-09T11:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Islamic NATO  or paper alliance ? The truth behind Saudi Arabia new defense pact"
-        },
-        {
-          "title": "Flashpoint : Military Or Diplomacy ? Horn Of Africa Geopolitical Alliances Reach Tipping Point",
-          "link": "https://www.thereporterethiopia.com/52198/",
-          "source": "thereporterethiopia.com",
-          "pubDate": "2026-08-08T10:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Flashpoint : Military Or Diplomacy ? Horn Of Africa Geopolitical Alliances Reach Tipping Point"
-        },
-        {
-          "title": "Electricity Is Capital , Not Just A Commodity Rethinking Nepal Electricity Strategy In The Era Of Surplus Power",
-          "link": "https://www.spotlightnepal.com/2026/08/07/electricity-capital-not-just-commodity-rethinking-nepals-electricity-strategy-era-surplus-power/",
-          "source": "spotlightnepal.com",
-          "pubDate": "2026-08-07T07:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Electricity Is Capital , Not Just A Commodity Rethinking Nepal Electricity Strategy In The Era Of Surplus Power"
-        },
-        {
-          "title": "Egypt Declares Strong Opposition to New Ethiopian Nile Dams",
-          "link": "https://www.tanzanianewsreports.com/egypt-declares-strong-opposition-to-new-ethiopian-nile-dams/",
-          "source": "tanzanianewsreports.com",
-          "pubDate": "2026-08-06T19:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egypt Declares Strong Opposition to New Ethiopian Nile Dams"
         }
       ]
     }
