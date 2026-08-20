@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T13:12:06.756Z",
+  "generatedAt": "2026-08-20T14:56:06.482Z",
   "feedsChecked": 10,
   "feedsAttempted": 10,
   "topics": {
@@ -192,15 +192,6 @@
       "title": "Dossier Somaliland",
       "items": [
         {
-          "title": "Speciale porti: picco di domanda di petroliere dal Golfo, prezzi delle navi ai massimi dal 2008",
-          "link": "https://www.agenzianova.com/a/6a86fd23216ac5.42457233/7710779/2026-08-20/speciale-porti-picco-di-domanda-di-petroliere-dal-golfo-prezzi-delle-navi-ai-massimi-dal-2008",
-          "description": "20 ago 15:00 - (Agenzia Nova) - La crescente domanda di petroliere per trasportare il greggio fuori dal Golfo sta spingendo ai massimi da quasi... (Rel)",
-          "pubDate": "2026-08-20T15:00:00+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Speciale porti: picco di domanda di petroliere dal Golfo, prezzi delle navi ai massimi dal 2008"
-        },
-        {
           "title": "Laftagareen's Forces Attack Baidoa, Reviving the Fight Somalia Thought It Had Won",
           "link": "https://hornobserver.com/articles/3716/Laftagareens-Forces-Attack-Baidoa-Reviving-the-Fight-Somalia-Thought-It-Had-Won",
           "description": "Residents reported heavy gunfire and explosions in the Towfiiq neighborhood. Fighting broke out around 5 a.m. Somalia's Ministry of Defense said the assault involved vehicles packed with explosives. It described the attacking force as a mix of Al-Shabaab militants and militias loyal to Laftagareen — using the term \"Khawaarij,\" the standard Somali term for Al-Shabaab, to describe them. The ministry said its forces repelled the attack and killed at least 30 of the assailants. Laftagareen's side told a different story. His spokesperson, Hassan Mohamed, said in a statement that Laftagareen's force",
@@ -370,21 +361,21 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "Somali Cabinet Approves Passport, Trade and Judicial Reforms"
+        },
+        {
+          "title": "AUSSOM Leadership Meets New Djibouti Ambassador to Somalia",
+          "link": "https://hornobserver.com/articles/3704/AUSSOM-Leadership-Meets-New-Djibouti-Ambassador-to-Somalia",
+          "description": "Ambassador Diene was accompanied by Deputy SRCC Ambassador Mouktar Osman Kaire during the meeting, which focused on AUSSOM's mandate, the evolving security situation in Somalia, and recent developments related to Somali-led efforts to enhance peace, security, and stability. Ambassador Diene expressed appreciation for Djibouti's longstanding contribution to peace and security in Somalia, including the continued deployment of Djiboutian troops under AUSSOM. He also commended Ambassador Sougouleh for his contribution to peace, security, and stability in Somalia, particularly during his tenure as ",
+          "pubDate": "Sat, 25 Jul 2026 09:47:17 +0300",
+          "source": "Horn Observer",
+          "lang": "en",
+          "titleIt": "AUSSOM Leadership Meets New Djibouti Ambassador to Somalia"
         }
       ]
     },
     "ethiopia-sea-access": {
       "title": "Accesso etiope al mare",
       "items": [
-        {
-          "title": "Speciale porti: Ck Hutchison avvia procedimento arbitrale, chiesti 1,5 miliardi di dollari per disputa sui porti",
-          "link": "https://www.agenzianova.com/a/6a86fd2321fff2.23500598/7710739/2026-08-20/speciale-porti-ck-hutchison-avvia-procedimento-arbitrale-chiesti-1-5-miliardi-di-dollari-per-disputa-sui-porti",
-          "description": "20 ago 15:00 - (Agenzia Nova) - Il conglomerato di Hong Kong Ck Hutchison ha avviato un procedimento arbitrale internazionale contro Panama,... (Cip)",
-          "pubDate": "2026-08-20T15:00:00+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Speciale porti: Ck Hutchison avvia procedimento arbitrale, chiesti 1,5 miliardi di dollari per disputa sui porti"
-        },
         {
           "title": "Laftagareen's Forces Attack Baidoa, Reviving the Fight Somalia Thought It Had Won",
           "link": "https://hornobserver.com/articles/3716/Laftagareens-Forces-Attack-Baidoa-Reviving-the-Fight-Somalia-Thought-It-Had-Won",
@@ -555,6 +546,15 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "Somalia Says 25 Al-Shabaab Militants Killed, Four Surrender"
+        },
+        {
+          "title": "Ethiopia: Somali, Oromo Officials Discuss Cross-Border Challenges",
+          "link": "https://hornobserver.com/articles/3699/Ethiopia-Somali-Oromo-Officials-Discuss-Cross-Border-Challenges",
+          "description": "The dialogue brought together officials from six districts in the Fafan and Sitti zones of the Somali Regional State and five districts from the East and West Hararghe zones of the Oromia National Regional State. The meeting focused on improving collaboration between neighboring communities through locally led initiatives aimed at reinforcing social cohesion, conflict prevention, and cross-border cooperation. According to information released by the organizers, the discussions were held under the Strengthening the Resilience of Disaster-Affected Communities project, which promotes community re",
+          "pubDate": "Thu, 16 Jul 2026 23:48:28 +0300",
+          "source": "Horn Observer",
+          "lang": "en",
+          "titleIt": "Ethiopia: Somali, Oromo Officials Discuss Cross-Border Challenges"
         }
       ]
     },
