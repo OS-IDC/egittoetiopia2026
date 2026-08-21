@@ -1,29 +1,11 @@
 {
-  "generatedAt": "2026-08-21T13:11:35.562Z",
+  "generatedAt": "2026-08-21T14:53:44.819Z",
   "feedsChecked": 10,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
-        {
-          "title": "Speciale porti: petroliera abbordata nel Golfo di Aden e dirottata verso la Somalia",
-          "link": "https://www.agenzianova.com/a/6a884e83caa4a9.39687694/7713342/2026-08-21/speciale-porti-petroliera-abbordata-nel-golfo-di-aden-e-dirottata-verso-la-somalia",
-          "description": "21 ago 15:00 - (Agenzia Nova) - Una petroliera e' stata abbordata nel Golfo di Aden da sei persone armate che ora hanno il controllo dell'imbarcazione... (Res)",
-          "pubDate": "2026-08-21T15:00:00+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Speciale porti: petroliera abbordata nel Golfo di Aden e dirottata verso la Somalia"
-        },
-        {
-          "title": "Speciale porti: Egitto, ministro Esteri, in contatto con Iran e Oman per allentare tensioni e riaprire Hormuz",
-          "link": "https://www.agenzianova.com/a/6a884e83cadea5.82624369/7712032/2026-08-21/speciale-porti-egitto-ministro-esteri-in-contatto-con-iran-e-oman-per-allentare-tensioni-e-riaprire-hormuz",
-          "description": "21 ago 15:00 - (Agenzia Nova) - L'Egitto e' in contatto con l'Iran, l'Oman e altre parti regionali e internazionali nell'ambito degli sforzi... (Cae)",
-          "pubDate": "2026-08-21T15:00:00+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Speciale porti: Egitto, ministro Esteri, in contatto con Iran e Oman per allentare tensioni e riaprire Hormuz"
-        },
         {
           "title": "Egypt and Qatar stress need for dialogue over Strait of Hormuz",
           "link": "http://www.africanews.com/2026/08/20/egypt-and-qatar-stress-need-for-dialogue-over-strait-of-hormuz/",
@@ -185,30 +167,21 @@
           "source": "Crisis Group",
           "lang": "en",
           "titleIt": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab"
+        },
+        {
+          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
+          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
+          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
+          "pubDate": "Saturday, May 16, 2026 - 00:08",
+          "source": "Crisis Group",
+          "lang": "en",
+          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
     "somaliland": {
       "title": "Dossier Somaliland",
       "items": [
-        {
-          "title": "Speciale porti: petroliera abbordata nel Golfo di Aden e dirottata verso la Somalia",
-          "link": "https://www.agenzianova.com/a/6a884e83caa4a9.39687694/7713342/2026-08-21/speciale-porti-petroliera-abbordata-nel-golfo-di-aden-e-dirottata-verso-la-somalia",
-          "description": "21 ago 15:00 - (Agenzia Nova) - Una petroliera e' stata abbordata nel Golfo di Aden da sei persone armate che ora hanno il controllo dell'imbarcazione... (Res)",
-          "pubDate": "2026-08-21T15:00:00+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Speciale porti: petroliera abbordata nel Golfo di Aden e dirottata verso la Somalia"
-        },
-        {
-          "title": "Speciale porti: Hormuz, discussioni Consiglio cooperazione Golfo e Cina su escalation Iran",
-          "link": "https://www.agenzianova.com/a/6a884e83cac120.37152753/7712033/2026-08-21/speciale-porti-hormuz-discussioni-consiglio-cooperazione-golfo-e-cina-su-escalation-iran",
-          "description": "21 ago 15:00 - (Agenzia Nova) - Funzionari di alto livello del Consiglio di cooperazione del Golfo (Ccg) e una delegazione cinese hanno discusso... (Res)",
-          "pubDate": "2026-08-21T15:00:00+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Speciale porti: Hormuz, discussioni Consiglio cooperazione Golfo e Cina su escalation Iran"
-        },
         {
           "title": "Kenya: Beyond the Cotton Field - The Race to Build Kenya's Cotton-to-Textile Industry",
           "link": "https://allafrica.com/stories/202608210477.html",
@@ -235,15 +208,6 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "Laftagareen's Forces Attack Baidoa, Reviving the Fight Somalia Thought It Had Won"
-        },
-        {
-          "title": "Kenya helicopter crash kills seven in Samburu, including six tourists",
-          "link": "http://www.africanews.com/2026/08/19/kenya-helicopter-crash-kills-seven-in-samburu-including-six-tourists/",
-          "description": "Seven people, including six tourists and the pilot, have died after a helicopter came down near Mount Ololokwe in central Kenya, according to air accident officials.",
-          "pubDate": "Wed, 19 Aug 2026 15:20:10 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "Kenya helicopter crash kills seven in Samburu, including six tourists"
         },
         {
           "title": "An Italian among the dead in a helicopter crash in Kenya",
@@ -368,22 +332,13 @@
       "title": "Accesso etiope al mare",
       "items": [
         {
-          "title": "Speciale porti: petroliera abbordata nel Golfo di Aden e dirottata verso la Somalia",
-          "link": "https://www.agenzianova.com/a/6a884e83caa4a9.39687694/7713342/2026-08-21/speciale-porti-petroliera-abbordata-nel-golfo-di-aden-e-dirottata-verso-la-somalia",
-          "description": "21 ago 15:00 - (Agenzia Nova) - Una petroliera e' stata abbordata nel Golfo di Aden da sei persone armate che ora hanno il controllo dell'imbarcazione... (Res)",
-          "pubDate": "2026-08-21T15:00:00+02:00",
+          "title": "Sudan: si riapre il dibattito sul dialogo politico mentre il conflitto continua (3)",
+          "link": "https://www.agenzianova.com/a/6a8866760df2d5.68255748/7714196/2026-08-21/sudan-si-riapre-il-dibattito-sul-dialogo-politico-mentre-il-conflitto-continua-3",
+          "description": "21 ago 16:38 - (Agenzia Nova) - Intervistato da \"Agenzia Nova\", il portavoce di Sumud, Bakri al Jak, ha precisato che l'alleanza non ha ricevuto... (Suk)",
+          "pubDate": "2026-08-21T16:38:30+02:00",
           "source": "Agenzia Nova",
           "lang": "it",
-          "titleIt": "Speciale porti: petroliera abbordata nel Golfo di Aden e dirottata verso la Somalia"
-        },
-        {
-          "title": "Speciale porti: Egitto, ministro Esteri, in contatto con Iran e Oman per allentare tensioni e riaprire Hormuz",
-          "link": "https://www.agenzianova.com/a/6a884e83cadea5.82624369/7712032/2026-08-21/speciale-porti-egitto-ministro-esteri-in-contatto-con-iran-e-oman-per-allentare-tensioni-e-riaprire-hormuz",
-          "description": "21 ago 15:00 - (Agenzia Nova) - L'Egitto e' in contatto con l'Iran, l'Oman e altre parti regionali e internazionali nell'ambito degli sforzi... (Cae)",
-          "pubDate": "2026-08-21T15:00:00+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Speciale porti: Egitto, ministro Esteri, in contatto con Iran e Oman per allentare tensioni e riaprire Hormuz"
+          "titleIt": "Sudan: si riapre il dibattito sul dialogo politico mentre il conflitto continua (3)"
         },
         {
           "title": "Drone strike wounds 13 in Tigray capital as fears of renewed war grow",
@@ -542,20 +497,192 @@
     },
     "egypt-economy": {
       "title": "Fragilità economica egiziana",
-      "items": []
+      "items": [
+        {
+          "title": "Egypt Remittances Hit a Record US$47 . 3 Billion",
+          "link": "https://www.riotimesonline.com/egypt-remittances-record-47-billion-2026/",
+          "source": "riotimesonline.com",
+          "pubDate": "2026-08-21T14:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt Remittances Hit a Record US$47 . 3 Billion"
+        },
+        {
+          "title": "Russia steps up drive to export consumer goods to India",
+          "link": "http://www.russiaherald.com/news/279256263/russia-steps-up-drive-to-export-consumer-goods-to-india",
+          "source": "russiaherald.com",
+          "pubDate": "2026-08-21T14:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Russia steps up drive to export consumer goods to India"
+        },
+        {
+          "title": "Bangladesh to Join Saudi - Turkiye - Pakistan Makkah Pact ?",
+          "link": "https://www.ummid.com/news/2026/8/21/bangladesh-to-join-saudi-turkiye-pakistan-makkah-pact.html",
+          "source": "ummid.com",
+          "pubDate": "2026-08-21T13:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Bangladesh to Join Saudi - Turkiye - Pakistan Makkah Pact ?"
+        },
+        {
+          "title": "Addressing Africa transmission challenge",
+          "link": "https://www.esi-africa.com/industry-sectors/transmission-and-distribution/addressing-africas-transmission-challenge/",
+          "source": "esi-africa.com",
+          "pubDate": "2026-08-21T13:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Addressing Africa transmission challenge"
+        },
+        {
+          "title": "EnWave Corporation : EnWave Reports 2026 Third Quarter Consolidated Interim Financial Results",
+          "link": "https://www.finanznachrichten.de/nachrichten-2026-08/69376258-enwave-corporation-enwave-reports-2026-third-quarter-consolidated-interim-financial-results-399.htm",
+          "source": "finanznachrichten.de",
+          "pubDate": "2026-08-21T13:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "EnWave Corporation : EnWave Reports 2026 Third Quarter Consolidated Interim Financial Results"
+        },
+        {
+          "title": "The steppe eagle is electrocuted by the thousands every year . Help may finally be on the way",
+          "link": "https://www.cnn.com/science/steppe-eagle-kazakhstan-electrocution-spc-c2e",
+          "source": "cnn.com",
+          "pubDate": "2026-08-21T13:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The steppe eagle is electrocuted by the thousands every year . Help may finally be on the way"
+        },
+        {
+          "title": "Beyond Nominal Value Headline : Why Bigger Revenues Wont Buy Nigeria a Bigger Economy – THISDAYLIVE",
+          "link": "https://www.thisdaylive.com/2026/08/21/beyond-nominal-value-headline-why-bigger-revenues-wont-buy-nigeria-a-bigger-economy/",
+          "source": "thisdaylive.com",
+          "pubDate": "2026-08-21T12:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Beyond Nominal Value Headline : Why Bigger Revenues Wont Buy Nigeria a Bigger Economy – THISDAYLIVE"
+        },
+        {
+          "title": "Potential Hot Spots : Not Happening in the Maghreb",
+          "link": "http://www.strategypage.com/qnd/pothot/articles/202608216357.aspx",
+          "source": "strategypage.com",
+          "pubDate": "2026-08-21T11:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Potential Hot Spots : Not Happening in the Maghreb"
+        },
+        {
+          "title": "Egypt , Qatar renew call to uphold Trump plan to end Israel war on Gaza – Middle East Monitor",
+          "link": "https://www.middleeastmonitor.com/20260821-egypt-qatar-renew-call-to-uphold-trumps-plan-to-end-israels-war-on-gaza/",
+          "source": "middleeastmonitor.com",
+          "pubDate": "2026-08-21T11:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt , Qatar renew call to uphold Trump plan to end Israel war on Gaza – Middle East Monitor"
+        },
+        {
+          "title": "Israel moves forward with internationally condemned settlement plan that could  bury  two - state solution",
+          "link": "https://www.rnz.co.nz/news/world/1077415/israel-moves-forward-with-internationally-condemned-settlement-plan-that-could-bury-two-state-solution",
+          "source": "rnz.co.nz",
+          "pubDate": "2026-08-21T11:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Israel moves forward with internationally condemned settlement plan that could  bury  two - state solution"
+        },
+        {
+          "title": "Iran dismisses US economic threats , and other developments in the Middle East – KTBB News , Weather , Talk",
+          "link": "https://ktbb.com/post/?p=1534470",
+          "source": "ktbb.com",
+          "pubDate": "2026-08-21T11:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Iran dismisses US economic threats , and other developments in the Middle East – KTBB News , Weather , Talk"
+        },
+        {
+          "title": "Contracts for Aug . 20 , 2026",
+          "link": "https://www.globalsecurity.org/military/library/news/2026/08/dod-contracts_4578834.htm",
+          "source": "globalsecurity.org",
+          "pubDate": "2026-08-21T11:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Contracts for Aug . 20 , 2026"
+        },
+        {
+          "title": "Live Updates : Iran looks to boost regional trade ties as U . S . turns from bombs to economic warfare",
+          "link": "https://www.cbsnews.com/live-updates/iran-war-trump-economic-crackdown/",
+          "source": "cbsnews.com",
+          "pubDate": "2026-08-21T11:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Live Updates : Iran looks to boost regional trade ties as U . S . turns from bombs to economic warfare"
+        },
+        {
+          "title": "Scorchers players get K5m each from APM",
+          "link": "https://mwnation.com/scorchers-players-get-k5m-each-from-apm/",
+          "source": "mwnation.com",
+          "pubDate": "2026-08-21T10:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Scorchers players get K5m each from APM"
+        },
+        {
+          "title": "US threatens to collapse Iran with  toughest sanctions in history",
+          "link": "https://www.azernews.az/region/262660.html",
+          "source": "azernews.az",
+          "pubDate": "2026-08-21T10:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "US threatens to collapse Iran with  toughest sanctions in history"
+        },
+        {
+          "title": "Scatec second quarter 2026 : Growth journey and solid project execution continues",
+          "link": "https://www.energy-pedia.com/news/general/growth-journey-and-solid-project-execution-continues-205034",
+          "source": "energy-pedia.com",
+          "pubDate": "2026-08-21T10:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Scatec second quarter 2026 : Growth journey and solid project execution continues"
+        },
+        {
+          "title": "Denali Advisors LLC Has $655 , 000 Stock Holdings in APA Corporation $APA",
+          "link": "https://www.tickerreport.com/banking-finance/13552296/denali-advisors-llc-has-655000-stock-holdings-in-apa-corporation-apa.html",
+          "source": "tickerreport.com",
+          "pubDate": "2026-08-21T09:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Denali Advisors LLC Has $655 , 000 Stock Holdings in APA Corporation $APA"
+        },
+        {
+          "title": "Cape - to - Cairo trade corridor begins in Eastern Cape",
+          "link": "https://www.dailydispatch.co.za/news/2026-08-21-cape-to-cairo-trade-corridor-begins-in-eastern-cape/",
+          "source": "dailydispatch.co.za",
+          "pubDate": "2026-08-21T08:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Cape - to - Cairo trade corridor begins in Eastern Cape"
+        },
+        {
+          "title": "Retired IDF paratrooper who worked for Israel - Kurd ties , Tzuri Sagi , dies at 92",
+          "link": "http://www.jpost.com/history/article-906184",
+          "source": "jpost.com",
+          "pubDate": "2026-08-21T07:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Retired IDF paratrooper who worked for Israel - Kurd ties , Tzuri Sagi , dies at 92"
+        },
+        {
+          "title": "Retired IDF paratrooper who worked for Israel - Kurd ties , Tzuri Sagi , dies at 92",
+          "link": "https://www.jpost.com/history/article-906184",
+          "source": "jpost.com",
+          "pubDate": "2026-08-21T06:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Retired IDF paratrooper who worked for Israel - Kurd ties , Tzuri Sagi , dies at 92"
+        }
+      ]
     },
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
       "items": [
-        {
-          "title": "Speciale porti: Egitto, ministro Esteri, in contatto con Iran e Oman per allentare tensioni e riaprire Hormuz",
-          "link": "https://www.agenzianova.com/a/6a884e83cadea5.82624369/7712032/2026-08-21/speciale-porti-egitto-ministro-esteri-in-contatto-con-iran-e-oman-per-allentare-tensioni-e-riaprire-hormuz",
-          "description": "21 ago 15:00 - (Agenzia Nova) - L'Egitto e' in contatto con l'Iran, l'Oman e altre parti regionali e internazionali nell'ambito degli sforzi... (Cae)",
-          "pubDate": "2026-08-21T15:00:00+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Speciale porti: Egitto, ministro Esteri, in contatto con Iran e Oman per allentare tensioni e riaprire Hormuz"
-        },
         {
           "title": "Sudan: Sudan's Aid Workers Under Fire As Volunteers Keep Humanitarian Lifeline Alive",
           "link": "https://allafrica.com/stories/202608210429.html",
