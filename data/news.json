@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T22:42:38.215Z",
+  "generatedAt": "2026-08-22T01:51:30.496Z",
   "feedsChecked": 10,
   "feedsAttempted": 10,
   "topics": {
@@ -341,6 +341,15 @@
       "title": "Accesso etiope al mare",
       "items": [
         {
+          "title": "It  s Fire Away Friday on Exploring the Word !",
+          "link": "https://afr.net:443/podcasts/exploring-the-word-with-bert-harper-and-alex-mcfarland/2026/august/its-fire-away-friday-on-exploring-the-word/",
+          "source": "afr.net",
+          "pubDate": "2026-08-21T23:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "It  s Fire Away Friday on Exploring the Word !"
+        },
+        {
           "title": "Traveller Letters : Is Singapore Airline premium economy worth the price ?",
           "link": "https://www.brisbanetimes.com.au/traveller/travel-news/premium-economy-was-a-colossal-waste-of-money-20260820-p60q5n.html",
           "source": "brisbanetimes.com.au",
@@ -510,15 +519,6 @@
           "source": "ANSA English",
           "lang": "en",
           "titleIt": "Pope meets with Aoun, Holy See supports peace deal"
-        },
-        {
-          "title": "Sudanese professor flees war - torn country , finds new life in Ottawa in AI research role",
-          "link": "https://www.theglobeandmail.com/politics/article-sudanese-professor-new-life-ottawa-ai-research-role/",
-          "source": "theglobeandmail.com",
-          "pubDate": "2026-08-20T11:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Sudanese professor flees war - torn country , finds new life in Ottawa in AI research role"
         }
       ]
     },
@@ -539,15 +539,6 @@
           "titleIt": "Sudan: Sudan's Aid Workers Under Fire As Volunteers Keep Humanitarian Lifeline Alive"
         },
         {
-          "title": "The Ethiopian dam dispute and Egypt  right to self - defense",
-          "link": "https://www.arabnews.com/node/2655409/middle-east",
-          "source": "arabnews.com",
-          "pubDate": "2026-08-21T11:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The Ethiopian dam dispute and Egypt  right to self - defense"
-        },
-        {
           "title": "Drone strike wounds 13 in Tigray capital as fears of renewed war grow",
           "link": "http://www.africanews.com/2026/08/21/drone-strike-wounds-13-in-tigray-capital-as-fears-of-renewed-war-grow/",
           "description": "A drone strike on Mekelle, the capital of Ethiopia’s Tigray region, injured at least 13 people, including five children, a hospital official said Thursday. The attack comes amid growing tensions between federal and Tigrayan forces and fears the region could slide back into war.",
@@ -555,123 +546,6 @@
           "source": "Africanews",
           "lang": "en",
           "titleIt": "Drone strike wounds 13 in Tigray capital as fears of renewed war grow"
-        },
-        {
-          "title": "The Ethiopian Dam Dispute and Egypt  Right to Self - Defense",
-          "link": "https://english.aawsat.com/features/5309417-ethiopian-dam-dispute-and-egypt%E2%80%99s-%E2%80%98right-self-defense%E2%80%99",
-          "source": "english.aawsat.com",
-          "pubDate": "2026-08-21T07:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The Ethiopian Dam Dispute and Egypt  Right to Self - Defense"
-        },
-        {
-          "title": "After GERD , can Egypt shape Ethiopia next Nile dams ? | News",
-          "link": "https://www.aljazeera.com/news/2026/8/21/after-gerd-can-egypt-shape-ethiopias-next-nile-dams",
-          "source": "aljazeera.com",
-          "pubDate": "2026-08-21T03:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "After GERD , can Egypt shape Ethiopia next Nile dams ? | News"
-        },
-        {
-          "title": "Egypt says it has right to defend water security over new Ethiopian dams on Nile River",
-          "link": "https://aa.com.tr/en/middle-east/egypt-says-it-has-right-to-defend-water-security-over-new-ethiopian-dams-on-nile-river/4032262",
-          "source": "aa.com.tr",
-          "pubDate": "2026-08-20T02:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egypt says it has right to defend water security over new Ethiopian dams on Nile River"
-        },
-        {
-          "title": "Egypt - Ethiopia Nile Dispute Expands Into a Contest for the Horn",
-          "link": "https://themedialine.org/top-stories/egypt-ethiopia-nile-dispute-expands-into-a-contest-for-the-horn/",
-          "source": "themedialine.org",
-          "pubDate": "2026-08-20T01:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egypt - Ethiopia Nile Dispute Expands Into a Contest for the Horn"
-        },
-        {
-          "title": "Ethiopia : Egypt Aggressive Nile Policy No Longer Serves the Region",
-          "link": "https://allafrica.com/stories/202608190464.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-08-19T14:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia : Egypt Aggressive Nile Policy No Longer Serves the Region"
-        },
-        {
-          "title": "Ethiopia : New Ethiopian Dams Pose No Threat - Sudanese Former Water Resources Minister",
-          "link": "https://allafrica.com/stories/202608190434.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-08-19T14:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia : New Ethiopian Dams Pose No Threat - Sudanese Former Water Resources Minister"
-        },
-        {
-          "title": "Today in Africa : DR Congo Ebola outbreak becomes deadliest , Cameroon wins first WAFCON title",
-          "link": "https://www.okayafrica.com/today-in-africa-august-17-2026-dr-congos-ebola-outbreak-now-the-countrys-deadliest-cameroon-wins-first-ever-wafcon-title/1437871",
-          "source": "okayafrica.com",
-          "pubDate": "2026-08-17T19:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Today in Africa : DR Congo Ebola outbreak becomes deadliest , Cameroon wins first WAFCON title"
-        },
-        {
-          "title": "Egypt Warns Ethiopia Over Plans for More Nile Dams",
-          "link": "https://themedialine.org/headlines/egypt-warns-ethiopia-over-plans-for-more-nile-dams/",
-          "source": "themedialine.org",
-          "pubDate": "2026-08-17T17:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egypt Warns Ethiopia Over Plans for More Nile Dams"
-        },
-        {
-          "title": "Egypt Warns Ethiopia against Plans to Control Nile River Flows",
-          "link": "https://english.aawsat.com/arab-world/5307849-egypt-warns-ethiopia-against-plans-control-nile-river-flows",
-          "source": "english.aawsat.com",
-          "pubDate": "2026-08-17T06:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egypt Warns Ethiopia against Plans to Control Nile River Flows"
-        },
-        {
-          "title": "Egypt supports development in Ethiopia , but not if it harms downstream nations : Abbas Sharaki",
-          "link": "https://www.egyptindependent.com/egypt-supports-development-in-ethiopia-but-not-if-it-harms-downstream-nations-abbas-sharaki/",
-          "source": "egyptindependent.com",
-          "pubDate": "2026-08-16T11:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egypt supports development in Ethiopia , but not if it harms downstream nations : Abbas Sharaki"
-        },
-        {
-          "title": "Former UAE presidential aide post mocking Pakistan exposes unease over Mecca pact",
-          "link": "https://www.middleeasteye.net/news/emirati-academics-barbed-tweet-pakistan-exposes-uae-unease-over-mecca-pact",
-          "source": "middleeasteye.net",
-          "pubDate": "2026-08-16T11:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Former UAE presidential aide post mocking Pakistan exposes unease over Mecca pact"
-        },
-        {
-          "title": "Governing The Invisible Grid : Ethiopia Missing Biomass Account",
-          "link": "https://www.thereporterethiopia.com/52279/",
-          "source": "thereporterethiopia.com",
-          "pubDate": "2026-08-15T09:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Governing The Invisible Grid : Ethiopia Missing Biomass Account"
-        },
-        {
-          "title": "Egypt Aggressive Nile Policy No Longer Serves The Region",
-          "link": "https://www.thereporterethiopia.com/52282/",
-          "source": "thereporterethiopia.com",
-          "pubDate": "2026-08-15T09:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egypt Aggressive Nile Policy No Longer Serves The Region"
         },
         {
           "title": "RSF drone attacks in Sudan, Somalia’s drought emergency, and WFP sticks with Palantir: The Cheat Sheet",
@@ -683,31 +557,13 @@
           "titleIt": "RSF drone attacks in Sudan, Somalia’s drought emergency, and WFP sticks with Palantir: The Cheat Sheet"
         },
         {
-          "title": "Saudi Arabia opposed Egypt inclusion in Mecca agreement , sources say",
-          "link": "https://www.middleeasteye.net/news/saudi-arabia-opposed-egypts-inclusion-mecca-agreement-sources-say",
-          "source": "middleeasteye.net",
-          "pubDate": "2026-08-11T18:30:00Z",
+          "title": "Ethiopia: Somali, Oromo Officials Discuss Cross-Border Challenges",
+          "link": "https://hornobserver.com/articles/3699/Ethiopia-Somali-Oromo-Officials-Discuss-Cross-Border-Challenges",
+          "description": "The dialogue brought together officials from six districts in the Fafan and Sitti zones of the Somali Regional State and five districts from the East and West Hararghe zones of the Oromia National Regional State. The meeting focused on improving collaboration between neighboring communities through locally led initiatives aimed at reinforcing social cohesion, conflict prevention, and cross-border cooperation. According to information released by the organizers, the discussions were held under the Strengthening the Resilience of Disaster-Affected Communities project, which promotes community re",
+          "pubDate": "Thu, 16 Jul 2026 23:48:28 +0300",
+          "source": "Horn Observer",
           "lang": "en",
-          "description": "",
-          "titleIt": "Saudi Arabia opposed Egypt inclusion in Mecca agreement , sources say"
-        },
-        {
-          "title": "Liberia : Burrowes Calls for Historical Reckoning",
-          "link": "https://allafrica.com/stories/202608110475.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-08-11T16:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Liberia : Burrowes Calls for Historical Reckoning"
-        },
-        {
-          "title": "East Africa : Eritrea Regime Military Adventurism Risks Dragging Horn of Africa Back Into Conflict",
-          "link": "https://allafrica.com/stories/202608100033.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-08-10T06:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "East Africa : Eritrea Regime Military Adventurism Risks Dragging Horn of Africa Back Into Conflict"
+          "titleIt": "Ethiopia: Somali, Oromo Officials Discuss Cross-Border Challenges"
         }
       ]
     }
