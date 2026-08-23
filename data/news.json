@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T08:48:55.735Z",
+  "generatedAt": "2026-08-23T10:39:56.716Z",
   "feedsChecked": 10,
   "feedsAttempted": 10,
   "topics": {
@@ -219,6 +219,15 @@
           "titleIt": "Somaliland Offers Berbera for U . S . and Israeli Bases as Red Sea Rivalry Intensifies"
         },
         {
+          "title": "Kenya: Sifuna Reveals How Wetang'ula 'Opened His File' and Recalled Every Insult",
+          "link": "https://allafrica.com/stories/202608210575.html",
+          "description": "[Capital FM] Nairobi -- Nairobi Senator Edwin Sifuna left mourners laughing after revealing how National Assembly Speaker Moses Wetang'ula allegedly confronted him with a detailed list of every insult he had ever directed at him.",
+          "pubDate": "Fri, 21 Aug 2026 14:47:24 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Kenya: Sifuna Reveals How Wetang'ula 'Opened His File' and Recalled Every Insult"
+        },
+        {
           "title": "Kenya: Beyond the Cotton Field - The Race to Build Kenya's Cotton-to-Textile Industry",
           "link": "https://allafrica.com/stories/202608210477.html",
           "description": "[allAfrica] Kenya is growing more cotton again, but the bigger opportunity lies in what happens after the harvest -- from ginning and spinning to fabric, garments, jobs and industrial investment. For decades, Kenya's cotton story has largely been told from the farm.",
@@ -352,21 +361,21 @@
           "lang": "en",
           "description": "",
           "titleIt": "Regional repercussions , escalation dynamics , and future scenarios in Sudan"
-        },
-        {
-          "title": "Who owns East Africa Corridors ?",
-          "link": "https://www.independent.co.ug/who-owns-east-africas-trade-corridors/",
-          "source": "independent.co.ug",
-          "pubDate": "2026-08-18T15:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Who owns East Africa Corridors ?"
         }
       ]
     },
     "ethiopia-sea-access": {
       "title": "Accesso etiope al mare",
       "items": [
+        {
+          "title": "Ethiopia: Tigrayan women celebrate Ashenda amid fears of new war",
+          "link": "http://www.africanews.com/2026/08/23/ethiopia-tigrayan-women-celebrate-ashenda-amid-fears-of-new-war/",
+          "description": "In Addis Ababa, Tigrayan women gather to celebrate Ashenda, while expressing hopes for lasting peace in Ethiopia's Tigray region, where recent drone strikes on the regional capital Mekella have renewed fears of conflict after the devastating 2020-2022 war",
+          "pubDate": "Sun, 23 Aug 2026 08:25:06 +0000",
+          "source": "Africanews",
+          "lang": "en",
+          "titleIt": "Ethiopia: Tigrayan women celebrate Ashenda amid fears of new war"
+        },
         {
           "title": "Tanzania inaugurates $2 . 9B hydropower project built by Egyptian consortium",
           "link": "https://www.middleeastmonitor.com/20260822-tanzania-inaugurates-2-9b-hydropower-project-built-by-egyptian-consortium/",
@@ -503,6 +512,15 @@
           "titleIt": "Ethiopia: Ethiopia, U.S. Agree to Establish Comprehensive Strategic Cooperation in Defense, Security"
         },
         {
+          "title": "Rwanda: Rubavu - Eritrean Investor Caught in Land Lease Dispute Considers Lawsuit",
+          "link": "https://allafrica.com/stories/202608210574.html",
+          "description": "[New Times] An Eritrean investor whose business has been caught up in a commercial land lease dispute with the new owner of a plot located on the shores of Lake Kivu is considering taking the matter to the court of law after the two parties have failed to reach an agreement.",
+          "pubDate": "Fri, 21 Aug 2026 14:46:56 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Rwanda: Rubavu - Eritrean Investor Caught in Land Lease Dispute Considers Lawsuit"
+        },
+        {
           "title": "East Africa : Dangote Offers East Africa 30 Percent Stake in Kenya Refinery",
           "link": "https://allafrica.com/stories/202608210512.html",
           "source": "allafrica.com",
@@ -528,30 +546,111 @@
           "lang": "en",
           "description": "",
           "titleIt": "Bishoftu Airport Shortlist Leans Heavily on China"
-        },
-        {
-          "title": "Drone strike wounds 13 in Tigray capital as fears of renewed war grow",
-          "link": "http://www.africanews.com/2026/08/21/drone-strike-wounds-13-in-tigray-capital-as-fears-of-renewed-war-grow/",
-          "description": "A drone strike on Mekelle, the capital of Ethiopia’s Tigray region, injured at least 13 people, including five children, a hospital official said Thursday. The attack comes amid growing tensions between federal and Tigrayan forces and fears the region could slide back into war.",
-          "pubDate": "Fri, 21 Aug 2026 10:41:33 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "Drone strike wounds 13 in Tigray capital as fears of renewed war grow"
-        },
-        {
-          "title": "First US deportees arrive in Liberia under controversial third-country deal",
-          "link": "http://www.africanews.com/2026/08/21/first-us-deportees-arrive-in-liberia-under-controversial-third-country-deal/",
-          "description": "Twenty migrants deported from the United States have arrived in Liberia, the first group of up to 1,200 people the West African country says it will receive under a new agreement.",
-          "pubDate": "Fri, 21 Aug 2026 05:07:21 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "First US deportees arrive in Liberia under controversial third-country deal"
         }
       ]
     },
     "egypt-economy": {
       "title": "Fragilità economica egiziana",
       "items": [
+        {
+          "title": "CDF Munir to visit Tehran on Monday : Iranian foreign ministry",
+          "link": "https://tribune.com.pk/story/2625381/iran-threatens-neighboring-countries-against-joining-us-economic-war",
+          "source": "tribune.com.pk",
+          "pubDate": "2026-08-23T10:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "CDF Munir to visit Tehran on Monday : Iranian foreign ministry"
+        },
+        {
+          "title": "India could gain greater strategic leverage through SCO : Report",
+          "link": "https://www.prokerala.com/news/articles/a1803706.html",
+          "source": "prokerala.com",
+          "pubDate": "2026-08-23T09:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "India could gain greater strategic leverage through SCO : Report"
+        },
+        {
+          "title": "Iran Hangs Another January Protester As Surge In Executions Continue",
+          "link": "http://www.malaysiasun.com/news/279259505/iran-hangs-another-january-protester-as-surge-in-executions-continue",
+          "source": "malaysiasun.com",
+          "pubDate": "2026-08-23T09:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Iran Hangs Another January Protester As Surge In Executions Continue"
+        },
+        {
+          "title": "AP News Summary at 1 : 00 a . m . EDT",
+          "link": "http://www.wdtimes.com/news/national/ap-news-summary-at-1-00-a-m-edt/article_f3ee2818-3660-51b0-a0dc-f96004138853.html",
+          "source": "wdtimes.com",
+          "pubDate": "2026-08-23T09:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "AP News Summary at 1 : 00 a . m . EDT"
+        },
+        {
+          "title": "Iran Hangs Another January Protester As Surge In Executions Continue",
+          "link": "http://www.bignewsnetwork.com/news/279259505/iran-hangs-another-january-protester-as-surge-in-executions-continue",
+          "source": "bignewsnetwork.com",
+          "pubDate": "2026-08-23T09:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Iran Hangs Another January Protester As Surge In Executions Continue"
+        },
+        {
+          "title": "India could gain greater strategic leverage through SCO : Report",
+          "link": "https://ianslive.in/india-could-gain-greater-strategic-leverage-through-sco-report--20260823141911",
+          "source": "ianslive.in",
+          "pubDate": "2026-08-23T09:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "India could gain greater strategic leverage through SCO : Report"
+        },
+        {
+          "title": "AP News Summary at 1 : 00 a . m . EDT",
+          "link": "http://www.gazettextra.com/news/nation_world/ap-news-summary-at-1-00-a-m-edt/article_a73f7f30-663a-5a24-abd9-196c8a00b082.html",
+          "source": "gazettextra.com",
+          "pubDate": "2026-08-23T09:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "AP News Summary at 1 : 00 a . m . EDT"
+        },
+        {
+          "title": "Iran security chief threatens neighbors against economic measures , and other Mideast developments",
+          "link": "https://www.theintelligencer.net/news/top-headlines/2026/08/iran-security-chief-threatens-neighbors-against-economic-measures-and-other-mideast-developments/",
+          "source": "theintelligencer.net",
+          "pubDate": "2026-08-23T09:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Iran security chief threatens neighbors against economic measures , and other Mideast developments"
+        },
+        {
+          "title": "The future of Islamic NATO",
+          "link": "https://dailypioneer.com/news/the-future-of-islamic-nato",
+          "source": "dailypioneer.com",
+          "pubDate": "2026-08-23T08:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The future of Islamic NATO"
+        },
+        {
+          "title": "AP News in Brief at 12 : 04 a . m . EDT",
+          "link": "http://www.thegazette.com/news/national/ap-news-in-brief-at-12-04-a-m-edt/article_59681b03-6d16-51a0-a6bd-11d70fdba522.html",
+          "source": "thegazette.com",
+          "pubDate": "2026-08-23T08:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "AP News in Brief at 12 : 04 a . m . EDT"
+        },
+        {
+          "title": "AP News Summary at 1 : 00 a . m . EDT",
+          "link": "https://www.khqa.com/news/nation-world/ap-news-summary-at-1-00-a-m-edt/article_12f3bca7-348a-5454-b78b-a0123ba74116.html",
+          "source": "khqa.com",
+          "pubDate": "2026-08-23T08:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "AP News Summary at 1 : 00 a . m . EDT"
+        },
         {
           "title": "Egypt , Iran discuss efforts to resume diplomatic track for regional de - escalation",
           "link": "https://www.prokerala.com/news/articles/a1803653.html",
@@ -632,111 +731,66 @@
           "lang": "en",
           "description": "",
           "titleIt": "AP News in Brief at 12 : 04 a . m . EDT"
-        },
-        {
-          "title": "AP News in Brief at 12 : 04 a . m . EDT",
-          "link": "http://www.wdtimes.com/news/national/ap-news-in-brief-at-12-04-a-m-edt/article_292aa11a-3ef0-58dc-968a-2f31907a874c.html",
-          "source": "wdtimes.com",
-          "pubDate": "2026-08-23T04:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "AP News in Brief at 12 : 04 a . m . EDT"
-        },
-        {
-          "title": "Iran Allows Iraqi Oil Tankers Through Strait of Hormuz",
-          "link": "http://www.econotimes.com/Iran-Allows-Iraqi-Oil-Tankers-Through-Strait-of-Hormuz-1750169",
-          "source": "econotimes.com",
-          "pubDate": "2026-08-23T04:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Iran Allows Iraqi Oil Tankers Through Strait of Hormuz"
-        },
-        {
-          "title": "Cairo According to : Alaa El Sheikh",
-          "link": "https://cairoscene.com/Society/Cairo-According-to-Alaa-El-Sheikh",
-          "source": "cairoscene.com",
-          "pubDate": "2026-08-23T04:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Cairo According to : Alaa El Sheikh"
-        },
-        {
-          "title": "AP News in Brief at 11 : 04 p . m . EDT",
-          "link": "http://www.thegazette.com/news/national/ap-news-in-brief-at-11-04-p-m-edt/article_6f302846-f41f-51c0-b5ee-041016247044.html",
-          "source": "thegazette.com",
-          "pubDate": "2026-08-23T03:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "AP News in Brief at 11 : 04 p . m . EDT"
-        },
-        {
-          "title": "Iran security chief threatens neighbors against economic measures , and other Mideast developments",
-          "link": "https://www.newsminer.com/iran-security-chief-threatens-neighbors-against-economic-measures-and-other-mideast-developments/article_467c3346-67e9-45f9-9def-bc0564e6889e.html",
-          "source": "newsminer.com",
-          "pubDate": "2026-08-23T03:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Iran security chief threatens neighbors against economic measures , and other Mideast developments"
-        },
-        {
-          "title": "Investigation : Europe pays Libya Haftar to curb migrant flows despite rights abuses",
-          "link": "https://www.ynetnews.com/article/b1rjjnwwmx",
-          "source": "ynetnews.com",
-          "pubDate": "2026-08-23T02:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Investigation : Europe pays Libya Haftar to curb migrant flows despite rights abuses"
-        },
-        {
-          "title": "Iran security chief threatens neighbors against economic measures , and other Mideast developments",
-          "link": "https://www.wandtv.com/news/national/iran-security-chief-threatens-neighbors-against-economic-measures-and-other-mideast-developments/article_ce0b5bcd-4cc8-50e1-b64c-8e1b536a59fe.html",
-          "source": "wandtv.com",
-          "pubDate": "2026-08-23T01:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Iran security chief threatens neighbors against economic measures , and other Mideast developments"
-        },
-        {
-          "title": "A revolution betrayed ? Two years after Mubarak , Tahrir Square rises again",
-          "link": "https://engineeringevil.com/2013/01/25/a-revolution-betrayed-two-years-after-mubarak-tahrir-square-rises-again/",
-          "source": "engineeringevil.com",
-          "pubDate": "2026-08-23T01:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "A revolution betrayed ? Two years after Mubarak , Tahrir Square rises again"
-        },
-        {
-          "title": "Today Happenings ; August 23 , 2026 | South Peace News",
-          "link": "https://www.southpeacenews.com/todays-happenings-august-23-2026/",
-          "source": "southpeacenews.com",
-          "pubDate": "2026-08-23T01:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Today Happenings ; August 23 , 2026 | South Peace News"
-        },
-        {
-          "title": "Iran security chief threatens neighbors against economic measures , and other Mideast developments",
-          "link": "http://www.idahostatejournal.com/news/national/iran-security-chief-threatens-neighbors-against-economic-measures-and-other-mideast-developments/article_43d687c1-00f1-5388-92e6-d4d472d55021.html",
-          "source": "idahostatejournal.com",
-          "pubDate": "2026-08-23T00:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Iran security chief threatens neighbors against economic measures , and other Mideast developments"
-        },
-        {
-          "title": "AP News in Brief at 6 : 04 p . m . EDT",
-          "link": "http://www.idahostatejournal.com/news/national/ap-news-in-brief-at-6-04-p-m-edt/article_03ef3f1c-9b14-5d43-9bc6-6cfd9911b785.html",
-          "source": "idahostatejournal.com",
-          "pubDate": "2026-08-23T00:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "AP News in Brief at 6 : 04 p . m . EDT"
         }
       ]
     },
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
       "items": [
+        {
+          "title": "Tanzania inaugurates $2 . 9B hydropower project built by Egyptian consortium",
+          "link": "https://www.middleeastmonitor.com/20260822-tanzania-inaugurates-2-9b-hydropower-project-built-by-egyptian-consortium/",
+          "source": "middleeastmonitor.com",
+          "pubDate": "2026-08-22T18:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Tanzania inaugurates $2 . 9B hydropower project built by Egyptian consortium"
+        },
+        {
+          "title": "Sudan farms lie barren as El Nino leaves Nile banks dry",
+          "link": "https://www.africanews.com/2026/08/22/sudan-farms-lie-barren-as-el-nino-leaves-nile-banks-dry/",
+          "source": "africanews.com",
+          "pubDate": "2026-08-22T17:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Sudan farms lie barren as El Nino leaves Nile banks dry"
+        },
+        {
+          "title": "Sudan farms lie barren as El Nino dries up Nile banks",
+          "link": "https://www.freemalaysiatoday.com/category/world/2026/08/22/sudan-farms-lie-barren-as-el-nino-leaves-nile-banks-dry",
+          "source": "freemalaysiatoday.com",
+          "pubDate": "2026-08-22T10:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Sudan farms lie barren as El Nino dries up Nile banks"
+        },
+        {
+          "title": "Sudan Farms Lie Barren as El Nino Leaves Nile Banks Dry",
+          "link": "https://english.aawsat.com/arab-world/5309769-sudan-farms-lie-barren-el-nino-leaves-nile-banks-dry",
+          "source": "english.aawsat.com",
+          "pubDate": "2026-08-22T06:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Sudan Farms Lie Barren as El Nino Leaves Nile Banks Dry"
+        },
+        {
+          "title": "Overnight News Digest : Friday night elsewhere",
+          "link": "https://www.dailykos.com/stories/2026/8/21/800087838/community/overnight-news-digest-friday-night-elsewhere-9/",
+          "source": "dailykos.com",
+          "pubDate": "2026-08-22T05:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Overnight News Digest : Friday night elsewhere"
+        },
+        {
+          "title": "Sudan farms lie barren as El Nino leaves Nile banks dry",
+          "link": "https://www.yahoo.com/news/science/articles/sudan-farms-lie-barren-el-032502020.html",
+          "source": "yahoo.com",
+          "pubDate": "2026-08-22T04:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Sudan farms lie barren as El Nino leaves Nile banks dry"
+        },
         {
           "title": "Sudan: Sudan's Aid Workers Under Fire As Volunteers Keep Humanitarian Lifeline Alive",
           "link": "https://allafrica.com/stories/202608210429.html",
@@ -745,6 +799,15 @@
           "source": "AllAfrica",
           "lang": "en",
           "titleIt": "Sudan: Sudan's Aid Workers Under Fire As Volunteers Keep Humanitarian Lifeline Alive"
+        },
+        {
+          "title": "The Ethiopian dam dispute and Egypt  right to self - defense",
+          "link": "https://www.arabnews.com/node/2655409/middle-east",
+          "source": "arabnews.com",
+          "pubDate": "2026-08-21T11:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The Ethiopian dam dispute and Egypt  right to self - defense"
         },
         {
           "title": "Drone strike wounds 13 in Tigray capital as fears of renewed war grow",
@@ -756,22 +819,103 @@
           "titleIt": "Drone strike wounds 13 in Tigray capital as fears of renewed war grow"
         },
         {
-          "title": "RSF drone attacks in Sudan, Somalia’s drought emergency, and WFP sticks with Palantir: The Cheat Sheet",
-          "link": "https://www.thenewhumanitarian.org/cheat-sheet/2026/08/14/rsf-drone-attacks-somalias-drought-emergency-and-wfp-sticks-palantir-cheat",
-          "description": "A weekly read to keep you in the loop on humanitarian issues.",
-          "pubDate": "Fri, 14 Aug 26 14:56:43 +0000",
-          "source": "The New Humanitarian",
+          "title": "The Ethiopian Dam Dispute and Egypt  Right to Self - Defense",
+          "link": "https://english.aawsat.com/features/5309417-ethiopian-dam-dispute-and-egypt%E2%80%99s-%E2%80%98right-self-defense%E2%80%99",
+          "source": "english.aawsat.com",
+          "pubDate": "2026-08-21T07:30:00Z",
           "lang": "en",
-          "titleIt": "RSF drone attacks in Sudan, Somalia’s drought emergency, and WFP sticks with Palantir: The Cheat Sheet"
+          "description": "",
+          "titleIt": "The Ethiopian Dam Dispute and Egypt  Right to Self - Defense"
         },
         {
-          "title": "Ethiopia: Somali, Oromo Officials Discuss Cross-Border Challenges",
-          "link": "https://hornobserver.com/articles/3699/Ethiopia-Somali-Oromo-Officials-Discuss-Cross-Border-Challenges",
-          "description": "The dialogue brought together officials from six districts in the Fafan and Sitti zones of the Somali Regional State and five districts from the East and West Hararghe zones of the Oromia National Regional State. The meeting focused on improving collaboration between neighboring communities through locally led initiatives aimed at reinforcing social cohesion, conflict prevention, and cross-border cooperation. According to information released by the organizers, the discussions were held under the Strengthening the Resilience of Disaster-Affected Communities project, which promotes community re",
-          "pubDate": "Thu, 16 Jul 2026 23:48:28 +0300",
-          "source": "Horn Observer",
+          "title": "After GERD , can Egypt shape Ethiopia next Nile dams ? | News",
+          "link": "https://www.aljazeera.com/news/2026/8/21/after-gerd-can-egypt-shape-ethiopias-next-nile-dams",
+          "source": "aljazeera.com",
+          "pubDate": "2026-08-21T03:00:00Z",
           "lang": "en",
-          "titleIt": "Ethiopia: Somali, Oromo Officials Discuss Cross-Border Challenges"
+          "description": "",
+          "titleIt": "After GERD , can Egypt shape Ethiopia next Nile dams ? | News"
+        },
+        {
+          "title": "Egypt says it has right to defend water security over new Ethiopian dams on Nile River",
+          "link": "https://aa.com.tr/en/middle-east/egypt-says-it-has-right-to-defend-water-security-over-new-ethiopian-dams-on-nile-river/4032262",
+          "source": "aa.com.tr",
+          "pubDate": "2026-08-20T02:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt says it has right to defend water security over new Ethiopian dams on Nile River"
+        },
+        {
+          "title": "Egypt - Ethiopia Nile Dispute Expands Into a Contest for the Horn",
+          "link": "https://themedialine.org/top-stories/egypt-ethiopia-nile-dispute-expands-into-a-contest-for-the-horn/",
+          "source": "themedialine.org",
+          "pubDate": "2026-08-20T01:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt - Ethiopia Nile Dispute Expands Into a Contest for the Horn"
+        },
+        {
+          "title": "Ethiopia : Egypt Aggressive Nile Policy No Longer Serves the Region",
+          "link": "https://allafrica.com/stories/202608190464.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-08-19T14:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia : Egypt Aggressive Nile Policy No Longer Serves the Region"
+        },
+        {
+          "title": "Ethiopia : New Ethiopian Dams Pose No Threat - Sudanese Former Water Resources Minister",
+          "link": "https://allafrica.com/stories/202608190434.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-08-19T14:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia : New Ethiopian Dams Pose No Threat - Sudanese Former Water Resources Minister"
+        },
+        {
+          "title": "Today in Africa : DR Congo Ebola outbreak becomes deadliest , Cameroon wins first WAFCON title",
+          "link": "https://www.okayafrica.com/today-in-africa-august-17-2026-dr-congos-ebola-outbreak-now-the-countrys-deadliest-cameroon-wins-first-ever-wafcon-title/1437871",
+          "source": "okayafrica.com",
+          "pubDate": "2026-08-17T19:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Today in Africa : DR Congo Ebola outbreak becomes deadliest , Cameroon wins first WAFCON title"
+        },
+        {
+          "title": "Egypt Warns Ethiopia Over Plans for More Nile Dams",
+          "link": "https://themedialine.org/headlines/egypt-warns-ethiopia-over-plans-for-more-nile-dams/",
+          "source": "themedialine.org",
+          "pubDate": "2026-08-17T17:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt Warns Ethiopia Over Plans for More Nile Dams"
+        },
+        {
+          "title": "Egypt Warns Ethiopia against Plans to Control Nile River Flows",
+          "link": "https://english.aawsat.com/arab-world/5307849-egypt-warns-ethiopia-against-plans-control-nile-river-flows",
+          "source": "english.aawsat.com",
+          "pubDate": "2026-08-17T06:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt Warns Ethiopia against Plans to Control Nile River Flows"
+        },
+        {
+          "title": "Egypt supports development in Ethiopia , but not if it harms downstream nations : Abbas Sharaki",
+          "link": "https://www.egyptindependent.com/egypt-supports-development-in-ethiopia-but-not-if-it-harms-downstream-nations-abbas-sharaki/",
+          "source": "egyptindependent.com",
+          "pubDate": "2026-08-16T11:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt supports development in Ethiopia , but not if it harms downstream nations : Abbas Sharaki"
+        },
+        {
+          "title": "Former UAE presidential aide post mocking Pakistan exposes unease over Mecca pact",
+          "link": "https://www.middleeasteye.net/news/emirati-academics-barbed-tweet-pakistan-exposes-uae-unease-over-mecca-pact",
+          "source": "middleeasteye.net",
+          "pubDate": "2026-08-16T11:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Former UAE presidential aide post mocking Pakistan exposes unease over Mecca pact"
         }
       ]
     }
