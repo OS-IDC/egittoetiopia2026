@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T10:54:56.385Z",
+  "generatedAt": "2026-08-24T13:13:59.612Z",
   "feedsChecked": 10,
   "feedsAttempted": 10,
   "topics": {
@@ -14,15 +14,6 @@
           "source": "AllAfrica",
           "lang": "en",
           "titleIt": "Somalia: Six Million Somalis Face Acute Hunger As Drought and Conflict Worsen"
-        },
-        {
-          "title": "Somalia: Somalia President Meets Top 10 High School Graduates, Promises Free University Education",
-          "link": "https://allafrica.com/stories/202608240332.html",
-          "description": "[Shabelle] Mogadishu, August 24, 2026 -- Somali President Hassan Sheikh Mohamud on Monday met the 10 students who achieved the highest scores in the country's national Grade 12 secondary school examinations, praising their performance and promising educational opportunities for those wishing to continue their studies in Somalia.",
-          "pubDate": "Mon, 24 Aug 2026 10:35:07 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Somalia: Somalia President Meets Top 10 High School Graduates, Promises Free University Education"
         },
         {
           "title": "Somalia: Mogadishu's 'Forced' Eviction Turns Into War",
@@ -185,6 +176,15 @@
           "source": "Crisis Group",
           "lang": "en",
           "titleIt": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab"
+        },
+        {
+          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
+          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
+          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
+          "pubDate": "Saturday, May 16, 2026 - 00:08",
+          "source": "Crisis Group",
+          "lang": "en",
+          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
@@ -192,13 +192,22 @@
       "title": "Dossier Somaliland",
       "items": [
         {
-          "title": "Somalia: Somalia President Meets Top 10 High School Graduates, Promises Free University Education",
-          "link": "https://allafrica.com/stories/202608240332.html",
-          "description": "[Shabelle] Mogadishu, August 24, 2026 -- Somali President Hassan Sheikh Mohamud on Monday met the 10 students who achieved the highest scores in the country's national Grade 12 secondary school examinations, praising their performance and promising educational opportunities for those wishing to continue their studies in Somalia.",
-          "pubDate": "Mon, 24 Aug 2026 10:35:07 GMT",
+          "title": "Speciale porti: Etiopia-Usa, accordo per un partenariato strategico globale in difesa e sicurezza",
+          "link": "https://www.agenzianova.com/a/6a8c439403dec8.21530012/7716700/2026-08-24/speciale-porti-etiopia-usa-accordo-per-un-partenariato-strategico-globale-in-difesa-e-sicurezza",
+          "description": "24 ago 15:00 - (Agenzia Nova) - L'Etiopia e gli Stati Uniti hanno concordato di elevare la cooperazione bilaterale nei settori della difesa... (Suk)",
+          "pubDate": "2026-08-24T15:00:49+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Speciale porti: Etiopia-Usa, accordo per un partenariato strategico globale in difesa e sicurezza"
+        },
+        {
+          "title": "Kenya: Gachagua Rules Out Ruto Alliance Deal, Says 'I Cannot Be Bought'",
+          "link": "https://allafrica.com/stories/202608240458.html",
+          "description": "[Capital FM] Nairobi -- DCP leader Rigathi Gachagua says he was ready to carry the opposition ticket if fellow leaders chose him, insisting that he would remain firm despite political pressure.",
+          "pubDate": "Mon, 24 Aug 2026 12:05:31 GMT",
           "source": "AllAfrica",
           "lang": "en",
-          "titleIt": "Somalia: Somalia President Meets Top 10 High School Graduates, Promises Free University Education"
+          "titleIt": "Kenya: Gachagua Rules Out Ruto Alliance Deal, Says 'I Cannot Be Bought'"
         },
         {
           "title": "Somalia: Mogadishu's 'Forced' Eviction Turns Into War",
@@ -332,13 +341,31 @@
       "title": "Accesso etiope al mare",
       "items": [
         {
-          "title": "Somalia: Somalia President Meets Top 10 High School Graduates, Promises Free University Education",
-          "link": "https://allafrica.com/stories/202608240332.html",
-          "description": "[Shabelle] Mogadishu, August 24, 2026 -- Somali President Hassan Sheikh Mohamud on Monday met the 10 students who achieved the highest scores in the country's national Grade 12 secondary school examinations, praising their performance and promising educational opportunities for those wishing to continue their studies in Somalia.",
-          "pubDate": "Mon, 24 Aug 2026 10:35:07 GMT",
-          "source": "AllAfrica",
+          "title": "Speciale porti: Etiopia-Usa, accordo per un partenariato strategico globale in difesa e sicurezza",
+          "link": "https://www.agenzianova.com/a/6a8c439403dec8.21530012/7716700/2026-08-24/speciale-porti-etiopia-usa-accordo-per-un-partenariato-strategico-globale-in-difesa-e-sicurezza",
+          "description": "24 ago 15:00 - (Agenzia Nova) - L'Etiopia e gli Stati Uniti hanno concordato di elevare la cooperazione bilaterale nei settori della difesa... (Suk)",
+          "pubDate": "2026-08-24T15:00:49+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Speciale porti: Etiopia-Usa, accordo per un partenariato strategico globale in difesa e sicurezza"
+        },
+        {
+          "title": "Merz spokesman says sees no conflict between Berlin and Rome on migrants",
+          "link": "https://www.ansa.it/english/news/2026/08/24/merz-spokesman-says-sees-no-conflict-between-berlin-and-rome-on-migrants_d8cad91b-d1a3-430e-bd0f-c264e9829fda.html",
+          "description": "(ANSA) - ROME, AUG 24 - German Chancellor Friedrich Merz's spokesman said Monday he saw no conflict between Berlin and Rome on migrants after Germany became the first of six EU members to start sending migrants back to Italy under the bloc's new Migration and Asylum Pact. \"I see no conflict between Germany and Italy,\" said Stefan Kornelius, spokesman, in response to a question during a government press conference regarding the ongoing exchange between the two countries on the case of the deportations of the so-called 'Dubliners', announced in recent days by Berlin. \"There is close cooperation ",
+          "pubDate": "Mon, 24 Aug 2026 12:57:01 +0200",
+          "source": "ANSA English",
           "lang": "en",
-          "titleIt": "Somalia: Somalia President Meets Top 10 High School Graduates, Promises Free University Education"
+          "titleIt": "Merz spokesman says sees no conflict between Berlin and Rome on migrants"
+        },
+        {
+          "title": "Merz spokesman says sees no conflict between Berlin and Rome on migrants",
+          "link": "https://www.ansa.it/english/news/world/2026/08/24/merz-spokesman-says-sees-no-conflict-between-berlin-and-rome-on-migrants_e1a48b3e-cbc9-458c-ad05-e50f5f16ab09.html",
+          "description": "(ANSA) - ROME, AUG 24 - German Chancellor Friedrich Merz's spokesman said Monday he saw no conflict between Berlin and Rome on migrants after Germany became the first of six EU members to start sending migrants back to Italy under the bloc's new Migration and Asylum Pact. \"I see no conflict between Germany and Italy,\" said Stefan Kornelius, spokesman, in response to a question during a government press conference regarding the ongoing exchange between the two countries on the case of the deportations of the so-called 'Dubliners', announced in recent days by Berlin. \"There is close cooperation ",
+          "pubDate": "Mon, 24 Aug 2026 12:56:48 +0200",
+          "source": "ANSA English",
+          "lang": "en",
+          "titleIt": "Merz spokesman says sees no conflict between Berlin and Rome on migrants"
         },
         {
           "title": "Somalia: Mogadishu's 'Forced' Eviction Turns Into War",
@@ -492,15 +519,6 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "Somalia Hosts Djibouti Police Delegation for Security Talks"
-        },
-        {
-          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
-          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
-          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
-          "pubDate": "Saturday, May 16, 2026 - 00:08",
-          "source": "Crisis Group",
-          "lang": "en",
-          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
@@ -511,6 +529,15 @@
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
       "items": [
+        {
+          "title": "Speciale porti: Etiopia-Usa, accordo per un partenariato strategico globale in difesa e sicurezza",
+          "link": "https://www.agenzianova.com/a/6a8c439403dec8.21530012/7716700/2026-08-24/speciale-porti-etiopia-usa-accordo-per-un-partenariato-strategico-globale-in-difesa-e-sicurezza",
+          "description": "24 ago 15:00 - (Agenzia Nova) - L'Etiopia e gli Stati Uniti hanno concordato di elevare la cooperazione bilaterale nei settori della difesa... (Suk)",
+          "pubDate": "2026-08-24T15:00:49+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Speciale porti: Etiopia-Usa, accordo per un partenariato strategico globale in difesa e sicurezza"
+        },
         {
           "title": "Drone strike wounds 13 in Tigray capital as fears of renewed war grow",
           "link": "http://www.africanews.com/2026/08/21/drone-strike-wounds-13-in-tigray-capital-as-fears-of-renewed-war-grow/",
