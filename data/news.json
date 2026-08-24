@@ -1,11 +1,29 @@
 {
-  "generatedAt": "2026-08-24T13:13:59.612Z",
+  "generatedAt": "2026-08-24T15:01:05.191Z",
   "feedsChecked": 10,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
+        {
+          "title": "Egitto-Francia: ministro Difesa e capo Stato maggiore discutono rafforzamento legami militari",
+          "link": "https://www.agenzianova.com/a/6a8c5cae8f4260.59398461/7719555/2026-08-24/egitto-francia-ministro-difesa-e-capo-stato-maggiore-discutono-rafforzamento-legami-militari",
+          "description": "24 ago 17:00 - (Agenzia Nova) - Il ministro della Difesa e della Produzione militare dell'Egitto, tenente Generale Ashraf Salem Zaher, ha ricevuto... (Cae)",
+          "pubDate": "2026-08-24T17:00:25+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Egitto-Francia: ministro Difesa e capo Stato maggiore discutono rafforzamento legami militari"
+        },
+        {
+          "title": "Somalia: Ambassador Daccò Coppi Meets with the Minister of Commerce and Industry",
+          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/08/24/somalia-ambassador-dacco-coppi-meets-with-the-minister-of-commerce-and_50239040-3198-4ca6-8ac4-b15238797054.html",
+          "description": "(ANSA) - NAIROBI, 24 AGO - The Italian Ambassador to Somalia, Pier Mario Daccò Coppi, met with the Minister of Trade and Industry, Gamal Mohamed Hassan, for an exchange of views and an update on the Somali government’s initiatives aimed at promoting local production, increasing added value, and supporting the development of exports. During the meeting, the minister strongly expressed his hope that Italy would play an active role in supporting Somalia’s reform process—characterized by a gradual transition from a model based primarily on aid to one focused on investment, private-sector growth, a",
+          "pubDate": "Mon, 24 Aug 2026 16:14:02 +0200",
+          "source": "ANSA English",
+          "lang": "en",
+          "titleIt": "Somalia: Ambassador Daccò Coppi Meets with the Minister of Commerce and Industry"
+        },
         {
           "title": "Somalia: Six Million Somalis Face Acute Hunger As Drought and Conflict Worsen",
           "link": "https://allafrica.com/stories/202608240356.html",
@@ -32,15 +50,6 @@
           "source": "AllAfrica",
           "lang": "en",
           "titleIt": "Somalia: Somalia Says It Is Aware of Military Operations Off Puntland Coast"
-        },
-        {
-          "title": "Egypt and Qatar stress need for dialogue over Strait of Hormuz",
-          "link": "http://www.africanews.com/2026/08/20/egypt-and-qatar-stress-need-for-dialogue-over-strait-of-hormuz/",
-          "description": "Egypt’s Foreign Minister Badr Abdelatty met Qatari Prime Minister Sheikh Mohammed bin Abdulrahman Al-Thani in Cairo on Thursday for talks on bilateral cooperation and regional deescalation.",
-          "pubDate": "Thu, 20 Aug 2026 19:24:52 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "Egypt and Qatar stress need for dialogue over Strait of Hormuz"
         },
         {
           "title": "Laftagareen's Forces Attack Baidoa, Reviving the Fight Somalia Thought It Had Won",
@@ -176,15 +185,6 @@
           "source": "Crisis Group",
           "lang": "en",
           "titleIt": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab"
-        },
-        {
-          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
-          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
-          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
-          "pubDate": "Saturday, May 16, 2026 - 00:08",
-          "source": "Crisis Group",
-          "lang": "en",
-          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
@@ -192,13 +192,13 @@
       "title": "Dossier Somaliland",
       "items": [
         {
-          "title": "Speciale porti: Etiopia-Usa, accordo per un partenariato strategico globale in difesa e sicurezza",
-          "link": "https://www.agenzianova.com/a/6a8c439403dec8.21530012/7716700/2026-08-24/speciale-porti-etiopia-usa-accordo-per-un-partenariato-strategico-globale-in-difesa-e-sicurezza",
-          "description": "24 ago 15:00 - (Agenzia Nova) - L'Etiopia e gli Stati Uniti hanno concordato di elevare la cooperazione bilaterale nei settori della difesa... (Suk)",
-          "pubDate": "2026-08-24T15:00:49+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Speciale porti: Etiopia-Usa, accordo per un partenariato strategico globale in difesa e sicurezza"
+          "title": "Somalia: Ambassador Daccò Coppi Meets with the Minister of Commerce and Industry",
+          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/08/24/somalia-ambassador-dacco-coppi-meets-with-the-minister-of-commerce-and_50239040-3198-4ca6-8ac4-b15238797054.html",
+          "description": "(ANSA) - NAIROBI, 24 AGO - The Italian Ambassador to Somalia, Pier Mario Daccò Coppi, met with the Minister of Trade and Industry, Gamal Mohamed Hassan, for an exchange of views and an update on the Somali government’s initiatives aimed at promoting local production, increasing added value, and supporting the development of exports. During the meeting, the minister strongly expressed his hope that Italy would play an active role in supporting Somalia’s reform process—characterized by a gradual transition from a model based primarily on aid to one focused on investment, private-sector growth, a",
+          "pubDate": "Mon, 24 Aug 2026 16:14:02 +0200",
+          "source": "ANSA English",
+          "lang": "en",
+          "titleIt": "Somalia: Ambassador Daccò Coppi Meets with the Minister of Commerce and Industry"
         },
         {
           "title": "Kenya: Gachagua Rules Out Ruto Alliance Deal, Says 'I Cannot Be Bought'",
@@ -219,15 +219,6 @@
           "titleIt": "Somalia: Mogadishu's 'Forced' Eviction Turns Into War"
         },
         {
-          "title": "Phone app helps Kenya's visually impaired get around",
-          "link": "http://www.africanews.com/2026/08/20/phone-app-helps-kenyas-visually-impaired-get-around/",
-          "description": "A navigation tool built in Kenya is using AI to help people with visual impairment understand what lies ahead as they move through Nairobi. 'Sightra' runs as a phone based web app, detecting cars, trees, furniture and other obstacles in real time and sending spoken descriptions through an earpiece.",
-          "pubDate": "Thu, 20 Aug 2026 19:40:45 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "Phone app helps Kenya's visually impaired get around"
-        },
-        {
           "title": "Laftagareen's Forces Attack Baidoa, Reviving the Fight Somalia Thought It Had Won",
           "link": "https://hornobserver.com/articles/3716/Laftagareens-Forces-Attack-Baidoa-Reviving-the-Fight-Somalia-Thought-It-Had-Won",
           "description": "Residents reported heavy gunfire and explosions in the Towfiiq neighborhood. Fighting broke out around 5 a.m. Somalia's Ministry of Defense said the assault involved vehicles packed with explosives. It described the attacking force as a mix of Al-Shabaab militants and militias loyal to Laftagareen — using the term \"Khawaarij,\" the standard Somali term for Al-Shabaab, to describe them. The ministry said its forces repelled the attack and killed at least 30 of the assailants. Laftagareen's side told a different story. His spokesperson, Hassan Mohamed, said in a statement that Laftagareen's force",
@@ -235,24 +226,6 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "Laftagareen's Forces Attack Baidoa, Reviving the Fight Somalia Thought It Had Won"
-        },
-        {
-          "title": "An Italian among the dead in a helicopter crash in Kenya",
-          "link": "https://www.ansa.it/english/news/2026/08/19/an-italian-among-the-dead-in-a-helicopter-crash-in-kenya_870e7d03-7c3a-4fb8-902c-f8402b6656e1.html",
-          "description": "(ANSA) - ROME, AUG 19 - An Italian citizen, with dual Ecuadorian nationality, is among the seven tourists killed in a helicopter crash in Kenya's Samburu National Reserve. According to Ecuadorian media, he is Michele Sensi Contugi, a well-known businessman in Ecuador and president of the national intelligence agency. Sensi Contugi, 44, comes from a Tuscan family. In addition to the Kenyan pilot, his wife, Stephany Vasconez, was on board the helicopter, which crashed for reasons yet to be determined near Mount Ololokwe. The Italian Embassy in Kenya immediately provided assistance on site. (ANSA",
-          "pubDate": "Wed, 19 Aug 2026 17:08:26 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "An Italian among the dead in a helicopter crash in Kenya"
-        },
-        {
-          "title": "An Italian among the dead in a helicopter crash in Kenya",
-          "link": "https://www.ansa.it/english/news/world/2026/08/19/an-italian-among-the-dead-in-a-helicopter-crash-in-kenya_77db9dce-da1e-4c04-8655-033d034671e9.html",
-          "description": "(ANSA) - ROME, AUG 19 - An Italian citizen, with dual Ecuadorian nationality, is among the seven tourists killed in a helicopter crash in Kenya's Samburu National Reserve. According to Ecuadorian media, he is Michele Sensi Contugi, a well-known businessman in Ecuador and president of the national intelligence agency. Sensi Contugi, 44, comes from a Tuscan family. In addition to the Kenyan pilot, his wife, Stephany Vasconez, was on board the helicopter, which crashed for reasons yet to be determined near Mount Ololokwe. The Italian Embassy in Kenya immediately provided assistance on site. (ANSA",
-          "pubDate": "Wed, 19 Aug 2026 17:08:23 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "An Italian among the dead in a helicopter crash in Kenya"
         },
         {
           "title": "Gulf war fallout: Somali households pay the price of trade disruption",
@@ -341,13 +314,13 @@
       "title": "Accesso etiope al mare",
       "items": [
         {
-          "title": "Speciale porti: Etiopia-Usa, accordo per un partenariato strategico globale in difesa e sicurezza",
-          "link": "https://www.agenzianova.com/a/6a8c439403dec8.21530012/7716700/2026-08-24/speciale-porti-etiopia-usa-accordo-per-un-partenariato-strategico-globale-in-difesa-e-sicurezza",
-          "description": "24 ago 15:00 - (Agenzia Nova) - L'Etiopia e gli Stati Uniti hanno concordato di elevare la cooperazione bilaterale nei settori della difesa... (Suk)",
-          "pubDate": "2026-08-24T15:00:49+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Speciale porti: Etiopia-Usa, accordo per un partenariato strategico globale in difesa e sicurezza"
+          "title": "Somalia: Ambassador Daccò Coppi Meets with the Minister of Commerce and Industry",
+          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/08/24/somalia-ambassador-dacco-coppi-meets-with-the-minister-of-commerce-and_50239040-3198-4ca6-8ac4-b15238797054.html",
+          "description": "(ANSA) - NAIROBI, 24 AGO - The Italian Ambassador to Somalia, Pier Mario Daccò Coppi, met with the Minister of Trade and Industry, Gamal Mohamed Hassan, for an exchange of views and an update on the Somali government’s initiatives aimed at promoting local production, increasing added value, and supporting the development of exports. During the meeting, the minister strongly expressed his hope that Italy would play an active role in supporting Somalia’s reform process—characterized by a gradual transition from a model based primarily on aid to one focused on investment, private-sector growth, a",
+          "pubDate": "Mon, 24 Aug 2026 16:14:02 +0200",
+          "source": "ANSA English",
+          "lang": "en",
+          "titleIt": "Somalia: Ambassador Daccò Coppi Meets with the Minister of Commerce and Industry"
         },
         {
           "title": "Merz spokesman says sees no conflict between Berlin and Rome on migrants",
@@ -402,15 +375,6 @@
           "source": "Africanews",
           "lang": "en",
           "titleIt": "Drone strike wounds 13 in Tigray capital as fears of renewed war grow"
-        },
-        {
-          "title": "First US deportees arrive in Liberia under controversial third-country deal",
-          "link": "http://www.africanews.com/2026/08/21/first-us-deportees-arrive-in-liberia-under-controversial-third-country-deal/",
-          "description": "Twenty migrants deported from the United States have arrived in Liberia, the first group of up to 1,200 people the West African country says it will receive under a new agreement.",
-          "pubDate": "Fri, 21 Aug 2026 05:07:21 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "First US deportees arrive in Liberia under controversial third-country deal"
         },
         {
           "title": "Laftagareen's Forces Attack Baidoa, Reviving the Fight Somalia Thought It Had Won",
@@ -519,6 +483,15 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "Somalia Hosts Djibouti Police Delegation for Security Talks"
+        },
+        {
+          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
+          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
+          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
+          "pubDate": "Saturday, May 16, 2026 - 00:08",
+          "source": "Crisis Group",
+          "lang": "en",
+          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
@@ -529,15 +502,6 @@
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
       "items": [
-        {
-          "title": "Speciale porti: Etiopia-Usa, accordo per un partenariato strategico globale in difesa e sicurezza",
-          "link": "https://www.agenzianova.com/a/6a8c439403dec8.21530012/7716700/2026-08-24/speciale-porti-etiopia-usa-accordo-per-un-partenariato-strategico-globale-in-difesa-e-sicurezza",
-          "description": "24 ago 15:00 - (Agenzia Nova) - L'Etiopia e gli Stati Uniti hanno concordato di elevare la cooperazione bilaterale nei settori della difesa... (Suk)",
-          "pubDate": "2026-08-24T15:00:49+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Speciale porti: Etiopia-Usa, accordo per un partenariato strategico globale in difesa e sicurezza"
-        },
         {
           "title": "Drone strike wounds 13 in Tigray capital as fears of renewed war grow",
           "link": "http://www.africanews.com/2026/08/21/drone-strike-wounds-13-in-tigray-capital-as-fears-of-renewed-war-grow/",
