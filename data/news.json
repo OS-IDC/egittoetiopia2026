@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T09:06:01.518Z",
+  "generatedAt": "2026-08-24T10:54:56.385Z",
   "feedsChecked": 10,
   "feedsAttempted": 10,
   "topics": {
@@ -7,13 +7,22 @@
       "title": "Accordi Egitto-Somalia",
       "items": [
         {
-          "title": "Somalia: Somalia Parliament Speaker Concludes Talks With Opposition Lawmakers",
-          "link": "https://allafrica.com/stories/202608240161.html",
-          "description": "[Shabelle] Mogadishu -- Somalia's parliamentary speaker, Abdulkadir Mohamed Nur, has concluded talks with lawmakers representing the opposition, as the country's parliament seeks to accelerate its work and strengthen cooperation among legislators.",
-          "pubDate": "Mon, 24 Aug 2026 06:25:34 GMT",
+          "title": "Somalia: Six Million Somalis Face Acute Hunger As Drought and Conflict Worsen",
+          "link": "https://allafrica.com/stories/202608240356.html",
+          "description": "[RFI] Six million people in Somalia are facing acute hunger, with nearly two million children at emergency levels, as severe drought, conflict and falling humanitarian funding deepen what the UN describes as one of the world's worst malnutrition crises. Medical charity MSF tells RFI it's sounding the alarm \"before it's too late\".",
+          "pubDate": "Mon, 24 Aug 2026 10:53:16 GMT",
           "source": "AllAfrica",
           "lang": "en",
-          "titleIt": "Somalia: Somalia Parliament Speaker Concludes Talks With Opposition Lawmakers"
+          "titleIt": "Somalia: Six Million Somalis Face Acute Hunger As Drought and Conflict Worsen"
+        },
+        {
+          "title": "Somalia: Somalia President Meets Top 10 High School Graduates, Promises Free University Education",
+          "link": "https://allafrica.com/stories/202608240332.html",
+          "description": "[Shabelle] Mogadishu, August 24, 2026 -- Somali President Hassan Sheikh Mohamud on Monday met the 10 students who achieved the highest scores in the country's national Grade 12 secondary school examinations, praising their performance and promising educational opportunities for those wishing to continue their studies in Somalia.",
+          "pubDate": "Mon, 24 Aug 2026 10:35:07 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Somalia: Somalia President Meets Top 10 High School Graduates, Promises Free University Education"
         },
         {
           "title": "Somalia: Mogadishu's 'Forced' Eviction Turns Into War",
@@ -59,24 +68,6 @@
           "source": "BBC Africa",
           "lang": "en",
           "titleIt": "Spurs in talks to sign Egypt's Marmoush from Man City"
-        },
-        {
-          "title": "35 migrants land on Lampedusa, 52 in distress 70 miles from island",
-          "link": "https://www.ansa.it/english/news/2026/08/19/35-migrants-land-on-lampedusa-52-in-distress-70-miles-from-island_e2b6cb6a-a370-4c9c-a84f-ed23b78afefa.html",
-          "description": "(ANSA) - ROME, AUG 19 - Some 35 migrants disembarked on Lampedusa, while 52 others were reported to be on a boat in distress 70 miles from the Sicilian stepping-stone island, which is closer to Africa than to Italy. The 35, originally from Eritrea, Somalia, and Sudan, disembarked after the seven-meter dinghy they were traveling on was rescued by a Coast Guard patrol boat. The group, which departed from Gars Garabulli in Libya, also included six women. Meanwhile, Alarmphone issued an SOS for a vessel adrift in the central Mediterranean, saying: \"52 lives are in danger approximately 70 miles fro",
-          "pubDate": "Wed, 19 Aug 2026 16:22:00 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "35 migrants land on Lampedusa, 52 in distress 70 miles from island"
-        },
-        {
-          "title": "35 migrants land on Lampedusa, 52 in distress 70 miles from island",
-          "link": "https://www.ansa.it/english/news/general_news/2026/08/19/35-migrants-land-on-lampedusa-52-in-distress-70-miles-from-island_7ff27352-28f8-4b7f-a207-71f788d7c59e.html",
-          "description": "(ANSA) - ROME, AUG 19 - Some 35 migrants disembarked on Lampedusa, while 52 others were reported to be on a boat in distress 70 miles from the Sicilian stepping-stone island, which is closer to Africa than to Italy. The 35, originally from Eritrea, Somalia, and Sudan, disembarked after the seven-meter dinghy they were traveling on was rescued by a Coast Guard patrol boat. The group, which departed from Gars Garabulli in Libya, also included six women. Meanwhile, Alarmphone issued an SOS for a vessel adrift in the central Mediterranean, saying: \"52 lives are in danger approximately 70 miles fro",
-          "pubDate": "Wed, 19 Aug 2026 16:21:57 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "35 migrants land on Lampedusa, 52 in distress 70 miles from island"
         },
         {
           "title": "Gulf war fallout: Somali households pay the price of trade disruption",
@@ -185,12 +176,30 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "Somalia Hosts Djibouti Police Delegation for Security Talks"
+        },
+        {
+          "title": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab",
+          "link": "https://www.crisisgroup.org/brf/africa/somalia/b212-new-chapter-same-stalemate-somalias-war-al-shabaab",
+          "description": "The Somali government’s battle with Al-Shabaab militants grinds on, with neither able to gain a decisive advantage. To improve its lot, Mogadishu needs to bolster its military and alleviate civilian suffering in areas under insurgent control, while looking for openings for dialogue with the group.",
+          "pubDate": "Tuesday, June 30, 2026 - 15:20",
+          "source": "Crisis Group",
+          "lang": "en",
+          "titleIt": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab"
         }
       ]
     },
     "somaliland": {
       "title": "Dossier Somaliland",
       "items": [
+        {
+          "title": "Somalia: Somalia President Meets Top 10 High School Graduates, Promises Free University Education",
+          "link": "https://allafrica.com/stories/202608240332.html",
+          "description": "[Shabelle] Mogadishu, August 24, 2026 -- Somali President Hassan Sheikh Mohamud on Monday met the 10 students who achieved the highest scores in the country's national Grade 12 secondary school examinations, praising their performance and promising educational opportunities for those wishing to continue their studies in Somalia.",
+          "pubDate": "Mon, 24 Aug 2026 10:35:07 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Somalia: Somalia President Meets Top 10 High School Graduates, Promises Free University Education"
+        },
         {
           "title": "Somalia: Mogadishu's 'Forced' Eviction Turns Into War",
           "link": "https://allafrica.com/stories/202608240124.html",
@@ -235,24 +244,6 @@
           "source": "ANSA English",
           "lang": "en",
           "titleIt": "An Italian among the dead in a helicopter crash in Kenya"
-        },
-        {
-          "title": "35 migrants land on Lampedusa, 52 in distress 70 miles from island",
-          "link": "https://www.ansa.it/english/news/2026/08/19/35-migrants-land-on-lampedusa-52-in-distress-70-miles-from-island_e2b6cb6a-a370-4c9c-a84f-ed23b78afefa.html",
-          "description": "(ANSA) - ROME, AUG 19 - Some 35 migrants disembarked on Lampedusa, while 52 others were reported to be on a boat in distress 70 miles from the Sicilian stepping-stone island, which is closer to Africa than to Italy. The 35, originally from Eritrea, Somalia, and Sudan, disembarked after the seven-meter dinghy they were traveling on was rescued by a Coast Guard patrol boat. The group, which departed from Gars Garabulli in Libya, also included six women. Meanwhile, Alarmphone issued an SOS for a vessel adrift in the central Mediterranean, saying: \"52 lives are in danger approximately 70 miles fro",
-          "pubDate": "Wed, 19 Aug 2026 16:22:00 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "35 migrants land on Lampedusa, 52 in distress 70 miles from island"
-        },
-        {
-          "title": "35 migrants land on Lampedusa, 52 in distress 70 miles from island",
-          "link": "https://www.ansa.it/english/news/general_news/2026/08/19/35-migrants-land-on-lampedusa-52-in-distress-70-miles-from-island_7ff27352-28f8-4b7f-a207-71f788d7c59e.html",
-          "description": "(ANSA) - ROME, AUG 19 - Some 35 migrants disembarked on Lampedusa, while 52 others were reported to be on a boat in distress 70 miles from the Sicilian stepping-stone island, which is closer to Africa than to Italy. The 35, originally from Eritrea, Somalia, and Sudan, disembarked after the seven-meter dinghy they were traveling on was rescued by a Coast Guard patrol boat. The group, which departed from Gars Garabulli in Libya, also included six women. Meanwhile, Alarmphone issued an SOS for a vessel adrift in the central Mediterranean, saying: \"52 lives are in danger approximately 70 miles fro",
-          "pubDate": "Wed, 19 Aug 2026 16:21:57 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "35 migrants land on Lampedusa, 52 in distress 70 miles from island"
         },
         {
           "title": "Gulf war fallout: Somali households pay the price of trade disruption",
@@ -341,6 +332,15 @@
       "title": "Accesso etiope al mare",
       "items": [
         {
+          "title": "Somalia: Somalia President Meets Top 10 High School Graduates, Promises Free University Education",
+          "link": "https://allafrica.com/stories/202608240332.html",
+          "description": "[Shabelle] Mogadishu, August 24, 2026 -- Somali President Hassan Sheikh Mohamud on Monday met the 10 students who achieved the highest scores in the country's national Grade 12 secondary school examinations, praising their performance and promising educational opportunities for those wishing to continue their studies in Somalia.",
+          "pubDate": "Mon, 24 Aug 2026 10:35:07 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Somalia: Somalia President Meets Top 10 High School Graduates, Promises Free University Education"
+        },
+        {
           "title": "Somalia: Mogadishu's 'Forced' Eviction Turns Into War",
           "link": "https://allafrica.com/stories/202608240124.html",
           "description": "[Radio Dalsan] The demolition of homes in Tookiyo neighbourhood, in Mogadishu's Yaqshiid district, has triggered tensions and clashes between government forces and local residents who opposed the operation. The demolitions began around midnight and were still continuing, with local reports saying nearly 10 people had been injured in the confrontation.",
@@ -411,24 +411,6 @@
           "source": "ANSA English",
           "lang": "en",
           "titleIt": "Pope meets with Aoun, Holy See supports peace deal"
-        },
-        {
-          "title": "35 migrants land on Lampedusa, 52 in distress 70 miles from island",
-          "link": "https://www.ansa.it/english/news/2026/08/19/35-migrants-land-on-lampedusa-52-in-distress-70-miles-from-island_e2b6cb6a-a370-4c9c-a84f-ed23b78afefa.html",
-          "description": "(ANSA) - ROME, AUG 19 - Some 35 migrants disembarked on Lampedusa, while 52 others were reported to be on a boat in distress 70 miles from the Sicilian stepping-stone island, which is closer to Africa than to Italy. The 35, originally from Eritrea, Somalia, and Sudan, disembarked after the seven-meter dinghy they were traveling on was rescued by a Coast Guard patrol boat. The group, which departed from Gars Garabulli in Libya, also included six women. Meanwhile, Alarmphone issued an SOS for a vessel adrift in the central Mediterranean, saying: \"52 lives are in danger approximately 70 miles fro",
-          "pubDate": "Wed, 19 Aug 2026 16:22:00 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "35 migrants land on Lampedusa, 52 in distress 70 miles from island"
-        },
-        {
-          "title": "35 migrants land on Lampedusa, 52 in distress 70 miles from island",
-          "link": "https://www.ansa.it/english/news/general_news/2026/08/19/35-migrants-land-on-lampedusa-52-in-distress-70-miles-from-island_7ff27352-28f8-4b7f-a207-71f788d7c59e.html",
-          "description": "(ANSA) - ROME, AUG 19 - Some 35 migrants disembarked on Lampedusa, while 52 others were reported to be on a boat in distress 70 miles from the Sicilian stepping-stone island, which is closer to Africa than to Italy. The 35, originally from Eritrea, Somalia, and Sudan, disembarked after the seven-meter dinghy they were traveling on was rescued by a Coast Guard patrol boat. The group, which departed from Gars Garabulli in Libya, also included six women. Meanwhile, Alarmphone issued an SOS for a vessel adrift in the central Mediterranean, saying: \"52 lives are in danger approximately 70 miles fro",
-          "pubDate": "Wed, 19 Aug 2026 16:21:57 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "35 migrants land on Lampedusa, 52 in distress 70 miles from island"
         },
         {
           "title": "Gulf war fallout: Somali households pay the price of trade disruption",
