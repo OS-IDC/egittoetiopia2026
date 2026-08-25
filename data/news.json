@@ -1,11 +1,20 @@
 {
-  "generatedAt": "2026-08-25T09:01:09.675Z",
+  "generatedAt": "2026-08-25T10:49:40.151Z",
   "feedsChecked": 10,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
+        {
+          "title": "Ambassador Mignano on a mission to Sudan, the first Italian ambassador in Khartoum since 2023",
+          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/08/25/ambassador-mignano-on-a-mission-to-sudan-the-first-italian-ambassador-in-khartoum-since_ecd1d5c6-f23d-49fa-aaa3-e3ac2f113c4e.html",
+          "description": "(ANSA) - IL CAIRO, 25 AGO - The new ambassador to Sudan, Silvio Mignano—who had been based in Addis Ababa since the start of the conflict—carried out his first mission in the country. The mission included a stop in Port Sudan before moving on to Khartoum for the presentation of credentials. This was the embassy’s first mission to the capital since the evacuation in 2023. Italy is the first Western country to present its credentials. The Sudanese capital had been occupied in 2023 by paramilitaries of the Rapid Support Forces (RSF), but since May 2025, it has returned to the control of the army ",
+          "pubDate": "Tue, 25 Aug 2026 11:52:47 +0200",
+          "source": "ANSA English",
+          "lang": "en",
+          "titleIt": "Ambassador Mignano on a mission to Sudan, the first Italian ambassador in Khartoum since 2023"
+        },
         {
           "title": "Somalia: Ambassador Daccò Coppi Meets with the Minister of Commerce and Industry",
           "link": "https://www.ansa.it/english/news/news_from_embassies/2026/08/24/somalia-ambassador-dacco-coppi-meets-with-the-minister-of-commerce-and_50239040-3198-4ca6-8ac4-b15238797054.html",
@@ -174,6 +183,24 @@
       "title": "Dossier Somaliland",
       "items": [
         {
+          "title": "Sudan: Sudanese UN Envoy - Eastern Libya, Chad and Ethiopia Are Supply Routes for RSF Militia",
+          "link": "https://allafrica.com/stories/202608250212.html",
+          "description": "[SNA] Sudan's Permanent Representative to the United Nations, Ambassador Al-Harith Idris, said in a briefing to the UN Security Council on Monday that the UN Panel of Experts had documented the transformation of eastern Libya into a central hub in the supply chain of the Rapid Support Forces (RSF), with the renovation and expansion of Kufra Airport and a significant increase in cargo flights coinciding with the growth of the RSF's capabilities.",
+          "pubDate": "Tue, 25 Aug 2026 09:55:44 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Sudan: Sudanese UN Envoy - Eastern Libya, Chad and Ethiopia Are Supply Routes for RSF Militia"
+        },
+        {
+          "title": "Ambassador Mignano on a mission to Sudan, the first Italian ambassador in Khartoum since 2023",
+          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/08/25/ambassador-mignano-on-a-mission-to-sudan-the-first-italian-ambassador-in-khartoum-since_ecd1d5c6-f23d-49fa-aaa3-e3ac2f113c4e.html",
+          "description": "(ANSA) - IL CAIRO, 25 AGO - The new ambassador to Sudan, Silvio Mignano—who had been based in Addis Ababa since the start of the conflict—carried out his first mission in the country. The mission included a stop in Port Sudan before moving on to Khartoum for the presentation of credentials. This was the embassy’s first mission to the capital since the evacuation in 2023. Italy is the first Western country to present its credentials. The Sudanese capital had been occupied in 2023 by paramilitaries of the Rapid Support Forces (RSF), but since May 2025, it has returned to the control of the army ",
+          "pubDate": "Tue, 25 Aug 2026 11:52:47 +0200",
+          "source": "ANSA English",
+          "lang": "en",
+          "titleIt": "Ambassador Mignano on a mission to Sudan, the first Italian ambassador in Khartoum since 2023"
+        },
+        {
           "title": "East Africa: Refinery Rivalry - Billion-Dollar Oil Projects Expose East Africa's Long-Running Regional Tensions",
           "link": "https://allafrica.com/stories/202608250049.html",
           "description": "[The Conversation Africa] East Africa, a region that has been working to deepen economic integration for more than 25 years, has a history of disagreements about the location of energy infrastructure. Uganda discovered oil in 2006 with the potential to pump an estimated 210,000 to 230,000 barrels of oil per day at peak production. Back in 2014, Kenya and Uganda agreed on a joint crude oil pipeline from Uganda's oil fields at Lake Albert to the Indian Ocean. But the plan was shelved in 2016. Eventually, Uganda chose a southern",
@@ -181,6 +208,15 @@
           "source": "AllAfrica",
           "lang": "en",
           "titleIt": "East Africa: Refinery Rivalry - Billion-Dollar Oil Projects Expose East Africa's Long-Running Regional Tensions"
+        },
+        {
+          "title": "The AU - EU Youth Action Lab Grants 2026 for youth - led initiatives in Africa .",
+          "link": "https://www.opportunitiesforafricans.com/the-au-eu-youth-action-lab-grants-2026-for-youth-led-initiatives-in-africa/",
+          "source": "opportunitiesforafricans.com",
+          "pubDate": "2026-08-24T21:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The AU - EU Youth Action Lab Grants 2026 for youth - led initiatives in Africa ."
         },
         {
           "title": "Somalia: Ambassador Daccò Coppi Meets with the Minister of Commerce and Industry",
@@ -192,6 +228,15 @@
           "titleIt": "Somalia: Ambassador Daccò Coppi Meets with the Minister of Commerce and Industry"
         },
         {
+          "title": "Israel and Türkiye : A growing rivalry in Syria and the Eastern Mediterranean",
+          "link": "https://news.az/news/israel-and-turkiye-a-growing-rivalry-in-syria-and-the-eastern-mediterranean",
+          "source": "news.az",
+          "pubDate": "2026-08-24T13:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Israel and Türkiye : A growing rivalry in Syria and the Eastern Mediterranean"
+        },
+        {
           "title": "Kenya: Gachagua Rules Out Ruto Alliance Deal, Says 'I Cannot Be Bought'",
           "link": "https://allafrica.com/stories/202608240458.html",
           "description": "[Capital FM] Nairobi -- DCP leader Rigathi Gachagua says he was ready to carry the opposition ticket if fellow leaders chose him, insisting that he would remain firm despite political pressure.",
@@ -199,6 +244,78 @@
           "source": "AllAfrica",
           "lang": "en",
           "titleIt": "Kenya: Gachagua Rules Out Ruto Alliance Deal, Says 'I Cannot Be Bought'"
+        },
+        {
+          "title": "Unrecognised Somaliland calls on Cyprus , Greece to recognise it",
+          "link": "https://cyprus-mail.com/2026/08/22/unrecognised-somaliland-calls-on-cyprus-greece-to-recognise-it",
+          "source": "cyprus-mail.com",
+          "pubDate": "2026-08-22T10:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Unrecognised Somaliland calls on Cyprus , Greece to recognise it"
+        },
+        {
+          "title": "The meaning of the Mecca Pact",
+          "link": "https://links.org.au/meaning-mecca-pact",
+          "source": "links.org.au",
+          "pubDate": "2026-08-22T09:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The meaning of the Mecca Pact"
+        },
+        {
+          "title": "Implications of Mecca defense pact for Israel , India",
+          "link": "http://www.jpost.com/defense-and-tech/article-906236",
+          "source": "jpost.com",
+          "pubDate": "2026-08-22T06:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Implications of Mecca defense pact for Israel , India"
+        },
+        {
+          "title": "Somaliland Offers Berbera for U . S . and Israeli Bases as Red Sea Rivalry Intensifies",
+          "link": "https://wardheernews.com/somaliland-offers-berbera-for-u-s-and-israeli-bases-as-red-sea-rivalry-intensifies/",
+          "source": "wardheernews.com",
+          "pubDate": "2026-08-22T06:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Somaliland Offers Berbera for U . S . and Israeli Bases as Red Sea Rivalry Intensifies"
+        },
+        {
+          "title": "Somalia denies recognising northern Cyprus after parliament speaker comment",
+          "link": "https://cyprus-mail.com/2026/08/21/somalia-denies-recognising-northern-cyprus-after-parliament-speakers-comment",
+          "source": "cyprus-mail.com",
+          "pubDate": "2026-08-21T11:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Somalia denies recognising northern Cyprus after parliament speaker comment"
+        },
+        {
+          "title": "Somali Federal Lawmaker Vows to Follow the Will of the Somaliland People Over Somali Unity",
+          "link": "https://wardheernews.com/somali-federal-lawmaker-vows-to-follow-the-will-of-the-somaliland-people-over-somali-unity/",
+          "source": "wardheernews.com",
+          "pubDate": "2026-08-20T20:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Somali Federal Lawmaker Vows to Follow the Will of the Somaliland People Over Somali Unity"
+        },
+        {
+          "title": "Somalia Mourns After Brothers and a Child Die in Separate Incidents",
+          "link": "https://wardheernews.com/somalia-mourns-after-brothers-and-a-child-die-in-separate-incidents/",
+          "source": "wardheernews.com",
+          "pubDate": "2026-08-20T20:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Somalia Mourns After Brothers and a Child Die in Separate Incidents"
+        },
+        {
+          "title": "The Islamist threats to Saudi Arabia in the Horn and Red Sea - Christians for Israel International",
+          "link": "https://www.whyisrael.org/jns-org/the-islamist-threats-to-saudi-arabia-in-the-horn-and-red-sea/",
+          "source": "whyisrael.org",
+          "pubDate": "2026-08-20T14:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The Islamist threats to Saudi Arabia in the Horn and Red Sea - Christians for Israel International"
         },
         {
           "title": "Laftagareen's Forces Attack Baidoa, Reviving the Fight Somalia Thought It Had Won",
@@ -210,85 +327,40 @@
           "titleIt": "Laftagareen's Forces Attack Baidoa, Reviving the Fight Somalia Thought It Had Won"
         },
         {
-          "title": "Gulf war fallout: Somali households pay the price of trade disruption",
-          "link": "https://www.thenewhumanitarian.org/news-feature/2026/08/17/gulf-war-fallout-somali-households-pay-price-trade-disruption",
-          "description": "The closure of the Strait of Hormuz is hurting Somalia’s import-dependent economy.",
-          "pubDate": "Mon, 17 Aug 26 10:30:55 +0000",
-          "source": "The New Humanitarian",
+          "title": "The Islamist threats to Saudi Arabia in the Horn and Red Sea",
+          "link": "https://www.jns.org/opinion/habtom-ghebrezghiabher/the-islamist-threats-to-saudi-arabia-in-the-horn-and-red-sea",
+          "source": "jns.org",
+          "pubDate": "2026-08-20T06:30:00Z",
           "lang": "en",
-          "titleIt": "Gulf war fallout: Somali households pay the price of trade disruption"
+          "description": "",
+          "titleIt": "The Islamist threats to Saudi Arabia in the Horn and Red Sea"
         },
         {
-          "title": "Conflict Drives Farmers Into Somalia's capital Mogadishu",
-          "link": "https://hornobserver.com/articles/3715/Conflict-Drives-Farmers-Into-Somalias-capital-Mogadishu",
-          "description": "The families were displaced by disputes over agricultural land ownership, alongside ongoing fighting between the Somali government and Al-Shabaab and renewed clan conflicts over contested farmland. Aadan Rooble, a former farmer now living in an IDP camp in Mogadishu, said he fled the village of Farxaano in Lower Shabelle about 10 days ago because of continued fighting. Aadan said some members of his family were able to secure transportation, while he initially travelled on foot before eventually finding a vehicle. He said the family was forced to abandon the farms where they worked after repea",
-          "pubDate": "Mon, 17 Aug 2026 12:31:00 +0300",
-          "source": "Horn Observer",
+          "title": "Egypt - Ethiopia Nile Dispute Expands Into a Contest for the Horn",
+          "link": "https://themedialine.org/top-stories/egypt-ethiopia-nile-dispute-expands-into-a-contest-for-the-horn/",
+          "source": "themedialine.org",
+          "pubDate": "2026-08-20T01:00:00Z",
           "lang": "en",
-          "titleIt": "Conflict Drives Farmers Into Somalia's capital Mogadishu"
+          "description": "",
+          "titleIt": "Egypt - Ethiopia Nile Dispute Expands Into a Contest for the Horn"
         },
         {
-          "title": "Policy Brief: From Elections to Democratic Governance: Strengthening Political Stability and Electoral Integrity in Somalia's Galmudug",
-          "link": "https://hornobserver.com/articles/3714/Policy-Brief-From-Elections-to-Democratic-Governance-Strengthening-Political-Stability-and-Electoral-Integrity-in-Somalias-Galmudug",
-          "description": "As the state enters a new electoral phase in 2026, the central question is no longer simply whether elections can be conducted, but whether electoral reform can contribute to stronger institutions, inclusive governance, and lasting political stability. This new policy brief by the Insight Horn Institute (IHI) examines Galmudug's four electoral cycles between 2015 and 2026 and explores what they reveal about institutional development, federal-state relations, political inclusion, security, and democratic legitimacy. It argues that elections are an important part of democratic transition, but th",
-          "pubDate": "Thu, 13 Aug 2026 19:52:05 +0300",
-          "source": "Horn Observer",
+          "title": "When insurance pays back : Amanah rewards customers through surplus sharing",
+          "link": "https://www.eyeradio.org/when-insurance-pays-back-amanah-rewards-customers-through-surplus-sharing/",
+          "source": "eyeradio.org",
+          "pubDate": "2026-08-18T15:45:00Z",
           "lang": "en",
-          "titleIt": "Policy Brief: From Elections to Democratic Governance: Strengthening Political Stability and Electoral Integrity in Somalia's Galmudug"
+          "description": "",
+          "titleIt": "When insurance pays back : Amanah rewards customers through surplus sharing"
         },
         {
-          "title": "Journalist Mascuud Warsame tells SJS about his 39-day ordeal in Somalia's spy agency detention facility",
-          "link": "https://hornobserver.com/articles/3713/Journalist-Mascuud-Warsame-tells-SJS-about-his-39-day-ordeal-in-Somalias-spy-agency-detention-facility",
-          "description": "On 30 June 2026, Mascuud Warsame, journalist and founder of an online media platform, Xogbile, was kidnapped by three armed NISA officers shortly after leaving his workplace on Maka Al-Mukarama Avenue in Somalia's capital, Mogadishu. Mascuud was held in a NISA detention facility until his release on 8 August 2026 without charge and was never brought before a court. For the first time, Mascuud Warsame has spoken to SJS about his ordeal inside the NISA detention facility. Mascuud, 35, said that on the night of his abduction, three NISA officers drove him to a police station in Hodan district, ce",
-          "pubDate": "Wed, 12 Aug 2026 19:23:43 +0300",
-          "source": "Horn Observer",
+          "title": "Regional repercussions , escalation dynamics , and future scenarios in Sudan",
+          "link": "https://aa.com.tr/en/opinion/opinion-regional-repercussions-escalation-dynamics-and-future-scenarios-in-sudan/4030706",
+          "source": "aa.com.tr",
+          "pubDate": "2026-08-18T15:45:00Z",
           "lang": "en",
-          "titleIt": "Journalist Mascuud Warsame tells SJS about his 39-day ordeal in Somalia's spy agency detention facility"
-        },
-        {
-          "title": "A Government With One Foot Out the Door: Somalia's Foreign Passport Crisis",
-          "link": "https://hornobserver.com/articles/3710/A-Government-With-One-Foot-Out-the-Door-Somalias-Foreign-Passport-Crisis",
-          "description": "It took a Kenyan airport officer to do what Somalia's own constitution could not. He was not alone. On July 26, State Minister at the Presidency Abshir Bukhaari — a former First Deputy Speaker of Somalia's Senate — was also denied entry at the same airport and placed on a return flight to Mogadishu after immigration officials raised questions about his travel documents. Neither the Kenyan nor the Somali government has officially confirmed the reasons behind the incident. Somalia's Foreign Ministry summoned Kenya's ambassador for consultations the following day. The embarrassments forced Presid",
-          "pubDate": "Sat, 08 Aug 2026 11:40:07 +0300",
-          "source": "Horn Observer",
-          "lang": "en",
-          "titleIt": "A Government With One Foot Out the Door: Somalia's Foreign Passport Crisis"
-        },
-        {
-          "title": "Somaliland Seeks International Partnerships as Government Highlights Progress in Peace, Development and Recognition",
-          "link": "https://hornobserver.com/articles/3709/Somaliland-Seeks-International-Partnerships-as-Government-Highlights-Progress-in-Peace-Development-and-Recognition",
-          "description": "Addressing an international community in Nairobi, Somaliland President said the government had focused since taking office on strengthening institutions, maintaining peace and turning public confidence into measurable national development. One of the government's key achievements, according to the address, has been the demobilization and integration of around 60,000 former militia members into the Somaliland National Army. The government also highlighted efforts to resolve community conflicts through traditional leadership, reconciliation and dialogue rather than military force. Somaliland pre",
-          "pubDate": "Sat, 08 Aug 2026 11:07:10 +0300",
-          "source": "Horn Observer",
-          "lang": "en",
-          "titleIt": "Somaliland Seeks International Partnerships as Government Highlights Progress in Peace, Development and Recognition"
-        },
-        {
-          "title": "Somali Cabinet Approves Passport, Trade and Judicial Reforms",
-          "link": "https://hornobserver.com/articles/3707/Somali-Cabinet-Approves-Passport-Trade-and-Judicial-Reforms",
-          "description": "The council was briefed on Somalia's new third-generation electronic passport and was told that changes to personal data in issued passports have been stopped entirely to strengthen the document's credibility. Ministers also approved a Rules of Origin Bill allowing goods containing at least 30% Somali content to qualify for preferential treatment in regional markets. The law is aimed at boosting local production and exports following Somalia's entry into the East African Community and its participation in the African Continental Free Trade Area. The council also confirmed four appointed member",
-          "pubDate": "Sat, 08 Aug 2026 10:02:19 +0300",
-          "source": "Horn Observer",
-          "lang": "en",
-          "titleIt": "Somali Cabinet Approves Passport, Trade and Judicial Reforms"
-        },
-        {
-          "title": "AUSSOM Leadership Meets New Djibouti Ambassador to Somalia",
-          "link": "https://hornobserver.com/articles/3704/AUSSOM-Leadership-Meets-New-Djibouti-Ambassador-to-Somalia",
-          "description": "Ambassador Diene was accompanied by Deputy SRCC Ambassador Mouktar Osman Kaire during the meeting, which focused on AUSSOM's mandate, the evolving security situation in Somalia, and recent developments related to Somali-led efforts to enhance peace, security, and stability. Ambassador Diene expressed appreciation for Djibouti's longstanding contribution to peace and security in Somalia, including the continued deployment of Djiboutian troops under AUSSOM. He also commended Ambassador Sougouleh for his contribution to peace, security, and stability in Somalia, particularly during his tenure as ",
-          "pubDate": "Sat, 25 Jul 2026 09:47:17 +0300",
-          "source": "Horn Observer",
-          "lang": "en",
-          "titleIt": "AUSSOM Leadership Meets New Djibouti Ambassador to Somalia"
-        },
-        {
-          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
-          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
-          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
-          "pubDate": "Saturday, May 16, 2026 - 00:08",
-          "source": "Crisis Group",
-          "lang": "en",
-          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
+          "description": "",
+          "titleIt": "Regional repercussions , escalation dynamics , and future scenarios in Sudan"
         }
       ]
     },
@@ -296,13 +368,40 @@
       "title": "Accesso etiope al mare",
       "items": [
         {
-          "title": "Namibia: MTC Allocates N$624.9m in Expenditure Commitment",
-          "link": "https://allafrica.com/stories/202608250186.html",
-          "description": "[New Era] MTC has reaffirmed its commitment to support Namibia's socio-economic development through digital infrastructure investment, Corporate Social Investment initiatives and strategic partnerships. This was announced at the official opening of 25th Ongwediva Annual Trade Fair on Sunday.",
-          "pubDate": "Tue, 25 Aug 2026 08:46:59 GMT",
+          "title": "Leonardo Maria Del Vecchio resigns from all positions at EssilorLuxottica",
+          "link": "https://www.ansa.it/english/news/2026/08/25/leonardo-maria-del-vecchio-resigns-from-all-positions-at-essilorluxottica_8d55e889-3163-4cda-a78d-b1892cc8a63b.html",
+          "description": "(ANSA) - ROME, AUG 25 - Leonardo Maria Del Vecchio is resigning from all positions he held at EssilorLuxottica to focus on new business projects, spokesperson for the Italian-French group said Tuesday, confirming a media report. \"We thank Leonardo Maria for contributing to the group's growth and the realization of his father's strategic vision. We wish him the same success in his new venture,\" the Essilux spokesperson added after the 'Milano-Finanza' preview. Leonardo Maria Del Vecchio stepped down as president of Ray-Ban and chief strategy officer of the Italian-French giant in a letter to Fr",
+          "pubDate": "Tue, 25 Aug 2026 12:24:21 +0200",
+          "source": "ANSA English",
+          "lang": "en",
+          "titleIt": "Leonardo Maria Del Vecchio resigns from all positions at EssilorLuxottica"
+        },
+        {
+          "title": "Sudan: Sudanese UN Envoy - Eastern Libya, Chad and Ethiopia Are Supply Routes for RSF Militia",
+          "link": "https://allafrica.com/stories/202608250212.html",
+          "description": "[SNA] Sudan's Permanent Representative to the United Nations, Ambassador Al-Harith Idris, said in a briefing to the UN Security Council on Monday that the UN Panel of Experts had documented the transformation of eastern Libya into a central hub in the supply chain of the Rapid Support Forces (RSF), with the renovation and expansion of Kufra Airport and a significant increase in cargo flights coinciding with the growth of the RSF's capabilities.",
+          "pubDate": "Tue, 25 Aug 2026 09:55:44 GMT",
           "source": "AllAfrica",
           "lang": "en",
-          "titleIt": "Namibia: MTC Allocates N$624.9m in Expenditure Commitment"
+          "titleIt": "Sudan: Sudanese UN Envoy - Eastern Libya, Chad and Ethiopia Are Supply Routes for RSF Militia"
+        },
+        {
+          "title": "Ambassador Mignano on a mission to Sudan, the first Italian ambassador in Khartoum since 2023",
+          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/08/25/ambassador-mignano-on-a-mission-to-sudan-the-first-italian-ambassador-in-khartoum-since_ecd1d5c6-f23d-49fa-aaa3-e3ac2f113c4e.html",
+          "description": "(ANSA) - IL CAIRO, 25 AGO - The new ambassador to Sudan, Silvio Mignano—who had been based in Addis Ababa since the start of the conflict—carried out his first mission in the country. The mission included a stop in Port Sudan before moving on to Khartoum for the presentation of credentials. This was the embassy’s first mission to the capital since the evacuation in 2023. Italy is the first Western country to present its credentials. The Sudanese capital had been occupied in 2023 by paramilitaries of the Rapid Support Forces (RSF), but since May 2025, it has returned to the control of the army ",
+          "pubDate": "Tue, 25 Aug 2026 11:52:47 +0200",
+          "source": "ANSA English",
+          "lang": "en",
+          "titleIt": "Ambassador Mignano on a mission to Sudan, the first Italian ambassador in Khartoum since 2023"
+        },
+        {
+          "title": "Leonardo Maria Del Vecchio resigns from all positions at EssilorLuxottica",
+          "link": "https://www.ansa.it/english/news/business/2026/08/25/leonardo-maria-del-vecchio-resigns-from-all-positions-at-essilorluxottica_0f5f23ba-b87f-46bd-a069-bd8e217c0018.html",
+          "description": "(ANSA) - ROME, AUG 25 - Leonardo Maria Del Vecchio is resigning from all positions he held at EssilorLuxottica to focus on new business projects, spokesperson for the Italian-French group said Tuesday, confirming a media report. \"We thank Leonardo Maria for contributing to the group's growth and the realization of his father's strategic vision. We wish him the same success in his new venture,\" the Essilux spokesperson added after the 'Milano-Finanza' preview. Leonardo Maria Del Vecchio stepped down as president of Ray-Ban and chief strategy officer of the Italian-French giant in a letter to Fr",
+          "pubDate": "Tue, 25 Aug 2026 11:37:52 +0200",
+          "source": "ANSA English",
+          "lang": "en",
+          "titleIt": "Leonardo Maria Del Vecchio resigns from all positions at EssilorLuxottica"
         },
         {
           "title": "Nigeria: Call for Pitches - People-Centred Investigative Reporting On Peace and Public Safety",
@@ -357,24 +456,6 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "Laftagareen's Forces Attack Baidoa, Reviving the Fight Somalia Thought It Had Won"
-        },
-        {
-          "title": "Pope meets with Aoun, Holy See supports peace deal",
-          "link": "https://www.ansa.it/english/news/2026/08/20/pope-meets-with-aoun-holy-see-supports-peace-deal_86d1c90d-e8c8-49b3-abd0-152035b77b8c.html",
-          "description": "(ANSA) - ROME, AUG 20 - Pope Leo XIV on Thursday received Lebanese President Joseph Aoun in audience, the Holy See said saying it backed a recent peace agreement over Lebanon. The discussions in the Secretariat of State, the Vatican said, \"focused essentially on the Trilateral Framework Agreement, signed by the United States, Israel, and Lebanon, aimed at stabilizing the southern borders of the Republic of Lebanon and achieving a just and lasting peace. \"The Holy See, while expressing satisfaction with the signing of the document, expressed serious concerns about the difficulties being experie",
-          "pubDate": "Thu, 20 Aug 2026 13:48:16 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "Pope meets with Aoun, Holy See supports peace deal"
-        },
-        {
-          "title": "Pope meets with Aoun, Holy See supports peace deal",
-          "link": "https://www.ansa.it/english/news/vatican/2026/08/20/pope-meets-with-aoun-holy-see-supports-peace-deal_469dbc74-4326-4130-bbd6-a579131c856d.html",
-          "description": "(ANSA) - ROME, AUG 20 - Pope Leo XIV on Thursday received Lebanese President Joseph Aoun in audience, the Holy See said saying it backed a recent peace agreement over Lebanon. The discussions in the Secretariat of State, the Vatican said, \"focused essentially on the Trilateral Framework Agreement, signed by the United States, Israel, and Lebanon, aimed at stabilizing the southern borders of the Republic of Lebanon and achieving a just and lasting peace. \"The Holy See, while expressing satisfaction with the signing of the document, expressed serious concerns about the difficulties being experie",
-          "pubDate": "Thu, 20 Aug 2026 13:45:04 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "Pope meets with Aoun, Holy See supports peace deal"
         },
         {
           "title": "Gulf war fallout: Somali households pay the price of trade disruption",
@@ -475,6 +556,15 @@
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
       "items": [
+        {
+          "title": "Sudan: Sudan Renews Call for UN Security Council to Designate RSF Militia As a Terrorist Organization",
+          "link": "https://allafrica.com/stories/202608250213.html",
+          "description": "[SNA] Sudan's Permanent Representative to the United Nations, Ambassador Al-Harith Idris, renewed Sudan's call for the UN Security Council to designate the Rapid Support Forces (RSF) militia as a terrorist organization, stressing that the nature of its attacks has fundamentally changed following its military setbacks.",
+          "pubDate": "Tue, 25 Aug 2026 09:56:15 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Sudan: Sudan Renews Call for UN Security Council to Designate RSF Militia As a Terrorist Organization"
+        },
         {
           "title": "RSF drone attacks in Sudan, Somalia’s drought emergency, and WFP sticks with Palantir: The Cheat Sheet",
           "link": "https://www.thenewhumanitarian.org/cheat-sheet/2026/08/14/rsf-drone-attacks-somalias-drought-emergency-and-wfp-sticks-palantir-cheat",
