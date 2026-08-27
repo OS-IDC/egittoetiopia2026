@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T23:33:28.012Z",
+  "generatedAt": "2026-08-27T09:48:50.045Z",
   "feedsChecked": 10,
   "feedsAttempted": 10,
   "topics": {
@@ -192,13 +192,31 @@
       "title": "Dossier Somaliland",
       "items": [
         {
-          "title": "Kenya: Peace Pulse Seeks to Curb Election Risks to Kenya's Economy Ahead of 2027",
-          "link": "https://allafrica.com/stories/202608260247.html",
-          "description": "[Capital FM] Nairobi -- A new peacebuilding initiative targeting 11 Kenyan counties will use community-based early warning systems and digital monitoring to help contain conflict, misinformation and other risks that could disrupt businesses and livelihoods ahead of the 2027 General Election.",
-          "pubDate": "Wed, 26 Aug 2026 10:14:02 GMT",
+          "title": "Georgia: emiratina Holm Developments investira' 250 milioni di dollari in isola artificiale a Batumi",
+          "link": "https://www.agenzianova.com/a/6a9007ff231926.15104226/7726315/2026-08-27/georgia-emiratina-holm-developments-investira-250-milioni-di-dollari-in-isola-artificiale-a-batumi",
+          "description": "27 ago 11:30 - (Agenzia Nova) - Ambassadori Island Batumi e la societa' immobiliare emiratina Holm Developments hanno firmato un accordo di... (Rum)",
+          "pubDate": "2026-08-27T11:30:31+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Georgia: emiratina Holm Developments investira' 250 milioni di dollari in isola artificiale a Batumi"
+        },
+        {
+          "title": "East Africa: From Red Sea to Sudan - Why Ethiopia's Instability Risks Destabilizing Horn of Africa",
+          "link": "https://allafrica.com/stories/202608270037.html",
+          "description": "[Addis Standard] Addis Abeba -- The guns may not yet have returned to the scale seen during Ethiopia's devastating 2020-2022 war, but the warning signs are becoming impossible to ignore. Tigray is once again caught in a dangerous political and military confrontation, while the unresolved issues left behind by the Pretoria peace agreement continue to deepen.",
+          "pubDate": "Thu, 27 Aug 2026 04:13:15 GMT",
           "source": "AllAfrica",
           "lang": "en",
-          "titleIt": "Kenya: Peace Pulse Seeks to Curb Election Risks to Kenya's Economy Ahead of 2027"
+          "titleIt": "East Africa: From Red Sea to Sudan - Why Ethiopia's Instability Risks Destabilizing Horn of Africa"
+        },
+        {
+          "title": "Kenya: Govt Targets HIV, Teenage Pregnancies in Youth Health Push",
+          "link": "https://allafrica.com/stories/202608270027.html",
+          "description": "[Capital FM] Nairobi -- The Government has stepped up efforts to tackle new HIV infections, adolescent pregnancies and sexual and gender-based violence (SGBV), which continue to threaten the health, education and future of young people.",
+          "pubDate": "Thu, 27 Aug 2026 04:13:09 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Kenya: Govt Targets HIV, Teenage Pregnancies in Youth Health Push"
         },
         {
           "title": "Italy and Somalia Collaborate on Maritime Cooperation and Training",
@@ -322,6 +340,15 @@
     "ethiopia-sea-access": {
       "title": "Accesso etiope al mare",
       "items": [
+        {
+          "title": "East Africa: From Red Sea to Sudan - Why Ethiopia's Instability Risks Destabilizing Horn of Africa",
+          "link": "https://allafrica.com/stories/202608270037.html",
+          "description": "[Addis Standard] Addis Abeba -- The guns may not yet have returned to the scale seen during Ethiopia's devastating 2020-2022 war, but the warning signs are becoming impossible to ignore. Tigray is once again caught in a dangerous political and military confrontation, while the unresolved issues left behind by the Pretoria peace agreement continue to deepen.",
+          "pubDate": "Thu, 27 Aug 2026 04:13:15 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "East Africa: From Red Sea to Sudan - Why Ethiopia's Instability Risks Destabilizing Horn of Africa"
+        },
         {
           "title": "No rift with US, bond transcends individual presidents says Tajani",
           "link": "https://www.ansa.it/english/news/2026/08/26/no-rift-with-us-bond-transcends-individual-presidents-says-tajani_caf0858c-8347-40e7-9a3c-7a9ebe430469.html",
@@ -502,6 +529,15 @@
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
       "items": [
+        {
+          "title": "East Africa: From Red Sea to Sudan - Why Ethiopia's Instability Risks Destabilizing Horn of Africa",
+          "link": "https://allafrica.com/stories/202608270037.html",
+          "description": "[Addis Standard] Addis Abeba -- The guns may not yet have returned to the scale seen during Ethiopia's devastating 2020-2022 war, but the warning signs are becoming impossible to ignore. Tigray is once again caught in a dangerous political and military confrontation, while the unresolved issues left behind by the Pretoria peace agreement continue to deepen.",
+          "pubDate": "Thu, 27 Aug 2026 04:13:15 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "East Africa: From Red Sea to Sudan - Why Ethiopia's Instability Risks Destabilizing Horn of Africa"
+        },
         {
           "title": "IPI: Africa Media Freedom Monitoring: April to June 2026",
           "link": "https://hornobserver.com/articles/3719/IPI-Africa-Media-Freedom-Monitoring-April-to-June-2026",
