@@ -1,11 +1,20 @@
 {
-  "generatedAt": "2026-09-02T21:04:00.029Z",
+  "generatedAt": "2026-09-03T00:16:42.587Z",
   "feedsChecked": 10,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
+        {
+          "title": "Egypt: Cairo and Beijing sign deals on economy, technology",
+          "link": "http://www.africanews.com/2026/09/02/egypt-cairo-and-beijing-sign-deals-on-economy-technology/",
+          "description": "On Wednesday, Xi Jinping and his Egyptian counterpart, president Abdel Fatah el-Sissi, oversaw the signing of a series of deals, including on technology, economic co operation and the digital economy.",
+          "pubDate": "Wed, 02 Sep 2026 20:34:50 +0000",
+          "source": "Africanews",
+          "lang": "en",
+          "titleIt": "Egypt: Cairo and Beijing sign deals on economy, technology"
+        },
         {
           "title": "Bus crash on Egypt's Red Sea coast kills 22",
           "link": "https://www.bbc.co.uk/news/articles/cn8mr1myy2ko?at_medium=RSS&at_campaign=rss",
@@ -176,15 +185,6 @@
           "source": "Crisis Group",
           "lang": "en",
           "titleIt": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab"
-        },
-        {
-          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
-          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
-          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
-          "pubDate": "Saturday, May 16, 2026 - 00:08",
-          "source": "Crisis Group",
-          "lang": "en",
-          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
@@ -516,6 +516,15 @@
     "egypt-economy": {
       "title": "Fragilità economica egiziana",
       "items": [
+        {
+          "title": "Egypt: Cairo and Beijing sign deals on economy, technology",
+          "link": "http://www.africanews.com/2026/09/02/egypt-cairo-and-beijing-sign-deals-on-economy-technology/",
+          "description": "On Wednesday, Xi Jinping and his Egyptian counterpart, president Abdel Fatah el-Sissi, oversaw the signing of a series of deals, including on technology, economic co operation and the digital economy.",
+          "pubDate": "Wed, 02 Sep 2026 20:34:50 +0000",
+          "source": "Africanews",
+          "lang": "en",
+          "titleIt": "Egypt: Cairo and Beijing sign deals on economy, technology"
+        },
         {
           "title": "Chinese President Xi starts state visit to Egypt with energy, AI on agenda",
           "link": "http://www.africanews.com/2026/09/02/chinese-president-xi-starts-state-visit-to-egypt-with-energy-ai-on-agenda/",
