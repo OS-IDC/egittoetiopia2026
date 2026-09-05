@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T04:27:53.128Z",
+  "generatedAt": "2026-09-05T10:36:22.364Z",
   "feedsChecked": 10,
   "feedsAttempted": 10,
   "topics": {
@@ -86,15 +86,6 @@
           "source": "Africanews",
           "lang": "en",
           "titleIt": "Egypt: Cairo and Beijing sign deals on economy, technology"
-        },
-        {
-          "title": "Chinese President Xi starts state visit to Egypt with energy, AI on agenda",
-          "link": "http://www.africanews.com/2026/09/02/chinese-president-xi-starts-state-visit-to-egypt-with-energy-ai-on-agenda/",
-          "description": "The leaders are expected to sign agreements on artificial intelligence, transport, energy and investment in the Suez Canal Economic Zone, Egyptian media reported",
-          "pubDate": "Wed, 02 Sep 2026 05:34:15 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "Chinese President Xi starts state visit to Egypt with energy, AI on agenda"
         },
         {
           "title": "The Copyright Trap: How fake claims are silencing independent media and journalists in Somalia",
@@ -185,12 +176,30 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "Somalia's New Speaker Got His Parliamentary Seat Through a Military Operation. His Career Was Built by Turkey."
+        },
+        {
+          "title": "A Government With One Foot Out the Door: Somalia's Foreign Passport Crisis",
+          "link": "https://hornobserver.com/articles/3710/A-Government-With-One-Foot-Out-the-Door-Somalias-Foreign-Passport-Crisis",
+          "description": "It took a Kenyan airport officer to do what Somalia's own constitution could not. He was not alone. On July 26, State Minister at the Presidency Abshir Bukhaari — a former First Deputy Speaker of Somalia's Senate — was also denied entry at the same airport and placed on a return flight to Mogadishu after immigration officials raised questions about his travel documents. Neither the Kenyan nor the Somali government has officially confirmed the reasons behind the incident. Somalia's Foreign Ministry summoned Kenya's ambassador for consultations the following day. The embarrassments forced Presid",
+          "pubDate": "Sat, 08 Aug 2026 11:40:07 +0300",
+          "source": "Horn Observer",
+          "lang": "en",
+          "titleIt": "A Government With One Foot Out the Door: Somalia's Foreign Passport Crisis"
         }
       ]
     },
     "somaliland": {
       "title": "Dossier Somaliland",
       "items": [
+        {
+          "title": "Kenya: Aircraft Allegedly Flown Out of Kisumu Despite Court Order, Fraud Trial Hears",
+          "link": "https://allafrica.com/stories/202609040376.html",
+          "description": "[Capital FM] Nairobi -- A disputed C-160 Transall cargo aircraft was allegedly flown out of Kisumu International Airport despite a High Court order barring its removal, a court has heard in the criminal case against four foreign nationals accused of forgery and conspiracy to commit a felony.",
+          "pubDate": "Fri, 04 Sep 2026 12:10:44 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Kenya: Aircraft Allegedly Flown Out of Kisumu Despite Court Order, Fraud Trial Hears"
+        },
         {
           "title": "Somalia: How Mogadishu Removes a Regional President. It Costs Cash, or It Costs an Army",
           "link": "https://hornobserver.com/articles/3725/Somalia-How-Mogadishu-Removes-a-Regional-President-It-Costs-Cash-or-It-Costs-an-Army",
@@ -305,6 +314,15 @@
           "titleIt": "Meloni govt to extend 17-cent cut in diesel duties to Sept 10"
         },
         {
+          "title": "Kenya: Aircraft Allegedly Flown Out of Kisumu Despite Court Order, Fraud Trial Hears",
+          "link": "https://allafrica.com/stories/202609040376.html",
+          "description": "[Capital FM] Nairobi -- A disputed C-160 Transall cargo aircraft was allegedly flown out of Kisumu International Airport despite a High Court order barring its removal, a court has heard in the criminal case against four foreign nationals accused of forgery and conspiracy to commit a felony.",
+          "pubDate": "Fri, 04 Sep 2026 12:10:44 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Kenya: Aircraft Allegedly Flown Out of Kisumu Despite Court Order, Fraud Trial Hears"
+        },
+        {
           "title": "Meloni govt to extend 17-cent cut in diesel duties to Sept 10",
           "link": "https://www.ansa.it/english/news/2026/09/04/meloni-govt-to-extend-17-cent-cut-in-diesel-duties-to-sept-10_8e2bad50-a7af-4457-8550-db4fdbfa8ed6.html",
           "description": "(ANSA) - ROME, 04 SET - The economy ministry has prepared a decree extending a 17-cent cut in diesel duties until September 10, sources said on Friday. The cut was first introduced by Premier Giorgia Meloni's government at the end of July to help people cope with high fuel costs following the return of conflict in the Persian Gulf and it has been renewed several times since. The current reduction was set to expire on Saturday. The cut, which does not regard unleaded petrol, has not stopped diesel prices from rising well above two euros a litre. The centre-left opposition has criticised the cut",
@@ -366,24 +384,6 @@
           "source": "ANSA English",
           "lang": "en",
           "titleIt": "Barilla buys American macaroni-cheese brand Goodles"
-        },
-        {
-          "title": "Senegal and IMF agree new $2.2 billion loan programme",
-          "link": "http://www.africanews.com/2026/09/01/senegal-and-imf-agree-new-22-billion-loan-programme/",
-          "description": "Senegal has reached an agreement with the International Monetary Fund on a new $2.2 billion debt programme, the financial institution said on Tuesday. An earlier agreement was suspended in 2024 after the discovery of underreported debt.",
-          "pubDate": "Wed, 02 Sep 2026 07:03:42 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "Senegal and IMF agree new $2.2 billion loan programme"
-        },
-        {
-          "title": "Chinese President Xi starts state visit to Egypt with energy, AI on agenda",
-          "link": "http://www.africanews.com/2026/09/02/chinese-president-xi-starts-state-visit-to-egypt-with-energy-ai-on-agenda/",
-          "description": "The leaders are expected to sign agreements on artificial intelligence, transport, energy and investment in the Suez Canal Economic Zone, Egyptian media reported",
-          "pubDate": "Wed, 02 Sep 2026 05:34:15 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "Chinese President Xi starts state visit to Egypt with energy, AI on agenda"
         },
         {
           "title": "The Copyright Trap: How fake claims are silencing independent media and journalists in Somalia",
@@ -470,15 +470,6 @@
           "source": "Africanews",
           "lang": "en",
           "titleIt": "Egypt: Cairo and Beijing sign deals on economy, technology"
-        },
-        {
-          "title": "Chinese President Xi starts state visit to Egypt with energy, AI on agenda",
-          "link": "http://www.africanews.com/2026/09/02/chinese-president-xi-starts-state-visit-to-egypt-with-energy-ai-on-agenda/",
-          "description": "The leaders are expected to sign agreements on artificial intelligence, transport, energy and investment in the Suez Canal Economic Zone, Egyptian media reported",
-          "pubDate": "Wed, 02 Sep 2026 05:34:15 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "Chinese President Xi starts state visit to Egypt with energy, AI on agenda"
         }
       ]
     },
@@ -493,6 +484,15 @@
           "source": "AllAfrica",
           "lang": "en",
           "titleIt": "Ethiopia: Ethiopia Connects Climate Solutions From Field To Factory"
+        },
+        {
+          "title": "Kenya: Kuria Warns Kenya Will Fall Behind Uganda, Tanzania Unless It Changes Industrialisation Policy",
+          "link": "https://allafrica.com/stories/202609040399.html",
+          "description": "[Capital FM] Nairobi -- Former Investments, Trade and Industry Cabinet Secretary Moses Kuria has backed the Government's decision to push Tata Chemicals Magadi out of Kenya, arguing that the country risks being overtaken by Uganda, Ethiopia, Tanzania and the Democratic Republic of Congo unless it fundamentally changes how it exploits its natural resources.",
+          "pubDate": "Fri, 04 Sep 2026 12:18:46 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Kenya: Kuria Warns Kenya Will Fall Behind Uganda, Tanzania Unless It Changes Industrialisation Policy"
         },
         {
           "title": "Boy, 6, in coma after pool accident in Egypt being flown back to Italy - Tajani",
@@ -538,15 +538,6 @@
           "source": "ANSA English",
           "lang": "en",
           "titleIt": "Tajani meets Sisi, set to sign agreement with Egypt on migrants"
-        },
-        {
-          "title": "Chinese President Xi starts state visit to Egypt with energy, AI on agenda",
-          "link": "http://www.africanews.com/2026/09/02/chinese-president-xi-starts-state-visit-to-egypt-with-energy-ai-on-agenda/",
-          "description": "The leaders are expected to sign agreements on artificial intelligence, transport, energy and investment in the Suez Canal Economic Zone, Egyptian media reported",
-          "pubDate": "Wed, 02 Sep 2026 05:34:15 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "Chinese President Xi starts state visit to Egypt with energy, AI on agenda"
         },
         {
           "title": "IPI: Africa Media Freedom Monitoring: April to June 2026",
