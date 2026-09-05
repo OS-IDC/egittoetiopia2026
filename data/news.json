@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T15:14:30.811Z",
+  "generatedAt": "2026-09-05T18:19:15.415Z",
   "feedsChecked": 10,
   "feedsAttempted": 10,
   "topics": {
@@ -296,15 +296,6 @@
       "title": "Accesso etiope al mare",
       "items": [
         {
-          "title": "El Salvador: Bukele nega il trasferimento della riserva strategica di bitcoin (2)",
-          "link": "https://www.agenzianova.com/a/6a9c31d484c789.38905762/7749202/2026-09-05/el-salvador-bukele-nega-il-trasferimento-della-riserva-strategica-di-bitcoin-2",
-          "description": "05 set 16:32 - (Agenzia Nova) - L'Fmi ha reso noto che la partecipazione pubblica nel portafoglio digitale statale Chivo \"si e' ridotta sostanzialmente\"... (Mec)",
-          "pubDate": "2026-09-05T16:32:34+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "El Salvador: Bukele nega il trasferimento della riserva strategica di bitcoin (2)"
-        },
-        {
           "title": "Unqualified  doctor heading children ward at QMMH",
           "link": "https://lestimes.com/?p=91431",
           "source": "lestimes.com",
@@ -474,6 +465,15 @@
           "lang": "en",
           "description": "",
           "titleIt": "Tianjin expo seeks to broaden tourism appeal beyond urban hot spots"
+        },
+        {
+          "title": "Uganda: Uganda, U.S. Sign $1.7 Billion Health Sector Agreement",
+          "link": "https://allafrica.com/stories/202609040085.html",
+          "description": "[Nile Post] Uganda and the United States have signed a five-year health sector agreement worth about Shs6.42 trillion, shifting a significant portion of US health assistance towards direct government-to-government financing.",
+          "pubDate": "Fri, 04 Sep 2026 06:53:56 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Uganda: Uganda, U.S. Sign $1.7 Billion Health Sector Agreement"
         }
       ]
     },
@@ -511,6 +511,15 @@
           "source": "AllAfrica",
           "lang": "en",
           "titleIt": "Ethiopia: Ethiopia Connects Climate Solutions From Field To Factory"
+        },
+        {
+          "title": "Uganda: Uganda, U.S. Sign $1.7 Billion Health Sector Agreement",
+          "link": "https://allafrica.com/stories/202609040085.html",
+          "description": "[Nile Post] Uganda and the United States have signed a five-year health sector agreement worth about Shs6.42 trillion, shifting a significant portion of US health assistance towards direct government-to-government financing.",
+          "pubDate": "Fri, 04 Sep 2026 06:53:56 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Uganda: Uganda, U.S. Sign $1.7 Billion Health Sector Agreement"
         },
         {
           "title": "Boy, 6, in coma after pool accident in Egypt being flown back to Italy - Tajani",
@@ -664,15 +673,6 @@
           "lang": "en",
           "description": "",
           "titleIt": "Sudan Farms Lie Barren as El Nino Leaves Nile Banks Dry"
-        },
-        {
-          "title": "Overnight News Digest : Friday night elsewhere",
-          "link": "https://www.dailykos.com/stories/2026/8/21/800087838/community/overnight-news-digest-friday-night-elsewhere-9/",
-          "source": "dailykos.com",
-          "pubDate": "2026-08-22T05:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Overnight News Digest : Friday night elsewhere"
         }
       ]
     }
