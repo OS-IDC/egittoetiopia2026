@@ -1,11 +1,29 @@
 {
-  "generatedAt": "2026-09-07T18:45:13.250Z",
+  "generatedAt": "2026-09-07T22:51:57.325Z",
   "feedsChecked": 10,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
+        {
+          "title": "Energia: importazioni di gas naturale aumentate del 73 per cento (2)",
+          "link": "https://www.agenzianova.com/a/6a9f40099473c7.29444864/7754125/2026-09-07/energia-importazioni-di-gas-naturale-aumentate-del-73-per-cento-2",
+          "description": "07 set 21:01 - (Agenzia Nova) - Le importazioni egiziane di gas naturale liquefatto lo scorso luglio sono aumentate del 70 per cento, ovvero... (Cae)",
+          "pubDate": "2026-09-07T21:01:47+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Energia: importazioni di gas naturale aumentate del 73 per cento (2)"
+        },
+        {
+          "title": "Energia: importazioni di gas naturale aumentate del 73 per cento",
+          "link": "https://www.agenzianova.com/a/6a9f4009948a64.40516398/7754124/2026-09-07/energia-importazioni-di-gas-naturale-aumentate-del-73-per-cento",
+          "description": "07 set 21:01 - (Agenzia Nova) - Il valore delle importazioni egiziane di gas naturale e' aumentato del 73 per cento nel primo semestre del... (Cae)",
+          "pubDate": "2026-09-07T21:01:47+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Energia: importazioni di gas naturale aumentate del 73 per cento"
+        },
         {
           "title": "Arab League urges restraint as regional tensions escalate",
           "link": "http://www.africanews.com/2026/09/07/arab-league-urges-restraint-as-regional-tensions-escalate/",
@@ -167,6 +185,83 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "Laftagareen's Forces Attack Baidoa, Reviving the Fight Somalia Thought It Had Won"
+        }
+      ]
+    },
+    "somaliland": {
+      "title": "Dossier Somaliland",
+      "items": [
+        {
+          "title": "Kenya: Oparanya Convenes Western Leaders in Kisumu, Rallies Support for Ruto's Re-Election",
+          "link": "https://allafrica.com/stories/202609070413.html",
+          "description": "[Capital FM] Kisumu -- Cooperatives Cabinet Secretary Wycliffe Oparanya has convened elected and nominated leaders from Western Kenya in Kisumu to chart a common political and development agenda for the region ahead of the 2027 General Election.",
+          "pubDate": "Mon, 07 Sep 2026 12:09:37 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Kenya: Oparanya Convenes Western Leaders in Kisumu, Rallies Support for Ruto's Re-Election"
+        },
+        {
+          "title": "Somali journalist Bashir Mohamed Abdullahi dies after being shot during Baidoa clashes",
+          "link": "https://hornobserver.com/articles/3731/Somali-journalist-Bashir-Mohamed-Abdullahi-dies-after-being-shot-during-Baidoa-clashes",
+          "description": "MOGADISHU, Somalia 7 September 2026 – The Somali Journalists Syndicate (SJS) expresses its deepest condolences over the death of journalist Bashir Mohamed Abdullahi, also known as Bashir Moalin, a reporter with the local Arlaadi Media Network, who succumbed to gunshot injuries sustained during armed clashes in Baidoa on Thursday, 3 September 2026. He becomes the second journalist killed in Somalia this year. Early on Monday, 7 September 2026, Bashir, 28, died from critical injuries he sustained while seeking shelter during armed clashes in Baidoa, Southwest State, his family told SJS. Accordin",
+          "pubDate": "Mon, 07 Sep 2026 13:49:29 +0300",
+          "source": "Horn Observer",
+          "lang": "en",
+          "titleIt": "Somali journalist Bashir Mohamed Abdullahi dies after being shot during Baidoa clashes"
+        },
+        {
+          "title": "Kenya: Ruto, Governors Set for Talks to End Nationwide Nurses' Strike",
+          "link": "https://allafrica.com/stories/202609070033.html",
+          "description": "[Capital FM] Nairobi -- President William Ruto and governors are set to hold talks on Monday as pressure mounts to resolve the nationwide nurses' strike that has disrupted healthcare services across Kenya.",
+          "pubDate": "Mon, 07 Sep 2026 05:24:01 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Kenya: Ruto, Governors Set for Talks to End Nationwide Nurses' Strike"
+        },
+        {
+          "title": "Protests Erupt in Somalia's Gedo Region Over Alleged Turkish Strikes in Doolow",
+          "link": "https://hornobserver.com/articles/3729/Protests-Erupt-in-Somalias-Gedo-Region-Over-Alleged-Turkish-Strikes-in-Doolow",
+          "description": "In Doolow, protesters accused Turkey of becoming involved in Somalia's political and clan disputes and expressed anger over the reported attack on General Shub's residence. Demonstrators chanted slogans critical of the federal government led by President Hassan Sheikh Mohamud and called for those responsible to be identified and held accountable. The residence of General Shub was reportedly targeted in an overnight attack involving a drone. General Shub and members of his family were reportedly inside the house at the time and sustained minor injuries. The Somali federal government has rejecte",
+          "pubDate": "Sat, 05 Sep 2026 22:24:29 +0300",
+          "source": "Horn Observer",
+          "lang": "en",
+          "titleIt": "Protests Erupt in Somalia's Gedo Region Over Alleged Turkish Strikes in Doolow"
+        },
+        {
+          "title": "Somalia: How Mogadishu Removes a Regional President. It Costs Cash, or It Costs an Army",
+          "link": "https://hornobserver.com/articles/3725/Somalia-How-Mogadishu-Removes-a-Regional-President-It-Costs-Cash-or-It-Costs-an-Army",
+          "description": "An investigation into South West State, Hirshabelle, and Galmudug found that federal governments — Farmaajo's and now Hassan Sheikh Mohamud's — have used two tools to control who governs the regions. The first is cash. The second, used once so far, is force. The First Payment In 2018, South West State's president, Sharif Hassan Sheikh Aden, stood in the way of Mogadishu's plans. He had a strong clan base and his own political network. He was not easy to remove. So Mogadishu paid him. According to sources with direct knowledge of the negotiations, Sharif Hassan received about two million US dol",
+          "pubDate": "Thu, 03 Sep 2026 15:54:42 +0300",
+          "source": "Horn Observer",
+          "lang": "en",
+          "titleIt": "Somalia: How Mogadishu Removes a Regional President. It Costs Cash, or It Costs an Army"
+        },
+        {
+          "title": "The Copyright Trap: How fake claims are silencing independent media and journalists in Somalia",
+          "link": "https://hornobserver.com/articles/3723/The-Copyright-Trap-How-fake-claims-are-silencing-independent-media-and-journalists-in-Somalia",
+          "description": "Journalists, editors and media managers told SJS that the attacks intensified early this year amid opposition protests in Mogadishu and escalating tensions between the Federal Government and Southwest State, as well as the continuing political rift with Puntland. The attacks are contributing to a shrinking space for independent reporting across the country. With Facebook serving as the primary news and communication platform for most Somali journalists and the general public, the copyright strikes, removals and account restrictions have significantly limited journalists' ability to report and ",
+          "pubDate": "Tue, 01 Sep 2026 07:25:00 +0300",
+          "source": "Horn Observer",
+          "lang": "en",
+          "titleIt": "The Copyright Trap: How fake claims are silencing independent media and journalists in Somalia"
+        },
+        {
+          "title": "Somalia: The Killer Who Was Also a Journalist — And the Method That Didn't Die With Him",
+          "link": "https://hornobserver.com/articles/3721/Somalia-The-Killer-Who-Was-Also-a-Journalist-And-the-Method-That-Didnt-Die-With-Him",
+          "description": "Hanafi did more than report on al-Shabaab. He became the group´s eyes inside Somalia's newsrooms. He picked out which journalists to threaten, which ones to trap, and which ones to have killed. A military court found him responsible for the deaths of five journalists between 2007 and 2010, including HornAfrik co-founder Ali Iimaan Sharma'arke and Radio Mogadishu´s Sheikh Nur Mohamed Abkey. Abkey was the only one Hanafi admitted to killing with his own hands. His method was simple. As al-Shabaab´s head of press monitoring, he tracked which journalists criticized the group or spoke well of the g",
+          "pubDate": "Thu, 27 Aug 2026 19:43:58 +0300",
+          "source": "Horn Observer",
+          "lang": "en",
+          "titleIt": "Somalia: The Killer Who Was Also a Journalist — And the Method That Didn't Die With Him"
+        },
+        {
+          "title": "Laftagareen's Forces Attack Baidoa, Reviving the Fight Somalia Thought It Had Won",
+          "link": "https://hornobserver.com/articles/3716/Laftagareens-Forces-Attack-Baidoa-Reviving-the-Fight-Somalia-Thought-It-Had-Won",
+          "description": "Residents reported heavy gunfire and explosions in the Towfiiq neighborhood. Fighting broke out around 5 a.m. Somalia's Ministry of Defense said the assault involved vehicles packed with explosives. It described the attacking force as a mix of Al-Shabaab militants and militias loyal to Laftagareen — using the term \"Khawaarij,\" the standard Somali term for Al-Shabaab, to describe them. The ministry said its forces repelled the attack and killed at least 30 of the assailants. Laftagareen's side told a different story. His spokesperson, Hassan Mohamed, said in a statement that Laftagareen's force",
+          "pubDate": "Thu, 20 Aug 2026 15:58:57 +0300",
+          "source": "Horn Observer",
+          "lang": "en",
+          "titleIt": "Laftagareen's Forces Attack Baidoa, Reviving the Fight Somalia Thought It Had Won"
         },
         {
           "title": "Conflict Drives Farmers Into Somalia's capital Mogadishu",
@@ -185,206 +280,30 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "Policy Brief: From Elections to Democratic Governance: Strengthening Political Stability and Electoral Integrity in Somalia's Galmudug"
-        }
-      ]
-    },
-    "somaliland": {
-      "title": "Dossier Somaliland",
-      "items": [
-        {
-          "title": "Gulf states Africa investment shifts to ports and bases",
-          "link": "https://www.riotimesonline.com/gulf-states-africa-investment-2026/",
-          "source": "riotimesonline.com",
-          "pubDate": "2026-09-07T16:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Gulf states Africa investment shifts to ports and bases"
         },
         {
-          "title": "Kenya: Oparanya Convenes Western Leaders in Kisumu, Rallies Support for Ruto's Re-Election",
-          "link": "https://allafrica.com/stories/202609070413.html",
-          "description": "[Capital FM] Kisumu -- Cooperatives Cabinet Secretary Wycliffe Oparanya has convened elected and nominated leaders from Western Kenya in Kisumu to chart a common political and development agenda for the region ahead of the 2027 General Election.",
-          "pubDate": "Mon, 07 Sep 2026 12:09:37 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Kenya: Oparanya Convenes Western Leaders in Kisumu, Rallies Support for Ruto's Re-Election"
-        },
-        {
-          "title": "Sudan Borders Have Become as Dangerous as the War Itself",
-          "link": "https://themedialine.org/top-stories/sudans-borders-have-become-as-dangerous-as-the-war-itself/",
-          "source": "themedialine.org",
-          "pubDate": "2026-09-07T11:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Sudan Borders Have Become as Dangerous as the War Itself"
-        },
-        {
-          "title": "Somali journalist Bashir Mohamed Abdullahi dies after being shot during Baidoa clashes",
-          "link": "https://hornobserver.com/articles/3731/Somali-journalist-Bashir-Mohamed-Abdullahi-dies-after-being-shot-during-Baidoa-clashes",
-          "description": "MOGADISHU, Somalia 7 September 2026 – The Somali Journalists Syndicate (SJS) expresses its deepest condolences over the death of journalist Bashir Mohamed Abdullahi, also known as Bashir Moalin, a reporter with the local Arlaadi Media Network, who succumbed to gunshot injuries sustained during armed clashes in Baidoa on Thursday, 3 September 2026. He becomes the second journalist killed in Somalia this year. Early on Monday, 7 September 2026, Bashir, 28, died from critical injuries he sustained while seeking shelter during armed clashes in Baidoa, Southwest State, his family told SJS. Accordin",
-          "pubDate": "Mon, 07 Sep 2026 13:49:29 +0300",
+          "title": "Journalist Mascuud Warsame tells SJS about his 39-day ordeal in Somalia's spy agency detention facility",
+          "link": "https://hornobserver.com/articles/3713/Journalist-Mascuud-Warsame-tells-SJS-about-his-39-day-ordeal-in-Somalias-spy-agency-detention-facility",
+          "description": "On 30 June 2026, Mascuud Warsame, journalist and founder of an online media platform, Xogbile, was kidnapped by three armed NISA officers shortly after leaving his workplace on Maka Al-Mukarama Avenue in Somalia's capital, Mogadishu. Mascuud was held in a NISA detention facility until his release on 8 August 2026 without charge and was never brought before a court. For the first time, Mascuud Warsame has spoken to SJS about his ordeal inside the NISA detention facility. Mascuud, 35, said that on the night of his abduction, three NISA officers drove him to a police station in Hodan district, ce",
+          "pubDate": "Wed, 12 Aug 2026 19:23:43 +0300",
           "source": "Horn Observer",
           "lang": "en",
-          "titleIt": "Somali journalist Bashir Mohamed Abdullahi dies after being shot during Baidoa clashes"
+          "titleIt": "Journalist Mascuud Warsame tells SJS about his 39-day ordeal in Somalia's spy agency detention facility"
         },
         {
-          "title": "Nauru Opens Embassy In Jerusalem , Becoming Ninth Country With Mission In Israeli Capital",
-          "link": "https://www.i24news.tv/en/news/israel/diplomacy/artc-nauru-opens-embassy-in-jerusalem-becoming-ninth-country-with-mission-in-israeli-capital",
-          "source": "i24news.tv",
-          "pubDate": "2026-09-07T09:00:00Z",
+          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
+          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
+          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
+          "pubDate": "Saturday, May 16, 2026 - 00:08",
+          "source": "Crisis Group",
           "lang": "en",
-          "description": "",
-          "titleIt": "Nauru Opens Embassy In Jerusalem , Becoming Ninth Country With Mission In Israeli Capital"
-        },
-        {
-          "title": "Battle for water : Could the Nile dispute trigger a regional war ?",
-          "link": "https://news.az/news/battle-for-water-could-the-nile-dispute-trigger-a-regional-war",
-          "source": "news.az",
-          "pubDate": "2026-09-07T08:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Battle for water : Could the Nile dispute trigger a regional war ?"
-        },
-        {
-          "title": "Congo - Kinshasa : DR Congo Eyes Jerusalem Embassy As Tshisekedi Seeks Israel Support",
-          "link": "https://allafrica.com/stories/202609070006.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-09-07T06:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Congo - Kinshasa : DR Congo Eyes Jerusalem Embassy As Tshisekedi Seeks Israel Support"
-        },
-        {
-          "title": "Kenya: Ruto, Governors Set for Talks to End Nationwide Nurses' Strike",
-          "link": "https://allafrica.com/stories/202609070033.html",
-          "description": "[Capital FM] Nairobi -- President William Ruto and governors are set to hold talks on Monday as pressure mounts to resolve the nationwide nurses' strike that has disrupted healthcare services across Kenya.",
-          "pubDate": "Mon, 07 Sep 2026 05:24:01 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Kenya: Ruto, Governors Set for Talks to End Nationwide Nurses' Strike"
-        },
-        {
-          "title": "Puntland Road Advantage : Why Deni Can Reach His People by Road While Other Somali Presidents Cannot",
-          "link": "https://wardheernews.com/puntlands-road-advantage-why-deni-can-reach-his-people-by-road-while-other-somali-presidents-cannot/",
-          "source": "wardheernews.com",
-          "pubDate": "2026-09-06T22:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Puntland Road Advantage : Why Deni Can Reach His People by Road While Other Somali Presidents Cannot"
-        },
-        {
-          "title": "Protests Erupt in Somalia's Gedo Region Over Alleged Turkish Strikes in Doolow",
-          "link": "https://hornobserver.com/articles/3729/Protests-Erupt-in-Somalias-Gedo-Region-Over-Alleged-Turkish-Strikes-in-Doolow",
-          "description": "In Doolow, protesters accused Turkey of becoming involved in Somalia's political and clan disputes and expressed anger over the reported attack on General Shub's residence. Demonstrators chanted slogans critical of the federal government led by President Hassan Sheikh Mohamud and called for those responsible to be identified and held accountable. The residence of General Shub was reportedly targeted in an overnight attack involving a drone. General Shub and members of his family were reportedly inside the house at the time and sustained minor injuries. The Somali federal government has rejecte",
-          "pubDate": "Sat, 05 Sep 2026 22:24:29 +0300",
-          "source": "Horn Observer",
-          "lang": "en",
-          "titleIt": "Protests Erupt in Somalia's Gedo Region Over Alleged Turkish Strikes in Doolow"
-        },
-        {
-          "title": "Somalia Geopolitical Reset : Is the World Giving Up on One Somalia ?",
-          "link": "https://wardheernews.com/somalias-geopolitical-reset-is-the-world-giving-up-on-one-somalia/",
-          "source": "wardheernews.com",
-          "pubDate": "2026-09-05T18:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Somalia Geopolitical Reset : Is the World Giving Up on One Somalia ?"
-        },
-        {
-          "title": "Community mourns the loss of OSU doctoral student",
-          "link": "https://dailybaro.orangemedianetwork.com/32857/daily-barometer-news/community-mourns-the-loss-of-osu-doctoral-student/",
-          "source": "dailybaro.orangemedianetwork.com",
-          "pubDate": "2026-09-05T00:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Community mourns the loss of OSU doctoral student"
-        },
-        {
-          "title": "Recognizing Somaliland Would Help the United States Confront Iran and the Houthis .",
-          "link": "https://foreignpolicy.com/2026/09/04/somaliland-somalia-iran-houthis-united-states-israel/",
-          "source": "foreignpolicy.com",
-          "pubDate": "2026-09-04T20:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Recognizing Somaliland Would Help the United States Confront Iran and the Houthis ."
-        },
-        {
-          "title": "Recognizing Somaliland Would Help the United States Confront Iran and the Houthis .",
-          "link": "https://foreignpolicy.com/2026/09/04/somaliland-somalia-iran-houthis-united-states-israel/?tpcc=recirc_trending062921",
-          "source": "foreignpolicy.com",
-          "pubDate": "2026-09-04T20:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Recognizing Somaliland Would Help the United States Confront Iran and the Houthis ."
-        },
-        {
-          "title": "Somalia : Somaliland President Departs for First Official Working Visit to United States",
-          "link": "https://allafrica.com/stories/202609040034.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-09-04T07:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Somalia : Somaliland President Departs for First Official Working Visit to United States"
-        },
-        {
-          "title": "Somalia: How Mogadishu Removes a Regional President. It Costs Cash, or It Costs an Army",
-          "link": "https://hornobserver.com/articles/3725/Somalia-How-Mogadishu-Removes-a-Regional-President-It-Costs-Cash-or-It-Costs-an-Army",
-          "description": "An investigation into South West State, Hirshabelle, and Galmudug found that federal governments — Farmaajo's and now Hassan Sheikh Mohamud's — have used two tools to control who governs the regions. The first is cash. The second, used once so far, is force. The First Payment In 2018, South West State's president, Sharif Hassan Sheikh Aden, stood in the way of Mogadishu's plans. He had a strong clan base and his own political network. He was not easy to remove. So Mogadishu paid him. According to sources with direct knowledge of the negotiations, Sharif Hassan received about two million US dol",
-          "pubDate": "Thu, 03 Sep 2026 15:54:42 +0300",
-          "source": "Horn Observer",
-          "lang": "en",
-          "titleIt": "Somalia: How Mogadishu Removes a Regional President. It Costs Cash, or It Costs an Army"
-        },
-        {
-          "title": "In Somaliland , a book fair is writing a nation into existence",
-          "link": "https://www.csmonitor.com/World/Africa/2026/0903/hargeisa-international-book-fair-somaliland-recognition",
-          "source": "csmonitor.com",
-          "pubDate": "2026-09-03T10:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "In Somaliland , a book fair is writing a nation into existence"
-        },
-        {
-          "title": "The AU - EU Youth Action Lab Entrepreneurship Grants 2026 for youth - led initiatives in Africa ( 31 , 500 EURO grant )",
-          "link": "https://www.opportunitiesforafricans.com/the-au-eu-youth-action-lab-entrepreneurship-grants-2026-for-youth-led-initiatives-in-africa/",
-          "source": "opportunitiesforafricans.com",
-          "pubDate": "2026-09-02T22:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The AU - EU Youth Action Lab Entrepreneurship Grants 2026 for youth - led initiatives in Africa ( 31 , 500 EURO grant )"
-        },
-        {
-          "title": "Somalia Says Ankara Declaration Governs Ties With Ethiopia , Somaliland Deal No Longer Relevant",
-          "link": "https://www.garoweonline.com/en/news/somalia/somalia-says-ankara-declaration-governs-ties-with-ethiopia-somaliland-deal-no-longer-relevant",
-          "source": "garoweonline.com",
-          "pubDate": "2026-09-02T10:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Somalia Says Ankara Declaration Governs Ties With Ethiopia , Somaliland Deal No Longer Relevant"
-        },
-        {
-          "title": "PUSH FOR RECOGNITION : Somaliland President Heading To Washington For First U . S . Visit",
-          "link": "https://www.theyeshivaworld.com/news/general/2592354/push-for-recognition-somaliland-president-heading-to-washington-for-first-u-s-visit.html",
-          "source": "theyeshivaworld.com",
-          "pubDate": "2026-09-02T02:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "PUSH FOR RECOGNITION : Somaliland President Heading To Washington For First U . S . Visit"
+          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
     "ethiopia-sea-access": {
       "title": "Accesso etiope al mare",
       "items": [
-        {
-          "title": "Cinema: Giuli firma Accordo di coproduzione con la Corea del Sud",
-          "link": "https://www.agenzianova.com/a/6a9f063585e890.42004851/7754080/2026-09-07/cinema-giuli-firma-accordo-di-coproduzione-con-la-corea-del-sud",
-          "description": "07 set 19:57 - (Agenzia Nova) - Il ministro della Cultura, Alessandro Giuli e il ministro della Cultura, Sport e Turismo della Repubblica di... (Com)",
-          "pubDate": "2026-09-07T19:57:59+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Cinema: Giuli firma Accordo di coproduzione con la Corea del Sud"
-        },
         {
           "title": "Arab League urges restraint as regional tensions escalate",
           "link": "http://www.africanews.com/2026/09/07/arab-league-urges-restraint-as-regional-tensions-escalate/",
@@ -517,181 +436,181 @@
       "title": "Fragilità economica egiziana",
       "items": [
         {
-          "title": "Asian Markets Shine While Europe Slips on Holiday - Thinned Monda",
-          "link": "http://www.jamaicantimes.com/news/279292003/asian-markets-shine-while-europe-slips-on-holiday-thinned-monda",
-          "source": "jamaicantimes.com",
-          "pubDate": "2026-09-07T18:00:00Z",
+          "title": "China - Africa cooperation : The living laboratory BRICS+ cannot afford to ignore",
+          "link": "https://weeklyblitz.net/2026/09/08/china-africa-cooperation-the-living-laboratory-brics-cannot-afford-to-ignore/",
+          "source": "weeklyblitz.net",
+          "pubDate": "2026-09-07T21:30:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Asian Markets Shine While Europe Slips on Holiday - Thinned Monda"
+          "titleIt": "China - Africa cooperation : The living laboratory BRICS+ cannot afford to ignore"
         },
         {
-          "title": "Asian Markets Shine While Europe Slips on Holiday - Thinned Monda",
-          "link": "http://www.sydneysun.com/news/279292003/asian-markets-shine-while-europe-slips-on-holiday-thinned-monda",
-          "source": "sydneysun.com",
-          "pubDate": "2026-09-07T18:00:00Z",
+          "title": "Morocco Wins Presidency of Arab League Permanent Information Committee",
+          "link": "https://www.moroccoworldnews.com/2026/09/337508/morocco-wins-presidency-of-arab-leagues-permanent-information-committee/",
+          "source": "moroccoworldnews.com",
+          "pubDate": "2026-09-07T21:30:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Asian Markets Shine While Europe Slips on Holiday - Thinned Monda"
+          "titleIt": "Morocco Wins Presidency of Arab League Permanent Information Committee"
         },
         {
-          "title": "MNZL Secures Egypt First Dual Digital Lending Licenses",
-          "link": "https://cairoscene.com/Business/MNZL-Secures-Egypt-s-First-Dual-Digital-Lending-Licenses",
-          "source": "cairoscene.com",
-          "pubDate": "2026-09-07T17:45:00Z",
+          "title": "China emphasises judicial cooperation at BRICS Chief Justice Forum",
+          "link": "http://www.middleeaststar.com/news/279291772/china-emphasises-judicial-cooperation-at-brics-chief-justices-forum",
+          "source": "middleeaststar.com",
+          "pubDate": "2026-09-07T21:15:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "MNZL Secures Egypt First Dual Digital Lending Licenses"
-        },
-        {
-          "title": "Egypt Trade Deficit Widens 58 . 5 Percent as Imports Surge",
-          "link": "https://egyptianstreets.com/2026/09/07/egypts-trade-deficit-widens-58-5-percent-as-imports-surge/",
-          "source": "egyptianstreets.com",
-          "pubDate": "2026-09-07T17:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egypt Trade Deficit Widens 58 . 5 Percent as Imports Surge"
-        },
-        {
-          "title": "Asian Markets Shine While Europe Slips on Holiday - Thinned Monda",
-          "link": "http://www.ohiostandard.com/news/279292003/asian-markets-shine-while-europe-slips-on-holiday-thinned-monda",
-          "source": "ohiostandard.com",
-          "pubDate": "2026-09-07T17:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Asian Markets Shine While Europe Slips on Holiday - Thinned Monda"
-        },
-        {
-          "title": "Asian Markets Shine While Europe Slips on Holiday - Thinned Monda",
-          "link": "http://www.tucsonpost.com/news/279292003/asian-markets-shine-while-europe-slips-on-holiday-thinned-monda",
-          "source": "tucsonpost.com",
-          "pubDate": "2026-09-07T17:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Asian Markets Shine While Europe Slips on Holiday - Thinned Monda"
-        },
-        {
-          "title": "Egypt foreign reserves exceed 57 bln USD in August",
-          "link": "http://www.japanherald.com/news/279291566/egypt-foreign-reserves-exceed-57-bln-usd-in-august",
-          "source": "japanherald.com",
-          "pubDate": "2026-09-07T17:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egypt foreign reserves exceed 57 bln USD in August"
-        },
-        {
-          "title": "The day America stood still | GUEST COMMENTARY",
-          "link": "https://www.baltimoresun.com/2026/09/07/the-day-america-stood-still/",
-          "source": "baltimoresun.com",
-          "pubDate": "2026-09-07T17:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The day America stood still | GUEST COMMENTARY"
-        },
-        {
-          "title": "Asian Markets Shine While Europe Slips on Holiday - Thinned Monda",
-          "link": "http://www.albuquerqueexpress.com/news/279292003/asian-markets-shine-while-europe-slips-on-holiday-thinned-monda",
-          "source": "albuquerqueexpress.com",
-          "pubDate": "2026-09-07T17:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Asian Markets Shine While Europe Slips on Holiday - Thinned Monda"
+          "titleIt": "China emphasises judicial cooperation at BRICS Chief Justice Forum"
         },
         {
           "title": "Wall Street Absent , World Markets Divided : Hong Kong Drops Nearly 1 Percent",
-          "link": "http://www.calcuttanews.net/news/279292003/wall-street-absent-world-markets-divided-hong-kong-drops-nearly-1-percent",
+          "link": "http://www.myanmarnews.net/news/279292003/wall-street-absent-world-markets-divided-hong-kong-drops-nearly-1-percent",
+          "source": "myanmarnews.net",
+          "pubDate": "2026-09-07T21:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Wall Street Absent , World Markets Divided : Hong Kong Drops Nearly 1 Percent"
+        },
+        {
+          "title": "Asian Markets Shine While Europe Slips on Holiday - Thinned Monda",
+          "link": "http://www.argentinastar.com/news/279292003/asian-markets-shine-while-europe-slips-on-holiday-thinned-monda",
+          "source": "argentinastar.com",
+          "pubDate": "2026-09-07T21:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Asian Markets Shine While Europe Slips on Holiday - Thinned Monda"
+        },
+        {
+          "title": "Nowhere else do you have such a collective : South African envoy to India Sooklal says BRICS expansion strengthens global influence",
+          "link": "http://www.middleeaststar.com/news/279292247/nowhere-else-do-you-have-such-a-collective-south-african-envoy-to-india-sooklal-says-brics-expansion-strengthens-global-influence",
+          "source": "middleeaststar.com",
+          "pubDate": "2026-09-07T21:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Nowhere else do you have such a collective : South African envoy to India Sooklal says BRICS expansion strengthens global influence"
+        },
+        {
+          "title": "Asian Markets Shine While Europe Slips on Holiday - Thinned Monda",
+          "link": "http://www.newyorkstatesman.com/news/279292003/asian-markets-shine-while-europe-slips-on-holiday-thinned-monda",
+          "source": "newyorkstatesman.com",
+          "pubDate": "2026-09-07T21:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Asian Markets Shine While Europe Slips on Holiday - Thinned Monda"
+        },
+        {
+          "title": "Asian Markets Shine While Europe Slips on Holiday - Thinned Monda",
+          "link": "http://www.torontotelegraph.com/news/279292003/asian-markets-shine-while-europe-slips-on-holiday-thinned-monda",
+          "source": "torontotelegraph.com",
+          "pubDate": "2026-09-07T21:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Asian Markets Shine While Europe Slips on Holiday - Thinned Monda"
+        },
+        {
+          "title": "Asian Markets Shine While Europe Slips on Holiday - Thinned Monda",
+          "link": "http://www.stlouisstar.com/news/279292003/asian-markets-shine-while-europe-slips-on-holiday-thinned-monda",
+          "source": "stlouisstar.com",
+          "pubDate": "2026-09-07T20:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Asian Markets Shine While Europe Slips on Holiday - Thinned Monda"
+        },
+        {
+          "title": "Asian Markets Shine While Europe Slips on Holiday - Thinned Monda",
+          "link": "http://www.nigeriasun.com/news/279292003/asian-markets-shine-while-europe-slips-on-holiday-thinned-monda",
+          "source": "nigeriasun.com",
+          "pubDate": "2026-09-07T20:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Asian Markets Shine While Europe Slips on Holiday - Thinned Monda"
+        },
+        {
+          "title": "Nowhere else do you have such a collective : South African envoy to India Sooklal says BRICS expansion strengthens global influence",
+          "link": "http://www.nigeriasun.com/news/279292247/nowhere-else-do-you-have-such-a-collective-south-african-envoy-to-india-sooklal-says-brics-expansion-strengthens-global-influence",
+          "source": "nigeriasun.com",
+          "pubDate": "2026-09-07T20:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Nowhere else do you have such a collective : South African envoy to India Sooklal says BRICS expansion strengthens global influence"
+        },
+        {
+          "title": "Nowhere else do you have such a collective : South African envoy to India Sooklal says BRICS expansion strengthens global influence",
+          "link": "http://www.calcuttanews.net/news/279292247/nowhere-else-do-you-have-such-a-collective-south-african-envoy-to-india-sooklal-says-brics-expansion-strengthens-global-influence",
           "source": "calcuttanews.net",
-          "pubDate": "2026-09-07T17:30:00Z",
+          "pubDate": "2026-09-07T20:30:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Wall Street Absent , World Markets Divided : Hong Kong Drops Nearly 1 Percent"
-        },
-        {
-          "title": "Wall Street Absent , World Markets Divided : Hong Kong Drops Nearly 1 Percent",
-          "link": "http://www.britainnews.net/news/279292003/wall-street-absent-world-markets-divided-hong-kong-drops-nearly-1-percent",
-          "source": "britainnews.net",
-          "pubDate": "2026-09-07T17:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Wall Street Absent , World Markets Divided : Hong Kong Drops Nearly 1 Percent"
-        },
-        {
-          "title": "China emphasises judicial cooperation at BRICS Chief Justice Forum",
-          "link": "http://www.shanghaisun.com/news/279291772/china-emphasises-judicial-cooperation-at-brics-chief-justices-forum",
-          "source": "shanghaisun.com",
-          "pubDate": "2026-09-07T17:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "China emphasises judicial cooperation at BRICS Chief Justice Forum"
+          "titleIt": "Nowhere else do you have such a collective : South African envoy to India Sooklal says BRICS expansion strengthens global influence"
         },
         {
           "title": "Asian Markets Shine While Europe Slips on Holiday - Thinned Monda",
-          "link": "http://www.trinidadtimes.com/news/279292003/asian-markets-shine-while-europe-slips-on-holiday-thinned-monda",
-          "source": "trinidadtimes.com",
-          "pubDate": "2026-09-07T17:30:00Z",
+          "link": "http://www.saltlakecitysun.com/news/279292003/asian-markets-shine-while-europe-slips-on-holiday-thinned-monda",
+          "source": "saltlakecitysun.com",
+          "pubDate": "2026-09-07T20:30:00Z",
           "lang": "en",
           "description": "",
           "titleIt": "Asian Markets Shine While Europe Slips on Holiday - Thinned Monda"
         },
         {
-          "title": "China emphasises judicial cooperation at BRICS Chief Justice Forum",
-          "link": "http://www.chinanationalnews.com/news/279291772/china-emphasises-judicial-cooperation-at-brics-chief-justices-forum",
-          "source": "chinanationalnews.com",
-          "pubDate": "2026-09-07T17:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "China emphasises judicial cooperation at BRICS Chief Justice Forum"
-        },
-        {
           "title": "Asian Markets Shine While Europe Slips on Holiday - Thinned Monda",
-          "link": "http://www.floridastatesman.com/news/279292003/asian-markets-shine-while-europe-slips-on-holiday-thinned-monda",
-          "source": "floridastatesman.com",
-          "pubDate": "2026-09-07T17:00:00Z",
+          "link": "http://www.oklahomacitysun.com/news/279292003/asian-markets-shine-while-europe-slips-on-holiday-thinned-monda",
+          "source": "oklahomacitysun.com",
+          "pubDate": "2026-09-07T20:30:00Z",
           "lang": "en",
           "description": "",
           "titleIt": "Asian Markets Shine While Europe Slips on Holiday - Thinned Monda"
         },
         {
-          "title": "China emphasises judicial cooperation at BRICS Chief Justice Forum",
-          "link": "http://www.shanghainews.net/news/279291772/china-emphasises-judicial-cooperation-at-brics-chief-justices-forum",
-          "source": "shanghainews.net",
-          "pubDate": "2026-09-07T17:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "China emphasises judicial cooperation at BRICS Chief Justice Forum"
-        },
-        {
           "title": "Asian Markets Shine While Europe Slips on Holiday - Thinned Monda",
-          "link": "http://www.haitisun.com/news/279292003/asian-markets-shine-while-europe-slips-on-holiday-thinned-monda",
-          "source": "haitisun.com",
-          "pubDate": "2026-09-07T16:45:00Z",
+          "link": "http://www.batonrougepost.com/news/279292003/asian-markets-shine-while-europe-slips-on-holiday-thinned-monda",
+          "source": "batonrougepost.com",
+          "pubDate": "2026-09-07T20:30:00Z",
           "lang": "en",
           "description": "",
           "titleIt": "Asian Markets Shine While Europe Slips on Holiday - Thinned Monda"
         },
         {
-          "title": "Africa China debt stock hits $180bn as loan strategy",
-          "link": "https://www.riotimesonline.com/africa-china-debt-2026/",
-          "source": "riotimesonline.com",
-          "pubDate": "2026-09-07T16:45:00Z",
+          "title": "Asian Markets Shine While Europe Slips on Holiday - Thinned Monda",
+          "link": "http://www.zimbabwestar.com/news/279292003/asian-markets-shine-while-europe-slips-on-holiday-thinned-monda",
+          "source": "zimbabwestar.com",
+          "pubDate": "2026-09-07T20:30:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Africa China debt stock hits $180bn as loan strategy"
-        },
-        {
-          "title": "Panama Canal finds its water solution , but it 5 years away | WTVB | 1590 AM · 95 . 5 FM",
-          "link": "https://wtvbam.com/2026/09/07/panama-canal-finds-its-water-solution-but-its-5-years-away/",
-          "source": "wtvbam.com",
-          "pubDate": "2026-09-07T16:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Panama Canal finds its water solution , but it 5 years away | WTVB | 1590 AM · 95 . 5 FM"
+          "titleIt": "Asian Markets Shine While Europe Slips on Holiday - Thinned Monda"
         },
         {
           "title": "Asian Markets Shine While Europe Slips on Holiday - Thinned Monda",
-          "link": "http://www.philippinetimes.com/news/279292003/asian-markets-shine-while-europe-slips-on-holiday-thinned-monda",
-          "source": "philippinetimes.com",
-          "pubDate": "2026-09-07T16:45:00Z",
+          "link": "http://www.japanherald.com/news/279292003/asian-markets-shine-while-europe-slips-on-holiday-thinned-monda",
+          "source": "japanherald.com",
+          "pubDate": "2026-09-07T20:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Asian Markets Shine While Europe Slips on Holiday - Thinned Monda"
+        },
+        {
+          "title": "Asian Markets Shine While Europe Slips on Holiday - Thinned Monda",
+          "link": "http://www.sanantoniopost.com/news/279292003/asian-markets-shine-while-europe-slips-on-holiday-thinned-monda",
+          "source": "sanantoniopost.com",
+          "pubDate": "2026-09-07T20:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Asian Markets Shine While Europe Slips on Holiday - Thinned Monda"
+        },
+        {
+          "title": "Sudan Could Become the Red Sea Next Energy Security Flashpoint",
+          "link": "https://oilprice.com/Geopolitics/Africa/Sudan-Could-Become-the-Red-Seas-Next-Energy-Security-Flashpoint.html",
+          "source": "oilprice.com",
+          "pubDate": "2026-09-07T20:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Sudan Could Become the Red Sea Next Energy Security Flashpoint"
+        },
+        {
+          "title": "Asian Markets Shine While Europe Slips on Holiday - Thinned Monda",
+          "link": "http://www.cincinnatisun.com/news/279292003/asian-markets-shine-while-europe-slips-on-holiday-thinned-monda",
+          "source": "cincinnatisun.com",
+          "pubDate": "2026-09-07T20:15:00Z",
           "lang": "en",
           "description": "",
           "titleIt": "Asian Markets Shine While Europe Slips on Holiday - Thinned Monda"
@@ -720,6 +639,33 @@
           "titleIt": "Sudan: RSF Releases Four Journalists and Lawyer After Months in Detention in North Darfur"
         },
         {
+          "title": "Sudan Borders Have Become as Dangerous as the War Itself",
+          "link": "https://themedialine.org/top-stories/sudans-borders-have-become-as-dangerous-as-the-war-itself/",
+          "source": "themedialine.org",
+          "pubDate": "2026-09-07T11:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Sudan Borders Have Become as Dangerous as the War Itself"
+        },
+        {
+          "title": "Battle for water : Could the Nile dispute trigger a regional war ?",
+          "link": "https://news.az/news/battle-for-water-could-the-nile-dispute-trigger-a-regional-war",
+          "source": "news.az",
+          "pubDate": "2026-09-07T08:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Battle for water : Could the Nile dispute trigger a regional war ?"
+        },
+        {
+          "title": "Beyond The Zero - Sum : Reimagining The Nile And The Horn",
+          "link": "https://www.thereporterethiopia.com/52620/",
+          "source": "thereporterethiopia.com",
+          "pubDate": "2026-09-05T13:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Beyond The Zero - Sum : Reimagining The Nile And The Horn"
+        },
+        {
           "title": "Boy, 6, in coma after pool accident in Egypt being flown back to Italy - Tajani",
           "link": "https://www.ansa.it/english/news/2026/09/03/boy-6-in-coma-after-pool-accident-in-egypt-being-flown-back-to-italy_838b6492-0633-4296-984d-66d002af5ed4.html",
           "description": "(ANSA) - ROME, SEP 3 - A six-year-old boy who has been in a coma in an Egyptian hospital since an August 3 accident at a swimming pool at Sharm El Sheikh is currently being flown back to Italy, Foreign Minister Antonio Tajani said on a visit to Cairo Thursday. The boy, Younes Majidi, who suffered a cardiac arrest and has been in critical condition since nearly drowning at the Red Sea resort, will be admitted for treatment at the Regina Margherita Children's Hospital in Turin, said Tajani, who is also deputy premier. (ANSA). Read article...",
@@ -738,6 +684,42 @@
           "titleIt": "Boy, 6, in coma after pool accident in Egypt being flown back to Italy - Tajani"
         },
         {
+          "title": "Nepal needs more giant dams to avert disastrous floods",
+          "link": "https://www.taipeitimes.com/News/editorials/archives/2026/09/02/2003863529",
+          "source": "taipeitimes.com",
+          "pubDate": "2026-09-01T20:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Nepal needs more giant dams to avert disastrous floods"
+        },
+        {
+          "title": "Ethiopia Electricity Data Miners Now Top the Payer List",
+          "link": "https://www.riotimesonline.com/ethiopia-electricity-data-miners-revenue-2026/",
+          "source": "riotimesonline.com",
+          "pubDate": "2026-09-01T19:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia Electricity Data Miners Now Top the Payer List"
+        },
+        {
+          "title": "The Stream , September 1 , 2026 : Israel Abruptly Shuts Down All But One Desalination Plant Due to Weather",
+          "link": "https://www.circleofblue.org/newsletter/the-stream-september-1-2026-israel-abruptly-shuts-down-all-but-one-desalination-plant-due-to-weather/",
+          "source": "circleofblue.org",
+          "pubDate": "2026-09-01T15:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The Stream , September 1 , 2026 : Israel Abruptly Shuts Down All But One Desalination Plant Due to Weather"
+        },
+        {
+          "title": "Africa : GERD Offers Blueprint for Africa Self - Reliance , Says Hailemariam",
+          "link": "https://allafrica.com/stories/202608270018.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-08-27T05:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Africa : GERD Offers Blueprint for Africa Self - Reliance , Says Hailemariam"
+        },
+        {
           "title": "IPI: Africa Media Freedom Monitoring: April to June 2026",
           "link": "https://hornobserver.com/articles/3719/IPI-Africa-Media-Freedom-Monitoring-April-to-June-2026",
           "description": "The International Press Institute (IPI) recorded nearly 100 cases of threats and attacks on journalists (82 male and 18 female) across 22 countries in sub-Saharan Africa between April and June 2026. Physical and verbal attacks, as well as arrests and detention, were the most frequent types of incidents. An Ethiopian journalist in exile was found dead in Kenya under suspicious circumstances. &nbsp; Police and state security forces (55%) continued to be the primary perpetrators of attacks and threats against journalists, a trend that continues from the previous quarter. However, attacks by commu",
@@ -745,6 +727,78 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "IPI: Africa Media Freedom Monitoring: April to June 2026"
+        },
+        {
+          "title": "Domestic and Regional Pressures Strain Ethiopia Fragile Peace",
+          "link": "https://www.justsecurity.org/154852/ethiopia-horn-africa-regional-tensions/",
+          "source": "justsecurity.org",
+          "pubDate": "2026-08-26T16:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Domestic and Regional Pressures Strain Ethiopia Fragile Peace"
+        },
+        {
+          "title": "Pumped storage : powering the age of flexibility - International Water Power",
+          "link": "https://www.waterpowermagazine.com/analysis/pumped-storage-powering-the-age-of-flexibility/",
+          "source": "waterpowermagazine.com",
+          "pubDate": "2026-08-26T13:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Pumped storage : powering the age of flexibility - International Water Power"
+        },
+        {
+          "title": "Egypt faces crises from all directions , foreign minister warns",
+          "link": "https://www.thenationalnews.com/news/mena/2026/08/25/irans-irgc-holds-real-power-but-peace-talks-must-go-on-says-egypts-foreign-minister/",
+          "source": "thenationalnews.com",
+          "pubDate": "2026-08-25T19:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt faces crises from all directions , foreign minister warns"
+        },
+        {
+          "title": "Tanzania inaugurates $2 . 9B hydropower project built by Egyptian consortium",
+          "link": "https://www.middleeastmonitor.com/20260822-tanzania-inaugurates-2-9b-hydropower-project-built-by-egyptian-consortium/",
+          "source": "middleeastmonitor.com",
+          "pubDate": "2026-08-22T18:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Tanzania inaugurates $2 . 9B hydropower project built by Egyptian consortium"
+        },
+        {
+          "title": "Sudan farms lie barren as El Nino leaves Nile banks dry",
+          "link": "https://www.africanews.com/2026/08/22/sudan-farms-lie-barren-as-el-nino-leaves-nile-banks-dry/",
+          "source": "africanews.com",
+          "pubDate": "2026-08-22T17:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Sudan farms lie barren as El Nino leaves Nile banks dry"
+        },
+        {
+          "title": "Sudan farms lie barren as El Nino dries up Nile banks",
+          "link": "https://www.freemalaysiatoday.com/category/world/2026/08/22/sudan-farms-lie-barren-as-el-nino-leaves-nile-banks-dry",
+          "source": "freemalaysiatoday.com",
+          "pubDate": "2026-08-22T10:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Sudan farms lie barren as El Nino dries up Nile banks"
+        },
+        {
+          "title": "Sudan Farms Lie Barren as El Nino Leaves Nile Banks Dry",
+          "link": "https://english.aawsat.com/arab-world/5309769-sudan-farms-lie-barren-el-nino-leaves-nile-banks-dry",
+          "source": "english.aawsat.com",
+          "pubDate": "2026-08-22T06:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Sudan Farms Lie Barren as El Nino Leaves Nile Banks Dry"
+        },
+        {
+          "title": "Overnight News Digest : Friday night elsewhere",
+          "link": "https://www.dailykos.com/stories/2026/8/21/800087838/community/overnight-news-digest-friday-night-elsewhere-9/",
+          "source": "dailykos.com",
+          "pubDate": "2026-08-22T05:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Overnight News Digest : Friday night elsewhere"
         }
       ]
     }
