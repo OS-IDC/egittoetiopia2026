@@ -1,11 +1,29 @@
 {
-  "generatedAt": "2026-09-07T12:32:55.493Z",
+  "generatedAt": "2026-09-07T18:45:13.250Z",
   "feedsChecked": 10,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
+        {
+          "title": "Arab League urges restraint as regional tensions escalate",
+          "link": "http://www.africanews.com/2026/09/07/arab-league-urges-restraint-as-regional-tensions-escalate/",
+          "description": "The Arab League gathers in Cairo as tensions escalate across the region. Maritime security in the Gulf is under growing strain after renewed Iran-U.S. exchanges, including attacks near the Strait of Hormuz.",
+          "pubDate": "Mon, 07 Sep 2026 16:38:49 +0000",
+          "source": "Africanews",
+          "lang": "en",
+          "titleIt": "Arab League urges restraint as regional tensions escalate"
+        },
+        {
+          "title": "Switzerland plans deportation of seriously injured Somali citizen",
+          "link": "https://hornobserver.com/articles/3732/Switzerland-plans-deportation-of-seriously-injured-Somali-citizen",
+          "description": "As we have learnt from two individuals affected, Swiss police authorities use an enormous amount of violence during forced deportations. From the perspective of lawyers and Swiss human rights organisations, the authorities are thereby committing massive violations of Swiss and international law. Furthermore, in at least two cases, they have put the lives of those affected at serious risk. Augenauf shares this assessment and has informed the relevant&nbsp;authorities (including the commander of the Zurich cantonal police and the National&nbsp;Commission for the Prevention of Torture, NKVF). Bot",
+          "pubDate": "Mon, 07 Sep 2026 19:35:51 +0300",
+          "source": "Horn Observer",
+          "lang": "en",
+          "titleIt": "Switzerland plans deportation of seriously injured Somali citizen"
+        },
         {
           "title": "Somali journalist Bashir Mohamed Abdullahi dies after being shot during Baidoa clashes",
           "link": "https://hornobserver.com/articles/3731/Somali-journalist-Bashir-Mohamed-Abdullahi-dies-after-being-shot-during-Baidoa-clashes",
@@ -97,24 +115,6 @@
           "titleIt": "Somalia: How Sadia Bajaaj Was Convicted — Inside the Judge Swap and the Pressure Behind Her Case"
         },
         {
-          "title": "Tajani meets Sisi, set to sign agreement with Egypt on migrants",
-          "link": "https://www.ansa.it/english/news/politics/2026/09/03/tajani-meets-sisi-set-to-sign-agreement-with-egypt-on-migrants_83897842-a2af-4cd8-88d2-57bb672092de.html",
-          "description": "(ANSA) - ROME, SEP 3 - Deputy Premier and Foreign Minister Antonio Tajani was received by Egyptian President Abdel Fattah el Sisi at the presidential palace in Cairo on Thursday during a visit in which he is also set to sign a cooperation agreement on migrants. Speaking to reporters at Cairo airport before meeting el Sisi, Tajani said Italy and Egypt were committed to \"increasingly address the issue of immigration. \"So much so that today we are signing an agreement—which I will sign with the foreign minister—to ensure that cooperation between our countries leads to fewer and fewer irregular mi",
-          "pubDate": "Thu, 3 Sep 2026 11:55:09 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "Tajani meets Sisi, set to sign agreement with Egypt on migrants"
-        },
-        {
-          "title": "Tajani meets Sisi, set to sign agreement with Egypt on migrants",
-          "link": "https://www.ansa.it/english/news/2026/09/03/tajani-meets-sisi-set-to-sign-agreement-with-egypt-on-migrants_3ba6a9b8-daf7-413b-aaed-99cbbff47e58.html",
-          "description": "(ANSA) - ROME, SEP 3 - Deputy Premier and Foreign Minister Antonio Tajani was received by Egyptian President Abdel Fattah el Sisi at the presidential palace in Cairo on Thursday during a visit in which he is also set to sign a cooperation agreement on migrants. Speaking to reporters at Cairo airport before meeting el Sisi, Tajani said Italy and Egypt were committed to \"increasingly address the issue of immigration. \"So much so that today we are signing an agreement—which I will sign with the foreign minister—to ensure that cooperation between our countries leads to fewer and fewer irregular mi",
-          "pubDate": "Thu, 3 Sep 2026 11:48:10 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "Tajani meets Sisi, set to sign agreement with Egypt on migrants"
-        },
-        {
           "title": "The Copyright Trap: How fake claims are silencing independent media and journalists in Somalia",
           "link": "https://hornobserver.com/articles/3723/The-Copyright-Trap-How-fake-claims-are-silencing-independent-media-and-journalists-in-Somalia",
           "description": "Journalists, editors and media managers told SJS that the attacks intensified early this year amid opposition protests in Mogadishu and escalating tensions between the Federal Government and Southwest State, as well as the continuing political rift with Puntland. The attacks are contributing to a shrinking space for independent reporting across the country. With Facebook serving as the primary news and communication platform for most Somali journalists and the general public, the copyright strikes, removals and account restrictions have significantly limited journalists' ability to report and ",
@@ -192,6 +192,15 @@
       "title": "Dossier Somaliland",
       "items": [
         {
+          "title": "Gulf states Africa investment shifts to ports and bases",
+          "link": "https://www.riotimesonline.com/gulf-states-africa-investment-2026/",
+          "source": "riotimesonline.com",
+          "pubDate": "2026-09-07T16:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Gulf states Africa investment shifts to ports and bases"
+        },
+        {
           "title": "Kenya: Oparanya Convenes Western Leaders in Kisumu, Rallies Support for Ruto's Re-Election",
           "link": "https://allafrica.com/stories/202609070413.html",
           "description": "[Capital FM] Kisumu -- Cooperatives Cabinet Secretary Wycliffe Oparanya has convened elected and nominated leaders from Western Kenya in Kisumu to chart a common political and development agenda for the region ahead of the 2027 General Election.",
@@ -199,6 +208,15 @@
           "source": "AllAfrica",
           "lang": "en",
           "titleIt": "Kenya: Oparanya Convenes Western Leaders in Kisumu, Rallies Support for Ruto's Re-Election"
+        },
+        {
+          "title": "Sudan Borders Have Become as Dangerous as the War Itself",
+          "link": "https://themedialine.org/top-stories/sudans-borders-have-become-as-dangerous-as-the-war-itself/",
+          "source": "themedialine.org",
+          "pubDate": "2026-09-07T11:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Sudan Borders Have Become as Dangerous as the War Itself"
         },
         {
           "title": "Somali journalist Bashir Mohamed Abdullahi dies after being shot during Baidoa clashes",
@@ -210,6 +228,33 @@
           "titleIt": "Somali journalist Bashir Mohamed Abdullahi dies after being shot during Baidoa clashes"
         },
         {
+          "title": "Nauru Opens Embassy In Jerusalem , Becoming Ninth Country With Mission In Israeli Capital",
+          "link": "https://www.i24news.tv/en/news/israel/diplomacy/artc-nauru-opens-embassy-in-jerusalem-becoming-ninth-country-with-mission-in-israeli-capital",
+          "source": "i24news.tv",
+          "pubDate": "2026-09-07T09:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Nauru Opens Embassy In Jerusalem , Becoming Ninth Country With Mission In Israeli Capital"
+        },
+        {
+          "title": "Battle for water : Could the Nile dispute trigger a regional war ?",
+          "link": "https://news.az/news/battle-for-water-could-the-nile-dispute-trigger-a-regional-war",
+          "source": "news.az",
+          "pubDate": "2026-09-07T08:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Battle for water : Could the Nile dispute trigger a regional war ?"
+        },
+        {
+          "title": "Congo - Kinshasa : DR Congo Eyes Jerusalem Embassy As Tshisekedi Seeks Israel Support",
+          "link": "https://allafrica.com/stories/202609070006.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-09-07T06:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Congo - Kinshasa : DR Congo Eyes Jerusalem Embassy As Tshisekedi Seeks Israel Support"
+        },
+        {
           "title": "Kenya: Ruto, Governors Set for Talks to End Nationwide Nurses' Strike",
           "link": "https://allafrica.com/stories/202609070033.html",
           "description": "[Capital FM] Nairobi -- President William Ruto and governors are set to hold talks on Monday as pressure mounts to resolve the nationwide nurses' strike that has disrupted healthcare services across Kenya.",
@@ -217,6 +262,15 @@
           "source": "AllAfrica",
           "lang": "en",
           "titleIt": "Kenya: Ruto, Governors Set for Talks to End Nationwide Nurses' Strike"
+        },
+        {
+          "title": "Puntland Road Advantage : Why Deni Can Reach His People by Road While Other Somali Presidents Cannot",
+          "link": "https://wardheernews.com/puntlands-road-advantage-why-deni-can-reach-his-people-by-road-while-other-somali-presidents-cannot/",
+          "source": "wardheernews.com",
+          "pubDate": "2026-09-06T22:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Puntland Road Advantage : Why Deni Can Reach His People by Road While Other Somali Presidents Cannot"
         },
         {
           "title": "Protests Erupt in Somalia's Gedo Region Over Alleged Turkish Strikes in Doolow",
@@ -228,6 +282,51 @@
           "titleIt": "Protests Erupt in Somalia's Gedo Region Over Alleged Turkish Strikes in Doolow"
         },
         {
+          "title": "Somalia Geopolitical Reset : Is the World Giving Up on One Somalia ?",
+          "link": "https://wardheernews.com/somalias-geopolitical-reset-is-the-world-giving-up-on-one-somalia/",
+          "source": "wardheernews.com",
+          "pubDate": "2026-09-05T18:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Somalia Geopolitical Reset : Is the World Giving Up on One Somalia ?"
+        },
+        {
+          "title": "Community mourns the loss of OSU doctoral student",
+          "link": "https://dailybaro.orangemedianetwork.com/32857/daily-barometer-news/community-mourns-the-loss-of-osu-doctoral-student/",
+          "source": "dailybaro.orangemedianetwork.com",
+          "pubDate": "2026-09-05T00:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Community mourns the loss of OSU doctoral student"
+        },
+        {
+          "title": "Recognizing Somaliland Would Help the United States Confront Iran and the Houthis .",
+          "link": "https://foreignpolicy.com/2026/09/04/somaliland-somalia-iran-houthis-united-states-israel/",
+          "source": "foreignpolicy.com",
+          "pubDate": "2026-09-04T20:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Recognizing Somaliland Would Help the United States Confront Iran and the Houthis ."
+        },
+        {
+          "title": "Recognizing Somaliland Would Help the United States Confront Iran and the Houthis .",
+          "link": "https://foreignpolicy.com/2026/09/04/somaliland-somalia-iran-houthis-united-states-israel/?tpcc=recirc_trending062921",
+          "source": "foreignpolicy.com",
+          "pubDate": "2026-09-04T20:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Recognizing Somaliland Would Help the United States Confront Iran and the Houthis ."
+        },
+        {
+          "title": "Somalia : Somaliland President Departs for First Official Working Visit to United States",
+          "link": "https://allafrica.com/stories/202609040034.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-09-04T07:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Somalia : Somaliland President Departs for First Official Working Visit to United States"
+        },
+        {
           "title": "Somalia: How Mogadishu Removes a Regional President. It Costs Cash, or It Costs an Army",
           "link": "https://hornobserver.com/articles/3725/Somalia-How-Mogadishu-Removes-a-Regional-President-It-Costs-Cash-or-It-Costs-an-Army",
           "description": "An investigation into South West State, Hirshabelle, and Galmudug found that federal governments — Farmaajo's and now Hassan Sheikh Mohamud's — have used two tools to control who governs the regions. The first is cash. The second, used once so far, is force. The First Payment In 2018, South West State's president, Sharif Hassan Sheikh Aden, stood in the way of Mogadishu's plans. He had a strong clan base and his own political network. He was not easy to remove. So Mogadishu paid him. According to sources with direct knowledge of the negotiations, Sharif Hassan received about two million US dol",
@@ -237,73 +336,82 @@
           "titleIt": "Somalia: How Mogadishu Removes a Regional President. It Costs Cash, or It Costs an Army"
         },
         {
-          "title": "The Copyright Trap: How fake claims are silencing independent media and journalists in Somalia",
-          "link": "https://hornobserver.com/articles/3723/The-Copyright-Trap-How-fake-claims-are-silencing-independent-media-and-journalists-in-Somalia",
-          "description": "Journalists, editors and media managers told SJS that the attacks intensified early this year amid opposition protests in Mogadishu and escalating tensions between the Federal Government and Southwest State, as well as the continuing political rift with Puntland. The attacks are contributing to a shrinking space for independent reporting across the country. With Facebook serving as the primary news and communication platform for most Somali journalists and the general public, the copyright strikes, removals and account restrictions have significantly limited journalists' ability to report and ",
-          "pubDate": "Tue, 01 Sep 2026 07:25:00 +0300",
-          "source": "Horn Observer",
+          "title": "In Somaliland , a book fair is writing a nation into existence",
+          "link": "https://www.csmonitor.com/World/Africa/2026/0903/hargeisa-international-book-fair-somaliland-recognition",
+          "source": "csmonitor.com",
+          "pubDate": "2026-09-03T10:15:00Z",
           "lang": "en",
-          "titleIt": "The Copyright Trap: How fake claims are silencing independent media and journalists in Somalia"
+          "description": "",
+          "titleIt": "In Somaliland , a book fair is writing a nation into existence"
         },
         {
-          "title": "Somalia: The Killer Who Was Also a Journalist — And the Method That Didn't Die With Him",
-          "link": "https://hornobserver.com/articles/3721/Somalia-The-Killer-Who-Was-Also-a-Journalist-And-the-Method-That-Didnt-Die-With-Him",
-          "description": "Hanafi did more than report on al-Shabaab. He became the group´s eyes inside Somalia's newsrooms. He picked out which journalists to threaten, which ones to trap, and which ones to have killed. A military court found him responsible for the deaths of five journalists between 2007 and 2010, including HornAfrik co-founder Ali Iimaan Sharma'arke and Radio Mogadishu´s Sheikh Nur Mohamed Abkey. Abkey was the only one Hanafi admitted to killing with his own hands. His method was simple. As al-Shabaab´s head of press monitoring, he tracked which journalists criticized the group or spoke well of the g",
-          "pubDate": "Thu, 27 Aug 2026 19:43:58 +0300",
-          "source": "Horn Observer",
+          "title": "The AU - EU Youth Action Lab Entrepreneurship Grants 2026 for youth - led initiatives in Africa ( 31 , 500 EURO grant )",
+          "link": "https://www.opportunitiesforafricans.com/the-au-eu-youth-action-lab-entrepreneurship-grants-2026-for-youth-led-initiatives-in-africa/",
+          "source": "opportunitiesforafricans.com",
+          "pubDate": "2026-09-02T22:30:00Z",
           "lang": "en",
-          "titleIt": "Somalia: The Killer Who Was Also a Journalist — And the Method That Didn't Die With Him"
+          "description": "",
+          "titleIt": "The AU - EU Youth Action Lab Entrepreneurship Grants 2026 for youth - led initiatives in Africa ( 31 , 500 EURO grant )"
         },
         {
-          "title": "Laftagareen's Forces Attack Baidoa, Reviving the Fight Somalia Thought It Had Won",
-          "link": "https://hornobserver.com/articles/3716/Laftagareens-Forces-Attack-Baidoa-Reviving-the-Fight-Somalia-Thought-It-Had-Won",
-          "description": "Residents reported heavy gunfire and explosions in the Towfiiq neighborhood. Fighting broke out around 5 a.m. Somalia's Ministry of Defense said the assault involved vehicles packed with explosives. It described the attacking force as a mix of Al-Shabaab militants and militias loyal to Laftagareen — using the term \"Khawaarij,\" the standard Somali term for Al-Shabaab, to describe them. The ministry said its forces repelled the attack and killed at least 30 of the assailants. Laftagareen's side told a different story. His spokesperson, Hassan Mohamed, said in a statement that Laftagareen's force",
-          "pubDate": "Thu, 20 Aug 2026 15:58:57 +0300",
-          "source": "Horn Observer",
+          "title": "Somalia Says Ankara Declaration Governs Ties With Ethiopia , Somaliland Deal No Longer Relevant",
+          "link": "https://www.garoweonline.com/en/news/somalia/somalia-says-ankara-declaration-governs-ties-with-ethiopia-somaliland-deal-no-longer-relevant",
+          "source": "garoweonline.com",
+          "pubDate": "2026-09-02T10:00:00Z",
           "lang": "en",
-          "titleIt": "Laftagareen's Forces Attack Baidoa, Reviving the Fight Somalia Thought It Had Won"
+          "description": "",
+          "titleIt": "Somalia Says Ankara Declaration Governs Ties With Ethiopia , Somaliland Deal No Longer Relevant"
         },
         {
-          "title": "Conflict Drives Farmers Into Somalia's capital Mogadishu",
-          "link": "https://hornobserver.com/articles/3715/Conflict-Drives-Farmers-Into-Somalias-capital-Mogadishu",
-          "description": "The families were displaced by disputes over agricultural land ownership, alongside ongoing fighting between the Somali government and Al-Shabaab and renewed clan conflicts over contested farmland. Aadan Rooble, a former farmer now living in an IDP camp in Mogadishu, said he fled the village of Farxaano in Lower Shabelle about 10 days ago because of continued fighting. Aadan said some members of his family were able to secure transportation, while he initially travelled on foot before eventually finding a vehicle. He said the family was forced to abandon the farms where they worked after repea",
-          "pubDate": "Mon, 17 Aug 2026 12:31:00 +0300",
-          "source": "Horn Observer",
+          "title": "PUSH FOR RECOGNITION : Somaliland President Heading To Washington For First U . S . Visit",
+          "link": "https://www.theyeshivaworld.com/news/general/2592354/push-for-recognition-somaliland-president-heading-to-washington-for-first-u-s-visit.html",
+          "source": "theyeshivaworld.com",
+          "pubDate": "2026-09-02T02:15:00Z",
           "lang": "en",
-          "titleIt": "Conflict Drives Farmers Into Somalia's capital Mogadishu"
-        },
-        {
-          "title": "Policy Brief: From Elections to Democratic Governance: Strengthening Political Stability and Electoral Integrity in Somalia's Galmudug",
-          "link": "https://hornobserver.com/articles/3714/Policy-Brief-From-Elections-to-Democratic-Governance-Strengthening-Political-Stability-and-Electoral-Integrity-in-Somalias-Galmudug",
-          "description": "As the state enters a new electoral phase in 2026, the central question is no longer simply whether elections can be conducted, but whether electoral reform can contribute to stronger institutions, inclusive governance, and lasting political stability. This new policy brief by the Insight Horn Institute (IHI) examines Galmudug's four electoral cycles between 2015 and 2026 and explores what they reveal about institutional development, federal-state relations, political inclusion, security, and democratic legitimacy. It argues that elections are an important part of democratic transition, but th",
-          "pubDate": "Thu, 13 Aug 2026 19:52:05 +0300",
-          "source": "Horn Observer",
-          "lang": "en",
-          "titleIt": "Policy Brief: From Elections to Democratic Governance: Strengthening Political Stability and Electoral Integrity in Somalia's Galmudug"
-        },
-        {
-          "title": "Journalist Mascuud Warsame tells SJS about his 39-day ordeal in Somalia's spy agency detention facility",
-          "link": "https://hornobserver.com/articles/3713/Journalist-Mascuud-Warsame-tells-SJS-about-his-39-day-ordeal-in-Somalias-spy-agency-detention-facility",
-          "description": "On 30 June 2026, Mascuud Warsame, journalist and founder of an online media platform, Xogbile, was kidnapped by three armed NISA officers shortly after leaving his workplace on Maka Al-Mukarama Avenue in Somalia's capital, Mogadishu. Mascuud was held in a NISA detention facility until his release on 8 August 2026 without charge and was never brought before a court. For the first time, Mascuud Warsame has spoken to SJS about his ordeal inside the NISA detention facility. Mascuud, 35, said that on the night of his abduction, three NISA officers drove him to a police station in Hodan district, ce",
-          "pubDate": "Wed, 12 Aug 2026 19:23:43 +0300",
-          "source": "Horn Observer",
-          "lang": "en",
-          "titleIt": "Journalist Mascuud Warsame tells SJS about his 39-day ordeal in Somalia's spy agency detention facility"
-        },
-        {
-          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
-          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
-          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
-          "pubDate": "Saturday, May 16, 2026 - 00:08",
-          "source": "Crisis Group",
-          "lang": "en",
-          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
+          "description": "",
+          "titleIt": "PUSH FOR RECOGNITION : Somaliland President Heading To Washington For First U . S . Visit"
         }
       ]
     },
     "ethiopia-sea-access": {
       "title": "Accesso etiope al mare",
       "items": [
+        {
+          "title": "Cinema: Giuli firma Accordo di coproduzione con la Corea del Sud",
+          "link": "https://www.agenzianova.com/a/6a9f063585e890.42004851/7754080/2026-09-07/cinema-giuli-firma-accordo-di-coproduzione-con-la-corea-del-sud",
+          "description": "07 set 19:57 - (Agenzia Nova) - Il ministro della Cultura, Alessandro Giuli e il ministro della Cultura, Sport e Turismo della Repubblica di... (Com)",
+          "pubDate": "2026-09-07T19:57:59+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Cinema: Giuli firma Accordo di coproduzione con la Corea del Sud"
+        },
+        {
+          "title": "Arab League urges restraint as regional tensions escalate",
+          "link": "http://www.africanews.com/2026/09/07/arab-league-urges-restraint-as-regional-tensions-escalate/",
+          "description": "The Arab League gathers in Cairo as tensions escalate across the region. Maritime security in the Gulf is under growing strain after renewed Iran-U.S. exchanges, including attacks near the Strait of Hormuz.",
+          "pubDate": "Mon, 07 Sep 2026 16:38:49 +0000",
+          "source": "Africanews",
+          "lang": "en",
+          "titleIt": "Arab League urges restraint as regional tensions escalate"
+        },
+        {
+          "title": "Mattarella and Estonian counterpart Karis confirm support for Kyiv",
+          "link": "https://www.ansa.it/english/news/politics/2026/09/07/mattarella-and-estonian-counterpart-karis-confirm-support-for-kyiv_4a64bd3c-22c9-464e-8254-b09333a47e6e.html",
+          "description": "(ANSA) - ROME, 07 SET - President Sergio Mattarella met his Estonian counterpart Alar Karis at the Quirinal Palace in Rome on Monday in a meeting in which the two heads of State confirmed their support for Ukraine. The leaders also expressed the hope that \"the ongoing negotiations will bring results\". The two presidents discussed European integration, defence, Gaza, Israel and migration too. (ANSA). Read article...",
+          "pubDate": "Mon, 7 Sep 2026 15:49:17 +0200",
+          "source": "ANSA English",
+          "lang": "en",
+          "titleIt": "Mattarella and Estonian counterpart Karis confirm support for Kyiv"
+        },
+        {
+          "title": "Mattarella and Estonian counterpart Karis confirm support for Kyiv",
+          "link": "https://www.ansa.it/english/news/2026/09/07/mattarella-and-estonian-counterpart-karis-confirm-support-for-kyiv_d6da6af9-12d0-4d0f-9263-403a2494d1c9.html",
+          "description": "(ANSA) - ROME, 07 SET - President Sergio Mattarella met his Estonian counterpart Alar Karis at the Quirinal Palace in Rome on Monday in a meeting in which the two heads of State confirmed their support for Ukraine. The leaders also expressed the hope that \"the ongoing negotiations will bring results\". The two presidents discussed European integration, defence, Gaza, Israel and migration too. (ANSA). Read article...",
+          "pubDate": "Mon, 7 Sep 2026 15:46:57 +0200",
+          "source": "ANSA English",
+          "lang": "en",
+          "titleIt": "Mattarella and Estonian counterpart Karis confirm support for Kyiv"
+        },
         {
           "title": "Somali journalist Bashir Mohamed Abdullahi dies after being shot during Baidoa clashes",
           "link": "https://hornobserver.com/articles/3731/Somali-journalist-Bashir-Mohamed-Abdullahi-dies-after-being-shot-during-Baidoa-clashes",
@@ -348,42 +456,6 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "Somalia: How Mogadishu Removes a Regional President. It Costs Cash, or It Costs an Army"
-        },
-        {
-          "title": "Ambassador Lener Meets with Top Executives of Two Major Australian Pension Funds",
-          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/09/03/ambassador-lener-meets-with-top-executives-of-two-major-australian-pension_65180b7c-e501-4711-8f68-25cfa4642886.html",
-          "description": "(ANSA) - ROMA, 03 SET - Strengthening economic and financial ties between Italy and Australia and promoting our country as a preferred destination for Australian investments: these are the objectives of the meetings held by Ambassador Nicola Lener, accompanied by Consul General Chiara Mauri, with the leadership of AustralianSuper and Aware Super, two of Australia’s leading pension and investment funds. The meetings highlighted the growing attractiveness of the Italian economy, the stability of the macroeconomic framework, and the opportunities offered by strategic sectors linked to transformat",
-          "pubDate": "Thu, 3 Sep 2026 12:50:09 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "Ambassador Lener Meets with Top Executives of Two Major Australian Pension Funds"
-        },
-        {
-          "title": "Tajani meets Sisi, set to sign agreement with Egypt on migrants",
-          "link": "https://www.ansa.it/english/news/politics/2026/09/03/tajani-meets-sisi-set-to-sign-agreement-with-egypt-on-migrants_83897842-a2af-4cd8-88d2-57bb672092de.html",
-          "description": "(ANSA) - ROME, SEP 3 - Deputy Premier and Foreign Minister Antonio Tajani was received by Egyptian President Abdel Fattah el Sisi at the presidential palace in Cairo on Thursday during a visit in which he is also set to sign a cooperation agreement on migrants. Speaking to reporters at Cairo airport before meeting el Sisi, Tajani said Italy and Egypt were committed to \"increasingly address the issue of immigration. \"So much so that today we are signing an agreement—which I will sign with the foreign minister—to ensure that cooperation between our countries leads to fewer and fewer irregular mi",
-          "pubDate": "Thu, 3 Sep 2026 11:55:09 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "Tajani meets Sisi, set to sign agreement with Egypt on migrants"
-        },
-        {
-          "title": "Tajani meets Sisi, set to sign agreement with Egypt on migrants",
-          "link": "https://www.ansa.it/english/news/2026/09/03/tajani-meets-sisi-set-to-sign-agreement-with-egypt-on-migrants_3ba6a9b8-daf7-413b-aaed-99cbbff47e58.html",
-          "description": "(ANSA) - ROME, SEP 3 - Deputy Premier and Foreign Minister Antonio Tajani was received by Egyptian President Abdel Fattah el Sisi at the presidential palace in Cairo on Thursday during a visit in which he is also set to sign a cooperation agreement on migrants. Speaking to reporters at Cairo airport before meeting el Sisi, Tajani said Italy and Egypt were committed to \"increasingly address the issue of immigration. \"So much so that today we are signing an agreement—which I will sign with the foreign minister—to ensure that cooperation between our countries leads to fewer and fewer irregular mi",
-          "pubDate": "Thu, 3 Sep 2026 11:48:10 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "Tajani meets Sisi, set to sign agreement with Egypt on migrants"
-        },
-        {
-          "title": "Barilla buys American macaroni-cheese brand Goodles",
-          "link": "https://www.ansa.it/english/news/business/2026/09/03/barilla-buys-american-macaroni-cheese-brand-goodles_5c527f79-00b0-4d50-ac25-6d85803bdb97.html",
-          "description": "(ANSA) - ROME, SEP 3 - Italian pasta giant Barilla said Thursday that it has reached an agreement to buy Goodles, an American macaroni-and-cheese brand, confirming a report in The Wall Street Journal. \"We'd been following Goodles for some time and were increasingly impressed by the strength of the brand, the quality of its products and the momentum of its growth,\" said President Guido Barilla, describing the acquisition as \"an exciting opportunity for the future\". Goodles co-founder and CEO Jen Zeszut will remain charge of the Santa Cruz-based company. (ANSA). Read article...",
-          "pubDate": "Thu, 3 Sep 2026 10:10:00 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "Barilla buys American macaroni-cheese brand Goodles"
         },
         {
           "title": "The Copyright Trap: How fake claims are silencing independent media and journalists in Somalia",
@@ -443,11 +515,201 @@
     },
     "egypt-economy": {
       "title": "Fragilità economica egiziana",
-      "items": []
+      "items": [
+        {
+          "title": "Asian Markets Shine While Europe Slips on Holiday - Thinned Monda",
+          "link": "http://www.jamaicantimes.com/news/279292003/asian-markets-shine-while-europe-slips-on-holiday-thinned-monda",
+          "source": "jamaicantimes.com",
+          "pubDate": "2026-09-07T18:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Asian Markets Shine While Europe Slips on Holiday - Thinned Monda"
+        },
+        {
+          "title": "Asian Markets Shine While Europe Slips on Holiday - Thinned Monda",
+          "link": "http://www.sydneysun.com/news/279292003/asian-markets-shine-while-europe-slips-on-holiday-thinned-monda",
+          "source": "sydneysun.com",
+          "pubDate": "2026-09-07T18:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Asian Markets Shine While Europe Slips on Holiday - Thinned Monda"
+        },
+        {
+          "title": "MNZL Secures Egypt First Dual Digital Lending Licenses",
+          "link": "https://cairoscene.com/Business/MNZL-Secures-Egypt-s-First-Dual-Digital-Lending-Licenses",
+          "source": "cairoscene.com",
+          "pubDate": "2026-09-07T17:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "MNZL Secures Egypt First Dual Digital Lending Licenses"
+        },
+        {
+          "title": "Egypt Trade Deficit Widens 58 . 5 Percent as Imports Surge",
+          "link": "https://egyptianstreets.com/2026/09/07/egypts-trade-deficit-widens-58-5-percent-as-imports-surge/",
+          "source": "egyptianstreets.com",
+          "pubDate": "2026-09-07T17:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt Trade Deficit Widens 58 . 5 Percent as Imports Surge"
+        },
+        {
+          "title": "Asian Markets Shine While Europe Slips on Holiday - Thinned Monda",
+          "link": "http://www.ohiostandard.com/news/279292003/asian-markets-shine-while-europe-slips-on-holiday-thinned-monda",
+          "source": "ohiostandard.com",
+          "pubDate": "2026-09-07T17:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Asian Markets Shine While Europe Slips on Holiday - Thinned Monda"
+        },
+        {
+          "title": "Asian Markets Shine While Europe Slips on Holiday - Thinned Monda",
+          "link": "http://www.tucsonpost.com/news/279292003/asian-markets-shine-while-europe-slips-on-holiday-thinned-monda",
+          "source": "tucsonpost.com",
+          "pubDate": "2026-09-07T17:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Asian Markets Shine While Europe Slips on Holiday - Thinned Monda"
+        },
+        {
+          "title": "Egypt foreign reserves exceed 57 bln USD in August",
+          "link": "http://www.japanherald.com/news/279291566/egypt-foreign-reserves-exceed-57-bln-usd-in-august",
+          "source": "japanherald.com",
+          "pubDate": "2026-09-07T17:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt foreign reserves exceed 57 bln USD in August"
+        },
+        {
+          "title": "The day America stood still | GUEST COMMENTARY",
+          "link": "https://www.baltimoresun.com/2026/09/07/the-day-america-stood-still/",
+          "source": "baltimoresun.com",
+          "pubDate": "2026-09-07T17:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The day America stood still | GUEST COMMENTARY"
+        },
+        {
+          "title": "Asian Markets Shine While Europe Slips on Holiday - Thinned Monda",
+          "link": "http://www.albuquerqueexpress.com/news/279292003/asian-markets-shine-while-europe-slips-on-holiday-thinned-monda",
+          "source": "albuquerqueexpress.com",
+          "pubDate": "2026-09-07T17:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Asian Markets Shine While Europe Slips on Holiday - Thinned Monda"
+        },
+        {
+          "title": "Wall Street Absent , World Markets Divided : Hong Kong Drops Nearly 1 Percent",
+          "link": "http://www.calcuttanews.net/news/279292003/wall-street-absent-world-markets-divided-hong-kong-drops-nearly-1-percent",
+          "source": "calcuttanews.net",
+          "pubDate": "2026-09-07T17:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Wall Street Absent , World Markets Divided : Hong Kong Drops Nearly 1 Percent"
+        },
+        {
+          "title": "Wall Street Absent , World Markets Divided : Hong Kong Drops Nearly 1 Percent",
+          "link": "http://www.britainnews.net/news/279292003/wall-street-absent-world-markets-divided-hong-kong-drops-nearly-1-percent",
+          "source": "britainnews.net",
+          "pubDate": "2026-09-07T17:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Wall Street Absent , World Markets Divided : Hong Kong Drops Nearly 1 Percent"
+        },
+        {
+          "title": "China emphasises judicial cooperation at BRICS Chief Justice Forum",
+          "link": "http://www.shanghaisun.com/news/279291772/china-emphasises-judicial-cooperation-at-brics-chief-justices-forum",
+          "source": "shanghaisun.com",
+          "pubDate": "2026-09-07T17:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "China emphasises judicial cooperation at BRICS Chief Justice Forum"
+        },
+        {
+          "title": "Asian Markets Shine While Europe Slips on Holiday - Thinned Monda",
+          "link": "http://www.trinidadtimes.com/news/279292003/asian-markets-shine-while-europe-slips-on-holiday-thinned-monda",
+          "source": "trinidadtimes.com",
+          "pubDate": "2026-09-07T17:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Asian Markets Shine While Europe Slips on Holiday - Thinned Monda"
+        },
+        {
+          "title": "China emphasises judicial cooperation at BRICS Chief Justice Forum",
+          "link": "http://www.chinanationalnews.com/news/279291772/china-emphasises-judicial-cooperation-at-brics-chief-justices-forum",
+          "source": "chinanationalnews.com",
+          "pubDate": "2026-09-07T17:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "China emphasises judicial cooperation at BRICS Chief Justice Forum"
+        },
+        {
+          "title": "Asian Markets Shine While Europe Slips on Holiday - Thinned Monda",
+          "link": "http://www.floridastatesman.com/news/279292003/asian-markets-shine-while-europe-slips-on-holiday-thinned-monda",
+          "source": "floridastatesman.com",
+          "pubDate": "2026-09-07T17:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Asian Markets Shine While Europe Slips on Holiday - Thinned Monda"
+        },
+        {
+          "title": "China emphasises judicial cooperation at BRICS Chief Justice Forum",
+          "link": "http://www.shanghainews.net/news/279291772/china-emphasises-judicial-cooperation-at-brics-chief-justices-forum",
+          "source": "shanghainews.net",
+          "pubDate": "2026-09-07T17:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "China emphasises judicial cooperation at BRICS Chief Justice Forum"
+        },
+        {
+          "title": "Asian Markets Shine While Europe Slips on Holiday - Thinned Monda",
+          "link": "http://www.haitisun.com/news/279292003/asian-markets-shine-while-europe-slips-on-holiday-thinned-monda",
+          "source": "haitisun.com",
+          "pubDate": "2026-09-07T16:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Asian Markets Shine While Europe Slips on Holiday - Thinned Monda"
+        },
+        {
+          "title": "Africa China debt stock hits $180bn as loan strategy",
+          "link": "https://www.riotimesonline.com/africa-china-debt-2026/",
+          "source": "riotimesonline.com",
+          "pubDate": "2026-09-07T16:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Africa China debt stock hits $180bn as loan strategy"
+        },
+        {
+          "title": "Panama Canal finds its water solution , but it 5 years away | WTVB | 1590 AM · 95 . 5 FM",
+          "link": "https://wtvbam.com/2026/09/07/panama-canal-finds-its-water-solution-but-its-5-years-away/",
+          "source": "wtvbam.com",
+          "pubDate": "2026-09-07T16:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Panama Canal finds its water solution , but it 5 years away | WTVB | 1590 AM · 95 . 5 FM"
+        },
+        {
+          "title": "Asian Markets Shine While Europe Slips on Holiday - Thinned Monda",
+          "link": "http://www.philippinetimes.com/news/279292003/asian-markets-shine-while-europe-slips-on-holiday-thinned-monda",
+          "source": "philippinetimes.com",
+          "pubDate": "2026-09-07T16:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Asian Markets Shine While Europe Slips on Holiday - Thinned Monda"
+        }
+      ]
     },
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
       "items": [
+        {
+          "title": "Arab League urges restraint as regional tensions escalate",
+          "link": "http://www.africanews.com/2026/09/07/arab-league-urges-restraint-as-regional-tensions-escalate/",
+          "description": "The Arab League gathers in Cairo as tensions escalate across the region. Maritime security in the Gulf is under growing strain after renewed Iran-U.S. exchanges, including attacks near the Strait of Hormuz.",
+          "pubDate": "Mon, 07 Sep 2026 16:38:49 +0000",
+          "source": "Africanews",
+          "lang": "en",
+          "titleIt": "Arab League urges restraint as regional tensions escalate"
+        },
         {
           "title": "Sudan: RSF Releases Four Journalists and Lawyer After Months in Detention in North Darfur",
           "link": "https://allafrica.com/stories/202609070398.html",
@@ -456,24 +718,6 @@
           "source": "AllAfrica",
           "lang": "en",
           "titleIt": "Sudan: RSF Releases Four Journalists and Lawyer After Months in Detention in North Darfur"
-        },
-        {
-          "title": "Sudan: CPJ, Partners Call On Sudan's RSF to Release 3 Female Journalists Detained in Darfur",
-          "link": "https://allafrica.com/stories/202609070384.html",
-          "description": "[CPJ] The Committee to Protect Journalists was joined Monday by 16 civil society organizations in calling on the Sudanese paramilitary group Rapid Support Forces (RSF) to immediately release Nyala Radio journalists Ishraqah Abdulrahman, Zahraa Muhammad Al-Hassan, and Mawahib Ibrahim, who have been detained in South Darfur since February 28.",
-          "pubDate": "Mon, 07 Sep 2026 12:03:38 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Sudan: CPJ, Partners Call On Sudan's RSF to Release 3 Female Journalists Detained in Darfur"
-        },
-        {
-          "title": "Sudan: Seven Democratic U.S. Senators Call On UN Security Council to Pass Sanctions on Sudan to Cut Off Conflict Cash Flows",
-          "link": "https://allafrica.com/stories/202609060021.html",
-          "description": "[United States Senate] U.S. Senator Chris Murphy (D-Conn.) on Friday led seven of his colleagues in sending a letter to U.S. Ambassador to the United Nations Mike Waltz calling for the U.S. to push to pass additional sanctions measures in Sudan that would limit the flow of funds to the warring parties driving the largest humanitarian crisis in the world.",
-          "pubDate": "Sun, 06 Sep 2026 17:10:28 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Sudan: Seven Democratic U.S. Senators Call On UN Security Council to Pass Sanctions on Sudan to Cut Off Conflict Cash Flows"
         },
         {
           "title": "Boy, 6, in coma after pool accident in Egypt being flown back to Italy - Tajani",
@@ -492,33 +736,6 @@
           "source": "ANSA English",
           "lang": "en",
           "titleIt": "Boy, 6, in coma after pool accident in Egypt being flown back to Italy - Tajani"
-        },
-        {
-          "title": "Cairo hails visit by China's Xi Jinping as boost to global stability",
-          "link": "http://www.africanews.com/2026/09/03/cairo-hails-visit-by-chinas-xi-jinping-as-boost-to-global-stability/",
-          "description": "Several Egyptian officials have hailed Chinese President Xi Jinping's latest state visit to their country as a boost to bilateral relations and a tour that could add stability to a world with rising regional and international tensions.",
-          "pubDate": "Thu, 03 Sep 2026 14:00:52 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "Cairo hails visit by China's Xi Jinping as boost to global stability"
-        },
-        {
-          "title": "Tajani meets Sisi, set to sign agreement with Egypt on migrants",
-          "link": "https://www.ansa.it/english/news/politics/2026/09/03/tajani-meets-sisi-set-to-sign-agreement-with-egypt-on-migrants_83897842-a2af-4cd8-88d2-57bb672092de.html",
-          "description": "(ANSA) - ROME, SEP 3 - Deputy Premier and Foreign Minister Antonio Tajani was received by Egyptian President Abdel Fattah el Sisi at the presidential palace in Cairo on Thursday during a visit in which he is also set to sign a cooperation agreement on migrants. Speaking to reporters at Cairo airport before meeting el Sisi, Tajani said Italy and Egypt were committed to \"increasingly address the issue of immigration. \"So much so that today we are signing an agreement—which I will sign with the foreign minister—to ensure that cooperation between our countries leads to fewer and fewer irregular mi",
-          "pubDate": "Thu, 3 Sep 2026 11:55:09 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "Tajani meets Sisi, set to sign agreement with Egypt on migrants"
-        },
-        {
-          "title": "Tajani meets Sisi, set to sign agreement with Egypt on migrants",
-          "link": "https://www.ansa.it/english/news/2026/09/03/tajani-meets-sisi-set-to-sign-agreement-with-egypt-on-migrants_3ba6a9b8-daf7-413b-aaed-99cbbff47e58.html",
-          "description": "(ANSA) - ROME, SEP 3 - Deputy Premier and Foreign Minister Antonio Tajani was received by Egyptian President Abdel Fattah el Sisi at the presidential palace in Cairo on Thursday during a visit in which he is also set to sign a cooperation agreement on migrants. Speaking to reporters at Cairo airport before meeting el Sisi, Tajani said Italy and Egypt were committed to \"increasingly address the issue of immigration. \"So much so that today we are signing an agreement—which I will sign with the foreign minister—to ensure that cooperation between our countries leads to fewer and fewer irregular mi",
-          "pubDate": "Thu, 3 Sep 2026 11:48:10 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "Tajani meets Sisi, set to sign agreement with Egypt on migrants"
         },
         {
           "title": "IPI: Africa Media Freedom Monitoring: April to June 2026",
