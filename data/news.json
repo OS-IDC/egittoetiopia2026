@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T04:45:56.142Z",
+  "generatedAt": "2026-09-09T11:23:26.144Z",
   "feedsChecked": 10,
   "feedsAttempted": 10,
   "topics": {
@@ -14,15 +14,6 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "AFRICOM Conducts Airstrike Against al-Shabaab in Somalia"
-        },
-        {
-          "title": "Somalia: Somali Army Chief Visits Wounded Soldiers At Mogadishu Hospital",
-          "link": "https://allafrica.com/stories/202609080437.html",
-          "description": "[Shabelle] Mogadishu -- Somali army chief Brigadier General Ibrahim Mohamed Mohamud visited a hospital in Mogadishu on Tuesday to check on soldiers wounded during security operations, the military said.",
-          "pubDate": "Tue, 08 Sep 2026 14:09:33 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Somalia: Somali Army Chief Visits Wounded Soldiers At Mogadishu Hospital"
         },
         {
           "title": "Arab League urges restraint as regional tensions escalate",
@@ -185,12 +176,30 @@
           "source": "Crisis Group",
           "lang": "en",
           "titleIt": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab"
+        },
+        {
+          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
+          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
+          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
+          "pubDate": "Saturday, May 16, 2026 - 00:08",
+          "source": "Crisis Group",
+          "lang": "en",
+          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
     "somaliland": {
       "title": "Dossier Somaliland",
       "items": [
+        {
+          "title": "Concerns over wildlife, water supply, as wildfire rages across Mount Kenya",
+          "link": "http://www.africanews.com/2026/09/09/concerns-over-wildlife-water-supply-as-wildfire-rages-across-mount-kenya/",
+          "description": "A wildfire has burned about 8,700 hectares of vegetation on Mount Kenya since the fire was first reported on Sept 1, Mount Kenya Trust, an environmental conservation group, said.",
+          "pubDate": "Wed, 09 Sep 2026 09:25:33 +0000",
+          "source": "Africanews",
+          "lang": "en",
+          "titleIt": "Concerns over wildlife, water supply, as wildfire rages across Mount Kenya"
+        },
         {
           "title": "Somali journalist Bashir Mohamed Abdullahi dies after being shot during Baidoa clashes",
           "link": "https://hornobserver.com/articles/3731/Somali-journalist-Bashir-Mohamed-Abdullahi-dies-after-being-shot-during-Baidoa-clashes",
@@ -278,31 +287,31 @@
       "title": "Accesso etiope al mare",
       "items": [
         {
-          "title": "Usa-Venezuela: Rubio difende accordo sul petrolio, \"riattivera' i giacimenti e portera' entrate ai venezuelani\"",
-          "link": "https://www.agenzianova.com/a/6aa0e47ca4bb19.98273249/7757591/2026-09-09/usa-venezuela-rubio-difende-accordo-sul-petrolio-riattivera-i-giacimenti-e-portera-entrate-ai-venezuelani",
-          "description": "09 set 05:34 - (Agenzia Nova) - Il segretario di Stato Usa Marco Rubio ha difeso l'accordo sul petrolio venezuelano raggiunto da Washington... (Was)",
-          "pubDate": "2026-09-09T05:34:16+02:00",
+          "title": "Speciale difesa: Ucraina-Usa, ministero Esteri, raggiunto accordo per incontro tra Zelensky e Trump a settembre",
+          "link": "https://www.agenzianova.com/a/6aa141a9cf3b75.33033541/7757431/2026-09-09/speciale-difesa-ucraina-usa-ministero-esteri-raggiunto-accordo-per-incontro-tra-zelensky-e-trump-a-settembre",
+          "description": "09 set 13:15 - (Agenzia Nova) - Il portavoce del ministero degli Esteri dell'Ucraina, Heorhiy Tykhyi, ha confermato che e' stato raggiunto... (Kiu)",
+          "pubDate": "2026-09-09T13:15:00+02:00",
           "source": "Agenzia Nova",
           "lang": "it",
-          "titleIt": "Usa-Venezuela: Rubio difende accordo sul petrolio, \"riattivera' i giacimenti e portera' entrate ai venezuelani\""
+          "titleIt": "Speciale difesa: Ucraina-Usa, ministero Esteri, raggiunto accordo per incontro tra Zelensky e Trump a settembre"
         },
         {
-          "title": "Usa-Canada: Trump vieta l'importazione di diverse categorie di prodotti e inasprisce i dazi (2)",
-          "link": "https://www.agenzianova.com/a/6aa0e47ca650e0.24811156/7757564/2026-09-09/usa-canada-trump-vieta-l-importazione-di-diverse-categorie-di-prodotti-e-inasprisce-i-dazi-2",
-          "description": "09 set 04:19 - (Agenzia Nova) - La decisione rappresenta una nuova escalation nella disputa commerciale tra Washington e Ottawa. Ieri il Canada... (Was)",
-          "pubDate": "2026-09-09T04:19:15+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Usa-Canada: Trump vieta l'importazione di diverse categorie di prodotti e inasprisce i dazi (2)"
-        },
-        {
-          "title": "Nigeria: Nigerian Government Reportedly Enters Secret Ceasefire Agreement With Boko Haram",
-          "link": "https://allafrica.com/stories/202609080472.html",
-          "description": "[Premium Times] The Nigerian government has reportedly entered into a secret ceasefire agreement with the Boko Haram faction led by Bakura Doro.",
-          "pubDate": "Tue, 08 Sep 2026 14:51:46 GMT",
+          "title": "Africa: Ships and Seafarers Increasingly Caught in the Crossfire of Unrelated Wars",
+          "link": "https://allafrica.com/stories/202609090161.html",
+          "description": "[UN News] The global shipping industry is facing a \"genuinely unprecedented\" convergence of maritime crises, with vessels and seafarers increasingly used as \"leverage\" in conflicts that have nothing to do with them.",
+          "pubDate": "Wed, 09 Sep 2026 09:24:07 GMT",
           "source": "AllAfrica",
           "lang": "en",
-          "titleIt": "Nigeria: Nigerian Government Reportedly Enters Secret Ceasefire Agreement With Boko Haram"
+          "titleIt": "Africa: Ships and Seafarers Increasingly Caught in the Crossfire of Unrelated Wars"
+        },
+        {
+          "title": "Africa: What Do Disruptions in Major Trade Routes Mean for Food Security?",
+          "link": "https://allafrica.com/stories/202609090062.html",
+          "description": "[WFP] Conflicts in the Strait of Hormuz, the Red Sea and the Black Sea are disrupting the movement of food, fuel and fertilizer, with devastating consequences across the world.",
+          "pubDate": "Wed, 09 Sep 2026 05:46:45 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Africa: What Do Disruptions in Major Trade Routes Mean for Food Security?"
         },
         {
           "title": "Sudan: UN Human Rights Council Urged to Widen Sudan Arms Embargo and Extend Fact-Finding Mission",
@@ -357,24 +366,6 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "Protests Erupt in Somalia's Gedo Region Over Alleged Turkish Strikes in Doolow"
-        },
-        {
-          "title": "Meloni govt to extend 17-cent cut in diesel duties to Sept 10",
-          "link": "https://www.ansa.it/english/news/general_news/2026/09/04/meloni-govt-to-extend-17-cent-cut-in-diesel-duties-to-sept-10_4b768f0f-d2f6-4240-a6b3-4dffbf1cd8ae.html",
-          "description": "(ANSA) - ROME, 04 SET - The economy ministry has prepared a decree extending a 17-cent cut in diesel duties until September 10, sources said on Friday. The cut was first introduced by Premier Giorgia Meloni's government at the end of July to help people cope with high fuel costs following the return of conflict in the Persian Gulf and it has been renewed several times since. The current reduction was set to expire on Saturday. The cut, which does not regard unleaded petrol, has not stopped diesel prices from rising well above two euros a litre. The centre-left opposition has criticised the cut",
-          "pubDate": "Fri, 4 Sep 2026 14:22:16 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "Meloni govt to extend 17-cent cut in diesel duties to Sept 10"
-        },
-        {
-          "title": "Meloni govt to extend 17-cent cut in diesel duties to Sept 10",
-          "link": "https://www.ansa.it/english/news/2026/09/04/meloni-govt-to-extend-17-cent-cut-in-diesel-duties-to-sept-10_8e2bad50-a7af-4457-8550-db4fdbfa8ed6.html",
-          "description": "(ANSA) - ROME, 04 SET - The economy ministry has prepared a decree extending a 17-cent cut in diesel duties until September 10, sources said on Friday. The cut was first introduced by Premier Giorgia Meloni's government at the end of July to help people cope with high fuel costs following the return of conflict in the Persian Gulf and it has been renewed several times since. The current reduction was set to expire on Saturday. The cut, which does not regard unleaded petrol, has not stopped diesel prices from rising well above two euros a litre. The centre-left opposition has criticised the cut",
-          "pubDate": "Fri, 4 Sep 2026 13:26:16 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "Meloni govt to extend 17-cent cut in diesel duties to Sept 10"
         },
         {
           "title": "Somalia: How Mogadishu Removes a Regional President. It Costs Cash, or It Costs an Army",
@@ -443,20 +434,192 @@
     },
     "egypt-economy": {
       "title": "Fragilità economica egiziana",
-      "items": []
+      "items": [
+        {
+          "title": "Iran is forging a new ring of proxies to threaten US allies in the Gulf , officials say",
+          "link": "http://www.stardem.com/ap/world/iran-is-forging-a-new-ring-of-proxies-to-threaten-us-allies-in-the-gulf/article_a38d9e04-4a2a-54fb-a8be-8dd1a6457756.html",
+          "source": "stardem.com",
+          "pubDate": "2026-09-09T11:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Iran is forging a new ring of proxies to threaten US allies in the Gulf , officials say"
+        },
+        {
+          "title": "BRICS Summit 2026 : How the grouping is reshaping the global economic order",
+          "link": "http://www.neworleanssun.com/news/279295844/brics-summit-2026-how-the-grouping-is-reshaping-the-global-economic-order",
+          "source": "neworleanssun.com",
+          "pubDate": "2026-09-09T11:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "BRICS Summit 2026 : How the grouping is reshaping the global economic order"
+        },
+        {
+          "title": "Iran - backed fighters in Yemen and Iraq are  joining forces to threaten Gulf , officials say",
+          "link": "https://www.dailyexcelsior.com/iran-backed-fighters-in-yemen-and-iraq-are-joining-forces-to-threaten-gulf-officials-say-2/",
+          "source": "dailyexcelsior.com",
+          "pubDate": "2026-09-09T11:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Iran - backed fighters in Yemen and Iraq are  joining forces to threaten Gulf , officials say"
+        },
+        {
+          "title": "Bangladesh Foreign Minister keeps mum on PM Rahman participation in India - hosted BRICS summit",
+          "link": "https://www.thehindu.com/news/international/bangladesh-foreign-minister-keeps-mum-on-pm-rahmans-participation-in-india-hosted-brics-summit/article71446617.ece",
+          "source": "thehindu.com",
+          "pubDate": "2026-09-09T11:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Bangladesh Foreign Minister keeps mum on PM Rahman participation in India - hosted BRICS summit"
+        },
+        {
+          "title": "BRICS Summit 2026 : How the grouping is reshaping the global economic order",
+          "link": "http://www.chinanationalnews.com/news/279295844/brics-summit-2026-how-the-grouping-is-reshaping-the-global-economic-order",
+          "source": "chinanationalnews.com",
+          "pubDate": "2026-09-09T10:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "BRICS Summit 2026 : How the grouping is reshaping the global economic order"
+        },
+        {
+          "title": "BRICS Summit 2026 : How the grouping is reshaping the global economic order",
+          "link": "http://www.middleeaststar.com/news/279295844/brics-summit-2026-how-the-grouping-is-reshaping-the-global-economic-order",
+          "source": "middleeaststar.com",
+          "pubDate": "2026-09-09T10:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "BRICS Summit 2026 : How the grouping is reshaping the global economic order"
+        },
+        {
+          "title": "BRICS Summit 2026 : How the grouping is reshaping the global economic order",
+          "link": "http://www.sierraleonetimes.com/news/279295844/brics-summit-2026-how-the-grouping-is-reshaping-the-global-economic-order",
+          "source": "sierraleonetimes.com",
+          "pubDate": "2026-09-09T10:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "BRICS Summit 2026 : How the grouping is reshaping the global economic order"
+        },
+        {
+          "title": "Middle East  economic might  to play key role in Belt and Road , Hong Kong leader says",
+          "link": "https://www.thenationalnews.com/business/economy/2026/09/09/middle-east-economic-might-to-play-key-role-in-belt-and-road-hong-kong-leader-says/",
+          "source": "thenationalnews.com",
+          "pubDate": "2026-09-09T10:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Middle East  economic might  to play key role in Belt and Road , Hong Kong leader says"
+        },
+        {
+          "title": "Indias defense export story is becoming harder to ignore",
+          "link": "http://www.middleeaststar.com/news/279295711/indias-defense-export-story-is-becoming-harder-to-ignore",
+          "source": "middleeaststar.com",
+          "pubDate": "2026-09-09T10:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Indias defense export story is becoming harder to ignore"
+        },
+        {
+          "title": "Indias defense export story is becoming harder to ignore",
+          "link": "http://www.sierraleonetimes.com/news/279295711/indias-defense-export-story-is-becoming-harder-to-ignore",
+          "source": "sierraleonetimes.com",
+          "pubDate": "2026-09-09T10:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Indias defense export story is becoming harder to ignore"
+        },
+        {
+          "title": "BRICS Summit 2026 : How the grouping is reshaping the global economic order",
+          "link": "http://www.venezuelastar.com/news/279295844/brics-summit-2026-how-the-grouping-is-reshaping-the-global-economic-order",
+          "source": "venezuelastar.com",
+          "pubDate": "2026-09-09T10:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "BRICS Summit 2026 : How the grouping is reshaping the global economic order"
+        },
+        {
+          "title": "Energean H1 Earnings Call Highlights",
+          "link": "https://www.themarketsdaily.com/2026/09/09/energean-h1-earnings-call-highlights.html",
+          "source": "themarketsdaily.com",
+          "pubDate": "2026-09-09T10:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Energean H1 Earnings Call Highlights"
+        },
+        {
+          "title": "Indias defense export story is becoming harder to ignore",
+          "link": "http://www.newyorkstatesman.com/news/279295711/indias-defense-export-story-is-becoming-harder-to-ignore",
+          "source": "newyorkstatesman.com",
+          "pubDate": "2026-09-09T10:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Indias defense export story is becoming harder to ignore"
+        },
+        {
+          "title": "BRICS Summit 2026 : How the grouping is reshaping the global economic order",
+          "link": "http://www.newyorkstatesman.com/news/279295844/brics-summit-2026-how-the-grouping-is-reshaping-the-global-economic-order",
+          "source": "newyorkstatesman.com",
+          "pubDate": "2026-09-09T10:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "BRICS Summit 2026 : How the grouping is reshaping the global economic order"
+        },
+        {
+          "title": "BRICS Summit 2026 : How the grouping is reshaping the global economic order",
+          "link": "http://www.kenyastar.com/news/279295844/brics-summit-2026-how-the-grouping-is-reshaping-the-global-economic-order",
+          "source": "kenyastar.com",
+          "pubDate": "2026-09-09T10:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "BRICS Summit 2026 : How the grouping is reshaping the global economic order"
+        },
+        {
+          "title": "Indias defense export story is becoming harder to ignore",
+          "link": "http://www.londonmercury.com/news/279295711/indias-defense-export-story-is-becoming-harder-to-ignore",
+          "source": "londonmercury.com",
+          "pubDate": "2026-09-09T10:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Indias defense export story is becoming harder to ignore"
+        },
+        {
+          "title": "US hits Iran aviation sector with sanctions",
+          "link": "https://www.eldoradonews.com/news/2026/sep/09/us-hits-irans-aviation-sector-with-sanctions/",
+          "source": "eldoradonews.com",
+          "pubDate": "2026-09-09T10:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "US hits Iran aviation sector with sanctions"
+        },
+        {
+          "title": "BRICS Summit 2026 : How the grouping is reshaping the global economic order",
+          "link": "http://www.bignewsnetwork.com/news/279295844/brics-summit-2026-how-the-grouping-is-reshaping-the-global-economic-order",
+          "source": "bignewsnetwork.com",
+          "pubDate": "2026-09-09T10:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "BRICS Summit 2026 : How the grouping is reshaping the global economic order"
+        },
+        {
+          "title": "Indias defense export story is becoming harder to ignore",
+          "link": "http://www.kenyastar.com/news/279295711/indias-defense-export-story-is-becoming-harder-to-ignore",
+          "source": "kenyastar.com",
+          "pubDate": "2026-09-09T10:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Indias defense export story is becoming harder to ignore"
+        },
+        {
+          "title": "BRICS Summit 2026 : How the grouping is reshaping the global economic order",
+          "link": "http://www.londonmercury.com/news/279295844/brics-summit-2026-how-the-grouping-is-reshaping-the-global-economic-order",
+          "source": "londonmercury.com",
+          "pubDate": "2026-09-09T10:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "BRICS Summit 2026 : How the grouping is reshaping the global economic order"
+        }
+      ]
     },
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
       "items": [
-        {
-          "title": "Sudan: University of Khartoum Counts Cost of Sudan War As 71 Percent of Academics Remain Abroad, Infrastructure Destroyed",
-          "link": "https://allafrica.com/stories/202609080368.html",
-          "description": "[Dabanga] Khartoum / Kampala -- More than seven in 10 academics at the University of Khartoum remain outside Sudan, while the war has destroyed or damaged much of the institution's infrastructure, threatening plans for a full return to face-to-face teaching.",
-          "pubDate": "Tue, 08 Sep 2026 12:16:38 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Sudan: University of Khartoum Counts Cost of Sudan War As 71 Percent of Academics Remain Abroad, Infrastructure Destroyed"
-        },
         {
           "title": "Sudan: UN Human Rights Council Urged to Widen Sudan Arms Embargo and Extend Fact-Finding Mission",
           "link": "https://allafrica.com/stories/202609080366.html",
@@ -465,24 +628,6 @@
           "source": "AllAfrica",
           "lang": "en",
           "titleIt": "Sudan: UN Human Rights Council Urged to Widen Sudan Arms Embargo and Extend Fact-Finding Mission"
-        },
-        {
-          "title": "Rearmed And Reckless : How Sudan New Arsenal Is Dragging Chad And Ethiopia Into Its War - OpEd",
-          "link": "https://www.eurasiareview.com/08092026-rearmed-and-reckless-how-sudans-new-arsenal-is-dragging-chad-and-ethiopia-into-its-war-oped/",
-          "source": "eurasiareview.com",
-          "pubDate": "2026-09-07T23:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Rearmed And Reckless : How Sudan New Arsenal Is Dragging Chad And Ethiopia Into Its War - OpEd"
-        },
-        {
-          "title": "Mottley calls for stronger CARICOM - Africa ties",
-          "link": "https://barbadostoday.bb/2026/09/07/mottley-calls-for-stronger-caricom-africa-ties/",
-          "source": "barbadostoday.bb",
-          "pubDate": "2026-09-07T22:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Mottley calls for stronger CARICOM - Africa ties"
         },
         {
           "title": "Arab League urges restraint as regional tensions escalate",
@@ -494,69 +639,6 @@
           "titleIt": "Arab League urges restraint as regional tensions escalate"
         },
         {
-          "title": "Sudan Borders Have Become as Dangerous as the War Itself",
-          "link": "https://themedialine.org/top-stories/sudans-borders-have-become-as-dangerous-as-the-war-itself/",
-          "source": "themedialine.org",
-          "pubDate": "2026-09-07T11:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Sudan Borders Have Become as Dangerous as the War Itself"
-        },
-        {
-          "title": "Battle for water : Could the Nile dispute trigger a regional war ?",
-          "link": "https://news.az/news/battle-for-water-could-the-nile-dispute-trigger-a-regional-war",
-          "source": "news.az",
-          "pubDate": "2026-09-07T08:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Battle for water : Could the Nile dispute trigger a regional war ?"
-        },
-        {
-          "title": "Beyond The Zero - Sum : Reimagining The Nile And The Horn",
-          "link": "https://www.thereporterethiopia.com/52620/",
-          "source": "thereporterethiopia.com",
-          "pubDate": "2026-09-05T13:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Beyond The Zero - Sum : Reimagining The Nile And The Horn"
-        },
-        {
-          "title": "Nepal needs more giant dams to avert disastrous floods",
-          "link": "https://www.taipeitimes.com/News/editorials/archives/2026/09/02/2003863529",
-          "source": "taipeitimes.com",
-          "pubDate": "2026-09-01T20:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Nepal needs more giant dams to avert disastrous floods"
-        },
-        {
-          "title": "Ethiopia Electricity Data Miners Now Top the Payer List",
-          "link": "https://www.riotimesonline.com/ethiopia-electricity-data-miners-revenue-2026/",
-          "source": "riotimesonline.com",
-          "pubDate": "2026-09-01T19:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia Electricity Data Miners Now Top the Payer List"
-        },
-        {
-          "title": "The Stream , September 1 , 2026 : Israel Abruptly Shuts Down All But One Desalination Plant Due to Weather",
-          "link": "https://www.circleofblue.org/newsletter/the-stream-september-1-2026-israel-abruptly-shuts-down-all-but-one-desalination-plant-due-to-weather/",
-          "source": "circleofblue.org",
-          "pubDate": "2026-09-01T15:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The Stream , September 1 , 2026 : Israel Abruptly Shuts Down All But One Desalination Plant Due to Weather"
-        },
-        {
-          "title": "Africa : GERD Offers Blueprint for Africa Self - Reliance , Says Hailemariam",
-          "link": "https://allafrica.com/stories/202608270018.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-08-27T05:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Africa : GERD Offers Blueprint for Africa Self - Reliance , Says Hailemariam"
-        },
-        {
           "title": "IPI: Africa Media Freedom Monitoring: April to June 2026",
           "link": "https://hornobserver.com/articles/3719/IPI-Africa-Media-Freedom-Monitoring-April-to-June-2026",
           "description": "The International Press Institute (IPI) recorded nearly 100 cases of threats and attacks on journalists (82 male and 18 female) across 22 countries in sub-Saharan Africa between April and June 2026. Physical and verbal attacks, as well as arrests and detention, were the most frequent types of incidents. An Ethiopian journalist in exile was found dead in Kenya under suspicious circumstances. &nbsp; Police and state security forces (55%) continued to be the primary perpetrators of attacks and threats against journalists, a trend that continues from the previous quarter. However, attacks by commu",
@@ -564,69 +646,6 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "IPI: Africa Media Freedom Monitoring: April to June 2026"
-        },
-        {
-          "title": "Domestic and Regional Pressures Strain Ethiopia Fragile Peace",
-          "link": "https://www.justsecurity.org/154852/ethiopia-horn-africa-regional-tensions/",
-          "source": "justsecurity.org",
-          "pubDate": "2026-08-26T16:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Domestic and Regional Pressures Strain Ethiopia Fragile Peace"
-        },
-        {
-          "title": "Pumped storage : powering the age of flexibility - International Water Power",
-          "link": "https://www.waterpowermagazine.com/analysis/pumped-storage-powering-the-age-of-flexibility/",
-          "source": "waterpowermagazine.com",
-          "pubDate": "2026-08-26T13:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Pumped storage : powering the age of flexibility - International Water Power"
-        },
-        {
-          "title": "Egypt faces crises from all directions , foreign minister warns",
-          "link": "https://www.thenationalnews.com/news/mena/2026/08/25/irans-irgc-holds-real-power-but-peace-talks-must-go-on-says-egypts-foreign-minister/",
-          "source": "thenationalnews.com",
-          "pubDate": "2026-08-25T19:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egypt faces crises from all directions , foreign minister warns"
-        },
-        {
-          "title": "Tanzania inaugurates $2 . 9B hydropower project built by Egyptian consortium",
-          "link": "https://www.middleeastmonitor.com/20260822-tanzania-inaugurates-2-9b-hydropower-project-built-by-egyptian-consortium/",
-          "source": "middleeastmonitor.com",
-          "pubDate": "2026-08-22T18:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Tanzania inaugurates $2 . 9B hydropower project built by Egyptian consortium"
-        },
-        {
-          "title": "Sudan farms lie barren as El Nino leaves Nile banks dry",
-          "link": "https://www.africanews.com/2026/08/22/sudan-farms-lie-barren-as-el-nino-leaves-nile-banks-dry/",
-          "source": "africanews.com",
-          "pubDate": "2026-08-22T17:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Sudan farms lie barren as El Nino leaves Nile banks dry"
-        },
-        {
-          "title": "Sudan farms lie barren as El Nino dries up Nile banks",
-          "link": "https://www.freemalaysiatoday.com/category/world/2026/08/22/sudan-farms-lie-barren-as-el-nino-leaves-nile-banks-dry",
-          "source": "freemalaysiatoday.com",
-          "pubDate": "2026-08-22T10:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Sudan farms lie barren as El Nino dries up Nile banks"
-        },
-        {
-          "title": "Sudan Farms Lie Barren as El Nino Leaves Nile Banks Dry",
-          "link": "https://english.aawsat.com/arab-world/5309769-sudan-farms-lie-barren-el-nino-leaves-nile-banks-dry",
-          "source": "english.aawsat.com",
-          "pubDate": "2026-08-22T06:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Sudan Farms Lie Barren as El Nino Leaves Nile Banks Dry"
         }
       ]
     }
