@@ -1,11 +1,29 @@
 {
-  "generatedAt": "2026-09-10T04:46:35.444Z",
+  "generatedAt": "2026-09-10T11:20:06.029Z",
   "feedsChecked": 10,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
+        {
+          "title": "Fighter jets soar in the sky at Egypt's El Alamein air show",
+          "link": "http://www.africanews.com/2026/09/10/fighter-jets-soar-in-the-sky-at-egypts-el-alamein-air-show/",
+          "description": "The 2026 edition has brought together government and military delegations, aviation authorities, space agencies, airlines, and aerospace manufacturers",
+          "pubDate": "Thu, 10 Sep 2026 09:08:35 +0000",
+          "source": "Africanews",
+          "lang": "en",
+          "titleIt": "Fighter jets soar in the sky at Egypt's El Alamein air show"
+        },
+        {
+          "title": "Sudan: Cairo Declaration Forces Reject El Burhan National Dialogue, Call for Negotiated End to Sudan War",
+          "link": "https://allafrica.com/stories/202609100013.html",
+          "description": "[Dabanga] Cairo -- A coalition of Sudanese political forces has rejected a proposed Sudanese-led national dialogue announced by Sudanese Armed Forces (SAF) chief and head of the Sovereignty Council, Gen Abdelfattah El Burhan, arguing that it would legitimise a reality created by war and entrench a de facto authority. The Cairo Declaration forces made the statement after a meeting of their leaders in Cairo on Monday. They said that, although El Burhan's recent rhetoric had shifted from \"Glory to the rifle\" to \"Glory to",
+          "pubDate": "Thu, 10 Sep 2026 05:15:40 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Sudan: Cairo Declaration Forces Reject El Burhan National Dialogue, Call for Negotiated End to Sudan War"
+        },
         {
           "title": "Somaliland arrests two journalists and a poet in two weeks over criticism of president Abdirahman Irro",
           "link": "https://hornobserver.com/articles/3735/Somaliland-arrests-two-journalists-and-a-poet-in-two-weeks-over-criticism-of-president-Abdirahman-Irro",
@@ -14,15 +32,6 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "Somaliland arrests two journalists and a poet in two weeks over criticism of president Abdirahman Irro"
-        },
-        {
-          "title": "Somalia: Somali Army Commander, Turkey-Trained Troops Welcomed in Mogadishu",
-          "link": "https://allafrica.com/stories/202609090520.html",
-          "description": "[Shabelle] Mogadishu -- Somalia's 21st Gorgor Commando Brigade commander and a contingent of Somali soldiers who completed advanced military training in Turkey have been welcomed at a ceremony in Mogadishu, the military said Wednesday.",
-          "pubDate": "Wed, 09 Sep 2026 15:11:55 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Somalia: Somali Army Commander, Turkey-Trained Troops Welcomed in Mogadishu"
         },
         {
           "title": "Egypt air show spotlights drones and military hardware",
@@ -77,15 +86,6 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "Somalia's Hirshabelle Authorities Step Up Flood Preparedness Ahead of Forecast El Niño Conditions"
-        },
-        {
-          "title": "Egypt TV presenter Sarah Khalifa sentenced to death in drug case",
-          "link": "http://www.africanews.com/2026/09/07/egypt-tv-presenter-sarah-khalifa-sentenced-to-death-in-drug-case/",
-          "description": "Egyptian television presenter Sarah Khalifa and 11 other people have been sentenced to death after being convicted of drug trafficking and other offences, state-owned Al-Ahram reported.",
-          "pubDate": "Mon, 07 Sep 2026 07:57:03 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "Egypt TV presenter Sarah Khalifa sentenced to death in drug case"
         },
         {
           "title": "Protests Erupt in Somalia's Gedo Region Over Alleged Turkish Strikes in Doolow",
@@ -192,6 +192,60 @@
       "title": "Dossier Somaliland",
       "items": [
         {
+          "title": "Ethiopia: Unity By Choice, Not Fear - Lessons From Eritrea's Independence for Future Ethiopia-Tigray Relations",
+          "link": "https://allafrica.com/stories/202609100224.html",
+          "description": "[Addis Standard] Addis Abeba -- Ethiopia's political history is often reduced to the decisions of political parties and armed movements. Eritrea's independence, in particular, is sometimes portrayed as the result of a choice made solely by the Tigray People's Liberation Front (TPLF) or the Ethiopian People's Revolutionary Democratic Front (EPRDF). That interpretation is historically incomplete.",
+          "pubDate": "Thu, 10 Sep 2026 10:19:01 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Ethiopia: Unity By Choice, Not Fear - Lessons From Eritrea's Independence for Future Ethiopia-Tigray Relations"
+        },
+        {
+          "title": "Somaliland Says Ready to Send Troops to Gaza if Trump , Netanyahu Request",
+          "link": "https://www.garoweonline.com/en/news/somalia/somaliland-says-ready-to-send-troops-to-gaza-if-trump-netanyahu-request",
+          "source": "garoweonline.com",
+          "pubDate": "2026-09-10T10:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Somaliland Says Ready to Send Troops to Gaza if Trump , Netanyahu Request"
+        },
+        {
+          "title": "Somalia : Somaliland Ready to Contribute Up to 2 , 000 Troops to Gaza Stabilisation Force , President Says",
+          "link": "https://allafrica.com/stories/202609100182.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-09-10T10:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Somalia : Somaliland Ready to Contribute Up to 2 , 000 Troops to Gaza Stabilisation Force , President Says"
+        },
+        {
+          "title": "Somalia : Somaliland Denies Talks On Israeli Operations Against Houthis",
+          "link": "https://allafrica.com/stories/202609100181.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-09-10T10:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Somalia : Somaliland Denies Talks On Israeli Operations Against Houthis"
+        },
+        {
+          "title": "Kenya: Senate Throws Out NTSA Regulations for Lack of Public Participation",
+          "link": "https://allafrica.com/stories/202609100119.html",
+          "description": "[Capital FM] Nairobi -- The Senate has scrapped three new regulations that were issued by the National Transport and Safety Authority (NTSA), citing a lack of public participation.",
+          "pubDate": "Thu, 10 Sep 2026 07:32:21 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Kenya: Senate Throws Out NTSA Regulations for Lack of Public Participation"
+        },
+        {
+          "title": "Somaliland willing to send up to 2 , 000 troops to Gaza force , president says",
+          "link": "http://www.jpost.com/middle-east/article-908185",
+          "source": "jpost.com",
+          "pubDate": "2026-09-10T06:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Somaliland willing to send up to 2 , 000 troops to Gaza force , president says"
+        },
+        {
           "title": "Somaliland arrests two journalists and a poet in two weeks over criticism of president Abdirahman Irro",
           "link": "https://hornobserver.com/articles/3735/Somaliland-arrests-two-journalists-and-a-poet-in-two-weeks-over-criticism-of-president-Abdirahman-Irro",
           "description": "Journalist Abdiqani Hussein Abokor, known as Baylood, founder of Heegan TV, was arrested on 29 August 2026 after interviewing Somaliland-based poet Ismail Yusuf Abdi, also known as Jiheeye. During the interview, published by Abdiqani Hussein Abokor on his Facebook page on 27 August, Ismail complained to President Irro about the forced eviction of his family from their home in Hargeisa. During the interview, Ismail recited a poem in which he cursed the president and said \"that the president's honour should be diminished and failure comes to him\" if the vulnerable family were evicted from their ",
@@ -201,15 +255,6 @@
           "titleIt": "Somaliland arrests two journalists and a poet in two weeks over criticism of president Abdirahman Irro"
         },
         {
-          "title": "Kenya: Govt Deploys Automatic Terminal Information Service At JKIA to Improve Management of Arriving, Departing Flights",
-          "link": "https://allafrica.com/stories/202609090361.html",
-          "description": "[Capital FM] Nairobi -- The government is tightening operational and security controls at Jomo Kenyatta International Airport (JKIA), deploying new flight-information and passenger-data systems as it seeks to improve processing, strengthen oversight and curb irregular baggage handling.",
-          "pubDate": "Wed, 09 Sep 2026 12:17:38 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Kenya: Govt Deploys Automatic Terminal Information Service At JKIA to Improve Management of Arriving, Departing Flights"
-        },
-        {
           "title": "Concerns over wildlife, water supply, as wildfire rages across Mount Kenya",
           "link": "http://www.africanews.com/2026/09/09/concerns-over-wildlife-water-supply-as-wildfire-rages-across-mount-kenya/",
           "description": "A wildfire has burned about 8,700 hectares of vegetation on Mount Kenya since the fire was first reported on Sept 1, Mount Kenya Trust, an environmental conservation group, said.",
@@ -217,6 +262,155 @@
           "source": "Africanews",
           "lang": "en",
           "titleIt": "Concerns over wildlife, water supply, as wildfire rages across Mount Kenya"
+        },
+        {
+          "title": "The Global South Needs a New Economic Development Model",
+          "link": "https://foreignpolicy.com/2026/09/09/economic-development-global-south-over-growth-globalization-jobs-population-demographics-labor-force/?tpcc=recirc_trending062921",
+          "source": "foreignpolicy.com",
+          "pubDate": "2026-09-09T05:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The Global South Needs a New Economic Development Model"
+        },
+        {
+          "title": "The Global South Needs a New Economic Development Model",
+          "link": "https://foreignpolicy.com/2026/09/09/economic-development-global-south-over-growth-globalization-jobs-population-demographics-labor-force/",
+          "source": "foreignpolicy.com",
+          "pubDate": "2026-09-09T04:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The Global South Needs a New Economic Development Model"
+        },
+        {
+          "title": "EXPLORING GREY ZONE OPERATIONS IN EUROPE AND AFRICA – Ministry of Defence – Kenya",
+          "link": "https://www.mod.go.ke/news/exploring-grey-zone-operations-in-europe-and-africa/",
+          "source": "mod.go.ke",
+          "pubDate": "2026-09-07T21:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "EXPLORING GREY ZONE OPERATIONS IN EUROPE AND AFRICA – Ministry of Defence – Kenya"
+        },
+        {
+          "title": "Gulf states Africa investment shifts to ports and bases",
+          "link": "https://www.riotimesonline.com/gulf-states-africa-investment-2026/",
+          "source": "riotimesonline.com",
+          "pubDate": "2026-09-07T16:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Gulf states Africa investment shifts to ports and bases"
+        },
+        {
+          "title": "Sudan Borders Have Become as Dangerous as the War Itself",
+          "link": "https://themedialine.org/top-stories/sudans-borders-have-become-as-dangerous-as-the-war-itself/",
+          "source": "themedialine.org",
+          "pubDate": "2026-09-07T11:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Sudan Borders Have Become as Dangerous as the War Itself"
+        },
+        {
+          "title": "Somali journalist Bashir Mohamed Abdullahi dies after being shot during Baidoa clashes",
+          "link": "https://hornobserver.com/articles/3731/Somali-journalist-Bashir-Mohamed-Abdullahi-dies-after-being-shot-during-Baidoa-clashes",
+          "description": "MOGADISHU, Somalia 7 September 2026 – The Somali Journalists Syndicate (SJS) expresses its deepest condolences over the death of journalist Bashir Mohamed Abdullahi, also known as Bashir Moalin, a reporter with the local Arlaadi Media Network, who succumbed to gunshot injuries sustained during armed clashes in Baidoa on Thursday, 3 September 2026. He becomes the second journalist killed in Somalia this year. Early on Monday, 7 September 2026, Bashir, 28, died from critical injuries he sustained while seeking shelter during armed clashes in Baidoa, Southwest State, his family told SJS. Accordin",
+          "pubDate": "Mon, 07 Sep 2026 13:49:29 +0300",
+          "source": "Horn Observer",
+          "lang": "en",
+          "titleIt": "Somali journalist Bashir Mohamed Abdullahi dies after being shot during Baidoa clashes"
+        },
+        {
+          "title": "Nauru Opens Embassy In Jerusalem , Becoming Ninth Country With Mission In Israeli Capital",
+          "link": "https://www.i24news.tv/en/news/israel/diplomacy/artc-nauru-opens-embassy-in-jerusalem-becoming-ninth-country-with-mission-in-israeli-capital",
+          "source": "i24news.tv",
+          "pubDate": "2026-09-07T09:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Nauru Opens Embassy In Jerusalem , Becoming Ninth Country With Mission In Israeli Capital"
+        },
+        {
+          "title": "Battle for water : Could the Nile dispute trigger a regional war ?",
+          "link": "https://news.az/news/battle-for-water-could-the-nile-dispute-trigger-a-regional-war",
+          "source": "news.az",
+          "pubDate": "2026-09-07T08:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Battle for water : Could the Nile dispute trigger a regional war ?"
+        },
+        {
+          "title": "Congo - Kinshasa : DR Congo Eyes Jerusalem Embassy As Tshisekedi Seeks Israel Support",
+          "link": "https://allafrica.com/stories/202609070006.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-09-07T06:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Congo - Kinshasa : DR Congo Eyes Jerusalem Embassy As Tshisekedi Seeks Israel Support"
+        },
+        {
+          "title": "Puntland Road Advantage : Why Deni Can Reach His People by Road While Other Somali Presidents Cannot",
+          "link": "https://wardheernews.com/puntlands-road-advantage-why-deni-can-reach-his-people-by-road-while-other-somali-presidents-cannot/",
+          "source": "wardheernews.com",
+          "pubDate": "2026-09-06T22:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Puntland Road Advantage : Why Deni Can Reach His People by Road While Other Somali Presidents Cannot"
+        },
+        {
+          "title": "Protests Erupt in Somalia's Gedo Region Over Alleged Turkish Strikes in Doolow",
+          "link": "https://hornobserver.com/articles/3729/Protests-Erupt-in-Somalias-Gedo-Region-Over-Alleged-Turkish-Strikes-in-Doolow",
+          "description": "In Doolow, protesters accused Turkey of becoming involved in Somalia's political and clan disputes and expressed anger over the reported attack on General Shub's residence. Demonstrators chanted slogans critical of the federal government led by President Hassan Sheikh Mohamud and called for those responsible to be identified and held accountable. The residence of General Shub was reportedly targeted in an overnight attack involving a drone. General Shub and members of his family were reportedly inside the house at the time and sustained minor injuries. The Somali federal government has rejecte",
+          "pubDate": "Sat, 05 Sep 2026 22:24:29 +0300",
+          "source": "Horn Observer",
+          "lang": "en",
+          "titleIt": "Protests Erupt in Somalia's Gedo Region Over Alleged Turkish Strikes in Doolow"
+        },
+        {
+          "title": "Somalia Geopolitical Reset : Is the World Giving Up on One Somalia ?",
+          "link": "https://wardheernews.com/somalias-geopolitical-reset-is-the-world-giving-up-on-one-somalia/",
+          "source": "wardheernews.com",
+          "pubDate": "2026-09-05T18:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Somalia Geopolitical Reset : Is the World Giving Up on One Somalia ?"
+        }
+      ]
+    },
+    "ethiopia-sea-access": {
+      "title": "Accesso etiope al mare",
+      "items": [
+        {
+          "title": "Ethiopia: Unity By Choice, Not Fear - Lessons From Eritrea's Independence for Future Ethiopia-Tigray Relations",
+          "link": "https://allafrica.com/stories/202609100224.html",
+          "description": "[Addis Standard] Addis Abeba -- Ethiopia's political history is often reduced to the decisions of political parties and armed movements. Eritrea's independence, in particular, is sometimes portrayed as the result of a choice made solely by the Tigray People's Liberation Front (TPLF) or the Ethiopian People's Revolutionary Democratic Front (EPRDF). That interpretation is historically incomplete.",
+          "pubDate": "Thu, 10 Sep 2026 10:19:01 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Ethiopia: Unity By Choice, Not Fear - Lessons From Eritrea's Independence for Future Ethiopia-Tigray Relations"
+        },
+        {
+          "title": "Libya: UN Hails Libya Election Deal As Security Council Urges Libyans to Seize the Moment",
+          "link": "https://allafrica.com/stories/202609100002.html",
+          "description": "[UN News] The UN Security Council has welcomed a breakthrough agreement between Libya's rival political blocs, calling it \"an important step\" towards the country's first national elections in over a decade - while pressing all sides to move quickly from paper to practice.",
+          "pubDate": "Thu, 10 Sep 2026 05:08:34 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Libya: UN Hails Libya Election Deal As Security Council Urges Libyans to Seize the Moment"
+        },
+        {
+          "title": "Finding a path to peace: Nigeria’s long, faltering history of dialogue with Boko Haram",
+          "link": "https://www.thenewhumanitarian.org/analysis/2026/09/09/finding-path-peace-nigerias-long-faltering-history-dialogue-boko-haram",
+          "description": "Could a reported ceasefire in the Boko Haram conflict be the beginning of a broader settlement?",
+          "pubDate": "Wed, 09 Sep 26 15:10:03 +0000",
+          "source": "The New Humanitarian",
+          "lang": "en",
+          "titleIt": "Finding a path to peace: Nigeria’s long, faltering history of dialogue with Boko Haram"
+        },
+        {
+          "title": "Arab League urges restraint as regional tensions escalate",
+          "link": "http://www.africanews.com/2026/09/07/arab-league-urges-restraint-as-regional-tensions-escalate/",
+          "description": "The Arab League gathers in Cairo as tensions escalate across the region. Maritime security in the Gulf is under growing strain after renewed Iran-U.S. exchanges, including attacks near the Strait of Hormuz.",
+          "pubDate": "Mon, 07 Sep 2026 16:38:49 +0000",
+          "source": "Africanews",
+          "lang": "en",
+          "titleIt": "Arab League urges restraint as regional tensions escalate"
         },
         {
           "title": "Somali journalist Bashir Mohamed Abdullahi dies after being shot during Baidoa clashes",
@@ -292,191 +486,6 @@
         }
       ]
     },
-    "ethiopia-sea-access": {
-      "title": "Accesso etiope al mare",
-      "items": [
-        {
-          "title": "June to August period hottest on record for 1 . 3 billion people",
-          "link": "https://www.freemalaysiatoday.com/category/world/2026/09/10/june-to-august-period-hottest-on-record-for-1-3-billion-people",
-          "source": "freemalaysiatoday.com",
-          "pubDate": "2026-09-10T03:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "June to August period hottest on record for 1 . 3 billion people"
-        },
-        {
-          "title": "Ecuador-Usa: Rubio, negoziati commerciali avanzano, \"presto buone notizie\" (2)",
-          "link": "https://www.agenzianova.com/a/6aa23627bff9f2.97530967/7761787/2026-09-10/ecuador-usa-rubio-negoziati-commerciali-avanzano-presto-buone-notizie-2",
-          "description": "10 set 05:42 - (Agenzia Nova) - Rubio ha inoltre indicato nei minerali critici, in particolare nel rame e nell'oro, un'importante area di cooperazione... (Was)",
-          "pubDate": "2026-09-10T05:42:28+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Ecuador-Usa: Rubio, negoziati commerciali avanzano, \"presto buone notizie\" (2)"
-        },
-        {
-          "title": "Dangote power plant : Firm plans 1 , 000MW facility in Kenya",
-          "link": "https://punchng.com/dangote-plans-1000mw-power-plant-in-kenya/",
-          "source": "punchng.com",
-          "pubDate": "2026-09-10T03:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Dangote power plant : Firm plans 1 , 000MW facility in Kenya"
-        },
-        {
-          "title": "Dangote $16bn Kenya Refinery Gamble : Where Will The Crude Come From ?",
-          "link": "https://naija247news.com/dangotes-16bn-kenya-refinery-gamble-where-will-the-crude-come-from/",
-          "source": "naija247news.com",
-          "pubDate": "2026-09-10T02:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Dangote $16bn Kenya Refinery Gamble : Where Will The Crude Come From ?"
-        },
-        {
-          "title": "Chinese Space Promises Come With Financial , Sovereign Risks",
-          "link": "https://www.eurasiareview.com/10092026-chinese-space-promises-come-with-financial-sovereign-risks/",
-          "source": "eurasiareview.com",
-          "pubDate": "2026-09-10T02:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Chinese Space Promises Come With Financial , Sovereign Risks"
-        },
-        {
-          "title": "Nigeria : The Nigerian Killed By His Penis",
-          "link": "https://allafrica.com/stories/202609090561.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-09-09T18:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Nigeria : The Nigerian Killed By His Penis"
-        },
-        {
-          "title": "Africa Built This . Now It Must Own It",
-          "link": "https://allafrica.com/stories/202609090560.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-09-09T18:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Africa Built This . Now It Must Own It"
-        },
-        {
-          "title": "Ethiopia : What does constitutional reform mean for Abiy ?",
-          "link": "https://www.dw.com/en/ethiopias-constitutional-reform-what-does-it-mean-especially-for-abiy/a-79172262",
-          "source": "dw.com",
-          "pubDate": "2026-09-09T16:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia : What does constitutional reform mean for Abiy ?"
-        },
-        {
-          "title": "Switzerland Today",
-          "link": "https://www.swissinfo.ch/eng/swiss-abroad-community/switzerland-today/92029073",
-          "source": "swissinfo.ch",
-          "pubDate": "2026-09-09T16:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Switzerland Today"
-        },
-        {
-          "title": "Finding a path to peace: Nigeria’s long, faltering history of dialogue with Boko Haram",
-          "link": "https://www.thenewhumanitarian.org/analysis/2026/09/09/finding-path-peace-nigerias-long-faltering-history-dialogue-boko-haram",
-          "description": "Could a reported ceasefire in the Boko Haram conflict be the beginning of a broader settlement?",
-          "pubDate": "Wed, 09 Sep 26 15:10:03 +0000",
-          "source": "The New Humanitarian",
-          "lang": "en",
-          "titleIt": "Finding a path to peace: Nigeria’s long, faltering history of dialogue with Boko Haram"
-        },
-        {
-          "title": "Oman - Africa digital business platform launched in Salalah",
-          "link": "https://www.omanobserver.om/article/1195872/business/markets/oman-africa-digital-business-platform-launched-in-salalah",
-          "source": "omanobserver.om",
-          "pubDate": "2026-09-09T10:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Oman - Africa digital business platform launched in Salalah"
-        },
-        {
-          "title": "Angola Calls for Sustainable Graduation of Least Developed Countries",
-          "link": "https://allafrica.com/stories/202609090219.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-09-09T10:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Angola Calls for Sustainable Graduation of Least Developed Countries"
-        },
-        {
-          "title": "Stefano Knuchel Hugo Pratt Venice Film Festival Trilogy",
-          "link": "https://variety.com/2026/film/global/stefano-knuchel-trilogy-hugo-in-venice-1236854652/",
-          "source": "variety.com",
-          "pubDate": "2026-09-09T08:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Stefano Knuchel Hugo Pratt Venice Film Festival Trilogy"
-        },
-        {
-          "title": "‎Drought effect on regional milk industry as Kenya turns to Uganda",
-          "link": "https://www.independent.co.ug/%E2%80%8Edrought-effect-on-regional-milk-industry-as-kenya-turns-to-uganda/",
-          "source": "independent.co.ug",
-          "pubDate": "2026-09-09T07:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "‎Drought effect on regional milk industry as Kenya turns to Uganda"
-        },
-        {
-          "title": "Ethiopia: Rising Tigray Tensions Test African Union",
-          "link": "https://allafrica.com/stories/202609090094.html",
-          "description": "[HRW] AU Should Act Before Conflict Escalates",
-          "pubDate": "Wed, 09 Sep 2026 07:10:12 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Ethiopia: Rising Tigray Tensions Test African Union"
-        },
-        {
-          "title": "China strengthens global supply chain cooperation to bolster economic certainty -- Beijing Review",
-          "link": "http://www.bjreview.com/World/202609/t20260909_800446185.html",
-          "source": "bjreview.com",
-          "pubDate": "2026-09-09T05:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "China strengthens global supply chain cooperation to bolster economic certainty -- Beijing Review"
-        },
-        {
-          "title": "Xinhua Headlines : China strengthens global supply chain cooperation to bolster economic certainty",
-          "link": "http://english.anhuinews.com/newscenter/headline/202609/t20260909_9567736.html",
-          "source": "english.anhuinews.com",
-          "pubDate": "2026-09-09T05:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Xinhua Headlines : China strengthens global supply chain cooperation to bolster economic certainty"
-        },
-        {
-          "title": "The Global South Needs a New Economic Development Model",
-          "link": "https://foreignpolicy.com/2026/09/09/economic-development-global-south-over-growth-globalization-jobs-population-demographics-labor-force/?tpcc=recirc_trending062921",
-          "source": "foreignpolicy.com",
-          "pubDate": "2026-09-09T05:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The Global South Needs a New Economic Development Model"
-        },
-        {
-          "title": "China strengthens global supply chain cooperation to bolster economic certainty -- Beijing Review",
-          "link": "http://www.bjreview.com.cn/World/202609/t20260909_800446185.html",
-          "source": "bjreview.com.cn",
-          "pubDate": "2026-09-09T04:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "China strengthens global supply chain cooperation to bolster economic certainty -- Beijing Review"
-        },
-        {
-          "title": "The Global South Needs a New Economic Development Model",
-          "link": "https://foreignpolicy.com/2026/09/09/economic-development-global-south-over-growth-globalization-jobs-population-demographics-labor-force/",
-          "source": "foreignpolicy.com",
-          "pubDate": "2026-09-09T04:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The Global South Needs a New Economic Development Model"
-        }
-      ]
-    },
     "egypt-economy": {
       "title": "Fragilità economica egiziana",
       "items": []
@@ -485,13 +494,13 @@
       "title": "Opacità sui rilasci GERD",
       "items": [
         {
-          "title": "Ethiopia: Rising Tigray Tensions Test African Union",
-          "link": "https://allafrica.com/stories/202609090094.html",
-          "description": "[HRW] AU Should Act Before Conflict Escalates",
-          "pubDate": "Wed, 09 Sep 2026 07:10:12 GMT",
+          "title": "Sudan: Sudanese Clinics Close Amid Aid Cuts, Leaving Millions With Shrinking Access to Healthcare - MSF",
+          "link": "https://allafrica.com/stories/202609100015.html",
+          "description": "[Dabanga] Amsterdam -- Humanitarian funding crisis is forcing patients to travel further for treatment as remaining hospitals struggle to absorb the growing demand, Médecins Sans Frontières (MSF) warns international aid cuts are forcing clinics across Sudan to close, leaving people to make longer and more dangerous journeys for healthcare and pushing the country's remaining hospitals towards breaking point.",
+          "pubDate": "Thu, 10 Sep 2026 05:15:42 GMT",
           "source": "AllAfrica",
           "lang": "en",
-          "titleIt": "Ethiopia: Rising Tigray Tensions Test African Union"
+          "titleIt": "Sudan: Sudanese Clinics Close Amid Aid Cuts, Leaving Millions With Shrinking Access to Healthcare - MSF"
         },
         {
           "title": "Arab League urges restraint as regional tensions escalate",
