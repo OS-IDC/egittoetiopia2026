@@ -1,11 +1,20 @@
 {
-  "generatedAt": "2026-09-10T16:24:04.870Z",
+  "generatedAt": "2026-09-10T20:53:13.011Z",
   "feedsChecked": 10,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
+        {
+          "title": "Somalia: Two journalists arrested in Baidoa over Facebook reporting, whereabouts of one of them still unknown",
+          "link": "https://hornobserver.com/articles/3736/Somalia-Two-journalists-arrested-in-Baidoa-over-Facebook-reporting-whereabouts-of-one-of-them-still-unknown",
+          "description": "On 6 September, journalist Abdirahman Mohamed Abdi known as Jakataa was arrested by security services in Baidoa, according to colleagues who requested anonymity for fear of their safety. His whereabouts have remained unknown since his arrest. When SJS sought clarification from the Baidoa police, no response was provided. However, Abdirahman's colleagues told SJS that they believe he was detained over a post he published on his Facebook page on 5 September, which said: \"Can you name the only Digil/Mirifle clan whose members are being attacked by an aircraft, and the only clan whose members are ",
+          "pubDate": "Thu, 10 Sep 2026 22:33:24 +0300",
+          "source": "Horn Observer",
+          "lang": "en",
+          "titleIt": "Somalia: Two journalists arrested in Baidoa over Facebook reporting, whereabouts of one of them still unknown"
+        },
         {
           "title": "Italy Committed to Water Security, Agriculture, and Climate Action in Somalia",
           "link": "https://www.ansa.it/english/news/news_from_embassies/2026/09/10/italy-committed-to-water-security-agriculture-and-climate-action-in-somalia_32af403a-121e-4c69-90b9-c5b309092a5f.html",
@@ -50,15 +59,6 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "AFRICOM Conducts Airstrike Against al-Shabaab in Somalia"
-        },
-        {
-          "title": "Arab League urges restraint as regional tensions escalate",
-          "link": "http://www.africanews.com/2026/09/07/arab-league-urges-restraint-as-regional-tensions-escalate/",
-          "description": "The Arab League gathers in Cairo as tensions escalate across the region. Maritime security in the Gulf is under growing strain after renewed Iran-U.S. exchanges, including attacks near the Strait of Hormuz.",
-          "pubDate": "Mon, 07 Sep 2026 16:38:49 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "Arab League urges restraint as regional tensions escalate"
         },
         {
           "title": "Switzerland plans deportation of seriously injured Somali citizen",
@@ -178,19 +178,37 @@
           "titleIt": "Laftagareen's Forces Attack Baidoa, Reviving the Fight Somalia Thought It Had Won"
         },
         {
-          "title": "Conflict Drives Farmers Into Somalia's capital Mogadishu",
-          "link": "https://hornobserver.com/articles/3715/Conflict-Drives-Farmers-Into-Somalias-capital-Mogadishu",
-          "description": "The families were displaced by disputes over agricultural land ownership, alongside ongoing fighting between the Somali government and Al-Shabaab and renewed clan conflicts over contested farmland. Aadan Rooble, a former farmer now living in an IDP camp in Mogadishu, said he fled the village of Farxaano in Lower Shabelle about 10 days ago because of continued fighting. Aadan said some members of his family were able to secure transportation, while he initially travelled on foot before eventually finding a vehicle. He said the family was forced to abandon the farms where they worked after repea",
-          "pubDate": "Mon, 17 Aug 2026 12:31:00 +0300",
-          "source": "Horn Observer",
+          "title": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab",
+          "link": "https://www.crisisgroup.org/brf/africa/somalia/b212-new-chapter-same-stalemate-somalias-war-al-shabaab",
+          "description": "The Somali government’s battle with Al-Shabaab militants grinds on, with neither able to gain a decisive advantage. To improve its lot, Mogadishu needs to bolster its military and alleviate civilian suffering in areas under insurgent control, while looking for openings for dialogue with the group.",
+          "pubDate": "Tuesday, June 30, 2026 - 15:20",
+          "source": "Crisis Group",
           "lang": "en",
-          "titleIt": "Conflict Drives Farmers Into Somalia's capital Mogadishu"
+          "titleIt": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab"
         }
       ]
     },
     "somaliland": {
       "title": "Dossier Somaliland",
       "items": [
+        {
+          "title": "Somalia: Two journalists arrested in Baidoa over Facebook reporting, whereabouts of one of them still unknown",
+          "link": "https://hornobserver.com/articles/3736/Somalia-Two-journalists-arrested-in-Baidoa-over-Facebook-reporting-whereabouts-of-one-of-them-still-unknown",
+          "description": "On 6 September, journalist Abdirahman Mohamed Abdi known as Jakataa was arrested by security services in Baidoa, according to colleagues who requested anonymity for fear of their safety. His whereabouts have remained unknown since his arrest. When SJS sought clarification from the Baidoa police, no response was provided. However, Abdirahman's colleagues told SJS that they believe he was detained over a post he published on his Facebook page on 5 September, which said: \"Can you name the only Digil/Mirifle clan whose members are being attacked by an aircraft, and the only clan whose members are ",
+          "pubDate": "Thu, 10 Sep 2026 22:33:24 +0300",
+          "source": "Horn Observer",
+          "lang": "en",
+          "titleIt": "Somalia: Two journalists arrested in Baidoa over Facebook reporting, whereabouts of one of them still unknown"
+        },
+        {
+          "title": "Israel's Netanyahu to sue newspaper over claim UAE warned him of 7 October attack",
+          "link": "https://www.bbc.co.uk/news/articles/c1kxwm870g1o?at_medium=RSS&at_campaign=rss",
+          "description": "The paper said it stood by its reporting, after publishing extracts from a book where the claim appears.",
+          "pubDate": "Thu, 10 Sep 2026 15:54:17 GMT",
+          "source": "BBC World",
+          "lang": "en",
+          "titleIt": "Israel's Netanyahu to sue newspaper over claim UAE warned him of 7 October attack"
+        },
         {
           "title": "Ethiopia: Amid Escalating Federal-Tigray Tensions, Debretsion Says Alliance Has Become 'Irreversible'",
           "link": "https://allafrica.com/stories/202609100582.html",
@@ -352,24 +370,6 @@
           "lang": "en",
           "description": "",
           "titleIt": "Battle for water : Could the Nile dispute trigger a regional war ?"
-        },
-        {
-          "title": "Congo - Kinshasa : DR Congo Eyes Jerusalem Embassy As Tshisekedi Seeks Israel Support",
-          "link": "https://allafrica.com/stories/202609070006.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-09-07T06:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Congo - Kinshasa : DR Congo Eyes Jerusalem Embassy As Tshisekedi Seeks Israel Support"
-        },
-        {
-          "title": "Puntland Road Advantage : Why Deni Can Reach His People by Road While Other Somali Presidents Cannot",
-          "link": "https://wardheernews.com/puntlands-road-advantage-why-deni-can-reach-his-people-by-road-while-other-somali-presidents-cannot/",
-          "source": "wardheernews.com",
-          "pubDate": "2026-09-06T22:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Puntland Road Advantage : Why Deni Can Reach His People by Road While Other Somali Presidents Cannot"
         }
       ]
     },
@@ -377,13 +377,22 @@
       "title": "Accesso etiope al mare",
       "items": [
         {
-          "title": "Trasporti: Trenitalia regionale rinnova la partnership con X Factor 2026 (2)",
-          "link": "https://www.agenzianova.com/a/6aa2d9a10c56d8.42889164/7764965/2026-09-10/trasporti-trenitalia-regionale-rinnova-la-partnership-con-x-factor-2026-2",
-          "description": "10 set 18:12 - (Agenzia Nova) - La rinnovata intesa conferma la volonta' del Regionale di Trenitalia di costruire un dialogo sempre piu' vicino... (Com)",
-          "pubDate": "2026-09-10T18:12:45+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Trasporti: Trenitalia regionale rinnova la partnership con X Factor 2026 (2)"
+          "title": "Somalia: Two journalists arrested in Baidoa over Facebook reporting, whereabouts of one of them still unknown",
+          "link": "https://hornobserver.com/articles/3736/Somalia-Two-journalists-arrested-in-Baidoa-over-Facebook-reporting-whereabouts-of-one-of-them-still-unknown",
+          "description": "On 6 September, journalist Abdirahman Mohamed Abdi known as Jakataa was arrested by security services in Baidoa, according to colleagues who requested anonymity for fear of their safety. His whereabouts have remained unknown since his arrest. When SJS sought clarification from the Baidoa police, no response was provided. However, Abdirahman's colleagues told SJS that they believe he was detained over a post he published on his Facebook page on 5 September, which said: \"Can you name the only Digil/Mirifle clan whose members are being attacked by an aircraft, and the only clan whose members are ",
+          "pubDate": "Thu, 10 Sep 2026 22:33:24 +0300",
+          "source": "Horn Observer",
+          "lang": "en",
+          "titleIt": "Somalia: Two journalists arrested in Baidoa over Facebook reporting, whereabouts of one of them still unknown"
+        },
+        {
+          "title": "Yemen's Houthis reportedly seize strategic Red Sea port of Mokha",
+          "link": "https://www.bbc.co.uk/news/articles/c4g7vr0lngwo?at_medium=RSS&at_campaign=rss",
+          "description": "Mokha's capture would bring the Iran-backed group closer to controlling the Bab al-Mandab Strait waterway, a key shipping route.",
+          "pubDate": "Thu, 10 Sep 2026 18:15:47 GMT",
+          "source": "BBC World",
+          "lang": "en",
+          "titleIt": "Yemen's Houthis reportedly seize strategic Red Sea port of Mokha"
         },
         {
           "title": "Ethiopia: Amid Escalating Federal-Tigray Tensions, Debretsion Says Alliance Has Become 'Irreversible'",
@@ -429,15 +438,6 @@
           "source": "The New Humanitarian",
           "lang": "en",
           "titleIt": "Finding a path to peace: Nigeria’s long, faltering history of dialogue with Boko Haram"
-        },
-        {
-          "title": "Arab League urges restraint as regional tensions escalate",
-          "link": "http://www.africanews.com/2026/09/07/arab-league-urges-restraint-as-regional-tensions-escalate/",
-          "description": "The Arab League gathers in Cairo as tensions escalate across the region. Maritime security in the Gulf is under growing strain after renewed Iran-U.S. exchanges, including attacks near the Strait of Hormuz.",
-          "pubDate": "Mon, 07 Sep 2026 16:38:49 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "Arab League urges restraint as regional tensions escalate"
         },
         {
           "title": "Somali journalist Bashir Mohamed Abdullahi dies after being shot during Baidoa clashes",
@@ -494,15 +494,6 @@
           "titleIt": "Laftagareen's Forces Attack Baidoa, Reviving the Fight Somalia Thought It Had Won"
         },
         {
-          "title": "Conflict Drives Farmers Into Somalia's capital Mogadishu",
-          "link": "https://hornobserver.com/articles/3715/Conflict-Drives-Farmers-Into-Somalias-capital-Mogadishu",
-          "description": "The families were displaced by disputes over agricultural land ownership, alongside ongoing fighting between the Somali government and Al-Shabaab and renewed clan conflicts over contested farmland. Aadan Rooble, a former farmer now living in an IDP camp in Mogadishu, said he fled the village of Farxaano in Lower Shabelle about 10 days ago because of continued fighting. Aadan said some members of his family were able to secure transportation, while he initially travelled on foot before eventually finding a vehicle. He said the family was forced to abandon the farms where they worked after repea",
-          "pubDate": "Mon, 17 Aug 2026 12:31:00 +0300",
-          "source": "Horn Observer",
-          "lang": "en",
-          "titleIt": "Conflict Drives Farmers Into Somalia's capital Mogadishu"
-        },
-        {
           "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
           "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
           "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
@@ -521,15 +512,6 @@
       "title": "Opacità sui rilasci GERD",
       "items": [
         {
-          "title": "Egitto: ministro Esteri incontra ambasciatori Ue, focus su partenariato e migranti (3)",
-          "link": "https://www.agenzianova.com/a/6aa2d9a10d5da6.28840926/7764923/2026-09-10/egitto-ministro-esteri-incontra-ambasciatori-ue-focus-su-partenariato-e-migranti-3",
-          "description": "10 set 18:04 - (Agenzia Nova) - Durante l'incontro con gli ambasciatori Ue, Abdelatty ha inoltre elogiato la dichiarazione congiunta rilasciata... (Cae)",
-          "pubDate": "2026-09-10T18:04:31+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Egitto: ministro Esteri incontra ambasciatori Ue, focus su partenariato e migranti (3)"
-        },
-        {
           "title": "Ethiopia: Amid Escalating Federal-Tigray Tensions, Debretsion Says Alliance Has Become 'Irreversible'",
           "link": "https://allafrica.com/stories/202609100582.html",
           "description": "[Addis Standard] Addis Abeba -- Amid escalating tensions and renewed clashes between Ethiopia's federal forces and Tigrayan forces, Tigray Government President Debretsion Gebremichael (PhD) has said an alliance formed with other political and opposition forces has become institutionalized and \"irreversible,\" with its own leadership, plans and signed agreement, according to Weyin Media.",
@@ -546,15 +528,6 @@
           "source": "AllAfrica",
           "lang": "en",
           "titleIt": "Uganda: Government Dismisses Claims Tooro Queen Mother Is Under House Arrest"
-        },
-        {
-          "title": "Arab League urges restraint as regional tensions escalate",
-          "link": "http://www.africanews.com/2026/09/07/arab-league-urges-restraint-as-regional-tensions-escalate/",
-          "description": "The Arab League gathers in Cairo as tensions escalate across the region. Maritime security in the Gulf is under growing strain after renewed Iran-U.S. exchanges, including attacks near the Strait of Hormuz.",
-          "pubDate": "Mon, 07 Sep 2026 16:38:49 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "Arab League urges restraint as regional tensions escalate"
         },
         {
           "title": "IPI: Africa Media Freedom Monitoring: April to June 2026",
