@@ -1,11 +1,20 @@
 {
-  "generatedAt": "2026-09-12T07:09:28.907Z",
+  "generatedAt": "2026-09-12T12:12:02.209Z",
   "feedsChecked": 10,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
+        {
+          "title": "Somalia: Somalia Parliament Speaker Warns Against Disinformation Targeting Ties With Türkiye",
+          "link": "https://allafrica.com/stories/202609110506.html",
+          "description": "[Shabelle] Mogadishu -- Somalia's parliamentary speaker, Abdulqadir Mohamed Nur Jama, has called for stronger efforts to protect the country's strategic partnership with Türkiye from misinformation and other threats to bilateral cooperation.",
+          "pubDate": "Fri, 11 Sep 2026 15:53:59 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Somalia: Somalia Parliament Speaker Warns Against Disinformation Targeting Ties With Türkiye"
+        },
         {
           "title": "Somalia: Two journalists arrested in Baidoa over Facebook reporting, whereabouts of one of them still unknown",
           "link": "https://hornobserver.com/articles/3736/Somalia-Two-journalists-arrested-in-Baidoa-over-Facebook-reporting-whereabouts-of-one-of-them-still-unknown",
@@ -176,30 +185,12 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "Laftagareen's Forces Attack Baidoa, Reviving the Fight Somalia Thought It Had Won"
-        },
-        {
-          "title": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab",
-          "link": "https://www.crisisgroup.org/brf/africa/somalia/b212-new-chapter-same-stalemate-somalias-war-al-shabaab",
-          "description": "The Somali government’s battle with Al-Shabaab militants grinds on, with neither able to gain a decisive advantage. To improve its lot, Mogadishu needs to bolster its military and alleviate civilian suffering in areas under insurgent control, while looking for openings for dialogue with the group.",
-          "pubDate": "Tuesday, June 30, 2026 - 15:20",
-          "source": "Crisis Group",
-          "lang": "en",
-          "titleIt": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab"
         }
       ]
     },
     "somaliland": {
       "title": "Dossier Somaliland",
       "items": [
-        {
-          "title": "Kenya: AI Plot to Divide Opposition Ahead of 2027 Exposed",
-          "link": "https://allafrica.com/stories/202609110160.html",
-          "description": "[Capital FM] Nairobi -- An artificial intelligence-driven influence operation targeted former President Uhuru Kenyatta and former Deputy President Rigathi Gachagua while promoting Energy Cabinet Secretary Opiyo Wandayi in a covert social media campaign ahead of Kenya's 2027 General Election, according to a threat intelligence report by global AI firm Anthropic.",
-          "pubDate": "Fri, 11 Sep 2026 09:36:27 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Kenya: AI Plot to Divide Opposition Ahead of 2027 Exposed"
-        },
         {
           "title": "Somalia: Two journalists arrested in Baidoa over Facebook reporting, whereabouts of one of them still unknown",
           "link": "https://hornobserver.com/articles/3736/Somalia-Two-journalists-arrested-in-Baidoa-over-Facebook-reporting-whereabouts-of-one-of-them-still-unknown",
@@ -296,13 +287,13 @@
       "title": "Accesso etiope al mare",
       "items": [
         {
-          "title": "Business news: Georgia, porto di Poti a limite capacita', Apm Terminals punta a ripresa negoziati su ampliamento",
-          "link": "https://www.agenzianova.com/a/6aa4faa52f85d5.67821077/7764012/2026-09-12/business-news-georgia-porto-di-poti-a-limite-capacita-apm-terminals-punta-a-ripresa-negoziati-su-ampliamento",
-          "description": "12 set 07:00 - (Agenzia Nova) - Apm Terminals intende tornare entro la fine del 2026 al tavolo dei negoziati con il governo georgiano per definire... (Rum)",
-          "pubDate": "2026-09-12T07:00:00+02:00",
+          "title": "Irlanda: Downing Street su parole di Trump, Regno Unito si atterra' ad Accordo del Venerdi' Santo",
+          "link": "https://www.agenzianova.com/a/6aa5418e717b51.18357756/7771299/2026-09-12/irlanda-downing-street-su-parole-di-trump-regno-unito-si-atterra-ad-accordo-del-venerdi-santo",
+          "description": "12 set 14:10 - (Agenzia Nova) - Il Regno Unito \"si atterra' al 100 per cento\" all'Accordo del Venerdi' Santo. Lo ha fatto sapere un portavoce... (Rel)",
+          "pubDate": "2026-09-12T14:10:49+02:00",
           "source": "Agenzia Nova",
           "lang": "it",
-          "titleIt": "Business news: Georgia, porto di Poti a limite capacita', Apm Terminals punta a ripresa negoziati su ampliamento"
+          "titleIt": "Irlanda: Downing Street su parole di Trump, Regno Unito si atterra' ad Accordo del Venerdi' Santo"
         },
         {
           "title": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane",
@@ -316,7 +307,7 @@
         {
           "title": "Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war",
           "link": "https://www.bbc.co.uk/news/articles/c3v4zgzr1kxo?at_medium=RSS&at_campaign=rss",
-          "description": "The capture by the rebels of a stretch Yemen's strategic coastline is the group's most impressive military coup for several years.",
+          "description": "The capture by the rebels of a stretch of Yemen's strategic coastline is the group's most impressive military coup for several years.",
           "pubDate": "Fri, 11 Sep 2026 19:44:58 GMT",
           "source": "BBC World",
           "lang": "en",
@@ -330,15 +321,6 @@
           "source": "AllAfrica",
           "lang": "en",
           "titleIt": "Gambia: Assembly Committee Warns Marine Protected Areas Face Illegal Fishing & Weak Oversight"
-        },
-        {
-          "title": "Africa: NACC Welcomes AGOA Extension to 2028, Calls for Swift Action By Nigeria, Africa",
-          "link": "https://allafrica.com/stories/202609110270.html",
-          "description": "[Vanguard] The Nigerian-American Chamber of Commerce, NACC, has welcomed the signing by United States President Donald Trump of the Continuing Appropriations and Extensions Act, 2027, which extends the African Growth and Opportunity Act, AGOA, through December 31, 2028.",
-          "pubDate": "Fri, 11 Sep 2026 11:15:59 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Africa: NACC Welcomes AGOA Extension to 2028, Calls for Swift Action By Nigeria, Africa"
         },
         {
           "title": "Africa: African Development Bank Group and African Forum of Deposit Funds Enter Into New Alliance to Mobilize More Long-Term Financing",
@@ -436,316 +418,190 @@
       "title": "Fragilità economica egiziana",
       "items": [
         {
-          "title": "New threat for Red Sea shipping as Houthis seize Mocha port",
-          "link": "http://www.thailandnews.net/news/279299207/new-threat-for-red-sea-shipping-as-houthis-seize-mocha-port",
-          "source": "thailandnews.net",
-          "pubDate": "2026-09-12T06:45:00Z",
+          "title": "India has vision , strength to harmonise global economy : Nigerian , Indonesian journalists hail  amazing  BRICS Summit",
+          "link": "http://www.malaysiasun.com/news/279302468/india-has-vision-strength-to-harmonise-global-economy-nigerian-indonesian-journalists-hail-amazing-brics-summit",
+          "source": "malaysiasun.com",
+          "pubDate": "2026-09-12T11:45:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "New threat for Red Sea shipping as Houthis seize Mocha port"
+          "titleIt": "India has vision , strength to harmonise global economy : Nigerian , Indonesian journalists hail  amazing  BRICS Summit"
         },
         {
-          "title": "BRICS Summit 2026 : Modi , Xi , Putin to Tackle Global Trade and Geopolitical Challenges",
-          "link": "https://dailypioneer.com/news/brics-leaders-to-navigate-global-trade-disputes-regional-crises",
-          "source": "dailypioneer.com",
-          "pubDate": "2026-09-12T06:45:00Z",
+          "title": "Vietnamese Prime Minister Le Minh Hung arrives in Delhi to attend 18th BRICS Summit",
+          "link": "http://www.malaysiasun.com/news/279302463/vietnamese-prime-minister-le-minh-hung-arrives-in-delhi-to-attend-18th-brics-summit",
+          "source": "malaysiasun.com",
+          "pubDate": "2026-09-12T11:45:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "BRICS Summit 2026 : Modi , Xi , Putin to Tackle Global Trade and Geopolitical Challenges"
+          "titleIt": "Vietnamese Prime Minister Le Minh Hung arrives in Delhi to attend 18th BRICS Summit"
         },
         {
-          "title": "Ethiopia , Malaysia eye strong defence , business ties with India after Modi meet at BRICS",
-          "link": "https://www.hindustantimes.com/india-news/ethiopia-malaysia-eye-strong-defence-business-ties-with-india-after-modi-meet-at-brics-new-delhi-101789192470422.html",
-          "source": "hindustantimes.com",
-          "pubDate": "2026-09-12T06:45:00Z",
+          "title": "BRICS nations urge smooth flow of global trade , supply chains , energy",
+          "link": "https://www.aljazeera.com/news/2026/9/12/brics-summit-opens-in-new-delhi-amid-wars-global-tensions-tariffs",
+          "source": "aljazeera.com",
+          "pubDate": "2026-09-12T11:45:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Ethiopia , Malaysia eye strong defence , business ties with India after Modi meet at BRICS"
+          "titleIt": "BRICS nations urge smooth flow of global trade , supply chains , energy"
         },
         {
-          "title": "RIC , BRICS and G20 : India Balancing Act in a Divided World",
-          "link": "https://dailypioneer.com/news/hcf-or-lcm-the-limits-of-global-groupings",
-          "source": "dailypioneer.com",
-          "pubDate": "2026-09-12T06:45:00Z",
+          "title": "Trump may be BRICS best recruitment agent | Opinions",
+          "link": "https://www.aljazeera.com/opinions/2026/9/12/trump-may-be-bricss-best-recruitment-agent",
+          "source": "aljazeera.com",
+          "pubDate": "2026-09-12T11:45:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "RIC , BRICS and G20 : India Balancing Act in a Divided World"
+          "titleIt": "Trump may be BRICS best recruitment agent | Opinions"
         },
         {
-          "title": "Saudi Arabia has few options as it faces mounting threats from Iran and its allies",
-          "link": "https://abcnews.com/International/wireStory/saudi-arabia-options-faces-mounting-threats-iran-allies-136384544",
-          "source": "abcnews.com",
-          "pubDate": "2026-09-12T06:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Saudi Arabia has few options as it faces mounting threats from Iran and its allies"
-        },
-        {
-          "title": "PM Modi , Ethiopian counterpart discuss ways to strengthen strategic partnership",
-          "link": "https://ianslive.in/pm-modi-ethiopian-counterpart-discuss-ways-to-strengthen-strategic-partnership--20260912114503",
-          "source": "ianslive.in",
-          "pubDate": "2026-09-12T06:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "PM Modi , Ethiopian counterpart discuss ways to strengthen strategic partnership"
-        },
-        {
-          "title": "Xi , Putin and Modi meet at BRICS summit amid Trump pressure",
-          "link": "https://www.cnbc.com/2026/09/12/brics-summit-xi-putin-modi-trump.html",
-          "source": "cnbc.com",
-          "pubDate": "2026-09-12T06:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Xi , Putin and Modi meet at BRICS summit amid Trump pressure"
-        },
-        {
-          "title": "Belarus Foreign Affairs Minister Ryzhenkov arrives in Delhi to attend 18th BRICS Summit",
-          "link": "http://www.bignewsnetwork.com/news/279302333/belarus-foreign-affairs-minister-ryzhenkov-arrives-in-delhi-to-attend-18th-brics-summit",
-          "source": "bignewsnetwork.com",
-          "pubDate": "2026-09-12T06:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Belarus Foreign Affairs Minister Ryzhenkov arrives in Delhi to attend 18th BRICS Summit"
-        },
-        {
-          "title": "Houthi capture of Yemen Mocha port raises oil fears",
-          "link": "http://www.birminghamstar.com/news/279299207/houthi-capture-of-yemen-s-mocha-port-raises-oil-fears",
-          "source": "birminghamstar.com",
-          "pubDate": "2026-09-12T06:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Houthi capture of Yemen Mocha port raises oil fears"
-        },
-        {
-          "title": "New threat for Red Sea shipping as Houthis seize Mocha port",
-          "link": "http://www.shanghainews.net/news/279299207/new-threat-for-red-sea-shipping-as-houthis-seize-mocha-port",
-          "source": "shanghainews.net",
-          "pubDate": "2026-09-12T06:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "New threat for Red Sea shipping as Houthis seize Mocha port"
-        },
-        {
-          "title": "Saudi Arabia has few options as it faces mounting threats from Iran , its allies",
-          "link": "https://www.thehindubusinessline.com/news/world/saudi-arabia-has-few-options-as-it-faces-mounting-threats-from-iran-its-allies/article71459258.ece",
-          "source": "thehindubusinessline.com",
-          "pubDate": "2026-09-12T06:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Saudi Arabia has few options as it faces mounting threats from Iran , its allies"
-        },
-        {
-          "title": "PM Modi holds bilateral talks with Malaysia Anwar Ibrahim at Hyderabad House",
-          "link": "https://ianslive.in/pm-modi-holds-bilateral-talks-with-malaysias-anwar-ibrahim-at-hyderabad-house--20260912110646",
-          "source": "ianslive.in",
-          "pubDate": "2026-09-12T06:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "PM Modi holds bilateral talks with Malaysia Anwar Ibrahim at Hyderabad House"
-        },
-        {
-          "title": "Saudi Arabia shuts down pipeline as Houthis seize island , opening new front in Iran war",
-          "link": "https://dailypioneer.com/news/saudi-arabia-shuts-pipeline-houthis-seize-island-iran-war",
-          "source": "dailypioneer.com",
-          "pubDate": "2026-09-12T06:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Saudi Arabia shuts down pipeline as Houthis seize island , opening new front in Iran war"
-        },
-        {
-          "title": "BRICS can help Global South build resilience beyond supply chains : China Daily ahead of Xi - Modi meeting",
-          "link": "https://www.livemint.com/news/india/brics-can-help-global-south-build-resilience-beyond-supply-chains-china-daily-ahead-of-xi-modi-meeting-new-delhi-11789100267494.html",
-          "source": "livemint.com",
-          "pubDate": "2026-09-12T06:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "BRICS can help Global South build resilience beyond supply chains : China Daily ahead of Xi - Modi meeting"
-        },
-        {
-          "title": "Houthis seize an island , opening a new front in the Iran war , as Saudi Arabia shuts down a pipeline",
-          "link": "https://www.salemnews.net/news/local-news/2026/09/houthis-seize-an-island-opening-a-new-front-in-the-iran-war-as-saudi-arabia-shuts-down-a-pipeline/",
-          "source": "salemnews.net",
-          "pubDate": "2026-09-12T06:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Houthis seize an island , opening a new front in the Iran war , as Saudi Arabia shuts down a pipeline"
-        },
-        {
-          "title": "Belarus Foreign Affairs Minister Ryzhenkov arrives in Delhi to attend 18th BRICS Summit",
-          "link": "http://www.austinglobe.com/news/279302333/belarus-foreign-affairs-minister-ryzhenkov-arrives-in-delhi-to-attend-18th-brics-summit",
+          "title": "BRICS  not against anyone , Putin says as summit opens",
+          "link": "http://www.austinglobe.com/news/279302446/brics-not-against-anyone-putin-says-as-summit-opens",
           "source": "austinglobe.com",
-          "pubDate": "2026-09-12T06:45:00Z",
+          "pubDate": "2026-09-12T11:45:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Belarus Foreign Affairs Minister Ryzhenkov arrives in Delhi to attend 18th BRICS Summit"
+          "titleIt": "BRICS  not against anyone , Putin says as summit opens"
         },
         {
-          "title": "Saudi Arabia has few options as it faces mounting threats from Iran and its allies",
-          "link": "https://www.dailygazette.com/ade/ap/business/saudi-arabia-has-few-options-as-it-faces-mounting-threats-from-iran-and-its-allies/article_8ce38f74-c84f-51db-8e14-cd87fa087c95.html",
-          "source": "dailygazette.com",
-          "pubDate": "2026-09-12T06:30:00Z",
+          "title": "Xinhua Commentary : China vision and action promote BRICS cooperation",
+          "link": "http://www.malaysiasun.com/news/279302514/xinhua-commentary-china-vision-and-action-promote-brics-cooperation",
+          "source": "malaysiasun.com",
+          "pubDate": "2026-09-12T11:45:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Saudi Arabia has few options as it faces mounting threats from Iran and its allies"
+          "titleIt": "Xinhua Commentary : China vision and action promote BRICS cooperation"
         },
         {
-          "title": "Houthi capture of Yemen Mocha port raises oil fears",
-          "link": "http://www.floridastatesman.com/news/279299207/houthi-capture-of-yemen-s-mocha-port-raises-oil-fears",
-          "source": "floridastatesman.com",
-          "pubDate": "2026-09-12T06:30:00Z",
+          "title": "PM Modi holds bilateral meeting with Ethiopian counterpart Abiy Ahmed Ali on sidelines of BRICS Summit",
+          "link": "http://www.austinglobe.com/news/279302458/pm-modi-holds-bilateral-meeting-with-ethiopian-counterpart-abiy-ahmed-ali-on-sidelines-of-brics-summit",
+          "source": "austinglobe.com",
+          "pubDate": "2026-09-12T11:45:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Houthi capture of Yemen Mocha port raises oil fears"
+          "titleIt": "PM Modi holds bilateral meeting with Ethiopian counterpart Abiy Ahmed Ali on sidelines of BRICS Summit"
         },
         {
-          "title": "BRICS Summit : Tight security arrangements , dog squads deployed at Bharat Mandapam",
-          "link": "http://www.calcuttanews.net/news/279302306/brics-summit-tight-security-arrangements-dog-squads-deployed-at-bharat-mandapam",
-          "source": "calcuttanews.net",
-          "pubDate": "2026-09-12T06:30:00Z",
+          "title": "Ukraine is fighting Russia anywhere it can – even in the deserts of Africa - LocalNews8 . com",
+          "link": "https://localnews8.com/news/national-world/cnn-world/2026/09/12/ukraine-is-fighting-russia-anywhere-it-can-even-in-the-deserts-of-africa/",
+          "source": "localnews8.com",
+          "pubDate": "2026-09-12T11:45:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "BRICS Summit : Tight security arrangements , dog squads deployed at Bharat Mandapam"
+          "titleIt": "Ukraine is fighting Russia anywhere it can – even in the deserts of Africa - LocalNews8 . com"
         },
         {
-          "title": "Houthi capture of Yemen Mocha port raises oil fears",
-          "link": "http://www.trinidadtimes.com/news/279299207/houthi-capture-of-yemen-s-mocha-port-raises-oil-fears",
-          "source": "trinidadtimes.com",
-          "pubDate": "2026-09-12T06:30:00Z",
+          "title": "Xinhua Commentary : China vision and action promote BRICS cooperation",
+          "link": "http://www.bignewsnetwork.com/news/279302514/xinhua-commentary-china-vision-and-action-promote-brics-cooperation",
+          "source": "bignewsnetwork.com",
+          "pubDate": "2026-09-12T11:45:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Houthi capture of Yemen Mocha port raises oil fears"
+          "titleIt": "Xinhua Commentary : China vision and action promote BRICS cooperation"
+        },
+        {
+          "title": "BRICS not against anyone , Putin says as summit opens",
+          "link": "http://www.austinglobe.com/news/279302441/brics-not-against-anyone-putin-says-as-summit-opens",
+          "source": "austinglobe.com",
+          "pubDate": "2026-09-12T11:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "BRICS not against anyone , Putin says as summit opens"
+        },
+        {
+          "title": "BRICS not against anyone , Putin says as summit opens",
+          "link": "http://www.malaysiasun.com/news/279302441/brics-not-against-anyone-putin-says-as-summit-opens",
+          "source": "malaysiasun.com",
+          "pubDate": "2026-09-12T11:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "BRICS not against anyone , Putin says as summit opens"
+        },
+        {
+          "title": "Xinhua Commentary : China vision and action promote BRICS cooperation",
+          "link": "http://www.thailandnews.net/news/279302514/xinhua-commentary-china-vision-and-action-promote-brics-cooperation",
+          "source": "thailandnews.net",
+          "pubDate": "2026-09-12T11:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Xinhua Commentary : China vision and action promote BRICS cooperation"
+        },
+        {
+          "title": "BRICS  not against anyone , Putin says as summit opens : Live Updates",
+          "link": "http://www.austinglobe.com/news/279302439/brics-not-against-anyone-putin-says-as-summit-opens-live-updates",
+          "source": "austinglobe.com",
+          "pubDate": "2026-09-12T11:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "BRICS  not against anyone , Putin says as summit opens : Live Updates"
+        },
+        {
+          "title": "BRICS not against anyone , Putin says as summit opens : Live Updates",
+          "link": "http://www.malaysiasun.com/news/279302427/brics-not-against-anyone-putin-says-as-summit-opens-live-updates",
+          "source": "malaysiasun.com",
+          "pubDate": "2026-09-12T11:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "BRICS not against anyone , Putin says as summit opens : Live Updates"
+        },
+        {
+          "title": "PM Modi holds bilateral meeting with Ethiopian counterpart Abiy Ahmed Ali on sidelines of BRICS Summit",
+          "link": "http://www.malaysiasun.com/news/279302458/pm-modi-holds-bilateral-meeting-with-ethiopian-counterpart-abiy-ahmed-ali-on-sidelines-of-brics-summit",
+          "source": "malaysiasun.com",
+          "pubDate": "2026-09-12T11:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "PM Modi holds bilateral meeting with Ethiopian counterpart Abiy Ahmed Ali on sidelines of BRICS Summit"
+        },
+        {
+          "title": "BRICS to agree on joint declaration at New Delhi summit",
+          "link": "https://www.queanbeyanage.com.au/story/9348964/brics-to-agree-on-joint-declaration-at-new-delhi-summit/",
+          "source": "queanbeyanage.com.au",
+          "pubDate": "2026-09-12T11:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "BRICS to agree on joint declaration at New Delhi summit"
+        },
+        {
+          "title": "BRICS Summit Kicks Off in New Delhi – Chennaionline",
+          "link": "https://www.chennaionline.com/news/brics-summit-kicks-off-in-new-delhi/",
+          "source": "chennaionline.com",
+          "pubDate": "2026-09-12T11:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "BRICS Summit Kicks Off in New Delhi – Chennaionline"
+        },
+        {
+          "title": "Saudi Arabia shuts critical oil pipeline after drone attack : What it means",
+          "link": "https://www.aljazeera.com/news/2026/9/12/saudi-arabia-shuts-critical-oil-pipeline-after-drone-attack-what-happened",
+          "source": "aljazeera.com",
+          "pubDate": "2026-09-12T11:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Saudi Arabia shuts critical oil pipeline after drone attack : What it means"
+        },
+        {
+          "title": "BRICS not against anyone , Putin says as summit opens : Live Updates",
+          "link": "http://www.austinglobe.com/news/279302427/brics-not-against-anyone-putin-says-as-summit-opens-live-updates",
+          "source": "austinglobe.com",
+          "pubDate": "2026-09-12T11:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "BRICS not against anyone , Putin says as summit opens : Live Updates"
+        },
+        {
+          "title": "Bab al - Mandab Strait : Key oil route facing growing Houthi threat",
+          "link": "https://dunyanews.tv/en/World/972480-bab-almandab-strait-key-oil-route-facing-growing-houthi-threat",
+          "source": "dunyanews.tv",
+          "pubDate": "2026-09-12T11:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Bab al - Mandab Strait : Key oil route facing growing Houthi threat"
         }
       ]
     },
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
       "items": [
-        {
-          "title": "The war must not end – NATO",
-          "link": "https://www.bankingnews.gr/diethni/articles/898500/the-war-must-not-end-nato-s-madmen-rammstein-decided-ukraine-is-the-west-s-guinea-pig%20title=",
-          "source": "bankingnews.gr",
-          "pubDate": "2026-09-10T10:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The war must not end – NATO"
-        },
-        {
-          "title": "The war must not end – NATO",
-          "link": "https://www.bankingnews.gr/diethni/articles/898500/the-war-must-not-end-nato-s-madmen-rammstein-decided-ukraine-is-the-west-s-guinea-pig",
-          "source": "bankingnews.gr",
-          "pubDate": "2026-09-10T10:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The war must not end – NATO"
-        },
-        {
-          "title": "Ethiopia : Finance Minister Ahmed Shide , AIIB President Zou Jiayi Discuss Infrastructure Cooperation",
-          "link": "https://allafrica.com/stories/202609100052.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-09-10T08:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia : Finance Minister Ahmed Shide , AIIB President Zou Jiayi Discuss Infrastructure Cooperation"
-        },
-        {
-          "title": "Egypt Must Recognize 2026 Nile Reality , Not 19th / 20th Century , Says Former U . S . Diplomat Tibor Nagy",
-          "link": "https://allafrica.com/stories/202609100039.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-09-10T06:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egypt Must Recognize 2026 Nile Reality , Not 19th / 20th Century , Says Former U . S . Diplomat Tibor Nagy"
-        },
-        {
-          "title": "GERD supplies 52 % of Ethiopia electricity - International Water Power",
-          "link": "https://www.waterpowermagazine.com/news/gerd-supplies-52-of-ethiopias-electricity/",
-          "source": "waterpowermagazine.com",
-          "pubDate": "2026-09-09T10:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "GERD supplies 52 % of Ethiopia electricity - International Water Power"
-        },
-        {
-          "title": "Rearmed And Reckless : How Sudan New Arsenal Is Dragging Chad And Ethiopia Into Its War - OpEd",
-          "link": "https://www.eurasiareview.com/08092026-rearmed-and-reckless-how-sudans-new-arsenal-is-dragging-chad-and-ethiopia-into-its-war-oped/",
-          "source": "eurasiareview.com",
-          "pubDate": "2026-09-07T23:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Rearmed And Reckless : How Sudan New Arsenal Is Dragging Chad And Ethiopia Into Its War - OpEd"
-        },
-        {
-          "title": "Mottley calls for stronger CARICOM - Africa ties",
-          "link": "https://barbadostoday.bb/2026/09/07/mottley-calls-for-stronger-caricom-africa-ties/",
-          "source": "barbadostoday.bb",
-          "pubDate": "2026-09-07T22:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Mottley calls for stronger CARICOM - Africa ties"
-        },
-        {
-          "title": "Sudan Borders Have Become as Dangerous as the War Itself",
-          "link": "https://themedialine.org/top-stories/sudans-borders-have-become-as-dangerous-as-the-war-itself/",
-          "source": "themedialine.org",
-          "pubDate": "2026-09-07T11:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Sudan Borders Have Become as Dangerous as the War Itself"
-        },
-        {
-          "title": "Battle for water : Could the Nile dispute trigger a regional war ?",
-          "link": "https://news.az/news/battle-for-water-could-the-nile-dispute-trigger-a-regional-war",
-          "source": "news.az",
-          "pubDate": "2026-09-07T08:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Battle for water : Could the Nile dispute trigger a regional war ?"
-        },
-        {
-          "title": "Beyond The Zero - Sum : Reimagining The Nile And The Horn",
-          "link": "https://www.thereporterethiopia.com/52620/",
-          "source": "thereporterethiopia.com",
-          "pubDate": "2026-09-05T13:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Beyond The Zero - Sum : Reimagining The Nile And The Horn"
-        },
-        {
-          "title": "Nepal needs more giant dams to avert disastrous floods",
-          "link": "https://www.taipeitimes.com/News/editorials/archives/2026/09/02/2003863529",
-          "source": "taipeitimes.com",
-          "pubDate": "2026-09-01T20:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Nepal needs more giant dams to avert disastrous floods"
-        },
-        {
-          "title": "Ethiopia Electricity Data Miners Now Top the Payer List",
-          "link": "https://www.riotimesonline.com/ethiopia-electricity-data-miners-revenue-2026/",
-          "source": "riotimesonline.com",
-          "pubDate": "2026-09-01T19:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia Electricity Data Miners Now Top the Payer List"
-        },
-        {
-          "title": "The Stream , September 1 , 2026 : Israel Abruptly Shuts Down All But One Desalination Plant Due to Weather",
-          "link": "https://www.circleofblue.org/newsletter/the-stream-september-1-2026-israel-abruptly-shuts-down-all-but-one-desalination-plant-due-to-weather/",
-          "source": "circleofblue.org",
-          "pubDate": "2026-09-01T15:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The Stream , September 1 , 2026 : Israel Abruptly Shuts Down All But One Desalination Plant Due to Weather"
-        },
-        {
-          "title": "Africa : GERD Offers Blueprint for Africa Self - Reliance , Says Hailemariam",
-          "link": "https://allafrica.com/stories/202608270018.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-08-27T05:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Africa : GERD Offers Blueprint for Africa Self - Reliance , Says Hailemariam"
-        },
         {
           "title": "IPI: Africa Media Freedom Monitoring: April to June 2026",
           "link": "https://hornobserver.com/articles/3719/IPI-Africa-Media-Freedom-Monitoring-April-to-June-2026",
@@ -754,51 +610,6 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "IPI: Africa Media Freedom Monitoring: April to June 2026"
-        },
-        {
-          "title": "Domestic and Regional Pressures Strain Ethiopia Fragile Peace",
-          "link": "https://www.justsecurity.org/154852/ethiopia-horn-africa-regional-tensions/",
-          "source": "justsecurity.org",
-          "pubDate": "2026-08-26T16:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Domestic and Regional Pressures Strain Ethiopia Fragile Peace"
-        },
-        {
-          "title": "Pumped storage : powering the age of flexibility - International Water Power",
-          "link": "https://www.waterpowermagazine.com/analysis/pumped-storage-powering-the-age-of-flexibility/",
-          "source": "waterpowermagazine.com",
-          "pubDate": "2026-08-26T13:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Pumped storage : powering the age of flexibility - International Water Power"
-        },
-        {
-          "title": "Egypt faces crises from all directions , foreign minister warns",
-          "link": "https://www.thenationalnews.com/news/mena/2026/08/25/irans-irgc-holds-real-power-but-peace-talks-must-go-on-says-egypts-foreign-minister/",
-          "source": "thenationalnews.com",
-          "pubDate": "2026-08-25T19:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egypt faces crises from all directions , foreign minister warns"
-        },
-        {
-          "title": "Tanzania inaugurates $2 . 9B hydropower project built by Egyptian consortium",
-          "link": "https://www.middleeastmonitor.com/20260822-tanzania-inaugurates-2-9b-hydropower-project-built-by-egyptian-consortium/",
-          "source": "middleeastmonitor.com",
-          "pubDate": "2026-08-22T18:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Tanzania inaugurates $2 . 9B hydropower project built by Egyptian consortium"
-        },
-        {
-          "title": "Sudan farms lie barren as El Nino leaves Nile banks dry",
-          "link": "https://www.africanews.com/2026/08/22/sudan-farms-lie-barren-as-el-nino-leaves-nile-banks-dry/",
-          "source": "africanews.com",
-          "pubDate": "2026-08-22T17:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Sudan farms lie barren as El Nino leaves Nile banks dry"
         }
       ]
     }
