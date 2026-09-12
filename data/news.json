@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T00:19:11.901Z",
+  "generatedAt": "2026-09-12T07:09:28.907Z",
   "feedsChecked": 10,
   "feedsAttempted": 10,
   "topics": {
@@ -192,15 +192,6 @@
       "title": "Dossier Somaliland",
       "items": [
         {
-          "title": "Right - hand - man  son of genocidal Somali dictator who killed 200 , 000 found living in Ohio , linked to $1 . 8M Medicare firm",
-          "link": "https://nypost.com/2026/09/11/world-news/right-hand-man-son-of-genocidal-somali-dictator-who-killed-200000-found-living-in-ohio-linked-to-1-8m-medicare-firm/",
-          "source": "nypost.com",
-          "pubDate": "2026-09-11T20:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Right - hand - man  son of genocidal Somali dictator who killed 200 , 000 found living in Ohio , linked to $1 . 8M Medicare firm"
-        },
-        {
           "title": "Kenya: AI Plot to Divide Opposition Ahead of 2027 Exposed",
           "link": "https://allafrica.com/stories/202609110160.html",
           "description": "[Capital FM] Nairobi -- An artificial intelligence-driven influence operation targeted former President Uhuru Kenyatta and former Deputy President Rigathi Gachagua while promoting Energy Cabinet Secretary Opiyo Wandayi in a covert social media campaign ahead of Kenya's 2027 General Election, according to a threat intelligence report by global AI firm Anthropic.",
@@ -210,42 +201,6 @@
           "titleIt": "Kenya: AI Plot to Divide Opposition Ahead of 2027 Exposed"
         },
         {
-          "title": "Israel election raises hopes and fears across the Arab world",
-          "link": "https://www.ynetnews.com/opinions-analysis/article/sywtqpxtme",
-          "source": "ynetnews.com",
-          "pubDate": "2026-09-11T02:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Israel election raises hopes and fears across the Arab world"
-        },
-        {
-          "title": "Algeria cuts diplomatic ties with UAE : What we know - Grenada Chronicle – Daily Grenada And Caribbean News",
-          "link": "https://grenadachronicle.com/algeria-cuts-diplomatic-ties-with-uae-what-we-know/",
-          "source": "grenadachronicle.com",
-          "pubDate": "2026-09-10T22:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Algeria cuts diplomatic ties with UAE : What we know - Grenada Chronicle – Daily Grenada And Caribbean News"
-        },
-        {
-          "title": "GAZA FORCE : Somaliland Ready To Send 2 , 000 Soldiers To International Stabilization Mission",
-          "link": "https://www.theyeshivaworld.com/news/israel-news/2596839/gaza-force-somaliland-ready-to-send-2000-soldiers-to-international-stabilization-mission.html",
-          "source": "theyeshivaworld.com",
-          "pubDate": "2026-09-10T22:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "GAZA FORCE : Somaliland Ready To Send 2 , 000 Soldiers To International Stabilization Mission"
-        },
-        {
-          "title": "Algeria cuts diplomatic ties with UAE : What we know",
-          "link": "https://www.aljazeera.com/news/2026/9/10/algeria-cuts-diplomatic-ties-with-uae-what-we-know",
-          "source": "aljazeera.com",
-          "pubDate": "2026-09-10T21:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Algeria cuts diplomatic ties with UAE : What we know"
-        },
-        {
           "title": "Somalia: Two journalists arrested in Baidoa over Facebook reporting, whereabouts of one of them still unknown",
           "link": "https://hornobserver.com/articles/3736/Somalia-Two-journalists-arrested-in-Baidoa-over-Facebook-reporting-whereabouts-of-one-of-them-still-unknown",
           "description": "On 6 September, journalist Abdirahman Mohamed Abdi known as Jakataa was arrested by security services in Baidoa, according to colleagues who requested anonymity for fear of their safety. His whereabouts have remained unknown since his arrest. When SJS sought clarification from the Baidoa police, no response was provided. However, Abdirahman's colleagues told SJS that they believe he was detained over a post he published on his Facebook page on 5 September, which said: \"Can you name the only Digil/Mirifle clan whose members are being attacked by an aircraft, and the only clan whose members are ",
@@ -253,42 +208,6 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "Somalia: Two journalists arrested in Baidoa over Facebook reporting, whereabouts of one of them still unknown"
-        },
-        {
-          "title": "Somaliland Says Ready to Send Troops to Gaza if Trump , Netanyahu Request",
-          "link": "https://www.garoweonline.com/en/news/somalia/somaliland-says-ready-to-send-troops-to-gaza-if-trump-netanyahu-request",
-          "source": "garoweonline.com",
-          "pubDate": "2026-09-10T10:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Somaliland Says Ready to Send Troops to Gaza if Trump , Netanyahu Request"
-        },
-        {
-          "title": "Somalia : Somaliland Ready to Contribute Up to 2 , 000 Troops to Gaza Stabilisation Force , President Says",
-          "link": "https://allafrica.com/stories/202609100182.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-09-10T10:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Somalia : Somaliland Ready to Contribute Up to 2 , 000 Troops to Gaza Stabilisation Force , President Says"
-        },
-        {
-          "title": "Somalia : Somaliland Denies Talks On Israeli Operations Against Houthis",
-          "link": "https://allafrica.com/stories/202609100181.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-09-10T10:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Somalia : Somaliland Denies Talks On Israeli Operations Against Houthis"
-        },
-        {
-          "title": "Somaliland willing to send up to 2 , 000 troops to Gaza force , president says",
-          "link": "http://www.jpost.com/middle-east/article-908185",
-          "source": "jpost.com",
-          "pubDate": "2026-09-10T06:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Somaliland willing to send up to 2 , 000 troops to Gaza force , president says"
         },
         {
           "title": "Somaliland arrests two journalists and a poet in two weeks over criticism of president Abdirahman Irro",
@@ -309,51 +228,6 @@
           "titleIt": "Concerns over wildlife, water supply, as wildfire rages across Mount Kenya"
         },
         {
-          "title": "The Global South Needs a New Economic Development Model",
-          "link": "https://foreignpolicy.com/2026/09/09/economic-development-global-south-over-growth-globalization-jobs-population-demographics-labor-force/?tpcc=recirc_trending062921",
-          "source": "foreignpolicy.com",
-          "pubDate": "2026-09-09T05:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The Global South Needs a New Economic Development Model"
-        },
-        {
-          "title": "The Global South Needs a New Economic Development Model",
-          "link": "https://foreignpolicy.com/2026/09/09/economic-development-global-south-over-growth-globalization-jobs-population-demographics-labor-force/",
-          "source": "foreignpolicy.com",
-          "pubDate": "2026-09-09T04:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The Global South Needs a New Economic Development Model"
-        },
-        {
-          "title": "EXPLORING GREY ZONE OPERATIONS IN EUROPE AND AFRICA – Ministry of Defence – Kenya",
-          "link": "https://www.mod.go.ke/news/exploring-grey-zone-operations-in-europe-and-africa/",
-          "source": "mod.go.ke",
-          "pubDate": "2026-09-07T21:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "EXPLORING GREY ZONE OPERATIONS IN EUROPE AND AFRICA – Ministry of Defence – Kenya"
-        },
-        {
-          "title": "Gulf states Africa investment shifts to ports and bases",
-          "link": "https://www.riotimesonline.com/gulf-states-africa-investment-2026/",
-          "source": "riotimesonline.com",
-          "pubDate": "2026-09-07T16:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Gulf states Africa investment shifts to ports and bases"
-        },
-        {
-          "title": "Sudan Borders Have Become as Dangerous as the War Itself",
-          "link": "https://themedialine.org/top-stories/sudans-borders-have-become-as-dangerous-as-the-war-itself/",
-          "source": "themedialine.org",
-          "pubDate": "2026-09-07T11:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Sudan Borders Have Become as Dangerous as the War Itself"
-        },
-        {
           "title": "Somali journalist Bashir Mohamed Abdullahi dies after being shot during Baidoa clashes",
           "link": "https://hornobserver.com/articles/3731/Somali-journalist-Bashir-Mohamed-Abdullahi-dies-after-being-shot-during-Baidoa-clashes",
           "description": "MOGADISHU, Somalia 7 September 2026 – The Somali Journalists Syndicate (SJS) expresses its deepest condolences over the death of journalist Bashir Mohamed Abdullahi, also known as Bashir Moalin, a reporter with the local Arlaadi Media Network, who succumbed to gunshot injuries sustained during armed clashes in Baidoa on Thursday, 3 September 2026. He becomes the second journalist killed in Somalia this year. Early on Monday, 7 September 2026, Bashir, 28, died from critical injuries he sustained while seeking shelter during armed clashes in Baidoa, Southwest State, his family told SJS. Accordin",
@@ -363,19 +237,73 @@
           "titleIt": "Somali journalist Bashir Mohamed Abdullahi dies after being shot during Baidoa clashes"
         },
         {
-          "title": "Nauru Opens Embassy In Jerusalem , Becoming Ninth Country With Mission In Israeli Capital",
-          "link": "https://www.i24news.tv/en/news/israel/diplomacy/artc-nauru-opens-embassy-in-jerusalem-becoming-ninth-country-with-mission-in-israeli-capital",
-          "source": "i24news.tv",
-          "pubDate": "2026-09-07T09:00:00Z",
+          "title": "Protests Erupt in Somalia's Gedo Region Over Alleged Turkish Strikes in Doolow",
+          "link": "https://hornobserver.com/articles/3729/Protests-Erupt-in-Somalias-Gedo-Region-Over-Alleged-Turkish-Strikes-in-Doolow",
+          "description": "In Doolow, protesters accused Turkey of becoming involved in Somalia's political and clan disputes and expressed anger over the reported attack on General Shub's residence. Demonstrators chanted slogans critical of the federal government led by President Hassan Sheikh Mohamud and called for those responsible to be identified and held accountable. The residence of General Shub was reportedly targeted in an overnight attack involving a drone. General Shub and members of his family were reportedly inside the house at the time and sustained minor injuries. The Somali federal government has rejecte",
+          "pubDate": "Sat, 05 Sep 2026 22:24:29 +0300",
+          "source": "Horn Observer",
           "lang": "en",
-          "description": "",
-          "titleIt": "Nauru Opens Embassy In Jerusalem , Becoming Ninth Country With Mission In Israeli Capital"
+          "titleIt": "Protests Erupt in Somalia's Gedo Region Over Alleged Turkish Strikes in Doolow"
+        },
+        {
+          "title": "Somalia: How Mogadishu Removes a Regional President. It Costs Cash, or It Costs an Army",
+          "link": "https://hornobserver.com/articles/3725/Somalia-How-Mogadishu-Removes-a-Regional-President-It-Costs-Cash-or-It-Costs-an-Army",
+          "description": "An investigation into South West State, Hirshabelle, and Galmudug found that federal governments — Farmaajo's and now Hassan Sheikh Mohamud's — have used two tools to control who governs the regions. The first is cash. The second, used once so far, is force. The First Payment In 2018, South West State's president, Sharif Hassan Sheikh Aden, stood in the way of Mogadishu's plans. He had a strong clan base and his own political network. He was not easy to remove. So Mogadishu paid him. According to sources with direct knowledge of the negotiations, Sharif Hassan received about two million US dol",
+          "pubDate": "Thu, 03 Sep 2026 15:54:42 +0300",
+          "source": "Horn Observer",
+          "lang": "en",
+          "titleIt": "Somalia: How Mogadishu Removes a Regional President. It Costs Cash, or It Costs an Army"
+        },
+        {
+          "title": "The Copyright Trap: How fake claims are silencing independent media and journalists in Somalia",
+          "link": "https://hornobserver.com/articles/3723/The-Copyright-Trap-How-fake-claims-are-silencing-independent-media-and-journalists-in-Somalia",
+          "description": "Journalists, editors and media managers told SJS that the attacks intensified early this year amid opposition protests in Mogadishu and escalating tensions between the Federal Government and Southwest State, as well as the continuing political rift with Puntland. The attacks are contributing to a shrinking space for independent reporting across the country. With Facebook serving as the primary news and communication platform for most Somali journalists and the general public, the copyright strikes, removals and account restrictions have significantly limited journalists' ability to report and ",
+          "pubDate": "Tue, 01 Sep 2026 07:25:00 +0300",
+          "source": "Horn Observer",
+          "lang": "en",
+          "titleIt": "The Copyright Trap: How fake claims are silencing independent media and journalists in Somalia"
+        },
+        {
+          "title": "Somalia: The Killer Who Was Also a Journalist — And the Method That Didn't Die With Him",
+          "link": "https://hornobserver.com/articles/3721/Somalia-The-Killer-Who-Was-Also-a-Journalist-And-the-Method-That-Didnt-Die-With-Him",
+          "description": "Hanafi did more than report on al-Shabaab. He became the group´s eyes inside Somalia's newsrooms. He picked out which journalists to threaten, which ones to trap, and which ones to have killed. A military court found him responsible for the deaths of five journalists between 2007 and 2010, including HornAfrik co-founder Ali Iimaan Sharma'arke and Radio Mogadishu´s Sheikh Nur Mohamed Abkey. Abkey was the only one Hanafi admitted to killing with his own hands. His method was simple. As al-Shabaab´s head of press monitoring, he tracked which journalists criticized the group or spoke well of the g",
+          "pubDate": "Thu, 27 Aug 2026 19:43:58 +0300",
+          "source": "Horn Observer",
+          "lang": "en",
+          "titleIt": "Somalia: The Killer Who Was Also a Journalist — And the Method That Didn't Die With Him"
+        },
+        {
+          "title": "Laftagareen's Forces Attack Baidoa, Reviving the Fight Somalia Thought It Had Won",
+          "link": "https://hornobserver.com/articles/3716/Laftagareens-Forces-Attack-Baidoa-Reviving-the-Fight-Somalia-Thought-It-Had-Won",
+          "description": "Residents reported heavy gunfire and explosions in the Towfiiq neighborhood. Fighting broke out around 5 a.m. Somalia's Ministry of Defense said the assault involved vehicles packed with explosives. It described the attacking force as a mix of Al-Shabaab militants and militias loyal to Laftagareen — using the term \"Khawaarij,\" the standard Somali term for Al-Shabaab, to describe them. The ministry said its forces repelled the attack and killed at least 30 of the assailants. Laftagareen's side told a different story. His spokesperson, Hassan Mohamed, said in a statement that Laftagareen's force",
+          "pubDate": "Thu, 20 Aug 2026 15:58:57 +0300",
+          "source": "Horn Observer",
+          "lang": "en",
+          "titleIt": "Laftagareen's Forces Attack Baidoa, Reviving the Fight Somalia Thought It Had Won"
+        },
+        {
+          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
+          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
+          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
+          "pubDate": "Saturday, May 16, 2026 - 00:08",
+          "source": "Crisis Group",
+          "lang": "en",
+          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
     "ethiopia-sea-access": {
       "title": "Accesso etiope al mare",
       "items": [
+        {
+          "title": "Business news: Georgia, porto di Poti a limite capacita', Apm Terminals punta a ripresa negoziati su ampliamento",
+          "link": "https://www.agenzianova.com/a/6aa4faa52f85d5.67821077/7764012/2026-09-12/business-news-georgia-porto-di-poti-a-limite-capacita-apm-terminals-punta-a-ripresa-negoziati-su-ampliamento",
+          "description": "12 set 07:00 - (Agenzia Nova) - Apm Terminals intende tornare entro la fine del 2026 al tavolo dei negoziati con il governo georgiano per definire... (Rum)",
+          "pubDate": "2026-09-12T07:00:00+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Business news: Georgia, porto di Poti a limite capacita', Apm Terminals punta a ripresa negoziati su ampliamento"
+        },
         {
           "title": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane",
           "link": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&at_campaign=rss",
@@ -508,184 +436,184 @@
       "title": "Fragilità economica egiziana",
       "items": [
         {
-          "title": "Egyptian FM discusses ties , regional developments with Algerian , UAE counterparts - Xinhua",
-          "link": "https://english.news.cn/africa/20260912/437dd20732e64b908a0b14316c159da7/c.html",
-          "source": "english.news.cn",
-          "pubDate": "2026-09-11T23:30:00Z",
+          "title": "New threat for Red Sea shipping as Houthis seize Mocha port",
+          "link": "http://www.thailandnews.net/news/279299207/new-threat-for-red-sea-shipping-as-houthis-seize-mocha-port",
+          "source": "thailandnews.net",
+          "pubDate": "2026-09-12T06:45:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Egyptian FM discusses ties , regional developments with Algerian , UAE counterparts - Xinhua"
+          "titleIt": "New threat for Red Sea shipping as Houthis seize Mocha port"
         },
         {
-          "title": "Leaders from Indonesia , Thailand , Philippines , Burundi and Cuba arrive in New Delhi for BRICS summit",
-          "link": "http://www.philippinetimes.com/news/279301879/leaders-from-indonesia-thailand-philippines-burundi-and-cuba-arrive-in-new-delhi-for-brics-summit",
-          "source": "philippinetimes.com",
-          "pubDate": "2026-09-11T23:30:00Z",
+          "title": "BRICS Summit 2026 : Modi , Xi , Putin to Tackle Global Trade and Geopolitical Challenges",
+          "link": "https://dailypioneer.com/news/brics-leaders-to-navigate-global-trade-disputes-regional-crises",
+          "source": "dailypioneer.com",
+          "pubDate": "2026-09-12T06:45:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Leaders from Indonesia , Thailand , Philippines , Burundi and Cuba arrive in New Delhi for BRICS summit"
+          "titleIt": "BRICS Summit 2026 : Modi , Xi , Putin to Tackle Global Trade and Geopolitical Challenges"
         },
         {
-          "title": "Houthi advance in Yemen raises concerns about key shipping choke point",
-          "link": "https://www.orovillemr.com/2026/09/11/iran-bab-el-mandeb-strait/",
-          "source": "orovillemr.com",
-          "pubDate": "2026-09-11T23:30:00Z",
+          "title": "Ethiopia , Malaysia eye strong defence , business ties with India after Modi meet at BRICS",
+          "link": "https://www.hindustantimes.com/india-news/ethiopia-malaysia-eye-strong-defence-business-ties-with-india-after-modi-meet-at-brics-new-delhi-101789192470422.html",
+          "source": "hindustantimes.com",
+          "pubDate": "2026-09-12T06:45:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Houthi advance in Yemen raises concerns about key shipping choke point"
+          "titleIt": "Ethiopia , Malaysia eye strong defence , business ties with India after Modi meet at BRICS"
         },
         {
-          "title": "Nigerian VP Shettima arrives in Delhi to attend 18th BRICS Summit",
-          "link": "http://www.iranherald.com/news/279301150/nigerian-vp-shettima-arrives-in-delhi-to-attend-18th-brics-summit",
-          "source": "iranherald.com",
-          "pubDate": "2026-09-11T23:30:00Z",
+          "title": "RIC , BRICS and G20 : India Balancing Act in a Divided World",
+          "link": "https://dailypioneer.com/news/hcf-or-lcm-the-limits-of-global-groupings",
+          "source": "dailypioneer.com",
+          "pubDate": "2026-09-12T06:45:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Nigerian VP Shettima arrives in Delhi to attend 18th BRICS Summit"
+          "titleIt": "RIC , BRICS and G20 : India Balancing Act in a Divided World"
         },
         {
-          "title": "Iranian President Pezeshkian arrives in Delhi to attend 18th BRICS summit",
-          "link": "http://www.iranherald.com/news/279301121/iranian-president-pezeshkian-arrives-in-delhi-to-attend-18th-brics-summit",
-          "source": "iranherald.com",
-          "pubDate": "2026-09-11T23:30:00Z",
+          "title": "Saudi Arabia has few options as it faces mounting threats from Iran and its allies",
+          "link": "https://abcnews.com/International/wireStory/saudi-arabia-options-faces-mounting-threats-iran-allies-136384544",
+          "source": "abcnews.com",
+          "pubDate": "2026-09-12T06:45:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Iranian President Pezeshkian arrives in Delhi to attend 18th BRICS summit"
+          "titleIt": "Saudi Arabia has few options as it faces mounting threats from Iran and its allies"
         },
         {
-          "title": "Meeting with President of Egypt Abdel Fattah el - Sisi",
-          "link": "http://en.kremlin.ru/events/president/news/80741",
-          "source": "en.kremlin.ru",
-          "pubDate": "2026-09-11T23:30:00Z",
+          "title": "PM Modi , Ethiopian counterpart discuss ways to strengthen strategic partnership",
+          "link": "https://ianslive.in/pm-modi-ethiopian-counterpart-discuss-ways-to-strengthen-strategic-partnership--20260912114503",
+          "source": "ianslive.in",
+          "pubDate": "2026-09-12T06:45:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Meeting with President of Egypt Abdel Fattah el - Sisi"
+          "titleIt": "PM Modi , Ethiopian counterpart discuss ways to strengthen strategic partnership"
         },
         {
-          "title": "We need another Holy League",
-          "link": "https://www.renewamerica.com/columns/kincaid/260911",
-          "source": "renewamerica.com",
-          "pubDate": "2026-09-11T23:30:00Z",
+          "title": "Xi , Putin and Modi meet at BRICS summit amid Trump pressure",
+          "link": "https://www.cnbc.com/2026/09/12/brics-summit-xi-putin-modi-trump.html",
+          "source": "cnbc.com",
+          "pubDate": "2026-09-12T06:45:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "We need another Holy League"
+          "titleIt": "Xi , Putin and Modi meet at BRICS summit amid Trump pressure"
         },
         {
-          "title": "BRICS has historical responsibility to lead world amid Strait of Hormuz crisis : Assam CM Himanta Sarma ahead of Delhi summit",
-          "link": "http://www.iranherald.com/news/279301143/brics-has-historical-responsibility-to-lead-world-amid-strait-of-hormuz-crisis-assam-cm-himanta-sarma-ahead-of-delhi-summit",
-          "source": "iranherald.com",
-          "pubDate": "2026-09-11T23:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "BRICS has historical responsibility to lead world amid Strait of Hormuz crisis : Assam CM Himanta Sarma ahead of Delhi summit"
-        },
-        {
-          "title": "Saudi Arabia shuts down a pipeline as Houthis seize an island , opening a new front in the Iran war",
-          "link": "http://www.goskagit.com/news/world/saudi-arabia-shuts-down-a-pipeline-as-houthis-seize-an-island-opening-a-new-front/article_7cfbe7a8-e243-5940-8dd3-fb299315d722.html",
-          "source": "goskagit.com",
-          "pubDate": "2026-09-11T23:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Saudi Arabia shuts down a pipeline as Houthis seize an island , opening a new front in the Iran war"
-        },
-        {
-          "title": "Saudi Arabia shuts down major oil pipeline , citing attacks amid fighting in Yemen",
-          "link": "https://abc7news.com/post/saudi-arabia-shuts-down-major-oil-pipeline-citing-attacks-amid-fighting-yemen-prices-rise/19820575/",
-          "source": "abc7news.com",
-          "pubDate": "2026-09-11T23:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Saudi Arabia shuts down major oil pipeline , citing attacks amid fighting in Yemen"
-        },
-        {
-          "title": "Houthis seize key Yemeni island in Bab el - Mandeb , taking control of the strait",
-          "link": "https://www.euronews.com/2026/09/12/houthis-seize-yemeni-island-in-bab-el-mandeb-taking-control-of-the-strait",
-          "source": "euronews.com",
-          "pubDate": "2026-09-11T23:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Houthis seize key Yemeni island in Bab el - Mandeb , taking control of the strait"
-        },
-        {
-          "title": "Iran war tests expanding BRICS as bloc seeks greater global clout",
-          "link": "https://aa.com.tr/en/world/iran-war-tests-expanding-brics-as-bloc-seeks-greater-global-clout/4054458",
-          "source": "aa.com.tr",
-          "pubDate": "2026-09-11T23:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Iran war tests expanding BRICS as bloc seeks greater global clout"
-        },
-        {
-          "title": "Yemen Iranian - backed Houthis seize key island",
-          "link": "https://www.theadvocate.com.au/story/9348791/yemens-iranian-backed-houthis-seize-key-island/",
-          "source": "theadvocate.com.au",
-          "pubDate": "2026-09-11T23:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Yemen Iranian - backed Houthis seize key island"
-        },
-        {
-          "title": "Leaders from Indonesia , Thailand , Philippines , Burundi and Cuba arrive in New Delhi for BRICS summit",
-          "link": "http://www.asiabulletin.com/news/279301879/leaders-from-indonesia-thailand-philippines-burundi-and-cuba-arrive-in-new-delhi-for-brics-summit",
-          "source": "asiabulletin.com",
-          "pubDate": "2026-09-11T23:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Leaders from Indonesia , Thailand , Philippines , Burundi and Cuba arrive in New Delhi for BRICS summit"
-        },
-        {
-          "title": "Leaders from Indonesia , Thailand , Philippines , Burundi and Cuba arrive in New Delhi for BRICS summit",
-          "link": "http://www.bignewsnetwork.com/news/279301879/leaders-from-indonesia-thailand-philippines-burundi-and-cuba-arrive-in-new-delhi-for-brics-summit",
+          "title": "Belarus Foreign Affairs Minister Ryzhenkov arrives in Delhi to attend 18th BRICS Summit",
+          "link": "http://www.bignewsnetwork.com/news/279302333/belarus-foreign-affairs-minister-ryzhenkov-arrives-in-delhi-to-attend-18th-brics-summit",
           "source": "bignewsnetwork.com",
-          "pubDate": "2026-09-11T23:00:00Z",
+          "pubDate": "2026-09-12T06:45:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Leaders from Indonesia , Thailand , Philippines , Burundi and Cuba arrive in New Delhi for BRICS summit"
+          "titleIt": "Belarus Foreign Affairs Minister Ryzhenkov arrives in Delhi to attend 18th BRICS Summit"
         },
         {
-          "title": "Leaders from Indonesia , Thailand , Philippines , Burundi and Cuba arrive in New Delhi for BRICS summit",
-          "link": "http://www.caribbeanherald.com/news/279301879/leaders-from-indonesia-thailand-philippines-burundi-and-cuba-arrive-in-new-delhi-for-brics-summit",
-          "source": "caribbeanherald.com",
-          "pubDate": "2026-09-11T23:00:00Z",
+          "title": "Houthi capture of Yemen Mocha port raises oil fears",
+          "link": "http://www.birminghamstar.com/news/279299207/houthi-capture-of-yemen-s-mocha-port-raises-oil-fears",
+          "source": "birminghamstar.com",
+          "pubDate": "2026-09-12T06:45:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Leaders from Indonesia , Thailand , Philippines , Burundi and Cuba arrive in New Delhi for BRICS summit"
+          "titleIt": "Houthi capture of Yemen Mocha port raises oil fears"
         },
         {
-          "title": "Yemen Iranian - backed Houthis seize key island",
-          "link": "https://www.canberratimes.com.au/story/9348791/yemens-iranian-backed-houthis-seize-key-island/",
-          "source": "canberratimes.com.au",
-          "pubDate": "2026-09-11T23:00:00Z",
+          "title": "New threat for Red Sea shipping as Houthis seize Mocha port",
+          "link": "http://www.shanghainews.net/news/279299207/new-threat-for-red-sea-shipping-as-houthis-seize-mocha-port",
+          "source": "shanghainews.net",
+          "pubDate": "2026-09-12T06:45:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Yemen Iranian - backed Houthis seize key island"
+          "titleIt": "New threat for Red Sea shipping as Houthis seize Mocha port"
         },
         {
-          "title": "Leaders from Indonesia , Thailand , Philippines , Burundi and Cuba arrive in New Delhi for BRICS summit",
-          "link": "http://www.nepalnational.com/news/279301879/leaders-from-indonesia-thailand-philippines-burundi-and-cuba-arrive-in-new-delhi-for-brics-summit",
-          "source": "nepalnational.com",
-          "pubDate": "2026-09-11T23:00:00Z",
+          "title": "Saudi Arabia has few options as it faces mounting threats from Iran , its allies",
+          "link": "https://www.thehindubusinessline.com/news/world/saudi-arabia-has-few-options-as-it-faces-mounting-threats-from-iran-its-allies/article71459258.ece",
+          "source": "thehindubusinessline.com",
+          "pubDate": "2026-09-12T06:45:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Leaders from Indonesia , Thailand , Philippines , Burundi and Cuba arrive in New Delhi for BRICS summit"
+          "titleIt": "Saudi Arabia has few options as it faces mounting threats from Iran , its allies"
         },
         {
-          "title": "Leaders from Indonesia , Thailand , Philippines , Burundi and Cuba arrive in New Delhi for BRICS summit",
-          "link": "http://www.middleeaststar.com/news/279301879/leaders-from-indonesia-thailand-philippines-burundi-and-cuba-arrive-in-new-delhi-for-brics-summit",
-          "source": "middleeaststar.com",
-          "pubDate": "2026-09-11T23:00:00Z",
+          "title": "PM Modi holds bilateral talks with Malaysia Anwar Ibrahim at Hyderabad House",
+          "link": "https://ianslive.in/pm-modi-holds-bilateral-talks-with-malaysias-anwar-ibrahim-at-hyderabad-house--20260912110646",
+          "source": "ianslive.in",
+          "pubDate": "2026-09-12T06:45:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Leaders from Indonesia , Thailand , Philippines , Burundi and Cuba arrive in New Delhi for BRICS summit"
+          "titleIt": "PM Modi holds bilateral talks with Malaysia Anwar Ibrahim at Hyderabad House"
         },
         {
-          "title": "Leaders from Indonesia , Thailand , Philippines , Burundi and Cuba arrive in New Delhi for BRICS summit",
-          "link": "http://www.kenyastar.com/news/279301879/leaders-from-indonesia-thailand-philippines-burundi-and-cuba-arrive-in-new-delhi-for-brics-summit",
-          "source": "kenyastar.com",
-          "pubDate": "2026-09-11T22:45:00Z",
+          "title": "Saudi Arabia shuts down pipeline as Houthis seize island , opening new front in Iran war",
+          "link": "https://dailypioneer.com/news/saudi-arabia-shuts-pipeline-houthis-seize-island-iran-war",
+          "source": "dailypioneer.com",
+          "pubDate": "2026-09-12T06:45:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Leaders from Indonesia , Thailand , Philippines , Burundi and Cuba arrive in New Delhi for BRICS summit"
+          "titleIt": "Saudi Arabia shuts down pipeline as Houthis seize island , opening new front in Iran war"
+        },
+        {
+          "title": "BRICS can help Global South build resilience beyond supply chains : China Daily ahead of Xi - Modi meeting",
+          "link": "https://www.livemint.com/news/india/brics-can-help-global-south-build-resilience-beyond-supply-chains-china-daily-ahead-of-xi-modi-meeting-new-delhi-11789100267494.html",
+          "source": "livemint.com",
+          "pubDate": "2026-09-12T06:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "BRICS can help Global South build resilience beyond supply chains : China Daily ahead of Xi - Modi meeting"
+        },
+        {
+          "title": "Houthis seize an island , opening a new front in the Iran war , as Saudi Arabia shuts down a pipeline",
+          "link": "https://www.salemnews.net/news/local-news/2026/09/houthis-seize-an-island-opening-a-new-front-in-the-iran-war-as-saudi-arabia-shuts-down-a-pipeline/",
+          "source": "salemnews.net",
+          "pubDate": "2026-09-12T06:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Houthis seize an island , opening a new front in the Iran war , as Saudi Arabia shuts down a pipeline"
+        },
+        {
+          "title": "Belarus Foreign Affairs Minister Ryzhenkov arrives in Delhi to attend 18th BRICS Summit",
+          "link": "http://www.austinglobe.com/news/279302333/belarus-foreign-affairs-minister-ryzhenkov-arrives-in-delhi-to-attend-18th-brics-summit",
+          "source": "austinglobe.com",
+          "pubDate": "2026-09-12T06:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Belarus Foreign Affairs Minister Ryzhenkov arrives in Delhi to attend 18th BRICS Summit"
+        },
+        {
+          "title": "Saudi Arabia has few options as it faces mounting threats from Iran and its allies",
+          "link": "https://www.dailygazette.com/ade/ap/business/saudi-arabia-has-few-options-as-it-faces-mounting-threats-from-iran-and-its-allies/article_8ce38f74-c84f-51db-8e14-cd87fa087c95.html",
+          "source": "dailygazette.com",
+          "pubDate": "2026-09-12T06:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Saudi Arabia has few options as it faces mounting threats from Iran and its allies"
+        },
+        {
+          "title": "Houthi capture of Yemen Mocha port raises oil fears",
+          "link": "http://www.floridastatesman.com/news/279299207/houthi-capture-of-yemen-s-mocha-port-raises-oil-fears",
+          "source": "floridastatesman.com",
+          "pubDate": "2026-09-12T06:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Houthi capture of Yemen Mocha port raises oil fears"
+        },
+        {
+          "title": "BRICS Summit : Tight security arrangements , dog squads deployed at Bharat Mandapam",
+          "link": "http://www.calcuttanews.net/news/279302306/brics-summit-tight-security-arrangements-dog-squads-deployed-at-bharat-mandapam",
+          "source": "calcuttanews.net",
+          "pubDate": "2026-09-12T06:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "BRICS Summit : Tight security arrangements , dog squads deployed at Bharat Mandapam"
+        },
+        {
+          "title": "Houthi capture of Yemen Mocha port raises oil fears",
+          "link": "http://www.trinidadtimes.com/news/279299207/houthi-capture-of-yemen-s-mocha-port-raises-oil-fears",
+          "source": "trinidadtimes.com",
+          "pubDate": "2026-09-12T06:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Houthi capture of Yemen Mocha port raises oil fears"
         }
       ]
     },
