@@ -1,11 +1,20 @@
 {
-  "generatedAt": "2026-09-12T18:24:53.788Z",
+  "generatedAt": "2026-09-12T22:18:50.658Z",
   "feedsChecked": 10,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
+        {
+          "title": "Somalia: Somalia Parliament Speaker Warns Against Disinformation Targeting Ties With Türkiye",
+          "link": "https://allafrica.com/stories/202609110506.html",
+          "description": "[Shabelle] Mogadishu -- Somalia's parliamentary speaker, Abdulqadir Mohamed Nur Jama, has called for stronger efforts to protect the country's strategic partnership with Türkiye from misinformation and other threats to bilateral cooperation.",
+          "pubDate": "Fri, 11 Sep 2026 15:53:59 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Somalia: Somalia Parliament Speaker Warns Against Disinformation Targeting Ties With Türkiye"
+        },
         {
           "title": "Somalia: Two journalists arrested in Baidoa over Facebook reporting, whereabouts of one of them still unknown",
           "link": "https://hornobserver.com/articles/3736/Somalia-Two-journalists-arrested-in-Baidoa-over-Facebook-reporting-whereabouts-of-one-of-them-still-unknown",
@@ -176,30 +185,12 @@
           "source": "Crisis Group",
           "lang": "en",
           "titleIt": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab"
-        },
-        {
-          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
-          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
-          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
-          "pubDate": "Saturday, May 16, 2026 - 00:08",
-          "source": "Crisis Group",
-          "lang": "en",
-          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
     "somaliland": {
       "title": "Dossier Somaliland",
       "items": [
-        {
-          "title": "Iran: Pezeshkian, accordo con Oman sulle rotte non implica riapertura immediata di Hormuz (3)",
-          "link": "https://www.agenzianova.com/a/6aa598f22aeec9.73175437/7771692/2026-09-12/iran-pezeshkian-accordo-con-oman-sulle-rotte-non-implica-riapertura-immediata-di-hormuz-3",
-          "description": "12 set 19:22 - (Agenzia Nova) - Lo Stretto di Hormuz, che separa l'Iran dalla penisola omanita di Musandam e collega il Golfo al Golfo di Oman... (Res)",
-          "pubDate": "2026-09-12T19:22:51+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Iran: Pezeshkian, accordo con Oman sulle rotte non implica riapertura immediata di Hormuz (3)"
-        },
         {
           "title": "Kenya: AI Plot to Divide Opposition Ahead of 2027 Exposed",
           "link": "https://allafrica.com/stories/202609110160.html",
@@ -296,24 +287,6 @@
       "title": "Accesso etiope al mare",
       "items": [
         {
-          "title": "Iran: Pezeshkian, accordo con Oman sulle rotte non implica riapertura immediata di Hormuz (4)",
-          "link": "https://www.agenzianova.com/a/6aa598f22ad0f9.37340666/7771693/2026-09-12/iran-pezeshkian-accordo-con-oman-sulle-rotte-non-implica-riapertura-immediata-di-hormuz-4",
-          "description": "12 set 19:22 - (Agenzia Nova) - Il confronto sulla liberta' di navigazione si intreccia inoltre con il blocco navale statunitense contro l'Iran,... (Res)",
-          "pubDate": "2026-09-12T19:22:51+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Iran: Pezeshkian, accordo con Oman sulle rotte non implica riapertura immediata di Hormuz (4)"
-        },
-        {
-          "title": "Iran: Pezeshkian, accordo con Oman sulle rotte non implica riapertura immediata di Hormuz (3)",
-          "link": "https://www.agenzianova.com/a/6aa598f22aeec9.73175437/7771692/2026-09-12/iran-pezeshkian-accordo-con-oman-sulle-rotte-non-implica-riapertura-immediata-di-hormuz-3",
-          "description": "12 set 19:22 - (Agenzia Nova) - Lo Stretto di Hormuz, che separa l'Iran dalla penisola omanita di Musandam e collega il Golfo al Golfo di Oman... (Res)",
-          "pubDate": "2026-09-12T19:22:51+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Iran: Pezeshkian, accordo con Oman sulle rotte non implica riapertura immediata di Hormuz (3)"
-        },
-        {
           "title": "Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war",
           "link": "https://www.bbc.co.uk/news/articles/c3v4zgzr1kxo?at_medium=RSS&at_campaign=rss",
           "description": "The capture by the rebels of a stretch of Yemen's strategic coastline is the group's most impressive military coup for several years.",
@@ -321,6 +294,15 @@
           "source": "BBC World",
           "lang": "en",
           "titleIt": "Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war"
+        },
+        {
+          "title": "Gambia: Assembly Committee Warns Marine Protected Areas Face Illegal Fishing & Weak Oversight",
+          "link": "https://allafrica.com/stories/202609110554.html",
+          "description": "[Foroyaa] The National Assembly's Select Committee on Environment, Sustainable Development and NGO Affairs has warned that weak enforcement, inadequate funding, institutional conflicts and illegal activities are undermining the management of coastal and marine protected areas of the country.",
+          "pubDate": "Fri, 11 Sep 2026 16:07:02 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Gambia: Assembly Committee Warns Marine Protected Areas Face Illegal Fishing & Weak Oversight"
         },
         {
           "title": "Africa: NACC Welcomes AGOA Extension to 2028, Calls for Swift Action By Nigeria, Africa",
