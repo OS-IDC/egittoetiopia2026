@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T12:12:02.209Z",
+  "generatedAt": "2026-09-12T15:33:01.503Z",
   "feedsChecked": 10,
   "feedsAttempted": 10,
   "topics": {
@@ -192,6 +192,15 @@
       "title": "Dossier Somaliland",
       "items": [
         {
+          "title": "Kenya: AI Plot to Divide Opposition Ahead of 2027 Exposed",
+          "link": "https://allafrica.com/stories/202609110160.html",
+          "description": "[Capital FM] Nairobi -- An artificial intelligence-driven influence operation targeted former President Uhuru Kenyatta and former Deputy President Rigathi Gachagua while promoting Energy Cabinet Secretary Opiyo Wandayi in a covert social media campaign ahead of Kenya's 2027 General Election, according to a threat intelligence report by global AI firm Anthropic.",
+          "pubDate": "Fri, 11 Sep 2026 09:36:27 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Kenya: AI Plot to Divide Opposition Ahead of 2027 Exposed"
+        },
+        {
           "title": "Somalia: Two journalists arrested in Baidoa over Facebook reporting, whereabouts of one of them still unknown",
           "link": "https://hornobserver.com/articles/3736/Somalia-Two-journalists-arrested-in-Baidoa-over-Facebook-reporting-whereabouts-of-one-of-them-still-unknown",
           "description": "On 6 September, journalist Abdirahman Mohamed Abdi known as Jakataa was arrested by security services in Baidoa, according to colleagues who requested anonymity for fear of their safety. His whereabouts have remained unknown since his arrest. When SJS sought clarification from the Baidoa police, no response was provided. However, Abdirahman's colleagues told SJS that they believe he was detained over a post he published on his Facebook page on 5 September, which said: \"Can you name the only Digil/Mirifle clan whose members are being attacked by an aircraft, and the only clan whose members are ",
@@ -208,15 +217,6 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "Somaliland arrests two journalists and a poet in two weeks over criticism of president Abdirahman Irro"
-        },
-        {
-          "title": "Concerns over wildlife, water supply, as wildfire rages across Mount Kenya",
-          "link": "http://www.africanews.com/2026/09/09/concerns-over-wildlife-water-supply-as-wildfire-rages-across-mount-kenya/",
-          "description": "A wildfire has burned about 8,700 hectares of vegetation on Mount Kenya since the fire was first reported on Sept 1, Mount Kenya Trust, an environmental conservation group, said.",
-          "pubDate": "Wed, 09 Sep 2026 09:25:33 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "Concerns over wildlife, water supply, as wildfire rages across Mount Kenya"
         },
         {
           "title": "Somali journalist Bashir Mohamed Abdullahi dies after being shot during Baidoa clashes",
@@ -286,15 +286,6 @@
     "ethiopia-sea-access": {
       "title": "Accesso etiope al mare",
       "items": [
-        {
-          "title": "Irlanda: Downing Street su parole di Trump, Regno Unito si atterra' ad Accordo del Venerdi' Santo",
-          "link": "https://www.agenzianova.com/a/6aa5418e717b51.18357756/7771299/2026-09-12/irlanda-downing-street-su-parole-di-trump-regno-unito-si-atterra-ad-accordo-del-venerdi-santo",
-          "description": "12 set 14:10 - (Agenzia Nova) - Il Regno Unito \"si atterra' al 100 per cento\" all'Accordo del Venerdi' Santo. Lo ha fatto sapere un portavoce... (Rel)",
-          "pubDate": "2026-09-12T14:10:49+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Irlanda: Downing Street su parole di Trump, Regno Unito si atterra' ad Accordo del Venerdi' Santo"
-        },
         {
           "title": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane",
           "link": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&at_campaign=rss",
@@ -416,188 +407,7 @@
     },
     "egypt-economy": {
       "title": "Fragilità economica egiziana",
-      "items": [
-        {
-          "title": "India has vision , strength to harmonise global economy : Nigerian , Indonesian journalists hail  amazing  BRICS Summit",
-          "link": "http://www.malaysiasun.com/news/279302468/india-has-vision-strength-to-harmonise-global-economy-nigerian-indonesian-journalists-hail-amazing-brics-summit",
-          "source": "malaysiasun.com",
-          "pubDate": "2026-09-12T11:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "India has vision , strength to harmonise global economy : Nigerian , Indonesian journalists hail  amazing  BRICS Summit"
-        },
-        {
-          "title": "Vietnamese Prime Minister Le Minh Hung arrives in Delhi to attend 18th BRICS Summit",
-          "link": "http://www.malaysiasun.com/news/279302463/vietnamese-prime-minister-le-minh-hung-arrives-in-delhi-to-attend-18th-brics-summit",
-          "source": "malaysiasun.com",
-          "pubDate": "2026-09-12T11:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Vietnamese Prime Minister Le Minh Hung arrives in Delhi to attend 18th BRICS Summit"
-        },
-        {
-          "title": "BRICS nations urge smooth flow of global trade , supply chains , energy",
-          "link": "https://www.aljazeera.com/news/2026/9/12/brics-summit-opens-in-new-delhi-amid-wars-global-tensions-tariffs",
-          "source": "aljazeera.com",
-          "pubDate": "2026-09-12T11:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "BRICS nations urge smooth flow of global trade , supply chains , energy"
-        },
-        {
-          "title": "Trump may be BRICS best recruitment agent | Opinions",
-          "link": "https://www.aljazeera.com/opinions/2026/9/12/trump-may-be-bricss-best-recruitment-agent",
-          "source": "aljazeera.com",
-          "pubDate": "2026-09-12T11:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Trump may be BRICS best recruitment agent | Opinions"
-        },
-        {
-          "title": "BRICS  not against anyone , Putin says as summit opens",
-          "link": "http://www.austinglobe.com/news/279302446/brics-not-against-anyone-putin-says-as-summit-opens",
-          "source": "austinglobe.com",
-          "pubDate": "2026-09-12T11:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "BRICS  not against anyone , Putin says as summit opens"
-        },
-        {
-          "title": "Xinhua Commentary : China vision and action promote BRICS cooperation",
-          "link": "http://www.malaysiasun.com/news/279302514/xinhua-commentary-china-vision-and-action-promote-brics-cooperation",
-          "source": "malaysiasun.com",
-          "pubDate": "2026-09-12T11:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Xinhua Commentary : China vision and action promote BRICS cooperation"
-        },
-        {
-          "title": "PM Modi holds bilateral meeting with Ethiopian counterpart Abiy Ahmed Ali on sidelines of BRICS Summit",
-          "link": "http://www.austinglobe.com/news/279302458/pm-modi-holds-bilateral-meeting-with-ethiopian-counterpart-abiy-ahmed-ali-on-sidelines-of-brics-summit",
-          "source": "austinglobe.com",
-          "pubDate": "2026-09-12T11:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "PM Modi holds bilateral meeting with Ethiopian counterpart Abiy Ahmed Ali on sidelines of BRICS Summit"
-        },
-        {
-          "title": "Ukraine is fighting Russia anywhere it can – even in the deserts of Africa - LocalNews8 . com",
-          "link": "https://localnews8.com/news/national-world/cnn-world/2026/09/12/ukraine-is-fighting-russia-anywhere-it-can-even-in-the-deserts-of-africa/",
-          "source": "localnews8.com",
-          "pubDate": "2026-09-12T11:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ukraine is fighting Russia anywhere it can – even in the deserts of Africa - LocalNews8 . com"
-        },
-        {
-          "title": "Xinhua Commentary : China vision and action promote BRICS cooperation",
-          "link": "http://www.bignewsnetwork.com/news/279302514/xinhua-commentary-china-vision-and-action-promote-brics-cooperation",
-          "source": "bignewsnetwork.com",
-          "pubDate": "2026-09-12T11:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Xinhua Commentary : China vision and action promote BRICS cooperation"
-        },
-        {
-          "title": "BRICS not against anyone , Putin says as summit opens",
-          "link": "http://www.austinglobe.com/news/279302441/brics-not-against-anyone-putin-says-as-summit-opens",
-          "source": "austinglobe.com",
-          "pubDate": "2026-09-12T11:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "BRICS not against anyone , Putin says as summit opens"
-        },
-        {
-          "title": "BRICS not against anyone , Putin says as summit opens",
-          "link": "http://www.malaysiasun.com/news/279302441/brics-not-against-anyone-putin-says-as-summit-opens",
-          "source": "malaysiasun.com",
-          "pubDate": "2026-09-12T11:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "BRICS not against anyone , Putin says as summit opens"
-        },
-        {
-          "title": "Xinhua Commentary : China vision and action promote BRICS cooperation",
-          "link": "http://www.thailandnews.net/news/279302514/xinhua-commentary-china-vision-and-action-promote-brics-cooperation",
-          "source": "thailandnews.net",
-          "pubDate": "2026-09-12T11:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Xinhua Commentary : China vision and action promote BRICS cooperation"
-        },
-        {
-          "title": "BRICS  not against anyone , Putin says as summit opens : Live Updates",
-          "link": "http://www.austinglobe.com/news/279302439/brics-not-against-anyone-putin-says-as-summit-opens-live-updates",
-          "source": "austinglobe.com",
-          "pubDate": "2026-09-12T11:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "BRICS  not against anyone , Putin says as summit opens : Live Updates"
-        },
-        {
-          "title": "BRICS not against anyone , Putin says as summit opens : Live Updates",
-          "link": "http://www.malaysiasun.com/news/279302427/brics-not-against-anyone-putin-says-as-summit-opens-live-updates",
-          "source": "malaysiasun.com",
-          "pubDate": "2026-09-12T11:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "BRICS not against anyone , Putin says as summit opens : Live Updates"
-        },
-        {
-          "title": "PM Modi holds bilateral meeting with Ethiopian counterpart Abiy Ahmed Ali on sidelines of BRICS Summit",
-          "link": "http://www.malaysiasun.com/news/279302458/pm-modi-holds-bilateral-meeting-with-ethiopian-counterpart-abiy-ahmed-ali-on-sidelines-of-brics-summit",
-          "source": "malaysiasun.com",
-          "pubDate": "2026-09-12T11:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "PM Modi holds bilateral meeting with Ethiopian counterpart Abiy Ahmed Ali on sidelines of BRICS Summit"
-        },
-        {
-          "title": "BRICS to agree on joint declaration at New Delhi summit",
-          "link": "https://www.queanbeyanage.com.au/story/9348964/brics-to-agree-on-joint-declaration-at-new-delhi-summit/",
-          "source": "queanbeyanage.com.au",
-          "pubDate": "2026-09-12T11:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "BRICS to agree on joint declaration at New Delhi summit"
-        },
-        {
-          "title": "BRICS Summit Kicks Off in New Delhi – Chennaionline",
-          "link": "https://www.chennaionline.com/news/brics-summit-kicks-off-in-new-delhi/",
-          "source": "chennaionline.com",
-          "pubDate": "2026-09-12T11:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "BRICS Summit Kicks Off in New Delhi – Chennaionline"
-        },
-        {
-          "title": "Saudi Arabia shuts critical oil pipeline after drone attack : What it means",
-          "link": "https://www.aljazeera.com/news/2026/9/12/saudi-arabia-shuts-critical-oil-pipeline-after-drone-attack-what-happened",
-          "source": "aljazeera.com",
-          "pubDate": "2026-09-12T11:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Saudi Arabia shuts critical oil pipeline after drone attack : What it means"
-        },
-        {
-          "title": "BRICS not against anyone , Putin says as summit opens : Live Updates",
-          "link": "http://www.austinglobe.com/news/279302427/brics-not-against-anyone-putin-says-as-summit-opens-live-updates",
-          "source": "austinglobe.com",
-          "pubDate": "2026-09-12T11:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "BRICS not against anyone , Putin says as summit opens : Live Updates"
-        },
-        {
-          "title": "Bab al - Mandab Strait : Key oil route facing growing Houthi threat",
-          "link": "https://dunyanews.tv/en/World/972480-bab-almandab-strait-key-oil-route-facing-growing-houthi-threat",
-          "source": "dunyanews.tv",
-          "pubDate": "2026-09-12T11:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Bab al - Mandab Strait : Key oil route facing growing Houthi threat"
-        }
-      ]
+      "items": []
     },
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
