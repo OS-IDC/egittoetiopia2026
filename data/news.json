@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T00:03:52.232Z",
+  "generatedAt": "2026-09-13T04:48:19.872Z",
   "feedsChecked": 10,
   "feedsAttempted": 10,
   "topics": {
@@ -7,13 +7,31 @@
       "title": "Accordi Egitto-Somalia",
       "items": [
         {
-          "title": "Somalia: Somalia Parliament Speaker Warns Against Disinformation Targeting Ties With Türkiye",
-          "link": "https://allafrica.com/stories/202609110506.html",
-          "description": "[Shabelle] Mogadishu -- Somalia's parliamentary speaker, Abdulqadir Mohamed Nur Jama, has called for stronger efforts to protect the country's strategic partnership with Türkiye from misinformation and other threats to bilateral cooperation.",
-          "pubDate": "Fri, 11 Sep 2026 15:53:59 GMT",
-          "source": "AllAfrica",
+          "title": "The Anatomy of a Blood Debt: How Clan Revenge Killings are Fracturing Somalia's Frontlines",
+          "link": "https://hornobserver.com/articles/3737/The-Anatomy-of-a-Blood-Debt-How-Clan-Revenge-Killings-are-Fracturing-Somalias-Frontlines",
+          "description": "Before he was executed, a chilling video captured his final moments. Stranded and defenseless, Hussein looked directly at his armed captors and uttered a devastating plea: \"Abtiyaalow, ha i dilina\" (\"Maternal uncles, do not kill me\"). The phrase was not just a desperate cry for mercy — according to clan elders and opposition figures interviewed for this piece, it reflected a specific and devastating reality. Hussein's mother, they said, belonged to the very community holding the rifles — the Abgal clan. But because his paternal lineage traced back to the Xawaadle clan, the rigid, mathematical ",
+          "pubDate": "Sun, 13 Sep 2026 06:12:57 +0300",
+          "source": "Horn Observer",
           "lang": "en",
-          "titleIt": "Somalia: Somalia Parliament Speaker Warns Against Disinformation Targeting Ties With Türkiye"
+          "titleIt": "The Anatomy of a Blood Debt: How Clan Revenge Killings are Fracturing Somalia's Frontlines"
+        },
+        {
+          "title": "Business news: Turchia-Egitto, accordo per la vendita del drone Hamza-1",
+          "link": "https://www.agenzianova.com/a/6aa62b1022ba16.84296635/7769473/2026-09-13/business-news-turchia-egitto-accordo-per-la-vendita-del-drone-hamza-1",
+          "description": "13 set 05:00 - (Agenzia Nova) - La turca Havelsan e l'Organizzazione araba per l'industrializzazione (Aoi) egiziana hanno siglato un accordo... (Tua)",
+          "pubDate": "2026-09-13T05:00:00+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Business news: Turchia-Egitto, accordo per la vendita del drone Hamza-1"
+        },
+        {
+          "title": "Business news: Egitto, nove nuovi progetti industriali nella Zona del Canale di Suez",
+          "link": "https://www.agenzianova.com/a/6aa62b10238e48.05437145/7769458/2026-09-13/business-news-egitto-nove-nuovi-progetti-industriali-nella-zona-del-canale-di-suez",
+          "description": "13 set 03:00 - (Agenzia Nova) - La Zona economica del Canale di Suez (SCZone) ha ampliato la propria base manifatturiera con nove nuovi progetti... (Cae)",
+          "pubDate": "2026-09-13T03:00:00+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Business news: Egitto, nove nuovi progetti industriali nella Zona del Canale di Suez"
         },
         {
           "title": "Somalia: Two journalists arrested in Baidoa over Facebook reporting, whereabouts of one of them still unknown",
@@ -167,30 +185,30 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "Somalia Trains Journalists as New Frontline Against Digital Extremism"
-        },
-        {
-          "title": "Laftagareen's Forces Attack Baidoa, Reviving the Fight Somalia Thought It Had Won",
-          "link": "https://hornobserver.com/articles/3716/Laftagareens-Forces-Attack-Baidoa-Reviving-the-Fight-Somalia-Thought-It-Had-Won",
-          "description": "Residents reported heavy gunfire and explosions in the Towfiiq neighborhood. Fighting broke out around 5 a.m. Somalia's Ministry of Defense said the assault involved vehicles packed with explosives. It described the attacking force as a mix of Al-Shabaab militants and militias loyal to Laftagareen — using the term \"Khawaarij,\" the standard Somali term for Al-Shabaab, to describe them. The ministry said its forces repelled the attack and killed at least 30 of the assailants. Laftagareen's side told a different story. His spokesperson, Hassan Mohamed, said in a statement that Laftagareen's force",
-          "pubDate": "Thu, 20 Aug 2026 15:58:57 +0300",
-          "source": "Horn Observer",
-          "lang": "en",
-          "titleIt": "Laftagareen's Forces Attack Baidoa, Reviving the Fight Somalia Thought It Had Won"
-        },
-        {
-          "title": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab",
-          "link": "https://www.crisisgroup.org/brf/africa/somalia/b212-new-chapter-same-stalemate-somalias-war-al-shabaab",
-          "description": "The Somali government’s battle with Al-Shabaab militants grinds on, with neither able to gain a decisive advantage. To improve its lot, Mogadishu needs to bolster its military and alleviate civilian suffering in areas under insurgent control, while looking for openings for dialogue with the group.",
-          "pubDate": "Tuesday, June 30, 2026 - 15:20",
-          "source": "Crisis Group",
-          "lang": "en",
-          "titleIt": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab"
         }
       ]
     },
     "somaliland": {
       "title": "Dossier Somaliland",
       "items": [
+        {
+          "title": "Business news: Etiopia, gli Usa puntano sul nuovo aeroporto di Bishoftu come futuro polo regionale",
+          "link": "https://www.agenzianova.com/a/6aa62b1021ff94.67265695/7768113/2026-09-13/business-news-etiopia-gli-usa-puntano-sul-nuovo-aeroporto-di-bishoftu-come-futuro-polo-regionale",
+          "description": "13 set 06:00 - (Agenzia Nova) - Gli Stati Uniti puntano a rafforzare i legami nel settore dell'aviazione commerciale con l'Etiopia attraverso... (Was)",
+          "pubDate": "2026-09-13T06:00:00+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Business news: Etiopia, gli Usa puntano sul nuovo aeroporto di Bishoftu come futuro polo regionale"
+        },
+        {
+          "title": "Business news: Kenya-Italia, governo e gruppo Gksd firmano intesa per 15 nuovi ospedali",
+          "link": "https://www.agenzianova.com/a/6aa62b102221a0.20737668/7768112/2026-09-13/business-news-kenya-italia-governo-e-gruppo-gksd-firmano-intesa-per-15-nuovi-ospedali",
+          "description": "13 set 06:00 - (Agenzia Nova) - Il Kenya ha sottoscritto con il gruppo Gksd, partecipata del Gruppo San Donato, una Lettera di intenti per... (Suk)",
+          "pubDate": "2026-09-13T06:00:00+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Business news: Kenya-Italia, governo e gruppo Gksd firmano intesa per 15 nuovi ospedali"
+        },
         {
           "title": "Kenya: AI Plot to Divide Opposition Ahead of 2027 Exposed",
           "link": "https://allafrica.com/stories/202609110160.html",
@@ -264,15 +282,6 @@
           "titleIt": "Somalia: The Killer Who Was Also a Journalist — And the Method That Didn't Die With Him"
         },
         {
-          "title": "Laftagareen's Forces Attack Baidoa, Reviving the Fight Somalia Thought It Had Won",
-          "link": "https://hornobserver.com/articles/3716/Laftagareens-Forces-Attack-Baidoa-Reviving-the-Fight-Somalia-Thought-It-Had-Won",
-          "description": "Residents reported heavy gunfire and explosions in the Towfiiq neighborhood. Fighting broke out around 5 a.m. Somalia's Ministry of Defense said the assault involved vehicles packed with explosives. It described the attacking force as a mix of Al-Shabaab militants and militias loyal to Laftagareen — using the term \"Khawaarij,\" the standard Somali term for Al-Shabaab, to describe them. The ministry said its forces repelled the attack and killed at least 30 of the assailants. Laftagareen's side told a different story. His spokesperson, Hassan Mohamed, said in a statement that Laftagareen's force",
-          "pubDate": "Thu, 20 Aug 2026 15:58:57 +0300",
-          "source": "Horn Observer",
-          "lang": "en",
-          "titleIt": "Laftagareen's Forces Attack Baidoa, Reviving the Fight Somalia Thought It Had Won"
-        },
-        {
           "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
           "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
           "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
@@ -287,6 +296,33 @@
       "title": "Accesso etiope al mare",
       "items": [
         {
+          "title": "Business news: Etiopia, gli Usa puntano sul nuovo aeroporto di Bishoftu come futuro polo regionale",
+          "link": "https://www.agenzianova.com/a/6aa62b1021ff94.67265695/7768113/2026-09-13/business-news-etiopia-gli-usa-puntano-sul-nuovo-aeroporto-di-bishoftu-come-futuro-polo-regionale",
+          "description": "13 set 06:00 - (Agenzia Nova) - Gli Stati Uniti puntano a rafforzare i legami nel settore dell'aviazione commerciale con l'Etiopia attraverso... (Was)",
+          "pubDate": "2026-09-13T06:00:00+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Business news: Etiopia, gli Usa puntano sul nuovo aeroporto di Bishoftu come futuro polo regionale"
+        },
+        {
+          "title": "Business news: Iraq, accordo con Ooredoo per un corridoio internet ad alta velocita'",
+          "link": "https://www.agenzianova.com/a/6aa62b1022f406.66955054/7769471/2026-09-13/business-news-iraq-accordo-con-ooredoo-per-un-corridoio-internet-ad-alta-velocita",
+          "description": "13 set 05:00 - (Agenzia Nova) - L'Iraq ha firmato un contratto con la societa' qatariota Ooredoo per la realizzazione di un corridoio di transito... (Irb)",
+          "pubDate": "2026-09-13T05:00:00+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Business news: Iraq, accordo con Ooredoo per un corridoio internet ad alta velocita'"
+        },
+        {
+          "title": "Business news: Iraq-Turchia, pronta la bozza dell'accordo sulle infrastrutture",
+          "link": "https://www.agenzianova.com/a/6aa62b10231460.13654478/7769470/2026-09-13/business-news-iraq-turchia-pronta-la-bozza-dell-accordo-sulle-infrastrutture",
+          "description": "13 set 05:00 - (Agenzia Nova) - Iraq e Turchia hanno completato la bozza di un accordo sullo sviluppo delle infrastrutture di trasporto. Il... (Irb)",
+          "pubDate": "2026-09-13T05:00:00+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Business news: Iraq-Turchia, pronta la bozza dell'accordo sulle infrastrutture"
+        },
+        {
           "title": "Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war",
           "link": "https://www.bbc.co.uk/news/articles/c3v4zgzr1kxo?at_medium=RSS&at_campaign=rss",
           "description": "The capture by the rebels of a stretch of Yemen's strategic coastline is the group's most impressive military coup for several years.",
@@ -296,22 +332,13 @@
           "titleIt": "Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war"
         },
         {
-          "title": "Gambia: Assembly Committee Warns Marine Protected Areas Face Illegal Fishing & Weak Oversight",
-          "link": "https://allafrica.com/stories/202609110554.html",
-          "description": "[Foroyaa] The National Assembly's Select Committee on Environment, Sustainable Development and NGO Affairs has warned that weak enforcement, inadequate funding, institutional conflicts and illegal activities are undermining the management of coastal and marine protected areas of the country.",
-          "pubDate": "Fri, 11 Sep 2026 16:07:02 GMT",
+          "title": "Africa: NACC Welcomes AGOA Extension to 2028, Calls for Swift Action By Nigeria, Africa",
+          "link": "https://allafrica.com/stories/202609110270.html",
+          "description": "[Vanguard] The Nigerian-American Chamber of Commerce, NACC, has welcomed the signing by United States President Donald Trump of the Continuing Appropriations and Extensions Act, 2027, which extends the African Growth and Opportunity Act, AGOA, through December 31, 2028.",
+          "pubDate": "Fri, 11 Sep 2026 11:15:59 GMT",
           "source": "AllAfrica",
           "lang": "en",
-          "titleIt": "Gambia: Assembly Committee Warns Marine Protected Areas Face Illegal Fishing & Weak Oversight"
-        },
-        {
-          "title": "Africa: African Development Bank Group and African Forum of Deposit Funds Enter Into New Alliance to Mobilize More Long-Term Financing",
-          "link": "https://allafrica.com/stories/202609100691.html",
-          "description": "[African Development Bank (AfDB)] The African Development Bank Group and the members of the African Forum of Deposit Funds have agreed to strengthen their cooperation to mobilise more long-term financing for the continent's sustainable development. Through this strategic alliance, they aim to support productive investment, strengthen the continent's economic resilience and contribute to more inclusive growth.",
-          "pubDate": "Thu, 10 Sep 2026 21:41:29 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Africa: African Development Bank Group and African Forum of Deposit Funds Enter Into New Alliance to Mobilize More Long-Term Financing"
+          "titleIt": "Africa: NACC Welcomes AGOA Extension to 2028, Calls for Swift Action By Nigeria, Africa"
         },
         {
           "title": "Somalia: Two journalists arrested in Baidoa over Facebook reporting, whereabouts of one of them still unknown",
@@ -377,15 +404,6 @@
           "titleIt": "Somalia: The Killer Who Was Also a Journalist — And the Method That Didn't Die With Him"
         },
         {
-          "title": "Laftagareen's Forces Attack Baidoa, Reviving the Fight Somalia Thought It Had Won",
-          "link": "https://hornobserver.com/articles/3716/Laftagareens-Forces-Attack-Baidoa-Reviving-the-Fight-Somalia-Thought-It-Had-Won",
-          "description": "Residents reported heavy gunfire and explosions in the Towfiiq neighborhood. Fighting broke out around 5 a.m. Somalia's Ministry of Defense said the assault involved vehicles packed with explosives. It described the attacking force as a mix of Al-Shabaab militants and militias loyal to Laftagareen — using the term \"Khawaarij,\" the standard Somali term for Al-Shabaab, to describe them. The ministry said its forces repelled the attack and killed at least 30 of the assailants. Laftagareen's side told a different story. His spokesperson, Hassan Mohamed, said in a statement that Laftagareen's force",
-          "pubDate": "Thu, 20 Aug 2026 15:58:57 +0300",
-          "source": "Horn Observer",
-          "lang": "en",
-          "titleIt": "Laftagareen's Forces Attack Baidoa, Reviving the Fight Somalia Thought It Had Won"
-        },
-        {
           "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
           "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
           "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
@@ -400,8 +418,17 @@
       "title": "Fragilità economica egiziana",
       "items": [
         {
+          "title": "Business news: Egitto, nove nuovi progetti industriali nella Zona del Canale di Suez",
+          "link": "https://www.agenzianova.com/a/6aa62b10238e48.05437145/7769458/2026-09-13/business-news-egitto-nove-nuovi-progetti-industriali-nella-zona-del-canale-di-suez",
+          "description": "13 set 03:00 - (Agenzia Nova) - La Zona economica del Canale di Suez (SCZone) ha ampliato la propria base manifatturiera con nove nuovi progetti... (Cae)",
+          "pubDate": "2026-09-13T03:00:00+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Business news: Egitto, nove nuovi progetti industriali nella Zona del Canale di Suez"
+        },
+        {
           "title": "Business news: Egitto, Linglong Tire investe 2 miliardi in un polo industriale",
-          "link": "https://www.agenzianova.com/a/6aa5e8648f7864.13041110/7769451/2026-09-13/business-news-egitto-linglong-tire-investe-2-miliardi-in-un-polo-industriale",
+          "link": "https://www.agenzianova.com/a/6aa62b102443b1.36042003/7769451/2026-09-13/business-news-egitto-linglong-tire-investe-2-miliardi-in-un-polo-industriale",
           "description": "13 set 02:00 - (Agenzia Nova) - Il produttore cinese Linglong Tire punta sull'Egitto con un investimento da circa 2 miliardi di dollari per... (Cae)",
           "pubDate": "2026-09-13T02:00:00+02:00",
           "source": "Agenzia Nova",
@@ -413,6 +440,15 @@
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
       "items": [
+        {
+          "title": "Business news: Turchia-Egitto, accordo per la vendita del drone Hamza-1",
+          "link": "https://www.agenzianova.com/a/6aa62b1022ba16.84296635/7769473/2026-09-13/business-news-turchia-egitto-accordo-per-la-vendita-del-drone-hamza-1",
+          "description": "13 set 05:00 - (Agenzia Nova) - La turca Havelsan e l'Organizzazione araba per l'industrializzazione (Aoi) egiziana hanno siglato un accordo... (Tua)",
+          "pubDate": "2026-09-13T05:00:00+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Business news: Turchia-Egitto, accordo per la vendita del drone Hamza-1"
+        },
         {
           "title": "IPI: Africa Media Freedom Monitoring: April to June 2026",
           "link": "https://hornobserver.com/articles/3719/IPI-Africa-Media-Freedom-Monitoring-April-to-June-2026",
