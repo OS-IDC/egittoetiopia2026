@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T00:19:35.851Z",
+  "generatedAt": "2026-09-18T07:25:42.322Z",
   "feedsChecked": 10,
   "feedsAttempted": 10,
   "topics": {
@@ -165,6 +165,15 @@
       "title": "Dossier Somaliland",
       "items": [
         {
+          "title": "Ethiopia: Chemicals Used in Gold Mining Reportedly Killing Endemic Birds and Other Wildlife in Borena",
+          "link": "https://allafrica.com/stories/202609180057.html",
+          "description": "[Addis Standard] Addis Abeba -- Local residents in Arsite, Abunu Kebele of Gomole Woreda, near Borena National Park in Ethiopia's Oromia Region, have raised concerns over the reported deaths of birds and other wildlife following the use of chemicals in informal gold mining activities in the area.",
+          "pubDate": "Fri, 18 Sep 2026 05:47:52 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Ethiopia: Chemicals Used in Gold Mining Reportedly Killing Endemic Birds and Other Wildlife in Borena"
+        },
+        {
           "title": "Ethiopia: 'Reporting On Abuses Shouldn't Be Treated As a Threat to National Interest'",
           "link": "https://allafrica.com/stories/202609170167.html",
           "description": "[IPS] CIVICUS discusses renewed conflict and a growing crackdown on independent media in Ethiopia with Yonas Kedir, Editor-in-Chief of the independent news outlet Addis Standard, who was recently abducted and detained by government forces.",
@@ -296,6 +305,33 @@
       "title": "Accesso etiope al mare",
       "items": [
         {
+          "title": "Dozens of suspected illegal miners die in Nigerian custody",
+          "link": "https://www.bbc.co.uk/news/articles/cw980qp2n3p4o?at_medium=RSS&at_campaign=rss",
+          "description": "Authorities linked the deaths to disease, but this has been disputed by intelligence reports and relatives of the accused.",
+          "pubDate": "Fri, 18 Sep 2026 07:14:48 GMT",
+          "source": "BBC Africa",
+          "lang": "en",
+          "titleIt": "Dozens of suspected illegal miners die in Nigerian custody"
+        },
+        {
+          "title": "Ethiopia: Chemicals Used in Gold Mining Reportedly Killing Endemic Birds and Other Wildlife in Borena",
+          "link": "https://allafrica.com/stories/202609180057.html",
+          "description": "[Addis Standard] Addis Abeba -- Local residents in Arsite, Abunu Kebele of Gomole Woreda, near Borena National Park in Ethiopia's Oromia Region, have raised concerns over the reported deaths of birds and other wildlife following the use of chemicals in informal gold mining activities in the area.",
+          "pubDate": "Fri, 18 Sep 2026 05:47:52 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Ethiopia: Chemicals Used in Gold Mining Reportedly Killing Endemic Birds and Other Wildlife in Borena"
+        },
+        {
+          "title": "Sudan: Urgent Report Underlines Sudan Famine Risk As Food Insecurity Worsens",
+          "link": "https://allafrica.com/stories/202609180010.html",
+          "description": "[Dabanga] El Malha / Jebel Marra / Buram / Tawila -- Sudan faces a growing risk of severe food insecurity and famine-like conditions in parts of Darfur and Kordofan as poor rainfall, war, displacement and rising prices squeeze access to food, according to a new early-warning report by conflict analyst and researcher Dr Adeeb Yousif.",
+          "pubDate": "Fri, 18 Sep 2026 05:26:32 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Sudan: Urgent Report Underlines Sudan Famine Risk As Food Insecurity Worsens"
+        },
+        {
           "title": "'Gunfire everywhere': Displaced Yemenis describe terrifying journey to Djibouti",
           "link": "http://www.africanews.com/2026/09/17/gunfire-everywhere-displaced-yemenis-describe-terrifying-journey-to-djibouti/",
           "description": "Displaced Yemenis who fled to Djibouti have been describing the fighting that forced them to leave. At least 100,000 people have left Yemen since the start of September as Iran-backed Houthi rebels advanced on the coast, seizing control of the strategic Bab el-Mandeb strait.",
@@ -416,7 +452,7 @@
           "title": "Sudanese women preserve bridal henna tradition amid war and water crisis",
           "link": "http://www.africanews.com/2026/09/17/sudanese-women-preserve-bridal-henna-tradition-amid-war-and-water-crisis/",
           "description": "For Sudanese women, keeping the tradition alive has become a way of preserving cultural identity amid profound upheaval.",
-          "pubDate": "Thu, 17 Sep 2026 16:05:45 +0000",
+          "pubDate": "Fri, 18 Sep 2026 06:17:32 +0000",
           "source": "Africanews",
           "lang": "en",
           "titleIt": "Sudanese women preserve bridal henna tradition amid war and water crisis"
