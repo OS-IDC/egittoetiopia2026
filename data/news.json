@@ -1,11 +1,29 @@
 {
-  "generatedAt": "2026-09-20T00:10:42.775Z",
+  "generatedAt": "2026-09-20T04:53:51.278Z",
   "feedsChecked": 10,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
+        {
+          "title": "Business news: Egitto, avviate operazioni prova presso terminal merci generiche in porto di Ain Sokhna",
+          "link": "https://www.agenzianova.com/a/6aaf66dbb4a460.41169156/7790628/2026-09-20/business-news-egitto-avviate-operazioni-prova-presso-terminal-merci-generiche-in-porto-di-ain-sokhna",
+          "description": "20 set 04:00 - (Agenzia Nova) - L'Egitto ha avviato le operazioni di prova della prima fase di un terminal per merci generiche e rinfuse secche... (Cae)",
+          "pubDate": "2026-09-20T04:00:06+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Business news: Egitto, avviate operazioni prova presso terminal merci generiche in porto di Ain Sokhna"
+        },
+        {
+          "title": "Business news: Egitto, esportazioni merci in aumento del 21,7 per cento nel 2025 su base annua",
+          "link": "https://www.agenzianova.com/a/6aaf66dbb534b3.66613854/7790607/2026-09-20/business-news-egitto-esportazioni-merci-in-aumento-del-21-7-per-cento-nel-2025-su-base-annua",
+          "description": "20 set 03:00 - (Agenzia Nova) - Le esportazioni di merci dell'Egitto sono aumentate di circa il 21,7 per cento nel 2025 su base annua, raggiungendo... (Cae)",
+          "pubDate": "2026-09-20T03:00:24+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Business news: Egitto, esportazioni merci in aumento del 21,7 per cento nel 2025 su base annua"
+        },
         {
           "title": "Somali Journalist Mohamed Aweys Moodey Dies After Stabbing in Germany",
           "link": "https://hornobserver.com/articles/3752/Somali-Journalist-Mohamed-Aweys-Moodey-Dies-After-Stabbing-in-Germany",
@@ -291,37 +309,100 @@
           "titleIt": "Somalia: Blood, Blades, and Broken Streets: Inside the Terror Colonizing Mogadishu"
         },
         {
-          "title": "Somalia: Two journalists arrested in Baidoa over Facebook reporting, whereabouts of one of them still unknown",
-          "link": "https://hornobserver.com/articles/3736/Somalia-Two-journalists-arrested-in-Baidoa-over-Facebook-reporting-whereabouts-of-one-of-them-still-unknown",
-          "description": "On 6 September, journalist Abdirahman Mohamed Abdi known as Jakataa was arrested by security services in Baidoa, according to colleagues who requested anonymity for fear of their safety. His whereabouts have remained unknown since his arrest. When SJS sought clarification from the Baidoa police, no response was provided. However, Abdirahman's colleagues told SJS that they believe he was detained over a post he published on his Facebook page on 5 September, which said: \"Can you name the only Digil/Mirifle clan whose members are being attacked by an aircraft, and the only clan whose members are ",
-          "pubDate": "Thu, 10 Sep 2026 22:33:24 +0300",
-          "source": "Horn Observer",
+          "title": "Exclusive : UAE pursuing  port imperialism  across Africa , Eritrean foreign minister says",
+          "link": "https://www.middleeasteye.net/news/exclusive-eritrea-foreign-minister-says-uae-pursuing-port-imperialism-across-africa",
+          "source": "middleeasteye.net",
+          "pubDate": "2026-09-12T11:15:00Z",
           "lang": "en",
-          "titleIt": "Somalia: Two journalists arrested in Baidoa over Facebook reporting, whereabouts of one of them still unknown"
+          "description": "",
+          "titleIt": "Exclusive : UAE pursuing  port imperialism  across Africa , Eritrean foreign minister says"
         },
         {
-          "title": "Somaliland arrests two journalists and a poet in two weeks over criticism of president Abdirahman Irro",
-          "link": "https://hornobserver.com/articles/3735/Somaliland-arrests-two-journalists-and-a-poet-in-two-weeks-over-criticism-of-president-Abdirahman-Irro",
-          "description": "Journalist Abdiqani Hussein Abokor, known as Baylood, founder of Heegan TV, was arrested on 29 August 2026 after interviewing Somaliland-based poet Ismail Yusuf Abdi, also known as Jiheeye. During the interview, published by Abdiqani Hussein Abokor on his Facebook page on 27 August, Ismail complained to President Irro about the forced eviction of his family from their home in Hargeisa. During the interview, Ismail recited a poem in which he cursed the president and said \"that the president's honour should be diminished and failure comes to him\" if the vulnerable family were evicted from their ",
-          "pubDate": "Wed, 09 Sep 2026 22:54:17 +0300",
-          "source": "Horn Observer",
+          "title": "Somaliland Opposition Condemns Cirro Gaza Troop Proposal as Political Backlash Grows",
+          "link": "https://wardheernews.com/somaliland-opposition-condemns-cirros-gaza-troop-proposal-as-political-backlash-grows/",
+          "source": "wardheernews.com",
+          "pubDate": "2026-09-12T01:45:00Z",
           "lang": "en",
-          "titleIt": "Somaliland arrests two journalists and a poet in two weeks over criticism of president Abdirahman Irro"
+          "description": "",
+          "titleIt": "Somaliland Opposition Condemns Cirro Gaza Troop Proposal as Political Backlash Grows"
         },
         {
-          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
-          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
-          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
-          "pubDate": "Saturday, May 16, 2026 - 00:08",
-          "source": "Crisis Group",
+          "title": "Israel Backs Ethiopia Bid for Red Sea Access , Raising New Regional Questions",
+          "link": "https://wardheernews.com/israel-backs-ethiopias-bid-for-red-sea-access-raising-new-regional-questions/",
+          "source": "wardheernews.com",
+          "pubDate": "2026-09-12T01:45:00Z",
           "lang": "en",
-          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
+          "description": "",
+          "titleIt": "Israel Backs Ethiopia Bid for Red Sea Access , Raising New Regional Questions"
+        },
+        {
+          "title": "Right - hand - man  son of genocidal Somali dictator who killed 200 , 000 found living in Ohio , linked to $1 . 8M Medicare firm",
+          "link": "https://nypost.com/2026/09/11/world-news/right-hand-man-son-of-genocidal-somali-dictator-who-killed-200000-found-living-in-ohio-linked-to-1-8m-medicare-firm/",
+          "source": "nypost.com",
+          "pubDate": "2026-09-11T20:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Right - hand - man  son of genocidal Somali dictator who killed 200 , 000 found living in Ohio , linked to $1 . 8M Medicare firm"
+        },
+        {
+          "title": "Israel election raises hopes and fears across the Arab world",
+          "link": "https://www.ynetnews.com/opinions-analysis/article/sywtqpxtme",
+          "source": "ynetnews.com",
+          "pubDate": "2026-09-11T02:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Israel election raises hopes and fears across the Arab world"
+        },
+        {
+          "title": "Algeria cuts diplomatic ties with UAE : What we know - Grenada Chronicle – Daily Grenada And Caribbean News",
+          "link": "https://grenadachronicle.com/algeria-cuts-diplomatic-ties-with-uae-what-we-know/",
+          "source": "grenadachronicle.com",
+          "pubDate": "2026-09-10T22:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Algeria cuts diplomatic ties with UAE : What we know - Grenada Chronicle – Daily Grenada And Caribbean News"
         }
       ]
     },
     "ethiopia-sea-access": {
       "title": "Accesso etiope al mare",
       "items": [
+        {
+          "title": "Mecca Alliance will be  game - changing platform : Turkish foreign minister – The Frontier Post",
+          "link": "https://thefrontierpost.com/mecca-alliance-will-be-game-changing-platform-turkish-foreign-minister/",
+          "source": "thefrontierpost.com",
+          "pubDate": "2026-09-20T04:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Mecca Alliance will be  game - changing platform : Turkish foreign minister – The Frontier Post"
+        },
+        {
+          "title": "Mecca Alliance will be  game - changing platform : Turkish foreign minister",
+          "link": "https://aa.com.tr/en/world/mecca-alliance-will-be-game-changing-platform-turkish-foreign-minister/4062212",
+          "source": "aa.com.tr",
+          "pubDate": "2026-09-20T04:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Mecca Alliance will be  game - changing platform : Turkish foreign minister"
+        },
+        {
+          "title": "Eritrea Leaves the US Sanctions List as Mines Stay Chinese",
+          "link": "https://www.riotimesonline.com/eritrea-diaspora-mining-investment-2026/",
+          "source": "riotimesonline.com",
+          "pubDate": "2026-09-20T00:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Eritrea Leaves the US Sanctions List as Mines Stay Chinese"
+        },
+        {
+          "title": "World Bank Raises Chad Growth Forecast to 5 . 2 %",
+          "link": "https://www.riotimesonline.com/chad-world-bank-upgrade-connexion-2030-2026/",
+          "source": "riotimesonline.com",
+          "pubDate": "2026-09-20T00:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "World Bank Raises Chad Growth Forecast to 5 . 2 %"
+        },
         {
           "title": "Somali Journalist Mohamed Aweys Moodey Dies After Stabbing in Germany",
           "link": "https://hornobserver.com/articles/3752/Somali-Journalist-Mohamed-Aweys-Moodey-Dies-After-Stabbing-in-Germany",
@@ -377,15 +458,6 @@
           "titleIt": "'Gunfire everywhere': Displaced Yemenis describe terrifying journey to Djibouti"
         },
         {
-          "title": "Africa: KOAFEC 2026 - African Development Bank and Korea's Export-Import Bank Strengthen Partnership to Finance Africa's Strategic Priorities",
-          "link": "https://allafrica.com/stories/202609160743.html",
-          "description": "[African Development Bank (AfDB)] The African Development Bank Group (AfDB) and the Export-Import Bank of Korea (KEXIM) have signed a new memorandum of understanding to deepen co-financing cooperation on projects across Africa and mobilise additional resources for the continent's sustainable development.",
-          "pubDate": "Wed, 16 Sep 2026 23:36:55 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Africa: KOAFEC 2026 - African Development Bank and Korea's Export-Import Bank Strengthen Partnership to Finance Africa's Strategic Priorities"
-        },
-        {
           "title": "Highlights of the Month from SJS Monthly Newsletter on Climate Change Reporting - August - September",
           "link": "https://hornobserver.com/articles/3750/Highlights-of-the-Month-from-SJS-Monthly-Newsletter-on-Climate-Change-Reporting-August-September",
           "description": "El Niño Climate Impact Outlook – Somalia – UN OCHA Somalia's El Niño Climate Impact Outlook warns of a credible risk of severe flooding during the October–December 2026 Deyr season, particularly along the Jubba and Shabelle river corridors, if El Niño strengthens alongside a positive Indian Ocean Dipole. While the scenario is not certain, the outlook urges early action to address the combined risks of flooding, drought, extreme heat, disease, food insecurity, displacement, and infrastructure vulnerabilities. It prioritizes stronger early-warning and evacuation systems, flood anticipatory-actio",
@@ -422,22 +494,58 @@
           "titleIt": "Spike in online attacks silence Somali journalists in the midst of China and Turkey strategic communications partnership with Somalia"
         },
         {
-          "title": "Somalia: Two journalists arrested in Baidoa over Facebook reporting, whereabouts of one of them still unknown",
-          "link": "https://hornobserver.com/articles/3736/Somalia-Two-journalists-arrested-in-Baidoa-over-Facebook-reporting-whereabouts-of-one-of-them-still-unknown",
-          "description": "On 6 September, journalist Abdirahman Mohamed Abdi known as Jakataa was arrested by security services in Baidoa, according to colleagues who requested anonymity for fear of their safety. His whereabouts have remained unknown since his arrest. When SJS sought clarification from the Baidoa police, no response was provided. However, Abdirahman's colleagues told SJS that they believe he was detained over a post he published on his Facebook page on 5 September, which said: \"Can you name the only Digil/Mirifle clan whose members are being attacked by an aircraft, and the only clan whose members are ",
-          "pubDate": "Thu, 10 Sep 2026 22:33:24 +0300",
-          "source": "Horn Observer",
+          "title": "One Reportedly Killed After Iranian Commercial Vessel Hit Near Qeshm",
+          "link": "http://www.israelherald.com/news/279304278/one-reportedly-killed-after-iranian-commercial-vessel-hit-near-qeshm",
+          "source": "israelherald.com",
+          "pubDate": "2026-09-13T08:45:00Z",
           "lang": "en",
-          "titleIt": "Somalia: Two journalists arrested in Baidoa over Facebook reporting, whereabouts of one of them still unknown"
+          "description": "",
+          "titleIt": "One Reportedly Killed After Iranian Commercial Vessel Hit Near Qeshm"
         },
         {
-          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
-          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
-          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
-          "pubDate": "Saturday, May 16, 2026 - 00:08",
-          "source": "Crisis Group",
+          "title": "China , Russia , India seek economic cooperation at BRICS - Asia & Pacific",
+          "link": "http://www.thejakartapost.com/world/2026/09/13/china-russia-india-seek-economic-cooperation-at-brics",
+          "source": "thejakartapost.com",
+          "pubDate": "2026-09-13T08:15:00Z",
           "lang": "en",
-          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
+          "description": "",
+          "titleIt": "China , Russia , India seek economic cooperation at BRICS - Asia & Pacific"
+        },
+        {
+          "title": "About 1 , 400 Yemenis flee to Djibouti within 24 hours",
+          "link": "https://www.yahoo.com/news/world/articles/1-400-yemenis-flee-djibouti-044018085.html",
+          "source": "yahoo.com",
+          "pubDate": "2026-09-13T07:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "About 1 , 400 Yemenis flee to Djibouti within 24 hours"
+        },
+        {
+          "title": "Ethiopia and Israel : How a shared New Year can renew an ancient partnership",
+          "link": "http://www.jpost.com/opinion/article-908242",
+          "source": "jpost.com",
+          "pubDate": "2026-09-13T07:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia and Israel : How a shared New Year can renew an ancient partnership"
+        },
+        {
+          "title": "Iran and UAE back joint BRICS statement urging restraint in war",
+          "link": "https://dunyanews.tv/en/World/972624-iran-and-uae-back-joint-brics-statement-urging-restraint-in-war",
+          "source": "dunyanews.tv",
+          "pubDate": "2026-09-13T07:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Iran and UAE back joint BRICS statement urging restraint in war"
+        },
+        {
+          "title": "Brunei No . 1 News Website",
+          "link": "https://brudirect.com/post/Saudi-Arabia-shuts-key-oil-pipeline-after-drone-attack-launched-from-Iraq",
+          "source": "brudirect.com",
+          "pubDate": "2026-09-13T06:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Brunei No . 1 News Website"
         }
       ]
     },
@@ -445,8 +553,44 @@
       "title": "Fragilità economica egiziana",
       "items": [
         {
+          "title": "THAMI MAZWAI | We are paying heavily for ignoring the informal sector",
+          "link": "https://www.businessday.co.za/business-times/opinion/2026-09-19-thami-mazwai-we-are-paying-heavily-for-ignoring-the-informal-sector/",
+          "source": "businessday.co.za",
+          "pubDate": "2026-09-20T04:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "THAMI MAZWAI | We are paying heavily for ignoring the informal sector"
+        },
+        {
+          "title": "Egypt , Nigeria Lead Africa 2025 Remittance Inflows",
+          "link": "https://www.africa.com/top-10-news/egypt-nigeria-lead-africas-2025-remittance-inflows",
+          "source": "africa.com",
+          "pubDate": "2026-09-20T03:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt , Nigeria Lead Africa 2025 Remittance Inflows"
+        },
+        {
+          "title": "Fuel Costs and Competition Drive Uber African Retreat",
+          "link": "https://www.africa.com/top-10-news/fuel-costs-and-competition-drive-ubers-african-retreat-2",
+          "source": "africa.com",
+          "pubDate": "2026-09-20T03:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Fuel Costs and Competition Drive Uber African Retreat"
+        },
+        {
+          "title": "Mark Carney relationship with Trump is changing in real time . Is anyone keeping up ?",
+          "link": "https://www.stcatharinesstandard.ca/politics/federal/mark-carney-s-relationship-with-trump-is-changing-in-real-time-is-anyone-keeping-up/article_8d841664-a0df-5b1a-b854-1d13fbc6be0e.html",
+          "source": "stcatharinesstandard.ca",
+          "pubDate": "2026-09-20T00:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Mark Carney relationship with Trump is changing in real time . Is anyone keeping up ?"
+        },
+        {
           "title": "Business news: Egitto, ente statale petrolifero Egpc, 63 nuove scoperte nell'anno fiscale 2025-2026",
-          "link": "https://www.agenzianova.com/a/6aaf2482adb1a8.38353096/7790592/2026-09-20/business-news-egitto-ente-statale-petrolifero-egpc-63-nuove-scoperte-nell-anno-fiscale-2025-2026",
+          "link": "https://www.agenzianova.com/a/6aaf66dbb56dd4.37175915/7790592/2026-09-20/business-news-egitto-ente-statale-petrolifero-egpc-63-nuove-scoperte-nell-anno-fiscale-2025-2026",
           "description": "20 set 02:00 - (Agenzia Nova) - L'ente statale petrolifero egiziano Egyptian General Petroleum Corporation (Egpc) ha annunciato 63 nuove scoperte... (Cae)",
           "pubDate": "2026-09-20T02:00:37+02:00",
           "source": "Agenzia Nova",
@@ -455,12 +599,138 @@
         },
         {
           "title": "Business news: Egitto, Ganope punta a produzione greggio di 44 mila barili al giorno in anno fiscale 2026-27",
-          "link": "https://www.agenzianova.com/a/6aaf2482adfd84.75820552/7790590/2026-09-20/business-news-egitto-ganope-punta-a-produzione-greggio-di-44-mila-barili-al-giorno-in-anno-fiscale-2026-27",
+          "link": "https://www.agenzianova.com/a/6aaf66dbb59446.88768452/7790590/2026-09-20/business-news-egitto-ganope-punta-a-produzione-greggio-di-44-mila-barili-al-giorno-in-anno-fiscale-2026-27",
           "description": "20 set 02:00 - (Agenzia Nova) - La societa' egiziana South Valley Egyptian Petroleum Holding Company (Ganope) ha aumentato la produzione media... (Cae)",
           "pubDate": "2026-09-20T02:00:37+02:00",
           "source": "Agenzia Nova",
           "lang": "it",
           "titleIt": "Business news: Egitto, Ganope punta a produzione greggio di 44 mila barili al giorno in anno fiscale 2026-27"
+        },
+        {
+          "title": "Trump signs Russia sanctions bill , may hit India crude tap",
+          "link": "https://timesofindia.indiatimes.com/business/india-business/trump-signs-russia-sanctions-bill-may-hit-indias-crude-tap/articleshow/134362151.cms",
+          "source": "timesofindia.indiatimes.com",
+          "pubDate": "2026-09-20T00:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Trump signs Russia sanctions bill , may hit India crude tap"
+        },
+        {
+          "title": "BRICS member , partner countries to take part in open session ; PM Modi to hold series of bilateral meetings",
+          "link": "http://www.philippinetimes.com/news/279304064/brics-member-partner-countries-to-take-part-in-open-session-pm-modi-to-hold-series-of-bilateral-meetings",
+          "source": "philippinetimes.com",
+          "pubDate": "2026-09-13T09:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "BRICS member , partner countries to take part in open session ; PM Modi to hold series of bilateral meetings"
+        },
+        {
+          "title": "BRICS Declaration reflects India concerns : JNU professor Srikanth Kondapalli amid ongoing Summit",
+          "link": "http://www.zimbabwestar.com/news/279304172/brics-declaration-reflects-india-concerns-jnu-professor-srikanth-kondapalli-amid-ongoing-summit",
+          "source": "zimbabwestar.com",
+          "pubDate": "2026-09-13T09:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "BRICS Declaration reflects India concerns : JNU professor Srikanth Kondapalli amid ongoing Summit"
+        },
+        {
+          "title": "PM Modi arrives at Bharat Mandapam for second day of BRICS Summit",
+          "link": "http://www.afghanistansun.com/news/279304174/pm-modi-arrives-at-bharat-mandapam-for-second-day-of-brics-summit",
+          "source": "afghanistansun.com",
+          "pubDate": "2026-09-13T09:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "PM Modi arrives at Bharat Mandapam for second day of BRICS Summit"
+        },
+        {
+          "title": "BRICS Declaration reflects India concerns : JNU professor Srikanth Kondapalli amid ongoing Summit",
+          "link": "http://www.israelherald.com/news/279304172/brics-declaration-reflects-india-concerns-jnu-professor-srikanth-kondapalli-amid-ongoing-summit",
+          "source": "israelherald.com",
+          "pubDate": "2026-09-13T08:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "BRICS Declaration reflects India concerns : JNU professor Srikanth Kondapalli amid ongoing Summit"
+        },
+        {
+          "title": "BRICS Declaration reflects India concerns : JNU professor Srikanth Kondapalli amid ongoing Summit",
+          "link": "http://www.iranherald.com/news/279304172/brics-declaration-reflects-india-concerns-jnu-professor-srikanth-kondapalli-amid-ongoing-summit",
+          "source": "iranherald.com",
+          "pubDate": "2026-09-13T08:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "BRICS Declaration reflects India concerns : JNU professor Srikanth Kondapalli amid ongoing Summit"
+        },
+        {
+          "title": "BRICS to strengthen cooperation in ICTs",
+          "link": "https://www.sanews.gov.za/south-africa/brics-strengthen-cooperation-icts",
+          "source": "sanews.gov.za",
+          "pubDate": "2026-09-13T08:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "BRICS to strengthen cooperation in ICTs"
+        },
+        {
+          "title": "BRICS expresses concern over trade - restrictive measures",
+          "link": "https://www.sanews.gov.za/south-africa/brics-expresses-concern-over-trade-restrictive-measures",
+          "source": "sanews.gov.za",
+          "pubDate": "2026-09-13T08:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "BRICS expresses concern over trade - restrictive measures"
+        },
+        {
+          "title": "One Reportedly Killed After Iranian Commercial Vessel Hit Near Qeshm",
+          "link": "http://www.israelherald.com/news/279304278/one-reportedly-killed-after-iranian-commercial-vessel-hit-near-qeshm",
+          "source": "israelherald.com",
+          "pubDate": "2026-09-13T08:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "One Reportedly Killed After Iranian Commercial Vessel Hit Near Qeshm"
+        },
+        {
+          "title": "BRICS urges international law to be applied in Palestine",
+          "link": "https://www.sanews.gov.za/south-africa/brics-urges-international-law-be-applied-palestine",
+          "source": "sanews.gov.za",
+          "pubDate": "2026-09-13T08:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "BRICS urges international law to be applied in Palestine"
+        },
+        {
+          "title": "BRICS member , partner countries to take part in open session ; PM Modi to hold series of bilateral meetings",
+          "link": "http://www.kenyastar.com/news/279304064/brics-member-partner-countries-to-take-part-in-open-session-pm-modi-to-hold-series-of-bilateral-meetings",
+          "source": "kenyastar.com",
+          "pubDate": "2026-09-13T08:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "BRICS member , partner countries to take part in open session ; PM Modi to hold series of bilateral meetings"
+        },
+        {
+          "title": "PM Modi welcomes leaders at Bharat Mandapam on 2nd day of BRICS Summit",
+          "link": "https://ianslive.in/pm-modi-welcomes-leaders-at-bharat-mandapam-on-2nd-day-of-brics-summit--20260913104732",
+          "source": "ianslive.in",
+          "pubDate": "2026-09-13T08:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "PM Modi welcomes leaders at Bharat Mandapam on 2nd day of BRICS Summit"
+        },
+        {
+          "title": "BRICS Declaration reflects India concerns : JNU professor Srikanth Kondapalli amid ongoing Summit",
+          "link": "http://www.africaleader.com/news/279304172/brics-declaration-reflects-india-concerns-jnu-professor-srikanth-kondapalli-amid-ongoing-summit",
+          "source": "africaleader.com",
+          "pubDate": "2026-09-13T08:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "BRICS Declaration reflects India concerns : JNU professor Srikanth Kondapalli amid ongoing Summit"
+        },
+        {
+          "title": "PM Modi arrives at Bharat Mandapam for second day of BRICS Summit",
+          "link": "http://www.africaleader.com/news/279304174/pm-modi-arrives-at-bharat-mandapam-for-second-day-of-brics-summit",
+          "source": "africaleader.com",
+          "pubDate": "2026-09-13T08:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "PM Modi arrives at Bharat Mandapam for second day of BRICS Summit"
         }
       ]
     },
@@ -484,6 +754,168 @@
           "source": "Africanews",
           "lang": "en",
           "titleIt": "Sudanese women preserve bridal henna tradition amid war and water crisis"
+        },
+        {
+          "title": "Ethiopia and Israel : How a shared New Year can renew an ancient partnership",
+          "link": "http://www.jpost.com/opinion/article-908242",
+          "source": "jpost.com",
+          "pubDate": "2026-09-13T07:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia and Israel : How a shared New Year can renew an ancient partnership"
+        },
+        {
+          "title": "Arab News | Sudan war is now a regional crisis",
+          "link": "https://www.arabnews.com/opinion/sudans-war-is-now-a-regional-crisis-3001319",
+          "source": "arabnews.com",
+          "pubDate": "2026-09-12T20:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Arab News | Sudan war is now a regional crisis"
+        },
+        {
+          "title": "GERD Output Surpasses Design Estimates By 17 % In First Year , Consortium Urges Focus On Domestic Access",
+          "link": "https://www.thereporterethiopia.com/52764/",
+          "source": "thereporterethiopia.com",
+          "pubDate": "2026-09-12T12:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "GERD Output Surpasses Design Estimates By 17 % In First Year , Consortium Urges Focus On Domestic Access"
+        },
+        {
+          "title": "A River Has A Source | The Reporter Ethiopia",
+          "link": "https://www.thereporterethiopia.com/52717/",
+          "source": "thereporterethiopia.com",
+          "pubDate": "2026-09-12T12:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "A River Has A Source | The Reporter Ethiopia"
+        },
+        {
+          "title": "The war must not end – NATO",
+          "link": "https://www.bankingnews.gr/diethni/articles/898500/the-war-must-not-end-nato-s-madmen-rammstein-decided-ukraine-is-the-west-s-guinea-pig%20title=",
+          "source": "bankingnews.gr",
+          "pubDate": "2026-09-10T10:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The war must not end – NATO"
+        },
+        {
+          "title": "The war must not end – NATO",
+          "link": "https://www.bankingnews.gr/diethni/articles/898500/the-war-must-not-end-nato-s-madmen-rammstein-decided-ukraine-is-the-west-s-guinea-pig",
+          "source": "bankingnews.gr",
+          "pubDate": "2026-09-10T10:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The war must not end – NATO"
+        },
+        {
+          "title": "Ethiopia : Finance Minister Ahmed Shide , AIIB President Zou Jiayi Discuss Infrastructure Cooperation",
+          "link": "https://allafrica.com/stories/202609100052.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-09-10T08:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia : Finance Minister Ahmed Shide , AIIB President Zou Jiayi Discuss Infrastructure Cooperation"
+        },
+        {
+          "title": "Egypt Must Recognize 2026 Nile Reality , Not 19th / 20th Century , Says Former U . S . Diplomat Tibor Nagy",
+          "link": "https://allafrica.com/stories/202609100039.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-09-10T06:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt Must Recognize 2026 Nile Reality , Not 19th / 20th Century , Says Former U . S . Diplomat Tibor Nagy"
+        },
+        {
+          "title": "GERD supplies 52 % of Ethiopia electricity - International Water Power",
+          "link": "https://www.waterpowermagazine.com/news/gerd-supplies-52-of-ethiopias-electricity/",
+          "source": "waterpowermagazine.com",
+          "pubDate": "2026-09-09T10:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "GERD supplies 52 % of Ethiopia electricity - International Water Power"
+        },
+        {
+          "title": "Rearmed And Reckless : How Sudan New Arsenal Is Dragging Chad And Ethiopia Into Its War - OpEd",
+          "link": "https://www.eurasiareview.com/08092026-rearmed-and-reckless-how-sudans-new-arsenal-is-dragging-chad-and-ethiopia-into-its-war-oped/",
+          "source": "eurasiareview.com",
+          "pubDate": "2026-09-07T23:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Rearmed And Reckless : How Sudan New Arsenal Is Dragging Chad And Ethiopia Into Its War - OpEd"
+        },
+        {
+          "title": "Mottley calls for stronger CARICOM - Africa ties",
+          "link": "https://barbadostoday.bb/2026/09/07/mottley-calls-for-stronger-caricom-africa-ties/",
+          "source": "barbadostoday.bb",
+          "pubDate": "2026-09-07T22:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Mottley calls for stronger CARICOM - Africa ties"
+        },
+        {
+          "title": "Sudan Borders Have Become as Dangerous as the War Itself",
+          "link": "https://themedialine.org/top-stories/sudans-borders-have-become-as-dangerous-as-the-war-itself/",
+          "source": "themedialine.org",
+          "pubDate": "2026-09-07T11:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Sudan Borders Have Become as Dangerous as the War Itself"
+        },
+        {
+          "title": "Battle for water : Could the Nile dispute trigger a regional war ?",
+          "link": "https://news.az/news/battle-for-water-could-the-nile-dispute-trigger-a-regional-war",
+          "source": "news.az",
+          "pubDate": "2026-09-07T08:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Battle for water : Could the Nile dispute trigger a regional war ?"
+        },
+        {
+          "title": "Beyond The Zero - Sum : Reimagining The Nile And The Horn",
+          "link": "https://www.thereporterethiopia.com/52620/",
+          "source": "thereporterethiopia.com",
+          "pubDate": "2026-09-05T13:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Beyond The Zero - Sum : Reimagining The Nile And The Horn"
+        },
+        {
+          "title": "Nepal needs more giant dams to avert disastrous floods",
+          "link": "https://www.taipeitimes.com/News/editorials/archives/2026/09/02/2003863529",
+          "source": "taipeitimes.com",
+          "pubDate": "2026-09-01T20:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Nepal needs more giant dams to avert disastrous floods"
+        },
+        {
+          "title": "Ethiopia Electricity Data Miners Now Top the Payer List",
+          "link": "https://www.riotimesonline.com/ethiopia-electricity-data-miners-revenue-2026/",
+          "source": "riotimesonline.com",
+          "pubDate": "2026-09-01T19:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia Electricity Data Miners Now Top the Payer List"
+        },
+        {
+          "title": "The Stream , September 1 , 2026 : Israel Abruptly Shuts Down All But One Desalination Plant Due to Weather",
+          "link": "https://www.circleofblue.org/newsletter/the-stream-september-1-2026-israel-abruptly-shuts-down-all-but-one-desalination-plant-due-to-weather/",
+          "source": "circleofblue.org",
+          "pubDate": "2026-09-01T15:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The Stream , September 1 , 2026 : Israel Abruptly Shuts Down All But One Desalination Plant Due to Weather"
+        },
+        {
+          "title": "Africa : GERD Offers Blueprint for Africa Self - Reliance , Says Hailemariam",
+          "link": "https://allafrica.com/stories/202608270018.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-08-27T05:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Africa : GERD Offers Blueprint for Africa Self - Reliance , Says Hailemariam"
         }
       ]
     }
