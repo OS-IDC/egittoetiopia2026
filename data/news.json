@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T13:47:33.711Z",
+  "generatedAt": "2026-09-25T18:37:51.029Z",
   "feedsChecked": 10,
   "feedsAttempted": 10,
   "topics": {
@@ -156,6 +156,15 @@
       "title": "Dossier Somaliland",
       "items": [
         {
+          "title": "Africa's richest man helps fund $660m fuel pipeline between Ethiopia and Djibouti",
+          "link": "https://www.bbc.co.uk/news/articles/c6z9z7lv41wgo?at_medium=RSS&at_campaign=rss",
+          "description": "The pipeline would strengthen energy security in landlocked Ethiopia, while creating jobs at Djibouti's port.",
+          "pubDate": "Fri, 25 Sep 2026 14:24:19 GMT",
+          "source": "BBC Africa",
+          "lang": "en",
+          "titleIt": "Africa's richest man helps fund $660m fuel pipeline between Ethiopia and Djibouti"
+        },
+        {
           "title": "Kenya: Gulf Energy Receives Drilling Rig in Mombasa As Kenya Targets First Oil in Dec",
           "link": "https://allafrica.com/stories/202609250341.html",
           "description": "[Capital FM] Nairobi -- Kenya's push to commence commercial crude oil production by the end of 2026 has gained momentum following the arrival of an onshore drilling rig for the South Lokichar oil development at the Port of Mombasa.",
@@ -199,24 +208,6 @@
           "source": "ANSA English",
           "lang": "en",
           "titleIt": "Mattei Plan: Lombardy in Kenya for an Agricultural Partnership"
-        },
-        {
-          "title": "Africa's richest man helps fund $660m fuel pipeline between Ethiopia and Djibouti",
-          "link": "https://www.bbc.co.uk/news/articles/c6z9z7lv41wgo?at_medium=RSS&at_campaign=rss",
-          "description": "The pipeline would strengthen energy security in landlocked Ethiopia, while creating jobs at Djibouti's port.",
-          "pubDate": "Fri, 25 Sep 2026 06:48:07 GMT",
-          "source": "BBC Africa",
-          "lang": "en",
-          "titleIt": "Africa's richest man helps fund $660m fuel pipeline between Ethiopia and Djibouti"
-        },
-        {
-          "title": "Ethiopia: Ethiopia - Turning Growth into Lasting Prosperity",
-          "link": "https://allafrica.com/stories/202609240413.html",
-          "description": "[allAfrica] The country has proved that economic momentum is possible. Its harder task is to make growth survive conflict--and turn people, farms and renewable power into jobs, exports and a more durable prosperity.",
-          "pubDate": "Thu, 24 Sep 2026 14:12:22 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Ethiopia: Ethiopia - Turning Growth into Lasting Prosperity"
         },
         {
           "title": "Sistema Italia: Meeting in Nairobi with Kenya’s Major Companies",
@@ -334,12 +325,48 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "South West Leader Nominates El Niño Committee as Somalia Warns of Flood Risks"
+        },
+        {
+          "title": "The Legal Case of Somaliland Secession from Somalia",
+          "link": "https://hornobserver.com/articles/3744/The-Legal-Case-of-Somaliland-Secession-from-Somalia",
+          "description": "Somaliland's quest for indepedance and self-governace stands at more than 30 years and seems a reality in the Horn of Africa region, thus the paper presents the historical background and analysis of that ongoing journey, in reference in international legal frameworks, and its domestic supreme law of the land that came into effect through public Referendum, in May 2001. Hence, the short legal article uses academic materials as secondary and author's personal reflection, and legal understanding on the subject matter, without further exaggration, or incongruity, but rather what set-out by the law",
+          "pubDate": "Tue, 15 Sep 2026 16:56:43 +0300",
+          "source": "Horn Observer",
+          "lang": "en",
+          "titleIt": "The Legal Case of Somaliland Secession from Somalia"
         }
       ]
     },
     "ethiopia-sea-access": {
       "title": "Accesso etiope al mare",
       "items": [
+        {
+          "title": "Liberia: Robtel Pailey Says U.S. Deportee Deal Is Unconstitutional",
+          "link": "https://allafrica.com/stories/202609250468.html",
+          "description": "[Liberian Investigator] Liberia's agreement to take up to 1,200 people deported from the United States violates the Constitution and undermines the country's credibility on the U.N. Security Council, Liberian academic Robtel Neajai Pailey argues in a commentary calling on the government to cancel agreements with Washington that breach national law.",
+          "pubDate": "Fri, 25 Sep 2026 17:33:50 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Liberia: Robtel Pailey Says U.S. Deportee Deal Is Unconstitutional"
+        },
+        {
+          "title": "Africa's richest man helps fund $660m fuel pipeline between Ethiopia and Djibouti",
+          "link": "https://www.bbc.co.uk/news/articles/c6z9z7lv41wgo?at_medium=RSS&at_campaign=rss",
+          "description": "The pipeline would strengthen energy security in landlocked Ethiopia, while creating jobs at Djibouti's port.",
+          "pubDate": "Fri, 25 Sep 2026 14:24:19 GMT",
+          "source": "BBC Africa",
+          "lang": "en",
+          "titleIt": "Africa's richest man helps fund $660m fuel pipeline between Ethiopia and Djibouti"
+        },
+        {
+          "title": "Analyst warns Ethiopia fighting could widen into regional conflict",
+          "link": "http://www.africanews.com/2026/09/25/analyst-warns-ethiopia-fighting-could-widen-into-regional-conflict/",
+          "description": "Renewed fighting in northern Ethiopia could spread beyond Tigray and destabilize the wider Horn of Africa, an International Crisis Group analyst warned",
+          "pubDate": "Fri, 25 Sep 2026 13:49:27 +0000",
+          "source": "Africanews",
+          "lang": "en",
+          "titleIt": "Analyst warns Ethiopia fighting could widen into regional conflict"
+        },
         {
           "title": "Heavy fighting, internet disruption as Ethiopia conflict rages",
           "link": "http://www.africanews.com/2026/09/25/heavy-fighting-internet-disruption-as-ethiopia-conflict-rages/",
@@ -377,15 +404,6 @@
           "titleIt": "For Josphine Njeru, Protecting Civilians Is the True Measure of Success in Somalia"
         },
         {
-          "title": "Africa's richest man helps fund $660m fuel pipeline between Ethiopia and Djibouti",
-          "link": "https://www.bbc.co.uk/news/articles/c6z9z7lv41wgo?at_medium=RSS&at_campaign=rss",
-          "description": "The pipeline would strengthen energy security in landlocked Ethiopia, while creating jobs at Djibouti's port.",
-          "pubDate": "Fri, 25 Sep 2026 06:48:07 GMT",
-          "source": "BBC Africa",
-          "lang": "en",
-          "titleIt": "Africa's richest man helps fund $660m fuel pipeline between Ethiopia and Djibouti"
-        },
-        {
           "title": "Ethiopian president warns of 'interference' amid renewed Tigray fighting",
           "link": "http://www.africanews.com/2026/09/25/ethiopian-president-warns-of-interference-amid-renewed-tigray-fighting/",
           "description": "Speaking at the UN General Assembly, Taye Atske Selassie blamed 'external actors' for renewed conflict in the region.",
@@ -393,15 +411,6 @@
           "source": "Africanews",
           "lang": "en",
           "titleIt": "Ethiopian president warns of 'interference' amid renewed Tigray fighting"
-        },
-        {
-          "title": "Ethiopia: Ethiopia - Turning Growth into Lasting Prosperity",
-          "link": "https://allafrica.com/stories/202609240413.html",
-          "description": "[allAfrica] The country has proved that economic momentum is possible. Its harder task is to make growth survive conflict--and turn people, farms and renewable power into jobs, exports and a more durable prosperity.",
-          "pubDate": "Thu, 24 Sep 2026 14:12:22 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Ethiopia: Ethiopia - Turning Growth into Lasting Prosperity"
         },
         {
           "title": "The Autonomous Region of Friuli-Venezia Giulia at Expo 2027 Belgrade",
@@ -510,15 +519,6 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "Highlights of the Month from SJS Monthly Newsletter on Climate Change Reporting - August - September"
-        },
-        {
-          "title": "Somalia's Federal Member States Aren't Defending Sovereignty — They're Defending Their Patrons - No One in This Fight Is Neutral",
-          "link": "https://hornobserver.com/articles/3748/Somalias-Federal-Member-States-Arent-Defending-Sovereignty-Theyre-Defending-Their-Patrons-No-One-in-This-Fight-Is-Neutral",
-          "description": "Puntland is furious at Türkiye. Jubaland is furious at Türkiye. Both have spent the past five weeks accusing Ankara of killing their own people. Neither is in a position to make that accusation as a matter of principle. Puntland's ports are run by the UAE. Jubaland's survival for over a decade has depended on Kenya. The one Somali federal member state that tried to stand apart from any foreign patron — South West State — was crushed by federal troops within 48 hours in March. This is not a story about Somali federal member states defending sovereignty against a foreign power. It is a story abo",
-          "pubDate": "Wed, 16 Sep 2026 15:55:14 +0300",
-          "source": "Horn Observer",
-          "lang": "en",
-          "titleIt": "Somalia's Federal Member States Aren't Defending Sovereignty — They're Defending Their Patrons - No One in This Fight Is Neutral"
         }
       ]
     },
