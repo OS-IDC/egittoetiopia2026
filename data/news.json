@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T11:24:03.465Z",
+  "generatedAt": "2026-09-26T16:24:14.639Z",
   "feedsChecked": 10,
   "feedsAttempted": 10,
   "topics": {
@@ -156,24 +156,6 @@
       "title": "Dossier Somaliland",
       "items": [
         {
-          "title": "Kenya: Stakeholders Urge Parliament to Review Tobacco Bill Over Business, Licensing Concerns",
-          "link": "https://allafrica.com/stories/202609250407.html",
-          "description": "[Capital FM] Eldoret -- Stakeholders in Uasin Gishu County have urged Parliament to consider the impact of proposed changes to the Tobacco Control Act on businesses and livelihoods as it reviews the Tobacco Control (Amendment) Bill, 2025.",
-          "pubDate": "Fri, 25 Sep 2026 15:58:52 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Kenya: Stakeholders Urge Parliament to Review Tobacco Bill Over Business, Licensing Concerns"
-        },
-        {
-          "title": "East Africa: A Pipeline Linking Ports, Markets and the Horn's Future",
-          "link": "https://allafrica.com/stories/202609250392.html",
-          "description": "[ENA] The Horn of Africa is on the cusp of a significant transformation, driven by a new 660 million USD infrastructure project. This project promises to revolutionize the way Ethiopia receives, stores, and distributes petroleum products. At the heart of this project is a 120-kilometer refined petroleum pipeline linking Damerjog in Djibouti with Dewele in Ethiopia.",
-          "pubDate": "Fri, 25 Sep 2026 15:53:29 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "East Africa: A Pipeline Linking Ports, Markets and the Horn's Future"
-        },
-        {
           "title": "Africa's richest man helps fund $660m fuel pipeline between Ethiopia and Djibouti",
           "link": "https://www.bbc.co.uk/news/articles/c6z9z7lv41wgo?at_medium=RSS&at_campaign=rss",
           "description": "The pipeline would strengthen energy security in landlocked Ethiopia, while creating jobs at Djibouti's port.",
@@ -181,15 +163,6 @@
           "source": "BBC Africa",
           "lang": "en",
           "titleIt": "Africa's richest man helps fund $660m fuel pipeline between Ethiopia and Djibouti"
-        },
-        {
-          "title": "Kenya: Gulf Energy Receives Drilling Rig in Mombasa As Kenya Targets First Oil in Dec",
-          "link": "https://allafrica.com/stories/202609250341.html",
-          "description": "[Capital FM] Nairobi -- Kenya's push to commence commercial crude oil production by the end of 2026 has gained momentum following the arrival of an onshore drilling rig for the South Lokichar oil development at the Port of Mombasa.",
-          "pubDate": "Fri, 25 Sep 2026 13:21:08 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Kenya: Gulf Energy Receives Drilling Rig in Mombasa As Kenya Targets First Oil in Dec"
         },
         {
           "title": "Heavy fighting, internet disruption as Ethiopia conflict rages",
@@ -334,6 +307,24 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "South West Leader Nominates El Niño Committee as Somalia Warns of Flood Risks"
+        },
+        {
+          "title": "The Legal Case of Somaliland Secession from Somalia",
+          "link": "https://hornobserver.com/articles/3744/The-Legal-Case-of-Somaliland-Secession-from-Somalia",
+          "description": "Somaliland's quest for indepedance and self-governace stands at more than 30 years and seems a reality in the Horn of Africa region, thus the paper presents the historical background and analysis of that ongoing journey, in reference in international legal frameworks, and its domestic supreme law of the land that came into effect through public Referendum, in May 2001. Hence, the short legal article uses academic materials as secondary and author's personal reflection, and legal understanding on the subject matter, without further exaggration, or incongruity, but rather what set-out by the law",
+          "pubDate": "Tue, 15 Sep 2026 16:56:43 +0300",
+          "source": "Horn Observer",
+          "lang": "en",
+          "titleIt": "The Legal Case of Somaliland Secession from Somalia"
+        },
+        {
+          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
+          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
+          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
+          "pubDate": "Saturday, May 16, 2026 - 00:08",
+          "source": "Crisis Group",
+          "lang": "en",
+          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
@@ -357,24 +348,6 @@
           "source": "AllAfrica",
           "lang": "en",
           "titleIt": "Liberia: Robtel Pailey Says U.S. Deportee Deal Is Unconstitutional"
-        },
-        {
-          "title": "Uganda: Euro Gold Partners With Karamoja Miners to Formalise Gold Production",
-          "link": "https://allafrica.com/stories/202609250414.html",
-          "description": "[Independent (Kampala)] Moroto -- Euro Gold Refinery has signed an agreement with the Kakoka Artisanal Miners Association in Abim District to support licensed gold production and improve access to formal markets, as Uganda seeks to strengthen oversight of its artisanal mining sector.",
-          "pubDate": "Fri, 25 Sep 2026 16:05:58 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Uganda: Euro Gold Partners With Karamoja Miners to Formalise Gold Production"
-        },
-        {
-          "title": "East Africa: A Pipeline Linking Ports, Markets and the Horn's Future",
-          "link": "https://allafrica.com/stories/202609250392.html",
-          "description": "[ENA] The Horn of Africa is on the cusp of a significant transformation, driven by a new 660 million USD infrastructure project. This project promises to revolutionize the way Ethiopia receives, stores, and distributes petroleum products. At the heart of this project is a 120-kilometer refined petroleum pipeline linking Damerjog in Djibouti with Dewele in Ethiopia.",
-          "pubDate": "Fri, 25 Sep 2026 15:53:29 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "East Africa: A Pipeline Linking Ports, Markets and the Horn's Future"
         },
         {
           "title": "Africa's richest man helps fund $660m fuel pipeline between Ethiopia and Djibouti",
@@ -519,12 +492,211 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "Somali journalist Mohamed Aweys Muudey stabbed to death in exile in Germany"
+        },
+        {
+          "title": "Somali Journalist Mohamed Aweys Moodey Dies After Stabbing in Germany",
+          "link": "https://hornobserver.com/articles/3752/Somali-Journalist-Mohamed-Aweys-Moodey-Dies-After-Stabbing-in-Germany",
+          "description": "The incident reportedly occurred at a residential facility. German authorities have identified a 28-year-old Somali man as the suspect. Police and prosecutors are investigating the circumstances of the incident, including the motive and whether it was connected to an earlier dispute between the two men. Moodey was a veteran journalist who worked in Somali media for many years. In 2014, he was arrested in Ethiopia and later sentenced to 27 years in prison under the country's anti-terrorism laws. The International Federation of Journalists and the National Union of Somali Journalists called for ",
+          "pubDate": "Sat, 19 Sep 2026 22:49:53 +0300",
+          "source": "Horn Observer",
+          "lang": "en",
+          "titleIt": "Somali Journalist Mohamed Aweys Moodey Dies After Stabbing in Germany"
+        },
+        {
+          "title": "Highlights of the Month from SJS Monthly Newsletter on Climate Change Reporting - August - September",
+          "link": "https://hornobserver.com/articles/3750/Highlights-of-the-Month-from-SJS-Monthly-Newsletter-on-Climate-Change-Reporting-August-September",
+          "description": "El Niño Climate Impact Outlook – Somalia – UN OCHA Somalia's El Niño Climate Impact Outlook warns of a credible risk of severe flooding during the October–December 2026 Deyr season, particularly along the Jubba and Shabelle river corridors, if El Niño strengthens alongside a positive Indian Ocean Dipole. While the scenario is not certain, the outlook urges early action to address the combined risks of flooding, drought, extreme heat, disease, food insecurity, displacement, and infrastructure vulnerabilities. It prioritizes stronger early-warning and evacuation systems, flood anticipatory-actio",
+          "pubDate": "Wed, 16 Sep 2026 19:45:09 +0300",
+          "source": "Horn Observer",
+          "lang": "en",
+          "titleIt": "Highlights of the Month from SJS Monthly Newsletter on Climate Change Reporting - August - September"
         }
       ]
     },
     "egypt-economy": {
       "title": "Fragilità economica egiziana",
-      "items": []
+      "items": [
+        {
+          "title": "Increased Cash Offer for Capricorn by Genel Energy | Company Announcement",
+          "link": "https://www.investegate.co.uk/announcement/rns/capricorn-energy--cne/increased-cash-offer-for-capricorn-by-genel-energy/9791073",
+          "source": "investegate.co.uk",
+          "pubDate": "2026-09-25T09:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Increased Cash Offer for Capricorn by Genel Energy | Company Announcement"
+        },
+        {
+          "title": "Latest Articles",
+          "link": "https://freerepublic.com/tag/*/index?more=4396809",
+          "source": "freerepublic.com",
+          "pubDate": "2026-09-25T09:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Latest Articles"
+        },
+        {
+          "title": "FULL TEXT : Netanyahu UN speech as delegates walk out",
+          "link": "https://punchng.com/full-text-netanyahus-speech-at-un-general-assembly/",
+          "source": "punchng.com",
+          "pubDate": "2026-09-25T08:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "FULL TEXT : Netanyahu UN speech as delegates walk out"
+        },
+        {
+          "title": "Latest Articles",
+          "link": "https://freerepublic.com/tag/*/index?more=4396802",
+          "source": "freerepublic.com",
+          "pubDate": "2026-09-25T07:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Latest Articles"
+        },
+        {
+          "title": "Salam turns  new page  with Syria as he meets Sharaa in New York",
+          "link": "https://naharnet.com/stories/en/322682-salam-turns-new-page-with-syria-as-he-meets-sharaa-in-new-york",
+          "source": "naharnet.com",
+          "pubDate": "2026-09-25T07:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Salam turns  new page  with Syria as he meets Sharaa in New York"
+        },
+        {
+          "title": "Genel Energy Plc : Increased Recommended Cash Offer For Capricorn Energy Plc By Genel Energy No . 9 Limited",
+          "link": "https://www.finanznachrichten.de/nachrichten-2026-09/69674418-genel-energy-plc-increased-recommended-cash-offer-for-capricorn-energy-plc-by-genel-energy-no-9-limited-015.htm",
+          "source": "finanznachrichten.de",
+          "pubDate": "2026-09-25T07:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Genel Energy Plc : Increased Recommended Cash Offer For Capricorn Energy Plc By Genel Energy No . 9 Limited"
+        },
+        {
+          "title": "Feature : The Address Is African , The Ownership Is Chinese : The Intelligence Question Nobody Is Asking of Announcement 54 of 2026",
+          "link": "https://thechronicle.com.gh/feature-the-address-is-african-the-ownership-is-chinese-the-intelligence-question-nobody-is-asking-of-announcement-54-of-2026/",
+          "source": "thechronicle.com.gh",
+          "pubDate": "2026-09-25T07:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Feature : The Address Is African , The Ownership Is Chinese : The Intelligence Question Nobody Is Asking of Announcement 54 of 2026"
+        },
+        {
+          "title": "Who gives up the gun first ? Gaza path to peace lies in learning how other wars ended",
+          "link": "https://www.thenationalnews.com/opinion/comment/2026/09/25/gaza-palestine-israel-hamas-un-board-of-peace/",
+          "source": "thenationalnews.com",
+          "pubDate": "2026-09-25T06:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Who gives up the gun first ? Gaza path to peace lies in learning how other wars ended"
+        },
+        {
+          "title": "INS Sudarshini in the Missile Age : Why India Navy Still Trains on a Three - Masted Sailing Ship",
+          "link": "https://openthemagazine.com/india/sails-in-the-missile-age-why-the-indian-navy-still-needs-ins-sudarshini",
+          "source": "openthemagazine.com",
+          "pubDate": "2026-09-25T05:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "INS Sudarshini in the Missile Age : Why India Navy Still Trains on a Three - Masted Sailing Ship"
+        },
+        {
+          "title": "INS Sudarshini reaches Egypt Alexandria port during Lokayan 26 transoceanic expedition",
+          "link": "https://aninews.in/news/world/middle-east/ins-sudarshini-reaches-egypts-alexandria-port-during-lokayan-26-transoceanic-expedition20260925065401/",
+          "source": "aninews.in",
+          "pubDate": "2026-09-25T05:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "INS Sudarshini reaches Egypt Alexandria port during Lokayan 26 transoceanic expedition"
+        },
+        {
+          "title": "Iran seeks deal with US , not war : Pezeshkian",
+          "link": "https://tribune.com.pk/story/2631318/iran-seeks-deal-with-us-not-war-pezeshkian",
+          "source": "tribune.com.pk",
+          "pubDate": "2026-09-25T05:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Iran seeks deal with US , not war : Pezeshkian"
+        },
+        {
+          "title": "INS Sudarshini reaches Egypt Alexandria port during Lokayan 26 transoceanic expedition",
+          "link": "http://www.indiagazette.com/news/279330002/ins-sudarshini-reaches-egypt-alexandria-port-during-lokayan-26-transoceanic-expedition",
+          "source": "indiagazette.com",
+          "pubDate": "2026-09-25T05:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "INS Sudarshini reaches Egypt Alexandria port during Lokayan 26 transoceanic expedition"
+        },
+        {
+          "title": "UNGA Day 3 : Netanyahu defends Israel as delegates walk out",
+          "link": "https://www.dw.com/en/unga-day-3-netanyahu-defends-israel-as-delegates-walk-out/live-79366211",
+          "source": "dw.com",
+          "pubDate": "2026-09-25T04:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "UNGA Day 3 : Netanyahu defends Israel as delegates walk out"
+        },
+        {
+          "title": "Aucamp urges faster agricultural master plan rollout and more private investment",
+          "link": "https://www.businessday.co.za/news/2026-09-25-aucamp-urges-quicker-rollout-of-agriculture-master-plan/",
+          "source": "businessday.co.za",
+          "pubDate": "2026-09-25T04:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Aucamp urges faster agricultural master plan rollout and more private investment"
+        },
+        {
+          "title": "Gaza Strike on Funeral Car Adds to Toll a Year Into Fragile Truce",
+          "link": "https://www.hngn.com/articles/273357/20260924/gaza-strike-funeral-car-adds-toll-year-fragile-truce.htm",
+          "source": "hngn.com",
+          "pubDate": "2026-09-25T04:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Gaza Strike on Funeral Car Adds to Toll a Year Into Fragile Truce"
+        },
+        {
+          "title": "Peace in unexpected places : What if Gazans picked olives with Israelis ?",
+          "link": "https://www.jpost.com/opinion/article-909258",
+          "source": "jpost.com",
+          "pubDate": "2026-09-25T02:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Peace in unexpected places : What if Gazans picked olives with Israelis ?"
+        },
+        {
+          "title": "INS Sudarshini reaches Egypt Alexandria port during Lokayan 26 transoceanic expedition",
+          "link": "http://www.arabherald.com/news/279330002/ins-sudarshini-reaches-egypt-alexandria-port-during-lokayan-26-transoceanic-expedition",
+          "source": "arabherald.com",
+          "pubDate": "2026-09-25T02:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "INS Sudarshini reaches Egypt Alexandria port during Lokayan 26 transoceanic expedition"
+        },
+        {
+          "title": "BRICS Rising : Reimagining Global Geopolitics And The Emerging Multipolar World Order - Analysis",
+          "link": "https://www.eurasiareview.com/25092026-brics-rising-reimagining-global-geopolitics-and-the-emerging-multipolar-world-order-analysis/",
+          "source": "eurasiareview.com",
+          "pubDate": "2026-09-25T02:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "BRICS Rising : Reimagining Global Geopolitics And The Emerging Multipolar World Order - Analysis"
+        },
+        {
+          "title": "INS Sudarshini reaches Egypt Alexandria port during Lokayan 26 transoceanic expedition",
+          "link": "http://www.bignewsnetwork.com/news/279330002/ins-sudarshini-reaches-egypt-alexandria-port-during-lokayan-26-transoceanic-expedition",
+          "source": "bignewsnetwork.com",
+          "pubDate": "2026-09-25T02:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "INS Sudarshini reaches Egypt Alexandria port during Lokayan 26 transoceanic expedition"
+        },
+        {
+          "title": "U . S . stock markets fall further as Treasury yields soar",
+          "link": "http://www.floridastatesman.com/news/279329659/u-s-stock-markets-fall-further-as-treasury-yields-soar",
+          "source": "floridastatesman.com",
+          "pubDate": "2026-09-25T01:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "U . S . stock markets fall further as Treasury yields soar"
+        }
+      ]
     },
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
@@ -537,15 +709,6 @@
           "source": "BBC Africa",
           "lang": "en",
           "titleIt": "Are Ethiopians marching back to war in Tigray?"
-        },
-        {
-          "title": "East Africa: A Pipeline Linking Ports, Markets and the Horn's Future",
-          "link": "https://allafrica.com/stories/202609250392.html",
-          "description": "[ENA] The Horn of Africa is on the cusp of a significant transformation, driven by a new 660 million USD infrastructure project. This project promises to revolutionize the way Ethiopia receives, stores, and distributes petroleum products. At the heart of this project is a 120-kilometer refined petroleum pipeline linking Damerjog in Djibouti with Dewele in Ethiopia.",
-          "pubDate": "Fri, 25 Sep 2026 15:53:29 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "East Africa: A Pipeline Linking Ports, Markets and the Horn's Future"
         },
         {
           "title": "Ethiopia, Djibouti, and Dangote to build $660m petroleum pipeline",
