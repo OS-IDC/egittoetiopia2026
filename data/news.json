@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T00:37:34.012Z",
+  "generatedAt": "2026-09-27T08:10:39.900Z",
   "feedsChecked": 10,
   "feedsAttempted": 10,
   "topics": {
@@ -359,15 +359,6 @@
           "titleIt": "Liberia: Robtel Pailey Says U.S. Deportee Deal Is Unconstitutional"
         },
         {
-          "title": "Uganda: Euro Gold Partners With Karamoja Miners to Formalise Gold Production",
-          "link": "https://allafrica.com/stories/202609250414.html",
-          "description": "[Independent (Kampala)] Moroto -- Euro Gold Refinery has signed an agreement with the Kakoka Artisanal Miners Association in Abim District to support licensed gold production and improve access to formal markets, as Uganda seeks to strengthen oversight of its artisanal mining sector.",
-          "pubDate": "Fri, 25 Sep 2026 16:05:58 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Uganda: Euro Gold Partners With Karamoja Miners to Formalise Gold Production"
-        },
-        {
           "title": "Africa's richest man helps fund $660m fuel pipeline between Ethiopia and Djibouti",
           "link": "https://www.bbc.co.uk/news/articles/c6z9z7lv41wgo?at_medium=RSS&at_campaign=rss",
           "description": "The pipeline would strengthen energy security in landlocked Ethiopia, while creating jobs at Djibouti's port.",
@@ -519,21 +510,21 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "Somali journalist Mohamed Aweys Muudey stabbed to death in exile in Germany"
+        },
+        {
+          "title": "Somali Journalist Mohamed Aweys Moodey Dies After Stabbing in Germany",
+          "link": "https://hornobserver.com/articles/3752/Somali-Journalist-Mohamed-Aweys-Moodey-Dies-After-Stabbing-in-Germany",
+          "description": "The incident reportedly occurred at a residential facility. German authorities have identified a 28-year-old Somali man as the suspect. Police and prosecutors are investigating the circumstances of the incident, including the motive and whether it was connected to an earlier dispute between the two men. Moodey was a veteran journalist who worked in Somali media for many years. In 2014, he was arrested in Ethiopia and later sentenced to 27 years in prison under the country's anti-terrorism laws. The International Federation of Journalists and the National Union of Somali Journalists called for ",
+          "pubDate": "Sat, 19 Sep 2026 22:49:53 +0300",
+          "source": "Horn Observer",
+          "lang": "en",
+          "titleIt": "Somali Journalist Mohamed Aweys Moodey Dies After Stabbing in Germany"
         }
       ]
     },
     "egypt-economy": {
       "title": "Fragilità economica egiziana",
       "items": [
-        {
-          "title": "Business News: Egitto, esenzioni fiscali e doganali fino a 30 anni per investitori settore minerario",
-          "link": "https://www.agenzianova.com/a/6ab8654dea5fb8.80059314/7814898/2026-09-27/business-news-egitto-esenzioni-fiscali-e-doganali-fino-a-30-anni-per-investitori-settore-minerario",
-          "description": "27 set 02:00 - (Agenzia Nova) - L'Egitto offre esenzioni fiscali e doganali fino a 30 anni a chi vuole investire nel settore minerario oltre... (Cae)",
-          "pubDate": "2026-09-27T02:00:00+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Business News: Egitto, esenzioni fiscali e doganali fino a 30 anni per investitori settore minerario"
-        },
         {
           "title": "Egypt: Egypt's Next Economy Lies Beyond the Suez Canal",
           "link": "https://allafrica.com/stories/202609240384.html",
