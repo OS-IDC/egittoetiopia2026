@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T18:25:09.391Z",
+  "generatedAt": "2026-09-27T23:04:49.041Z",
   "feedsChecked": 10,
   "feedsAttempted": 10,
   "topics": {
@@ -174,6 +174,15 @@
           "titleIt": "Africa's richest man helps fund $660m fuel pipeline between Ethiopia and Djibouti"
         },
         {
+          "title": "Kenya: Gulf Energy Receives Drilling Rig in Mombasa As Kenya Targets First Oil in Dec",
+          "link": "https://allafrica.com/stories/202609250341.html",
+          "description": "[Capital FM] Nairobi -- Kenya's push to commence commercial crude oil production by the end of 2026 has gained momentum following the arrival of an onshore drilling rig for the South Lokichar oil development at the Port of Mombasa.",
+          "pubDate": "Fri, 25 Sep 2026 13:21:08 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Kenya: Gulf Energy Receives Drilling Rig in Mombasa As Kenya Targets First Oil in Dec"
+        },
+        {
           "title": "Heavy fighting, internet disruption as Ethiopia conflict rages",
           "link": "http://www.africanews.com/2026/09/25/heavy-fighting-internet-disruption-as-ethiopia-conflict-rages/",
           "description": "Ethiopian forces battled overnight to repel an assault by Tigray rebels in the Afar region, a humanitarian source said Friday, with reports of an internet blackout in the north of the country",
@@ -325,21 +334,21 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "The Legal Case of Somaliland Secession from Somalia"
-        },
-        {
-          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
-          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
-          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
-          "pubDate": "Saturday, May 16, 2026 - 00:08",
-          "source": "Crisis Group",
-          "lang": "en",
-          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
     "ethiopia-sea-access": {
       "title": "Accesso etiope al mare",
       "items": [
+        {
+          "title": "Watch: BBC reports from the front-line of an escalating war in Yemen",
+          "link": "https://www.bbc.co.uk/news/videos/crp3kgjygnkeo?at_medium=RSS&at_campaign=rss",
+          "description": "In rare access to Yemen's conflict zone the BBC travels to the front line with pro-government soldiers.",
+          "pubDate": "Sun, 27 Sep 2026 21:00:06 GMT",
+          "source": "BBC World",
+          "lang": "en",
+          "titleIt": "Watch: BBC reports from the front-line of an escalating war in Yemen"
+        },
         {
           "title": "Ethiopia: Breaking the Pretoria Architecture - How Ethiopia's Fragmented Wars Converged Into a Single Existential Threat",
           "link": "https://allafrica.com/stories/202609270105.html",
@@ -375,6 +384,15 @@
           "source": "BBC Africa",
           "lang": "en",
           "titleIt": "Are Ethiopians marching back to war in Tigray?"
+        },
+        {
+          "title": "Liberia: Robtel Pailey Says U.S. Deportee Deal Is Unconstitutional",
+          "link": "https://allafrica.com/stories/202609250468.html",
+          "description": "[Liberian Investigator] Liberia's agreement to take up to 1,200 people deported from the United States violates the Constitution and undermines the country's credibility on the U.N. Security Council, Liberian academic Robtel Neajai Pailey argues in a commentary calling on the government to cancel agreements with Washington that breach national law.",
+          "pubDate": "Fri, 25 Sep 2026 17:33:50 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Liberia: Robtel Pailey Says U.S. Deportee Deal Is Unconstitutional"
         },
         {
           "title": "Africa's richest man helps fund $660m fuel pipeline between Ethiopia and Djibouti",
@@ -501,24 +519,6 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "New Ethiopian Coalition Emerges as Reported Drone Strike Destroys Tigray Aid"
-        },
-        {
-          "title": "Somali journalist Mohamed Aweys Muudey stabbed to death in exile in Germany",
-          "link": "https://hornobserver.com/articles/3754/Somali-journalist-Mohamed-Aweys-Muudey-stabbed-to-death-in-exile-in-Germany",
-          "description": "According to a joint press release from the Darmstadt Public Prosecutor's Office and the South Hesse Police Headquarters, Mohamed Aweys Muudey, 68, an asylum seeker who had fled Somalia, was stabbed inside his communal accommodation by a 28-year-old suspect who is now in police custody. Muudey left Somalia in search of safety and protection. However, his life was cut short in a violent knife attack, highlighting the dangers many journalists in exile continue to face. He spent several years in prison in Ethiopia where he was arrested while seeking protection in 2014 before he was pardoned. Muud",
-          "pubDate": "Sun, 20 Sep 2026 13:43:07 +0300",
-          "source": "Horn Observer",
-          "lang": "en",
-          "titleIt": "Somali journalist Mohamed Aweys Muudey stabbed to death in exile in Germany"
-        },
-        {
-          "title": "Somali Journalist Mohamed Aweys Moodey Dies After Stabbing in Germany",
-          "link": "https://hornobserver.com/articles/3752/Somali-Journalist-Mohamed-Aweys-Moodey-Dies-After-Stabbing-in-Germany",
-          "description": "The incident reportedly occurred at a residential facility. German authorities have identified a 28-year-old Somali man as the suspect. Police and prosecutors are investigating the circumstances of the incident, including the motive and whether it was connected to an earlier dispute between the two men. Moodey was a veteran journalist who worked in Somali media for many years. In 2014, he was arrested in Ethiopia and later sentenced to 27 years in prison under the country's anti-terrorism laws. The International Federation of Journalists and the National Union of Somali Journalists called for ",
-          "pubDate": "Sat, 19 Sep 2026 22:49:53 +0300",
-          "source": "Horn Observer",
-          "lang": "en",
-          "titleIt": "Somali Journalist Mohamed Aweys Moodey Dies After Stabbing in Germany"
         }
       ]
     },
@@ -526,184 +526,13 @@
       "title": "Fragilità economica egiziana",
       "items": [
         {
-          "title": "Sudan Farmers Are Ready to Return - Private Investment Could Get Them There",
-          "link": "https://allafrica.com/stories/202609270101.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-09-27T17:00:00Z",
+          "title": "Egypt: Egypt's Next Economy Lies Beyond the Suez Canal",
+          "link": "https://allafrica.com/stories/202609240384.html",
+          "description": "[allAfrica] For centuries, Egypt's power has flowed from the Nile and its position between continents. In the twenty-first century, the question is whether geography can become industry--and strategic relevance become broadly shared prosperity.",
+          "pubDate": "Thu, 24 Sep 2026 13:44:50 GMT",
+          "source": "AllAfrica",
           "lang": "en",
-          "description": "",
-          "titleIt": "Sudan Farmers Are Ready to Return - Private Investment Could Get Them There"
-        },
-        {
-          "title": "Northwest Passage - American Renaissance",
-          "link": "https://www.amren.com/news/2026/09/northwest-passage/",
-          "source": "amren.com",
-          "pubDate": "2026-09-27T15:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Northwest Passage - American Renaissance"
-        },
-        {
-          "title": "Latest Articles",
-          "link": "https://freerepublic.com/tag/*/index?more=4397028",
-          "source": "freerepublic.com",
-          "pubDate": "2026-09-27T15:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Latest Articles"
-        },
-        {
-          "title": "Parliament gets down to business - Ockham Weekly News Diary",
-          "link": "https://www.politicsweb.co.za/news/parliament-gets-down-to-business-ockham-weekly-news-diary",
-          "source": "politicsweb.co.za",
-          "pubDate": "2026-09-27T14:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Parliament gets down to business - Ockham Weekly News Diary"
-        },
-        {
-          "title": "Alamein Africa Forum to bring together key political and business leaders",
-          "link": "https://newafricanmagazine.com/partner-insight/alamein-africa-forum-to-bring-together-key-political-and-business-leaders/",
-          "source": "newafricanmagazine.com",
-          "pubDate": "2026-09-27T14:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Alamein Africa Forum to bring together key political and business leaders"
-        },
-        {
-          "title": "TTN - Travel & Tourism News Middle East",
-          "link": "https://www.ttnworldwide.com:443/ArticleTA/486870/business-aviation-in-mideast-strengthens-amid-rising-demand_colon-medaire",
-          "source": "ttnworldwide.com",
-          "pubDate": "2026-09-27T14:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "TTN - Travel & Tourism News Middle East"
-        },
-        {
-          "title": "Strongest Cities in Latin America and Africa 2026 Ranked",
-          "link": "https://www.riotimesonline.com/strongest-cities-latin-america-africa-2026-global-rankings/",
-          "source": "riotimesonline.com",
-          "pubDate": "2026-09-27T14:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Strongest Cities in Latin America and Africa 2026 Ranked"
-        },
-        {
-          "title": "Argy Pyramids of Giza : NEWORLD Show on 6 November 2026",
-          "link": "https://www.riotimesonline.com/argy-pyramids-of-giza-2026-egypt-neworld-november-6/",
-          "source": "riotimesonline.com",
-          "pubDate": "2026-09-27T14:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Argy Pyramids of Giza : NEWORLD Show on 6 November 2026"
-        },
-        {
-          "title": "Egypt Demands  Fairnes for Global South at U . N . General Assembly",
-          "link": "https://www.breitbart.com/africa/2026/09/26/egypt-demands-fairness-global-south-u-n-general-assembly/",
-          "source": "breitbart.com",
-          "pubDate": "2026-09-27T13:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egypt Demands  Fairnes for Global South at U . N . General Assembly"
-        },
-        {
-          "title": "INS Sudarshini sets sail from Egypt Alexandria after port call",
-          "link": "https://www.siasat.com/ins-sudarshini-sets-sail-from-egypts-alexandria-after-port-call-3549069/",
-          "source": "siasat.com",
-          "pubDate": "2026-09-27T12:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "INS Sudarshini sets sail from Egypt Alexandria after port call"
-        },
-        {
-          "title": "Morocco king :  Any attack on Saudi Arabia is an attack on Morocco",
-          "link": "https://www.middle-east-online.com/en/morocco%E2%80%99s-king-%E2%80%98any-attack-saudi-arabia-attack-morocco%E2%80%99",
-          "source": "middle-east-online.com",
-          "pubDate": "2026-09-27T10:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Morocco king :  Any attack on Saudi Arabia is an attack on Morocco"
-        },
-        {
-          "title": "Gaza on verge of exploding : Egypt spy chief warned Israel of Hamas escalation before Oct 7",
-          "link": "https://timesofindia.indiatimes.com/world/middle-east/gaza-on-verge-of-exploding-egypt-spy-chief-warned-israel-of-hamas-escalation-before-oct-7/articleshow/134517474.cms",
-          "source": "timesofindia.indiatimes.com",
-          "pubDate": "2026-09-27T10:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Gaza on verge of exploding : Egypt spy chief warned Israel of Hamas escalation before Oct 7"
-        },
-        {
-          "title": "Full text of Pope Leo World Day of Migrants and Refugees message",
-          "link": "https://www.cathstan.org/voices/full-text-of-pope-leos-world-day-of-migrants-and-refugees-message",
-          "source": "cathstan.org",
-          "pubDate": "2026-09-27T10:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Full text of Pope Leo World Day of Migrants and Refugees message"
-        },
-        {
-          "title": "Big AI content problem : Take the work , keep the money",
-          "link": "https://www.theregister.com/columnists/2026/09/27/big-ais-content-problem-take-the-work-keep-the-money/5299007",
-          "source": "theregister.com",
-          "pubDate": "2026-09-27T10:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Big AI content problem : Take the work , keep the money"
-        },
-        {
-          "title": "Gulf nations have found ways to keep oil flowing through the Iran war , but the costs are mounting",
-          "link": "https://www.texarkanagazette.com/news/2026/sep/26/gulf-nations-have-found-ways-to-keep-oil-flowing/",
-          "source": "texarkanagazette.com",
-          "pubDate": "2026-09-27T08:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Gulf nations have found ways to keep oil flowing through the Iran war , but the costs are mounting"
-        },
-        {
-          "title": "OSEN : Kenya voters need political education and not handouts",
-          "link": "https://www.the-star.co.ke/siasa/2026-09-27-osen-kenyas-voters-need-political-education-not-handouts",
-          "source": "the-star.co.ke",
-          "pubDate": "2026-09-27T08:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "OSEN : Kenya voters need political education and not handouts"
-        },
-        {
-          "title": "ADFD highlights investment in sustainable tourism",
-          "link": "https://tradearabia.com:443/News/486841/ADFD-highlights-investment-in-sustainable-tourism/TTN",
-          "source": "tradearabia.com",
-          "pubDate": "2026-09-27T07:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "ADFD highlights investment in sustainable tourism"
-        },
-        {
-          "title": "ADFD highlights investment in sustainable tourism",
-          "link": "https://tradearabia.com:443/News/486841/ADFD-highlights-investment-in-sustainable-tourism",
-          "source": "tradearabia.com",
-          "pubDate": "2026-09-27T07:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "ADFD highlights investment in sustainable tourism"
-        },
-        {
-          "title": "UAE Business : ADFD highlights investment in sustainable tourism",
-          "link": "https://www.gdnonline.com:443/Details/1407788",
-          "source": "gdnonline.com",
-          "pubDate": "2026-09-27T07:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "UAE Business : ADFD highlights investment in sustainable tourism"
-        },
-        {
-          "title": "Can Ethiopia get mortgage refinancing right ? Lessons from Kenya , Tanzania and Egypt",
-          "link": "https://capitalethiopia.com/2026/09/27/can-ethiopia-get-mortgage-refinancing-right-lessons-from-kenya-tanzania-and-egypt/",
-          "source": "capitalethiopia.com",
-          "pubDate": "2026-09-27T01:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Can Ethiopia get mortgage refinancing right ? Lessons from Kenya , Tanzania and Egypt"
+          "titleIt": "Egypt: Egypt's Next Economy Lies Beyond the Suez Canal"
         }
       ]
     },
