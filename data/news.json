@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T20:35:09.722Z",
+  "generatedAt": "2026-09-29T01:58:10.525Z",
   "feedsChecked": 10,
   "feedsAttempted": 10,
   "topics": {
@@ -192,6 +192,42 @@
       "title": "Dossier Somaliland",
       "items": [
         {
+          "title": "Arab News | Ethiopia army chief accuses Eritrea , Sudan and Egypt of supporting Tigray rebels",
+          "link": "https://www.arabnews.com/world/ethiopias-army-chief-accuses-eritrea-sudan-and-egypt-of-supporting-tigray-rebels-3003637",
+          "source": "arabnews.com",
+          "pubDate": "2026-09-28T23:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Arab News | Ethiopia army chief accuses Eritrea , Sudan and Egypt of supporting Tigray rebels"
+        },
+        {
+          "title": "Ethiopia army chief accuses Eritrea , Sudan and Egypt of supporting Tigray rebels",
+          "link": "https://www.news4jax.com/news/world/2026/09/28/ethiopias-army-chief-accuses-eritrea-sudan-and-egypt-of-supporting-tigray-rebels/",
+          "source": "news4jax.com",
+          "pubDate": "2026-09-28T22:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia army chief accuses Eritrea , Sudan and Egypt of supporting Tigray rebels"
+        },
+        {
+          "title": "Ethiopia army chief accuses Eritrea , Sudan and Egypt of supporting Tigray rebels",
+          "link": "https://www.clickondetroit.com/news/world/2026/09/28/ethiopias-army-chief-accuses-eritrea-sudan-and-egypt-of-supporting-tigray-rebels/",
+          "source": "clickondetroit.com",
+          "pubDate": "2026-09-28T22:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia army chief accuses Eritrea , Sudan and Egypt of supporting Tigray rebels"
+        },
+        {
+          "title": "Ethiopia claims Eritrea , Sudan and Egypt helping rebels",
+          "link": "https://www.bendigoadvertiser.com.au/story/9359065/ethiopia-claims-eritrea-sudan-and-egypt-helping-rebels/",
+          "source": "bendigoadvertiser.com.au",
+          "pubDate": "2026-09-28T21:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia claims Eritrea , Sudan and Egypt helping rebels"
+        },
+        {
           "title": "Ethiopia claims Eritrea , Sudan and Egypt helping rebels",
           "link": "https://www.yasstribune.com.au/story/9359065/ethiopia-claims-eritrea-sudan-and-egypt-helping-rebels/",
           "source": "yasstribune.com.au",
@@ -334,48 +370,57 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "For Josphine Njeru, Protecting Civilians Is the True Measure of Success in Somalia"
-        },
-        {
-          "title": "Increased Cash Offer for Capricorn by Genel Energy | Company Announcement",
-          "link": "https://www.investegate.co.uk/announcement/rns/capricorn-energy--cne/increased-cash-offer-for-capricorn-by-genel-energy/9791073",
-          "source": "investegate.co.uk",
-          "pubDate": "2026-09-25T09:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Increased Cash Offer for Capricorn by Genel Energy | Company Announcement"
-        },
-        {
-          "title": "Genel Energy Plc : Increased Recommended Cash Offer For Capricorn Energy Plc By Genel Energy No . 9 Limited",
-          "link": "https://www.finanznachrichten.de/nachrichten-2026-09/69674418-genel-energy-plc-increased-recommended-cash-offer-for-capricorn-energy-plc-by-genel-energy-no-9-limited-015.htm",
-          "source": "finanznachrichten.de",
-          "pubDate": "2026-09-25T07:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Genel Energy Plc : Increased Recommended Cash Offer For Capricorn Energy Plc By Genel Energy No . 9 Limited"
-        },
-        {
-          "title": "Mystery Meeting in New York Raises Questions Inside Somalia Government",
-          "link": "https://wardheernews.com/mystery-meeting-in-new-york-raises-questions-inside-somalias-government/",
-          "source": "wardheernews.com",
-          "pubDate": "2026-09-24T19:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Mystery Meeting in New York Raises Questions Inside Somalia Government"
-        },
-        {
-          "title": "Renewed fighting in northern Ethiopia effectively shatters 2022 peace deal that ended war",
-          "link": "https://www.ksat.com/news/world/2026/09/24/renewed-fighting-in-northern-ethiopia-effectively-shatters-2022-peace-deal-that-ended-war/",
-          "source": "ksat.com",
-          "pubDate": "2026-09-24T19:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Renewed fighting in northern Ethiopia effectively shatters 2022 peace deal that ended war"
         }
       ]
     },
     "ethiopia-sea-access": {
       "title": "Accesso etiope al mare",
       "items": [
+        {
+          "title": "Arab News | Ethiopia army chief accuses Eritrea , Sudan and Egypt of supporting Tigray rebels",
+          "link": "https://www.arabnews.com/world/ethiopias-army-chief-accuses-eritrea-sudan-and-egypt-of-supporting-tigray-rebels-3003637",
+          "source": "arabnews.com",
+          "pubDate": "2026-09-28T23:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Arab News | Ethiopia army chief accuses Eritrea , Sudan and Egypt of supporting Tigray rebels"
+        },
+        {
+          "title": "Ethiopia army chief accuses Eritrea , Sudan and Egypt of supporting Tigray rebels",
+          "link": "https://www.news4jax.com/news/world/2026/09/28/ethiopias-army-chief-accuses-eritrea-sudan-and-egypt-of-supporting-tigray-rebels/",
+          "source": "news4jax.com",
+          "pubDate": "2026-09-28T22:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia army chief accuses Eritrea , Sudan and Egypt of supporting Tigray rebels"
+        },
+        {
+          "title": "Ethiopia army chief accuses Eritrea , Sudan and Egypt of supporting Tigray rebels",
+          "link": "https://www.clickondetroit.com/news/world/2026/09/28/ethiopias-army-chief-accuses-eritrea-sudan-and-egypt-of-supporting-tigray-rebels/",
+          "source": "clickondetroit.com",
+          "pubDate": "2026-09-28T22:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia army chief accuses Eritrea , Sudan and Egypt of supporting Tigray rebels"
+        },
+        {
+          "title": "Ethiopia claims Eritrea , Sudan and Egypt helping rebels",
+          "link": "https://www.bendigoadvertiser.com.au/story/9359065/ethiopia-claims-eritrea-sudan-and-egypt-helping-rebels/",
+          "source": "bendigoadvertiser.com.au",
+          "pubDate": "2026-09-28T21:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia claims Eritrea , Sudan and Egypt helping rebels"
+        },
+        {
+          "title": "Ethiopia fighting intensifies as Government forces retake Alamata",
+          "link": "https://www.africanews.com/2026/09/28/ethiopia-fighting-intensifies-as-government-forces-retake-alamata/",
+          "source": "africanews.com",
+          "pubDate": "2026-09-28T20:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia fighting intensifies as Government forces retake Alamata"
+        },
         {
           "title": "Ethiopia claims Eritrea , Sudan and Egypt helping rebels",
           "link": "https://www.yasstribune.com.au/story/9359065/ethiopia-claims-eritrea-sudan-and-egypt-helping-rebels/",
@@ -510,57 +555,193 @@
           "lang": "en",
           "description": "",
           "titleIt": "Arab News | Jeddah food shows connect Saudi firms with global markets"
-        },
-        {
-          "title": "Ethiopia pro - govt forces say they take Tigray town",
-          "link": "https://arynews.tv/ethiopia-pro-govt-forces-say-they-take-tigray-town",
-          "source": "arynews.tv",
-          "pubDate": "2026-09-28T14:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia pro - govt forces say they take Tigray town"
-        },
-        {
-          "title": "Kenya: Murkomen Wants Community Reports Turned Into Strategic Security Intelligence",
-          "link": "https://allafrica.com/stories/202609280491.html",
-          "description": "[Capital FM] Nairobi -- Interior and National Administration Cabinet Secretary Kipchumba Murkomen has called for a stronger system to turn community information into actionable intelligence, saying citizen participation could become a critical pillar of Kenya's national security strategy.",
-          "pubDate": "Mon, 28 Sep 2026 13:55:06 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Kenya: Murkomen Wants Community Reports Turned Into Strategic Security Intelligence"
-        },
-        {
-          "title": "Nigeria: UN, AU Ask Obasanjo to Rescue Ethiopia's Peace Deal As Tensions Rise",
-          "link": "https://allafrica.com/stories/202609280432.html",
-          "description": "[Vanguard] The UN and AU have asked former President Olusegun Obasanjo to help pull Ethiopia back from renewed conflict as tensions threaten the peace agreement he helped broker in 2022.",
-          "pubDate": "Mon, 28 Sep 2026 13:29:22 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Nigeria: UN, AU Ask Obasanjo to Rescue Ethiopia's Peace Deal As Tensions Rise"
-        },
-        {
-          "title": "Somalia: Fresh Battle Renewed in Somalia's Baidoa Town",
-          "link": "https://allafrica.com/stories/202609280355.html",
-          "description": "[Shabelle] Baidoa, Somalia -- A combat broke out in Baidoa between forces supporting South West State leader Sheikh Adan Mohamed Nur Madobe and fighters loyal to former South West President Abdiaziz Hassan Mohamed Laftagareen.",
-          "pubDate": "Mon, 28 Sep 2026 13:11:06 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Somalia: Fresh Battle Renewed in Somalia's Baidoa Town"
-        },
-        {
-          "title": "Somalia: Heavy Fighting Erupts in Baidoa as Rival Forces Trade Claims",
-          "link": "https://hornobserver.com/articles/3765/Somalia-Heavy-Fighting-Erupts-in-Baidoa-as-Rival-Forces-Trade-Claims",
-          "description": "Residents reported hearing a series of powerful explosions across Baidoa, with thick plumes of smoke visible over parts of the city. Initial reports indicated that several locations, including a power facility and a base used by federal government forces, were struck during the clashes. Ugaas Hassan, the information minister for the Laftagareen-aligned faction, confirmed that its forces had launched an attack, describing the assault as involving several successive waves. &nbsp; New footage, moment when Laftagaren's militias attacked #Baidoa this morning, one resident recorded. pic.twitter.com/",
-          "pubDate": "Mon, 28 Sep 2026 12:32:52 +0300",
-          "source": "Horn Observer",
-          "lang": "en",
-          "titleIt": "Somalia: Heavy Fighting Erupts in Baidoa as Rival Forces Trade Claims"
         }
       ]
     },
     "egypt-economy": {
       "title": "Fragilità economica egiziana",
-      "items": []
+      "items": [
+        {
+          "title": "APC govs have no right to stop Wike from campaigning for",
+          "link": "https://thesun.ng/apc-govs-have-no-right-to-stop-wike-from-campaigning-for-tinubu-igwe-mbamalu/",
+          "source": "thesun.ng",
+          "pubDate": "2026-09-29T01:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "APC govs have no right to stop Wike from campaigning for"
+        },
+        {
+          "title": "Russia is far from isolated Richard Sakwa to RT",
+          "link": "http://www.chinanationalnews.com/news/279338543/russia-is-far-from-isolated-richard-sakwa-to-rt",
+          "source": "chinanationalnews.com",
+          "pubDate": "2026-09-29T01:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Russia is far from isolated Richard Sakwa to RT"
+        },
+        {
+          "title": "Echoes from United Nations General Assembly",
+          "link": "https://thesun.ng/echoes-from-united-nations-general-assembly/",
+          "source": "thesun.ng",
+          "pubDate": "2026-09-29T01:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Echoes from United Nations General Assembly"
+        },
+        {
+          "title": "U . S . markets hit the skids as bond collapse worsens",
+          "link": "http://www.hongkongherald.com/news/279338574/u-s-markets-hit-the-skids-as-bond-collapse-worsens",
+          "source": "hongkongherald.com",
+          "pubDate": "2026-09-29T01:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "U . S . markets hit the skids as bond collapse worsens"
+        },
+        {
+          "title": "Pakistan First Astronaut Boards Tiangong This Fall ; China Recruits Its Post - ISS Coalition",
+          "link": "https://www.techtimes.com/articles/328151/20260928/pakistans-first-astronaut-boards-tiangong-this-fall-china-recruits-its-post-iss-coalition.htm",
+          "source": "techtimes.com",
+          "pubDate": "2026-09-29T01:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Pakistan First Astronaut Boards Tiangong This Fall ; China Recruits Its Post - ISS Coalition"
+        },
+        {
+          "title": "Nasdaq and broader market take hit as bond yields continue to surge",
+          "link": "http://www.afghanistannews.net/news/279338574/nasdaq-and-broader-market-take-hit-as-bond-yields-continue-to-surge",
+          "source": "afghanistannews.net",
+          "pubDate": "2026-09-29T01:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Nasdaq and broader market take hit as bond yields continue to surge"
+        },
+        {
+          "title": "U . S . markets hit the skids as bond collapse worsens",
+          "link": "http://www.mexicostar.com/news/279338574/u-s-markets-hit-the-skids-as-bond-collapse-worsens",
+          "source": "mexicostar.com",
+          "pubDate": "2026-09-29T01:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "U . S . markets hit the skids as bond collapse worsens"
+        },
+        {
+          "title": "U . S . markets hit the skids as bond collapse worsens",
+          "link": "http://www.argentinastar.com/news/279338574/u-s-markets-hit-the-skids-as-bond-collapse-worsens",
+          "source": "argentinastar.com",
+          "pubDate": "2026-09-29T00:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "U . S . markets hit the skids as bond collapse worsens"
+        },
+        {
+          "title": "U . S . markets hit the skids as bond collapse worsens",
+          "link": "http://www.sierraleonetimes.com/news/279338574/u-s-markets-hit-the-skids-as-bond-collapse-worsens",
+          "source": "sierraleonetimes.com",
+          "pubDate": "2026-09-29T00:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "U . S . markets hit the skids as bond collapse worsens"
+        },
+        {
+          "title": "US visa clash exposes Sudan forgotten war as foreign powers compete for strategic foothold",
+          "link": "https://foxwilmington.com/us-visa-clash-exposes-sudans-forgotten-war-as-foreign-powers-compete-for-strategic-foothold/",
+          "source": "foxwilmington.com",
+          "pubDate": "2026-09-29T00:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "US visa clash exposes Sudan forgotten war as foreign powers compete for strategic foothold"
+        },
+        {
+          "title": "Russia is far from isolated Richard Sakwa to RT",
+          "link": "http://www.sierraleonetimes.com/news/279338543/russia-is-far-from-isolated-richard-sakwa-to-rt",
+          "source": "sierraleonetimes.com",
+          "pubDate": "2026-09-29T00:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Russia is far from isolated Richard Sakwa to RT"
+        },
+        {
+          "title": "U . S . markets hit the skids as bond collapse worsens",
+          "link": "http://www.nashvilleherald.com/news/279338574/u-s-markets-hit-the-skids-as-bond-collapse-worsens",
+          "source": "nashvilleherald.com",
+          "pubDate": "2026-09-29T00:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "U . S . markets hit the skids as bond collapse worsens"
+        },
+        {
+          "title": "U . S . markets hit the skids as bond collapse worsens",
+          "link": "http://www.texasguardian.com/news/279338574/u-s-markets-hit-the-skids-as-bond-collapse-worsens",
+          "source": "texasguardian.com",
+          "pubDate": "2026-09-29T00:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "U . S . markets hit the skids as bond collapse worsens"
+        },
+        {
+          "title": "U . S . markets hit the skids as bond collapse worsens",
+          "link": "http://www.philippinetimes.com/news/279338574/u-s-markets-hit-the-skids-as-bond-collapse-worsens",
+          "source": "philippinetimes.com",
+          "pubDate": "2026-09-29T00:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "U . S . markets hit the skids as bond collapse worsens"
+        },
+        {
+          "title": "U . S . markets hit the skids as bond collapse worsens",
+          "link": "http://www.europesun.com/news/279338574/u-s-markets-hit-the-skids-as-bond-collapse-worsens",
+          "source": "europesun.com",
+          "pubDate": "2026-09-29T00:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "U . S . markets hit the skids as bond collapse worsens"
+        },
+        {
+          "title": "U . S . markets hit the skids as bond collapse worsens",
+          "link": "http://www.iranherald.com/news/279338574/u-s-markets-hit-the-skids-as-bond-collapse-worsens",
+          "source": "iranherald.com",
+          "pubDate": "2026-09-29T00:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "U . S . markets hit the skids as bond collapse worsens"
+        },
+        {
+          "title": "Netanyahu begs UAE leader to publicly deny warning of Al - Aqsa Flood operation : Report",
+          "link": "https://www.presstv.co.uk/Detail/2026/09/28/777223/Netanyahu-begs-UAE-leader-to-publicly-deny-warning-of-Al-Aqsa-Flood-operation--Report",
+          "source": "presstv.co.uk",
+          "pubDate": "2026-09-29T00:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Netanyahu begs UAE leader to publicly deny warning of Al - Aqsa Flood operation : Report"
+        },
+        {
+          "title": "Israeli minister calls for taking away hope of rebuilding Gaza to push Palestinians out",
+          "link": "https://www.presstv.co.uk/Detail/2026/09/28/777217/Palestine-Israel-Bezalel-Smotrich-Gaza",
+          "source": "presstv.co.uk",
+          "pubDate": "2026-09-29T00:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Israeli minister calls for taking away hope of rebuilding Gaza to push Palestinians out"
+        },
+        {
+          "title": "Russia is far from isolated Richard Sakwa to RT",
+          "link": "http://www.shanghaisun.com/news/279338543/russia-is-far-from-isolated-richard-sakwa-to-rt",
+          "source": "shanghaisun.com",
+          "pubDate": "2026-09-29T00:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Russia is far from isolated Richard Sakwa to RT"
+        },
+        {
+          "title": "U . S . markets hit the skids as bond collapse worsens",
+          "link": "http://www.newyorkstatesman.com/news/279338574/u-s-markets-hit-the-skids-as-bond-collapse-worsens",
+          "source": "newyorkstatesman.com",
+          "pubDate": "2026-09-28T23:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "U . S . markets hit the skids as bond collapse worsens"
+        }
+      ]
     },
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
@@ -591,15 +772,6 @@
           "source": "AllAfrica",
           "lang": "en",
           "titleIt": "Nigeria: UN, AU Ask Obasanjo to Rescue Ethiopia's Peace Deal As Tensions Rise"
-        },
-        {
-          "title": "Africa: South Sudan and Uganda Sign a Landmark Agreement to Strengthen Cross-Border Collaboration On Health Security",
-          "link": "https://allafrica.com/stories/202609280017.html",
-          "description": "[Africa CDC] Two neighbours will strengthen joint preparedness and response to public health emergencies",
-          "pubDate": "Mon, 28 Sep 2026 07:11:17 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Africa: South Sudan and Uganda Sign a Landmark Agreement to Strengthen Cross-Border Collaboration On Health Security"
         },
         {
           "title": "Power cuts, rubble: millions come home to find Sudan's capital unlivable",
