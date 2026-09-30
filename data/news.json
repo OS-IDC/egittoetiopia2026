@@ -1,11 +1,29 @@
 {
-  "generatedAt": "2026-09-30T08:34:50.415Z",
+  "generatedAt": "2026-09-30T16:26:25.913Z",
   "feedsChecked": 10,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
+        {
+          "title": "We will ensure Regeni ruling is enforced and seek compensation says Foti",
+          "link": "https://www.ansa.it/english/news/politics/2026/09/30/we-will-ensure-regeni-ruling-is-enforced-and-seek-compensation-says-foti_e3a8f7a3-8796-44c5-a8f1-4aeadf8a26b7.html",
+          "description": "(ANSA) - ROME, 30 SET - The government will ensure that Monday's conviction of three Egyptian security officials for the kidnapping of Giulio Regeni, an Italian student who was tortured to death in Cairo in 2016, is enforced and will also seek compensation from the Egyptian government, European Affairs Minister Tommaso Foti, a bigwig n Premier Giorgia Meloni's right-wing Brothers of Italy (FdI) party, told Italian TV Wednesday. The government will reportedly seek two million euros in damages from Cairo since the three officers convicted and sentenced to 10 years each for Regeni's abduction, bu",
+          "pubDate": "Wed, 30 Sep 2026 17:49:47 +0200",
+          "source": "ANSA English",
+          "lang": "en",
+          "titleIt": "We will ensure Regeni ruling is enforced and seek compensation says Foti"
+        },
+        {
+          "title": "We will ensure Regeni ruling is enforced and seek compensation says Foti",
+          "link": "https://www.ansa.it/english/news/2026/09/30/we-will-ensure-regeni-ruling-is-enforced-and-seek-compensation-says-foti_174db6f5-f292-4b86-855e-5965ac3ff29d.html",
+          "description": "(ANSA) - ROME, 30 SET - The government will ensure that Monday's conviction of three Egyptian security officials for the kidnapping of Giulio Regeni, an Italian student who was tortured to death in Cairo in 2016, is enforced and will also seek compensation from the Egyptian government, European Affairs Minister Tommaso Foti, a bigwig n Premier Giorgia Meloni's right-wing Brothers of Italy (FdI) party, told Italian TV Wednesday. The government will reportedly seek two million euros in damages from Cairo since the three officers convicted and sentenced to 10 years each for Regeni's abduction, bu",
+          "pubDate": "Wed, 30 Sep 2026 17:45:22 +0200",
+          "source": "ANSA English",
+          "lang": "en",
+          "titleIt": "We will ensure Regeni ruling is enforced and seek compensation says Foti"
+        },
         {
           "title": "Somalia: Al-Shabaab Fighters Spent 3 Months in Yemen Learning Drone Assembly , Control Systems",
           "link": "https://allafrica.com/stories/202609300109.html",
@@ -41,15 +59,6 @@
           "source": "ANSA English",
           "lang": "en",
           "titleIt": "Egyptian officials' lawyers set to appeal Regeni convictions"
-        },
-        {
-          "title": "Somalia: U.S. Warns of Growing Houthi-Al-Shabaab Links and Regional Security Risks",
-          "link": "https://allafrica.com/stories/202609290191.html",
-          "description": "[Shabelle] Mogadishu, Somalia -- The expanding links between Yemen's Houthi movement and Somalia's Al-Shabaab group are raising concerns among U.S. officials and security experts over the potential impact on security in the Horn of Africa and key maritime routes.",
-          "pubDate": "Tue, 29 Sep 2026 10:59:34 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Somalia: U.S. Warns of Growing Houthi-Al-Shabaab Links and Regional Security Risks"
         },
         {
           "title": "3 Egypt security officials found guilty in Regeni case, 1 cleared",
@@ -176,21 +185,30 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "Somalia: Heavy Fighting Erupts in Baidoa as Rival Forces Trade Claims"
-        },
-        {
-          "title": "'Your account has been disabled': The new wave of online attacks silencing Somali journalists continues",
-          "link": "https://hornobserver.com/articles/3764/Your-account-has-been-disabled-The-new-wave-of-online-attacks-silencing-Somali-journalists-continues",
-          "description": "Beyond their immediate impact on individual journalists, the Somali Journalists Syndicate (SJS) is concerned that these attacks now threaten media freedom and the public's access to independent information by disrupting journalists' ability to report on human rights violations, corruption, insecurity and other developments affecting communities across Somalia. At a time when the country is facing overlapping political and humanitarian crises, the silencing, harassment and removal of journalists from digital platforms risks shrinking the space for public reporting, accountability and scrutiny—p",
-          "pubDate": "Mon, 28 Sep 2026 08:29:27 +0300",
-          "source": "Horn Observer",
-          "lang": "en",
-          "titleIt": "'Your account has been disabled': The new wave of online attacks silencing Somali journalists continues"
         }
       ]
     },
     "somaliland": {
       "title": "Dossier Somaliland",
       "items": [
+        {
+          "title": "Ethiopia: Tensions Return to Tigray - Fears of a New Civil War",
+          "link": "https://allafrica.com/stories/202609300551.html",
+          "description": "[Agenzia Fides] Mekelle -- Fears of a new escalation in Ethiopia are growing following the resumption of fighting in the north of the country and an offensive by Tigrayan fighters in the neighboring regions of Afar and Amhara. Concern is also mounting over the formation of a new alliance of armed groups that has declared its intention to overthrow the government of Prime Minister Abiy Ahmed.",
+          "pubDate": "Wed, 30 Sep 2026 14:55:48 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Ethiopia: Tensions Return to Tigray - Fears of a New Civil War"
+        },
+        {
+          "title": "Ethiopia: Ethiopian Federal Forces Reportedly Advance Deep Into Tigray Toward Mekelle",
+          "link": "https://allafrica.com/stories/202609300324.html",
+          "description": "[Shabelle] Mekelle, Ethiopia -- Ethiopian federal forces have reportedly advanced more than 150 kilometres into the Tigray region and are moving closer to Mekelle, according to sources cited by Al Jazeera, amid renewed fighting in northern Ethiopia.",
+          "pubDate": "Wed, 30 Sep 2026 11:35:17 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Ethiopia: Ethiopian Federal Forces Reportedly Advance Deep Into Tigray Toward Mekelle"
+        },
         {
           "title": "Somalia: Al-Shabaab Fighters Spent 3 Months in Yemen Learning Drone Assembly , Control Systems",
           "link": "https://allafrica.com/stories/202609300109.html",
@@ -199,24 +217,6 @@
           "source": "AllAfrica",
           "lang": "en",
           "titleIt": "Somalia: Al-Shabaab Fighters Spent 3 Months in Yemen Learning Drone Assembly , Control Systems"
-        },
-        {
-          "title": "Tanzania Removes Special Visa Clearance for Nigerians",
-          "link": "https://allafrica.com/stories/202609300086.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-09-30T06:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Tanzania Removes Special Visa Clearance for Nigerians"
-        },
-        {
-          "title": "Somalia: Somaliland Opposition Parties Reject Somalia PM's Remarks On Israel Recognition",
-          "link": "https://allafrica.com/stories/202609300041.html",
-          "description": "[Horn Diplomat] Hargeisa -- Somaliland's opposition parties Kaah and KULMIYE have rejected remarks by Somalia's Prime Minister Hamza Abdi Barre suggesting that Somaliland's religious leaders, traditional elders and political parties oppose Israel's recognition of Somaliland.",
-          "pubDate": "Wed, 30 Sep 2026 05:04:06 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Somalia: Somaliland Opposition Parties Reject Somalia PM's Remarks On Israel Recognition"
         },
         {
           "title": "Somalia: Somaliland Rejects Bread Price Rise, Questions Bakers' Group's Legal Status",
@@ -228,15 +228,6 @@
           "titleIt": "Somalia: Somaliland Rejects Bread Price Rise, Questions Bakers' Group's Legal Status"
         },
         {
-          "title": "Africa: A Network That Never Asks for Money Moved $100 Million Last Year",
-          "link": "https://allafrica.com/stories/202609290622.html",
-          "description": "[RootsToFoods Capital Series] In a RootsToFoods Capital Series interview continuing Wave 2 of the series, Michael Meehan, founder of the Forum for Impact and former chief executive of the Global Reporting Initiative, argues that capital corridors are not built from scratch. They are recognized, then organized, and some of the most active ones now connect the Gulf, Europe and East and Central Africa.",
-          "pubDate": "Tue, 29 Sep 2026 17:10:37 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Africa: A Network That Never Asks for Money Moved $100 Million Last Year"
-        },
-        {
           "title": "Vintage Alfa Romeos on display at the 54th edition of the Africa Concours d’Elegance",
           "link": "https://www.ansa.it/english/news/news_from_embassies/2026/09/29/vintage-alfa-romeos-on-display-at-the-54th-edition-of-the-africa-concours_097e2b71-a21f-49d5-94b8-f85386e0d807.html",
           "description": "(ANSA) - ROMA, 29 SET - The 54th edition of the Africa Concours d’Elegance took place in Nairobi. Organized by the Alfa Romeo Owners Club (Kenya) since 1971, the event is the most prestigious and eagerly anticipated gathering on the continental African motorsports calendar dedicated to classic cars and motorcycles. The Ngong Racetrack hosted the classic Alfa Romeos with which the Italian Embassy, together with the Italian Cultural Institute in Nairobi and the ICE Agency, celebrated the design, engineering, and creativity that define Italian excellence. Read article...",
@@ -246,180 +237,13 @@
           "titleIt": "Vintage Alfa Romeos on display at the 54th edition of the Africa Concours d’Elegance"
         },
         {
-          "title": "Somalia: U.S. Warns of Growing Houthi-Al-Shabaab Links and Regional Security Risks",
-          "link": "https://allafrica.com/stories/202609290191.html",
-          "description": "[Shabelle] Mogadishu, Somalia -- The expanding links between Yemen's Houthi movement and Somalia's Al-Shabaab group are raising concerns among U.S. officials and security experts over the potential impact on security in the Horn of Africa and key maritime routes.",
-          "pubDate": "Tue, 29 Sep 2026 10:59:34 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Somalia: U.S. Warns of Growing Houthi-Al-Shabaab Links and Regional Security Risks"
-        },
-        {
-          "title": "Somaliland Pushes to Take Control of Its Airspace and Border Entry System",
-          "link": "https://wardheernews.com/somaliland-pushes-to-take-control-of-its-airspace-and-border-entry-system/",
-          "source": "wardheernews.com",
-          "pubDate": "2026-09-29T09:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Somaliland Pushes to Take Control of Its Airspace and Border Entry System"
-        },
-        {
-          "title": "Algeria accuses Israel of seeking to divide Somalia",
-          "link": "https://horseedmedia.net/algeria-accuses-israel-of-seeking-to-divide-somalia/426020/",
-          "source": "horseedmedia.net",
-          "pubDate": "2026-09-29T09:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Algeria accuses Israel of seeking to divide Somalia"
-        },
-        {
-          "title": "Eritrea proxy war against Ethiopia - Israel & Jewish News",
-          "link": "https://www.jns.org/opinion/habtom-ghebrezghiabher/eritreas-proxy-war-against-ethiopia",
-          "source": "jns.org",
-          "pubDate": "2026-09-29T09:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Eritrea proxy war against Ethiopia - Israel & Jewish News"
-        },
-        {
-          "title": "Arab News | Ethiopia army chief accuses Eritrea , Sudan and Egypt of supporting Tigray rebels",
-          "link": "https://www.arabnews.com/world/ethiopias-army-chief-accuses-eritrea-sudan-and-egypt-of-supporting-tigray-rebels-3003637",
-          "source": "arabnews.com",
-          "pubDate": "2026-09-28T23:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Arab News | Ethiopia army chief accuses Eritrea , Sudan and Egypt of supporting Tigray rebels"
-        },
-        {
-          "title": "Ethiopia army chief accuses Eritrea , Sudan and Egypt of supporting Tigray rebels",
-          "link": "https://www.news4jax.com/news/world/2026/09/28/ethiopias-army-chief-accuses-eritrea-sudan-and-egypt-of-supporting-tigray-rebels/",
-          "source": "news4jax.com",
-          "pubDate": "2026-09-28T22:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia army chief accuses Eritrea , Sudan and Egypt of supporting Tigray rebels"
-        },
-        {
-          "title": "Ethiopia army chief accuses Eritrea , Sudan and Egypt of supporting Tigray rebels",
-          "link": "https://www.clickondetroit.com/news/world/2026/09/28/ethiopias-army-chief-accuses-eritrea-sudan-and-egypt-of-supporting-tigray-rebels/",
-          "source": "clickondetroit.com",
-          "pubDate": "2026-09-28T22:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia army chief accuses Eritrea , Sudan and Egypt of supporting Tigray rebels"
-        },
-        {
-          "title": "Ethiopia claims Eritrea , Sudan and Egypt helping rebels",
-          "link": "https://www.bendigoadvertiser.com.au/story/9359065/ethiopia-claims-eritrea-sudan-and-egypt-helping-rebels/",
-          "source": "bendigoadvertiser.com.au",
-          "pubDate": "2026-09-28T21:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia claims Eritrea , Sudan and Egypt helping rebels"
-        },
-        {
-          "title": "Ethiopia claims Eritrea , Sudan and Egypt helping rebels",
-          "link": "https://www.yasstribune.com.au/story/9359065/ethiopia-claims-eritrea-sudan-and-egypt-helping-rebels/",
-          "source": "yasstribune.com.au",
-          "pubDate": "2026-09-28T20:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia claims Eritrea , Sudan and Egypt helping rebels"
-        },
-        {
-          "title": "Ethiopia claims Eritrea , Sudan and Egypt helping rebels",
-          "link": "https://www.edenmagnet.com.au/story/9359065/ethiopia-claims-eritrea-sudan-and-egypt-helping-rebels/",
-          "source": "edenmagnet.com.au",
-          "pubDate": "2026-09-28T19:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia claims Eritrea , Sudan and Egypt helping rebels"
-        },
-        {
-          "title": "Ethiopia claims Eritrea , Sudan and Egypt helping rebels",
-          "link": "https://www.illawarramercury.com.au/story/9359065/ethiopia-claims-eritrea-sudan-and-egypt-helping-rebels/",
-          "source": "illawarramercury.com.au",
-          "pubDate": "2026-09-28T19:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia claims Eritrea , Sudan and Egypt helping rebels"
-        },
-        {
-          "title": "Ethiopia army chief accuses Eritrea , Sudan and Egypt of supporting Tigray rebels | World News",
-          "link": "https://www.2news.com/news/world/ethiopia-s-army-chief-accuses-eritrea-sudan-and-egypt-of-supporting-tigray-rebels/article_c862e1c8-1f0a-522b-acc2-a7635d7d50b6.html",
-          "source": "2news.com",
-          "pubDate": "2026-09-28T18:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia army chief accuses Eritrea , Sudan and Egypt of supporting Tigray rebels | World News"
-        },
-        {
-          "title": "Ethiopia army chief accuses Eritrea , Sudan and Egypt of supporting Tigray rebels",
-          "link": "https://www.therecord.com/news/world/africa/ethiopia-s-army-chief-accuses-eritrea-sudan-and-egypt-of-supporting-tigray-rebels/article_8beff140-249b-532a-a651-cb8f173efede.html",
-          "source": "therecord.com",
-          "pubDate": "2026-09-28T17:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia army chief accuses Eritrea , Sudan and Egypt of supporting Tigray rebels"
-        },
-        {
-          "title": "Ethiopia army chief accuses Eritrea , Sudan and Egypt of supporting Tigray rebels | News",
-          "link": "https://kdhnews.com/news/world/ethiopia-s-army-chief-accuses-eritrea-sudan-and-egypt-of-supporting-tigray-rebels/article_ba8769c4-b0c4-578c-b4eb-aec11b32fdfd.html",
-          "source": "kdhnews.com",
-          "pubDate": "2026-09-28T16:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia army chief accuses Eritrea , Sudan and Egypt of supporting Tigray rebels | News"
-        }
-      ]
-    },
-    "ethiopia-sea-access": {
-      "title": "Accesso etiope al mare",
-      "items": [
-        {
-          "title": "Somalia: Al-Shabaab Fighters Spent 3 Months in Yemen Learning Drone Assembly , Control Systems",
-          "link": "https://allafrica.com/stories/202609300109.html",
-          "description": "[Shabelle] Sanaa -- Fighters from Somalia's militant group Al-Shabaab reportedly spent three months in Yemen's northern province of Saada receiving training in the assembly and operation of unmanned aerial vehicles (UAVs), according to local and security reports.",
-          "pubDate": "Wed, 30 Sep 2026 06:49:19 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Somalia: Al-Shabaab Fighters Spent 3 Months in Yemen Learning Drone Assembly , Control Systems"
-        },
-        {
-          "title": "Somalia: U.S. Warns of Growing Houthi-Al-Shabaab Links and Regional Security Risks",
-          "link": "https://allafrica.com/stories/202609290191.html",
-          "description": "[Shabelle] Mogadishu, Somalia -- The expanding links between Yemen's Houthi movement and Somalia's Al-Shabaab group are raising concerns among U.S. officials and security experts over the potential impact on security in the Horn of Africa and key maritime routes.",
-          "pubDate": "Tue, 29 Sep 2026 10:59:34 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Somalia: U.S. Warns of Growing Houthi-Al-Shabaab Links and Regional Security Risks"
-        },
-        {
-          "title": "Meloni discusses diplomatic efforts to reduce tensions with bin Salman",
-          "link": "https://www.ansa.it/english/news/politics/2026/09/29/meloni-discusses-diplomatic-efforts-to-reduce-tensions-with-bin-salman_0c5886b7-026c-4b34-acb7-ee2e032fe842.html",
-          "description": "(ANSA) - ROME, 29 SET - Premier Giorgia Meloni had a telephone conversation on Tuesday with Saudi Arabia Crown Prince and Prime Minister Mohamed bin Salman Al-Saud, her office said in a statement It said Meloni expressed Italy's \"solidarity with Saudi Arabia\" and that the two leaders then discussed the situation in the Middle East and \"the possibilities to reduce tensions and pursue diplomatic solutions, while reaffirming the central importance of freedom of navigation through the Strait of Hormuz and the Bab el-Mandeb Strait\" (ANSA). Read article...",
-          "pubDate": "Tue, 29 Sep 2026 12:07:52 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "Meloni discusses diplomatic efforts to reduce tensions with bin Salman"
-        },
-        {
-          "title": "DRC: Vally Amisi’s Family Demands Answers [Africanews Today]",
-          "link": "http://www.africanews.com/2026/09/28/drc-vally-amisis-family-demands-answers-africanews-today/",
-          "description": "In the DRC, Vally Amisi’s family is demanding answers. In Ethiopia, fears of renewed conflict are growing among the population, while Niger takes back control of its uranium sector.",
-          "pubDate": "Mon, 28 Sep 2026 18:40:05 +0000",
+          "title": "Sudan rejects Ethiopia’s claims of backing Tigray forces",
+          "link": "http://www.africanews.com/2026/09/28/sudan-rejects-ethiopias-claims-of-backing-tigray-forces/",
+          "description": "Sudan’s military is rejecting accusations from Ethiopia that Khartoum is backing armed groups fighting government forces in the north, calling the claims “baseless.”",
+          "pubDate": "Mon, 28 Sep 2026 13:54:44 +0000",
           "source": "Africanews",
           "lang": "en",
-          "titleIt": "DRC: Vally Amisi’s Family Demands Answers [Africanews Today]"
-        },
-        {
-          "title": "Ethiopia fighting intensifies as Government forces retake Alamata",
-          "link": "http://www.africanews.com/2026/09/28/ethiopia-fighting-intensifies-as-government-forces-retake-alamata/",
-          "description": "Fighting is intensifying in northern Ethiopia, with pro-government forces saying they have retaken the strategic town of Alamata in southern Tigray.",
-          "pubDate": "Mon, 28 Sep 2026 16:11:58 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "Ethiopia fighting intensifies as Government forces retake Alamata"
+          "titleIt": "Sudan rejects Ethiopia’s claims of backing Tigray forces"
         },
         {
           "title": "Somalia: Heavy Fighting Erupts in Baidoa as Rival Forces Trade Claims",
@@ -438,24 +262,6 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "'Your account has been disabled': The new wave of online attacks silencing Somali journalists continues"
-        },
-        {
-          "title": "Ethiopians celebrate Meskel and call for peace amid renewed fighting",
-          "link": "http://www.africanews.com/2026/09/27/ethiopians-celebrate-meskel-and-call-for-peace-amid-renewed-fighting/",
-          "description": "This year's celebration came as renewed fighting between Ethiopian federal troops and fighters loyal to the Tigray People's Liberation Front, or TPLF, raised fears of another major conflict in the country's north",
-          "pubDate": "Sun, 27 Sep 2026 13:38:01 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "Ethiopians celebrate Meskel and call for peace amid renewed fighting"
-        },
-        {
-          "title": "Are Ethiopians marching back to war in Tigray?",
-          "link": "https://www.bbc.co.uk/news/articles/c6d94wywx0ypo?at_medium=RSS&at_campaign=rss",
-          "description": "Exploring the issues behind the escalation of tensions between the TPLF and the national army.",
-          "pubDate": "Fri, 25 Sep 2026 23:42:39 GMT",
-          "source": "BBC Africa",
-          "lang": "en",
-          "titleIt": "Are Ethiopians marching back to war in Tigray?"
         },
         {
           "title": "For Josphine Njeru, Protecting Civilians Is the True Measure of Success in Somalia",
@@ -503,13 +309,13 @@
           "titleIt": "New Ethiopian Coalition Emerges as Reported Drone Strike Destroys Tigray Aid"
         },
         {
-          "title": "Somali journalist Mohamed Aweys Muudey stabbed to death in exile in Germany",
-          "link": "https://hornobserver.com/articles/3754/Somali-journalist-Mohamed-Aweys-Muudey-stabbed-to-death-in-exile-in-Germany",
-          "description": "According to a joint press release from the Darmstadt Public Prosecutor's Office and the South Hesse Police Headquarters, Mohamed Aweys Muudey, 68, an asylum seeker who had fled Somalia, was stabbed inside his communal accommodation by a 28-year-old suspect who is now in police custody. Muudey left Somalia in search of safety and protection. However, his life was cut short in a violent knife attack, highlighting the dangers many journalists in exile continue to face. He spent several years in prison in Ethiopia where he was arrested while seeking protection in 2014 before he was pardoned. Muud",
-          "pubDate": "Sun, 20 Sep 2026 13:43:07 +0300",
+          "title": "SJS mourns Somali radio journalist Hassan Kafi Qoyste who died at 57",
+          "link": "https://hornobserver.com/articles/3753/SJS-mourns-Somali-radio-journalist-Hassan-Kafi-Qoyste-who-died-at-57",
+          "description": "Ayanle Hassan, Qoyste's son, told SJS that his father, who was diabetic, fell ill on Friday night and was rushed to hospital, where he was pronounced dead. The late Qoyste was a veteran journalist and one of the most remarkable radio journalists in Somalia, known for his distinctive and memorable voice. He first worked as an archive manager at the Ministry of Labour of the Somali central government in the 1980s before joining the print media in Mogadishu in the early 1990s, as the country descended into civil war. Qoyste became involved in journalism after his family moved from Beledweyne in c",
+          "pubDate": "Sun, 20 Sep 2026 13:41:07 +0300",
           "source": "Horn Observer",
           "lang": "en",
-          "titleIt": "Somali journalist Mohamed Aweys Muudey stabbed to death in exile in Germany"
+          "titleIt": "SJS mourns Somali radio journalist Hassan Kafi Qoyste who died at 57"
         },
         {
           "title": "Somali Journalist Mohamed Aweys Moodey Dies After Stabbing in Germany",
@@ -540,107 +346,143 @@
         }
       ]
     },
-    "egypt-economy": {
-      "title": "Fragilità economica egiziana",
+    "ethiopia-sea-access": {
+      "title": "Accesso etiope al mare",
       "items": [
         {
-          "title": "UAE Business : Radisson targets 150 regional hotels , serviced apartments by 2030",
-          "link": "https://www.gdnonline.com:443/Details/1408114/Radisson-targets-150-regional-hotels,-serviced-apartments-by-2030",
-          "source": "gdnonline.com",
-          "pubDate": "2026-09-30T08:00:00Z",
+          "title": "Lamu Refinery to Expand Ethiopia Fuel Supply Options and Strengthen Regional Trade , PM Abiy Says",
+          "link": "https://www.2merkato.com/news/energy-and-mining/9003-lamu-refinery-to-expand-ethiopias-fuel-supply-options-and-strengthen-regional-trade-pm-abiy-says",
+          "source": "2merkato.com",
+          "pubDate": "2026-09-30T15:30:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "UAE Business : Radisson targets 150 regional hotels , serviced apartments by 2030"
+          "titleIt": "Lamu Refinery to Expand Ethiopia Fuel Supply Options and Strengthen Regional Trade , PM Abiy Says"
         },
         {
-          "title": "BRICS+ creative economy : Where new growth centres are emerging",
-          "link": "http://www.caribbeanherald.com/news/279342224/brics-creative-economy-where-new-growth-centres-are-emerging",
-          "source": "caribbeanherald.com",
-          "pubDate": "2026-09-30T08:00:00Z",
+          "title": "Ethiopia: Tensions Return to Tigray - Fears of a New Civil War",
+          "link": "https://allafrica.com/stories/202609300551.html",
+          "description": "[Agenzia Fides] Mekelle -- Fears of a new escalation in Ethiopia are growing following the resumption of fighting in the north of the country and an offensive by Tigrayan fighters in the neighboring regions of Afar and Amhara. Concern is also mounting over the formation of a new alliance of armed groups that has declared its intention to overthrow the government of Prime Minister Abiy Ahmed.",
+          "pubDate": "Wed, 30 Sep 2026 14:55:48 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Ethiopia: Tensions Return to Tigray - Fears of a New Civil War"
+        },
+        {
+          "title": "African heads of state break ground for $16B oil refinery project",
+          "link": "https://kdhnews.com/news/world/african-heads-of-state-break-ground-for-16b-oil-refinery-project/article_4a6d39b8-f5c2-5728-9e3e-c7b1d4e782f0.html",
+          "source": "kdhnews.com",
+          "pubDate": "2026-09-30T14:30:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "BRICS+ creative economy : Where new growth centres are emerging"
+          "titleIt": "African heads of state break ground for $16B oil refinery project"
         },
         {
-          "title": "GEC+Africa 2026 forges connections to fuel entrepreneurship across the continent",
-          "link": "https://www.timeslive.co.za/news/2026-09-30-gecafrica-2026-forges-connections-to-fuel-entrepreneurship-across-the-continent/",
-          "source": "timeslive.co.za",
-          "pubDate": "2026-09-30T08:00:00Z",
+          "title": "African heads of state break ground for $16B oil refinery project",
+          "link": "https://www.naharnet.com/stories/en/322828-african-heads-of-state-break-ground-for-16b-oil-refinery-project",
+          "source": "naharnet.com",
+          "pubDate": "2026-09-30T14:00:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "GEC+Africa 2026 forges connections to fuel entrepreneurship across the continent"
+          "titleIt": "African heads of state break ground for $16B oil refinery project"
         },
         {
-          "title": "Sisi says Egypt lost about $20 billion in Suez Canal revenue amid regional instability",
-          "link": "https://www.middleeastmonitor.com/20260930-sisi-says-egypt-lost-about-20-billion-in-suez-canal-revenue-amid-regional-instability/",
-          "source": "middleeastmonitor.com",
+          "title": "Egypt seeks greater share of Nile water amid rising tension with Ethiopia",
+          "link": "https://www.thenationalnews.com/news/mena/2026/09/30/egypt-seeks-greater-share-of-nile-water-amid-rising-tension-with-ethiopia/",
+          "source": "thenationalnews.com",
+          "pubDate": "2026-09-30T14:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt seeks greater share of Nile water amid rising tension with Ethiopia"
+        },
+        {
+          "title": "Ruto and Dangote Break Ground for Sh2 . 2 Trillion Lamu Oil Refinery",
+          "link": "https://www.ghafla.co.ke/ruto-and-dangote-break-ground-for-sh2-2-trillion-lamu-oil-refinery/",
+          "source": "ghafla.co.ke",
+          "pubDate": "2026-09-30T13:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ruto and Dangote Break Ground for Sh2 . 2 Trillion Lamu Oil Refinery"
+        },
+        {
+          "title": "African heads of state break ground for $16B oil refinery project",
+          "link": "https://abcnews.com/Business/wireStory/african-heads-state-break-ground-16b-oil-refinery-136882836",
+          "source": "abcnews.com",
+          "pubDate": "2026-09-30T13:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "African heads of state break ground for $16B oil refinery project"
+        },
+        {
+          "title": "African heads of state break ground for $16B oil refinery project",
+          "link": "https://www.stcatharinesstandard.ca/business/african-heads-of-state-break-ground-for-16b-oil-refinery-project/article_b2c28b10-eab2-54d3-931d-d8945a1eaae4.html",
+          "source": "stcatharinesstandard.ca",
+          "pubDate": "2026-09-30T12:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "African heads of state break ground for $16B oil refinery project"
+        },
+        {
+          "title": "African heads of state break ground for $16B oil refinery project",
+          "link": "https://www.naharnet.com:443/stories/en/322828-african-heads-of-state-break-ground-for-16b-oil-refinery-project",
+          "source": "naharnet.com",
+          "pubDate": "2026-09-30T12:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "African heads of state break ground for $16B oil refinery project"
+        },
+        {
+          "title": "Ethiopia: Ethiopian Federal Forces Reportedly Advance Deep Into Tigray Toward Mekelle",
+          "link": "https://allafrica.com/stories/202609300324.html",
+          "description": "[Shabelle] Mekelle, Ethiopia -- Ethiopian federal forces have reportedly advanced more than 150 kilometres into the Tigray region and are moving closer to Mekelle, according to sources cited by Al Jazeera, amid renewed fighting in northern Ethiopia.",
+          "pubDate": "Wed, 30 Sep 2026 11:35:17 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Ethiopia: Ethiopian Federal Forces Reportedly Advance Deep Into Tigray Toward Mekelle"
+        },
+        {
+          "title": "PS Karugu hails Dangote Lamu refinery as boost to East Africa integration",
+          "link": "https://capitalfm.africa/ps-karugu-hails-dangote-lamu-refinery-as-boost-to-east-africa-integration/",
+          "source": "capitalfm.africa",
           "pubDate": "2026-09-30T07:45:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Sisi says Egypt lost about $20 billion in Suez Canal revenue amid regional instability"
+          "titleIt": "PS Karugu hails Dangote Lamu refinery as boost to East Africa integration"
         },
         {
-          "title": "BRICS+ creative economy : Where new growth centres are emerging",
-          "link": "https://news.webindia123.com/news/Articles/World/20260930/4505245.html",
-          "source": "news.webindia123.com",
-          "pubDate": "2026-09-30T07:15:00Z",
+          "title": "Oburu welcomes Sh2 . 2tn Dangote Lamu Refinery , calls it catalyst for industrialization",
+          "link": "https://capitalfm.africa/oburu-welcomes-sh2-2tn-dangote-lamu-refinery-calls-it-catalyst-for-industrialization/",
+          "source": "capitalfm.africa",
+          "pubDate": "2026-09-30T07:45:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "BRICS+ creative economy : Where new growth centres are emerging"
+          "titleIt": "Oburu welcomes Sh2 . 2tn Dangote Lamu Refinery , calls it catalyst for industrialization"
         },
         {
-          "title": "Taiwan debate over textbooks highlights calls to preserve traditional Chinese culture",
-          "link": "http://en.people.cn/n3/2026/0930/c90000-20505113.html",
-          "source": "en.people.cn",
-          "pubDate": "2026-09-30T07:15:00Z",
+          "title": "Six heads of state to join Ruto for Lamu refinery launch",
+          "link": "https://www.standardmedia.co.ke/business/business/article/2001559012/six-heads-of-state-to-join-ruto-for-lamu-refinery-launch",
+          "source": "standardmedia.co.ke",
+          "pubDate": "2026-09-30T07:45:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Taiwan debate over textbooks highlights calls to preserve traditional Chinese culture"
+          "titleIt": "Six heads of state to join Ruto for Lamu refinery launch"
         },
         {
-          "title": "Canada IV : The Twenty Who Remained Outside the Shield",
-          "link": "http://www.torontotelegraph.com/news/279341716/canada-iv-the-twenty-who-remained-outside-the-shield",
-          "source": "torontotelegraph.com",
-          "pubDate": "2026-09-30T05:45:00Z",
+          "title": "Somalia: Al-Shabaab Fighters Spent 3 Months in Yemen Learning Drone Assembly , Control Systems",
+          "link": "https://allafrica.com/stories/202609300109.html",
+          "description": "[Shabelle] Sanaa -- Fighters from Somalia's militant group Al-Shabaab reportedly spent three months in Yemen's northern province of Saada receiving training in the assembly and operation of unmanned aerial vehicles (UAVs), according to local and security reports.",
+          "pubDate": "Wed, 30 Sep 2026 06:49:19 GMT",
+          "source": "AllAfrica",
           "lang": "en",
-          "description": "",
-          "titleIt": "Canada IV : The Twenty Who Remained Outside the Shield"
+          "titleIt": "Somalia: Al-Shabaab Fighters Spent 3 Months in Yemen Learning Drone Assembly , Control Systems"
         },
         {
-          "title": "Canada IV : The Twenty Who Remained Outside the Shield",
-          "link": "http://www.torontotelegraph.com/news/279341727/canada-iv-the-twenty-who-remained-outside-the-shield",
-          "source": "torontotelegraph.com",
-          "pubDate": "2026-09-30T05:45:00Z",
+          "title": "Tanzania Removes Special Visa Clearance for Nigerians",
+          "link": "https://allafrica.com/stories/202609300086.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-09-30T06:00:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Canada IV : The Twenty Who Remained Outside the Shield"
-        },
-        {
-          "title": "SECRET MIDEAST SUMMIT : Netanyahu , Saudi Arabia And 8 Other Nations Discuss Iran , Houthis And New Regional Alliance In Abu Dhabi",
-          "link": "https://www.theyeshivaworld.com/news/israel-news/2604016/secret-mideast-summit-netanyahu-saudi-arabia-and-8-other-nations-discuss-iran-houthis-and-new-regional-alliance-in-abu-dhabi.html",
-          "source": "theyeshivaworld.com",
-          "pubDate": "2026-09-30T03:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "SECRET MIDEAST SUMMIT : Netanyahu , Saudi Arabia And 8 Other Nations Discuss Iran , Houthis And New Regional Alliance In Abu Dhabi"
-        },
-        {
-          "title": "Iran tells the US public that Trump war has failed , and other Mideast developments",
-          "link": "https://www.woonsocketcall.com/news/national_and_world_news/iran-tells-the-us-public-that-trumps-war-has-failed-and-other-mideast-developments/article_2ec12a7c-2e5c-5937-b4e6-4e7fc156366b.html",
-          "source": "woonsocketcall.com",
-          "pubDate": "2026-09-30T03:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Iran tells the US public that Trump war has failed , and other Mideast developments"
-        },
-        {
-          "title": "Dow Jones dips 131 points after Treasury yields hit highest level since 2002",
-          "link": "http://www.sandiegosun.com/news/279341234/dow-jones-dips-131-points-after-treasury-yields-hit-highest-level-since-2002",
-          "source": "sandiegosun.com",
-          "pubDate": "2026-09-30T01:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Dow Jones dips 131 points after Treasury yields hit highest level since 2002"
+          "titleIt": "Tanzania Removes Special Visa Clearance for Nigerians"
         },
         {
           "title": "Beyond the Red Sea : Ethiopian - Eritrean Conflict Risks Converging With Yemen Crisis",
@@ -652,82 +494,77 @@
           "titleIt": "Beyond the Red Sea : Ethiopian - Eritrean Conflict Risks Converging With Yemen Crisis"
         },
         {
-          "title": "Dow Jones dips 131 points after Treasury yields hit highest level since 2002",
-          "link": "http://www.mainemirror.com/news/279341234/dow-jones-dips-131-points-after-treasury-yields-hit-highest-level-since-2002",
-          "source": "mainemirror.com",
-          "pubDate": "2026-09-30T01:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Dow Jones dips 131 points after Treasury yields hit highest level since 2002"
-        },
-        {
-          "title": "Dow Jones dips 131 points after Treasury yields hit highest level since 2002",
-          "link": "http://www.haitisun.com/news/279341234/dow-jones-dips-131-points-after-treasury-yields-hit-highest-level-since-2002",
-          "source": "haitisun.com",
-          "pubDate": "2026-09-30T01:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Dow Jones dips 131 points after Treasury yields hit highest level since 2002"
-        },
-        {
-          "title": "Stuck in the Suez Canal – the short version",
-          "link": "https://cathsenker.co.uk/stuck-in-the-suez-canal-the-short-version/",
-          "source": "cathsenker.co.uk",
-          "pubDate": "2026-09-29T22:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Stuck in the Suez Canal – the short version"
-        },
-        {
-          "title": "Wall Street weakens as bond rout escalates",
-          "link": "http://www.laosnews.net/news/279341234/wall-street-weakens-as-bond-rout-escalates",
-          "source": "laosnews.net",
-          "pubDate": "2026-09-29T22:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Wall Street weakens as bond rout escalates"
-        },
-        {
-          "title": "Dow Jones dips 131 points after Treasury yields hit highest level since 2002",
-          "link": "http://www.iraqsun.com/news/279341234/dow-jones-dips-131-points-after-treasury-yields-hit-highest-level-since-2002",
-          "source": "iraqsun.com",
-          "pubDate": "2026-09-29T22:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Dow Jones dips 131 points after Treasury yields hit highest level since 2002"
-        },
-        {
-          "title": "CBUAE , Central Bank of Egypt renew AED5 billion currency swap agreement",
-          "link": "http://www.azerbaijannews.net/news/279340454/cbuae-central-bank-of-egypt-renew-aed5-billion-currency-swap-agreement",
-          "source": "azerbaijannews.net",
-          "pubDate": "2026-09-29T18:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "CBUAE , Central Bank of Egypt renew AED5 billion currency swap agreement"
-        },
-        {
-          "title": "CBUAE , Central Bank of Egypt renew AED5 billion currency swap agreement",
-          "link": "http://www.caribbeanherald.com/news/279340454/cbuae-central-bank-of-egypt-renew-aed5-billion-currency-swap-agreement",
-          "source": "caribbeanherald.com",
-          "pubDate": "2026-09-29T18:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "CBUAE , Central Bank of Egypt renew AED5 billion currency swap agreement"
-        },
-        {
-          "title": "CBUAE , Central Bank of Egypt renew AED5 billion currency swap agreement",
-          "link": "http://www.orlandoecho.com/news/279340454/cbuae-central-bank-of-egypt-renew-aed5-billion-currency-swap-agreement",
-          "source": "orlandoecho.com",
+          "title": "Africa Intelligence Brief for Tuesday , September 29 , 2026",
+          "link": "https://www.riotimesonline.com/africa-intelligence-brief-tuesday-september-29-2026/",
+          "source": "riotimesonline.com",
           "pubDate": "2026-09-29T17:45:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "CBUAE , Central Bank of Egypt renew AED5 billion currency swap agreement"
+          "titleIt": "Africa Intelligence Brief for Tuesday , September 29 , 2026"
+        },
+        {
+          "title": "Ethiopia Peace Deal Is Unravelling - What Went Wrong With the Tigray Agreement",
+          "link": "https://allafrica.com/stories/202609290210.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-09-29T14:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia Peace Deal Is Unravelling - What Went Wrong With the Tigray Agreement"
+        },
+        {
+          "title": "Uganda Aquatics Gives Update on Africa Aquatics Zone III Championships",
+          "link": "https://kawowo.com/2026/09/29/uganda-aquatics-gives-update-on-africa-aquatics-zone-iii-championships/",
+          "source": "kawowo.com",
+          "pubDate": "2026-09-29T14:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Uganda Aquatics Gives Update on Africa Aquatics Zone III Championships"
+        },
+        {
+          "title": "Ethiopia reaffirms support for boosting integration in Horn of Africa",
+          "link": "https://www.plenglish.com/news/2026/09/29/ethiopia-reaffirms-support-for-boosting-integration-in-horn-of-africa/",
+          "source": "plenglish.com",
+          "pubDate": "2026-09-29T14:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia reaffirms support for boosting integration in Horn of Africa"
         }
       ]
+    },
+    "egypt-economy": {
+      "title": "Fragilità economica egiziana",
+      "items": []
     },
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
       "items": [
+        {
+          "title": "We will ensure Regeni ruling is enforced and seek compensation says Foti",
+          "link": "https://www.ansa.it/english/news/politics/2026/09/30/we-will-ensure-regeni-ruling-is-enforced-and-seek-compensation-says-foti_e3a8f7a3-8796-44c5-a8f1-4aeadf8a26b7.html",
+          "description": "(ANSA) - ROME, 30 SET - The government will ensure that Monday's conviction of three Egyptian security officials for the kidnapping of Giulio Regeni, an Italian student who was tortured to death in Cairo in 2016, is enforced and will also seek compensation from the Egyptian government, European Affairs Minister Tommaso Foti, a bigwig n Premier Giorgia Meloni's right-wing Brothers of Italy (FdI) party, told Italian TV Wednesday. The government will reportedly seek two million euros in damages from Cairo since the three officers convicted and sentenced to 10 years each for Regeni's abduction, bu",
+          "pubDate": "Wed, 30 Sep 2026 17:49:47 +0200",
+          "source": "ANSA English",
+          "lang": "en",
+          "titleIt": "We will ensure Regeni ruling is enforced and seek compensation says Foti"
+        },
+        {
+          "title": "We will ensure Regeni ruling is enforced and seek compensation says Foti",
+          "link": "https://www.ansa.it/english/news/2026/09/30/we-will-ensure-regeni-ruling-is-enforced-and-seek-compensation-says-foti_174db6f5-f292-4b86-855e-5965ac3ff29d.html",
+          "description": "(ANSA) - ROME, 30 SET - The government will ensure that Monday's conviction of three Egyptian security officials for the kidnapping of Giulio Regeni, an Italian student who was tortured to death in Cairo in 2016, is enforced and will also seek compensation from the Egyptian government, European Affairs Minister Tommaso Foti, a bigwig n Premier Giorgia Meloni's right-wing Brothers of Italy (FdI) party, told Italian TV Wednesday. The government will reportedly seek two million euros in damages from Cairo since the three officers convicted and sentenced to 10 years each for Regeni's abduction, bu",
+          "pubDate": "Wed, 30 Sep 2026 17:45:22 +0200",
+          "source": "ANSA English",
+          "lang": "en",
+          "titleIt": "We will ensure Regeni ruling is enforced and seek compensation says Foti"
+        },
+        {
+          "title": "Ethiopia: Tensions Return to Tigray - Fears of a New Civil War",
+          "link": "https://allafrica.com/stories/202609300551.html",
+          "description": "[Agenzia Fides] Mekelle -- Fears of a new escalation in Ethiopia are growing following the resumption of fighting in the north of the country and an offensive by Tigrayan fighters in the neighboring regions of Afar and Amhara. Concern is also mounting over the formation of a new alliance of armed groups that has declared its intention to overthrow the government of Prime Minister Abiy Ahmed.",
+          "pubDate": "Wed, 30 Sep 2026 14:55:48 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Ethiopia: Tensions Return to Tigray - Fears of a New Civil War"
+        },
         {
           "title": "Regeni family lawyer says govt must acknowledge ruling and sever ties with Egypt",
           "link": "https://www.ansa.it/english/news/general_news/2026/09/28/regeni-family-lawyer-says-govt-must-acknowledge-ruling-and-sever_b74a79fa-57e3-4b52-829f-9c8e3b49b9fa.html",
@@ -745,15 +582,6 @@
           "source": "ANSA English",
           "lang": "en",
           "titleIt": "Regeni family lawyer says govt must acknowledge ruling and sever ties with Egypt"
-        },
-        {
-          "title": "Power cuts, rubble: millions come home to find Sudan's capital unlivable",
-          "link": "http://www.africanews.com/2026/09/27/power-cuts-rubble-millions-come-home-to-find-sudans-capital-unlivable/",
-          "description": "They came home to a war-ruined city determined to rebuild their lives, but a chronic lack of power, water, jobs and medicine has left many residents of Sudan's capital wishing they had stayed away",
-          "pubDate": "Sun, 27 Sep 2026 14:29:28 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "Power cuts, rubble: millions come home to find Sudan's capital unlivable"
         },
         {
           "title": "Are Ethiopians marching back to war in Tigray?",
