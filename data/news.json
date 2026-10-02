@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T05:36:04.099Z",
+  "generatedAt": "2026-10-02T12:35:06.758Z",
   "feedsChecked": 10,
   "feedsAttempted": 10,
   "topics": {
@@ -165,6 +165,51 @@
       "title": "Dossier Somaliland",
       "items": [
         {
+          "title": "Residents of Kenya's Lamu island fear damage from mega-refinery",
+          "link": "http://www.africanews.com/2026/10/02/residents-of-kenyas-lamu-island-fear-damage-from-mega-refinery/",
+          "description": "The Kenyan island of Lamu is known for its stunning Indian Ocean setting and 12th-century Old Town. Cars are non-existent here and transport mostly happens by donkey. But the island is about to become home to one of Kenya’s largest industrial projects, raising fears of environmental damage.",
+          "pubDate": "Fri, 02 Oct 2026 10:19:03 +0000",
+          "source": "Africanews",
+          "lang": "en",
+          "titleIt": "Residents of Kenya's Lamu island fear damage from mega-refinery"
+        },
+        {
+          "title": "Kenya: Lecturers and University Staff Go On Strike",
+          "link": "https://allafrica.com/stories/202610020160.html",
+          "description": "[Capital FM] Nairobi -- Lecturers and other staff in public universities have begun a nationwide strike after their unions rejected a counter-offer by the Inter-Public Universities Councils Consultative Forum (IPUCCF) over the 2025-2029 Collective Bargaining Agreement (CBA).",
+          "pubDate": "Fri, 02 Oct 2026 09:37:56 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Kenya: Lecturers and University Staff Go On Strike"
+        },
+        {
+          "title": "Ethiopia and Eritrea sever diplomatic ties as Tigray fighting intensifies",
+          "link": "http://www.africanews.com/2026/10/02/ethiopia-and-eritrea-sever-ties-as-tigray-fighting-intensifies/",
+          "description": "Addis Ababa accused Eritrea of supporting the Tigray People's Liberation Front, which has launched attacks into the neighbouring Afar and Amhara regions. Ethiopia said it would expel 10 Eritrean diplomats and close its embassy in Asmara.",
+          "pubDate": "Fri, 02 Oct 2026 07:43:58 +0000",
+          "source": "Africanews",
+          "lang": "en",
+          "titleIt": "Ethiopia and Eritrea sever diplomatic ties as Tigray fighting intensifies"
+        },
+        {
+          "title": "Ethiopia: Overnight Explosions Reported in Addis Abeba Amid Northern Ethiopia Fighting",
+          "link": "https://allafrica.com/stories/202610020081.html",
+          "description": "[Addis Standard] Addis Ababa -- Explosions were heard in Ethiopia's capital shortly after midnight on Thursday, with diplomatic sources reporting blasts near the Ethiopian National Defense Forces (ENDF) headquarters and another military installation, as renewed fighting in northern Ethiopia raises concerns that the conflict could spread to the capital.",
+          "pubDate": "Fri, 02 Oct 2026 05:45:21 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Ethiopia: Overnight Explosions Reported in Addis Abeba Amid Northern Ethiopia Fighting"
+        },
+        {
+          "title": "Kenya: Kenya's Large Class Sizes Make It Harder for Teachers to Help Children Learn",
+          "link": "https://allafrica.com/stories/202610020009.html",
+          "description": "[The Conversation Africa] Kenya introduced a competency-based approach to education in 2017. It was meant to give learners a range of skills, from basic reading, writing and arithmetic to critical thinking, creativity, digital literacy and social-emotional skills.",
+          "pubDate": "Fri, 02 Oct 2026 04:54:41 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Kenya: Kenya's Large Class Sizes Make It Harder for Teachers to Help Children Learn"
+        },
+        {
           "title": "East African countries are racing to finish preparations ahead of AFCON 2027",
           "link": "http://www.africanews.com/2026/10/01/east-african-countries-are-racing-to-finish-preparations-ahead-of-afcon-2027/",
           "description": "With less than nine months to go before the start of the 2027 Africa Cup of Nations, host nations Kenya, Tanzania and Uganda are scrambling to finish preparations amid rumours of a potential relocation.",
@@ -296,13 +341,49 @@
       "title": "Accesso etiope al mare",
       "items": [
         {
-          "title": "Ethiopia: Ethiopia Decides to Close Embassy in Asmara, Declares 10 Eritrean Diplomats Persona Non Grata",
+          "title": "How fresh fighting in Tigray could spark wider conflict in Ethiopia",
+          "link": "https://www.bbc.co.uk/news/articles/c6d94wywx0ypo?at_medium=RSS&at_campaign=rss",
+          "description": "Exploring the issues behind the escalation of tensions between the TPLF and the national army.",
+          "pubDate": "Fri, 02 Oct 2026 11:24:13 GMT",
+          "source": "BBC Africa",
+          "lang": "en",
+          "titleIt": "How fresh fighting in Tigray could spark wider conflict in Ethiopia"
+        },
+        {
+          "title": "Ethiopia and Eritrea cut diplomatic ties as northern conflict escalates",
+          "link": "https://www.bbc.co.uk/news/articles/crpd0d0jl0y0o?at_medium=RSS&at_campaign=rss",
+          "description": "The diplomatic fallout comes as Ethiopian forces battle rebel fighters across its northern region.",
+          "pubDate": "Fri, 02 Oct 2026 10:04:56 GMT",
+          "source": "BBC Africa",
+          "lang": "en",
+          "titleIt": "Ethiopia and Eritrea cut diplomatic ties as northern conflict escalates"
+        },
+        {
+          "title": "Ethiopia and Eritrea sever diplomatic ties as Tigray fighting intensifies",
+          "link": "http://www.africanews.com/2026/10/02/ethiopia-and-eritrea-sever-ties-as-tigray-fighting-intensifies/",
+          "description": "Addis Ababa accused Eritrea of supporting the Tigray People's Liberation Front, which has launched attacks into the neighbouring Afar and Amhara regions. Ethiopia said it would expel 10 Eritrean diplomats and close its embassy in Asmara.",
+          "pubDate": "Fri, 02 Oct 2026 07:43:58 +0000",
+          "source": "Africanews",
+          "lang": "en",
+          "titleIt": "Ethiopia and Eritrea sever diplomatic ties as Tigray fighting intensifies"
+        },
+        {
+          "title": "Ethiopia: Overnight Explosions Reported in Addis Abeba Amid Northern Ethiopia Fighting",
+          "link": "https://allafrica.com/stories/202610020081.html",
+          "description": "[Addis Standard] Addis Ababa -- Explosions were heard in Ethiopia's capital shortly after midnight on Thursday, with diplomatic sources reporting blasts near the Ethiopian National Defense Forces (ENDF) headquarters and another military installation, as renewed fighting in northern Ethiopia raises concerns that the conflict could spread to the capital.",
+          "pubDate": "Fri, 02 Oct 2026 05:45:21 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Ethiopia: Overnight Explosions Reported in Addis Abeba Amid Northern Ethiopia Fighting"
+        },
+        {
+          "title": "Ethiopia: Govt Declares 10 Eritrean Diplomats Persona Non Grata",
           "link": "https://allafrica.com/stories/202610020023.html",
           "description": "[ENA] Addis Ababa -- Ethiopia has decided to close its Embassy in Asmara, Eritrea, and declared 10 Eritrean diplomats in Addis Ababa persona non grata and ordered them to leave the country within 48 hours.",
           "pubDate": "Fri, 02 Oct 2026 05:05:50 GMT",
           "source": "AllAfrica",
           "lang": "en",
-          "titleIt": "Ethiopia: Ethiopia Decides to Close Embassy in Asmara, Declares 10 Eritrean Diplomats Persona Non Grata"
+          "titleIt": "Ethiopia: Govt Declares 10 Eritrean Diplomats Persona Non Grata"
         },
         {
           "title": "Ethiopia: 'We Are Completely Isolated - Humanitarian Access Is Urgently Needed'",
@@ -348,15 +429,6 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "'Your account has been disabled': The new wave of online attacks silencing Somali journalists continues"
-        },
-        {
-          "title": "Are Ethiopians marching back to war in Tigray?",
-          "link": "https://www.bbc.co.uk/news/articles/c6d94wywx0ypo?at_medium=RSS&at_campaign=rss",
-          "description": "Exploring the issues behind the escalation of tensions between the TPLF and the national army.",
-          "pubDate": "Fri, 25 Sep 2026 23:42:39 GMT",
-          "source": "BBC Africa",
-          "lang": "en",
-          "titleIt": "Are Ethiopians marching back to war in Tigray?"
         },
         {
           "title": "For Josphine Njeru, Protecting Civilians Is the True Measure of Success in Somalia",
@@ -440,31 +512,22 @@
       "title": "Opacità sui rilasci GERD",
       "items": [
         {
-          "title": "Ethiopia expels Egyptian diplomat as regional tensions escalate",
-          "link": "https://www.radiotamazuj.org/en/news/article/ethiopia-expels-egyptian-diplomat-as-regional-tensions-escalate",
-          "source": "radiotamazuj.org",
-          "pubDate": "2026-10-01T23:00:00Z",
+          "title": "How fresh fighting in Tigray could spark wider conflict in Ethiopia",
+          "link": "https://www.bbc.co.uk/news/articles/c6d94wywx0ypo?at_medium=RSS&at_campaign=rss",
+          "description": "Exploring the issues behind the escalation of tensions between the TPLF and the national army.",
+          "pubDate": "Fri, 02 Oct 2026 11:24:13 GMT",
+          "source": "BBC Africa",
           "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia expels Egyptian diplomat as regional tensions escalate"
+          "titleIt": "How fresh fighting in Tigray could spark wider conflict in Ethiopia"
         },
         {
-          "title": "Ethiopia : Beyond GERD - Ethiopia Next Move On the Nile",
-          "link": "https://allafrica.com/stories/202610010633.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-10-01T22:30:00Z",
+          "title": "Egypt expels Ethiopian diplomat in growing rife over Blue Nile dam",
+          "link": "http://www.africanews.com/2026/10/02/egypt-expels-ethiopian-diplomat-in-growing-rife-over-nile-dam/",
+          "description": "The tit for tat move on Thursday came after Addis Ababa expelled an Egyptian official, further straining relations between the two countries.",
+          "pubDate": "Fri, 02 Oct 2026 11:09:32 +0000",
+          "source": "Africanews",
           "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia : Beyond GERD - Ethiopia Next Move On the Nile"
-        },
-        {
-          "title": "Ethiopia claims over 22 development projects blocked by external opposition , citing collected evidence",
-          "link": "https://capitalethiopia.com/2026/10/01/ethiopia-claims-over-22-development-projects-blocked-by-external-opposition-citing-collected-evidence/",
-          "source": "capitalethiopia.com",
-          "pubDate": "2026-10-01T22:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia claims over 22 development projects blocked by external opposition , citing collected evidence"
+          "titleIt": "Egypt expels Ethiopian diplomat in growing rife over Blue Nile dam"
         },
         {
           "title": "We will ensure Regeni ruling is enforced and seek compensation says Foti",
@@ -485,139 +548,31 @@
           "titleIt": "We will ensure Regeni ruling is enforced and seek compensation says Foti"
         },
         {
-          "title": "Egypt seeks greater share of Nile water amid rising tension with Ethiopia",
-          "link": "https://www.thenationalnews.com/news/mena/2026/09/30/egypt-seeks-greater-share-of-nile-water-amid-rising-tension-with-ethiopia/",
-          "source": "thenationalnews.com",
-          "pubDate": "2026-09-30T14:00:00Z",
+          "title": "AU, U.S. Call for De-escalation as Tensions Rise in Tigray",
+          "link": "https://hornobserver.com/articles/3761/AU-US-Call-for-De-escalation-as-Tensions-Rise-in-Tigray",
+          "description": "African Union Commission Chairperson Mahmoud Ali Youssouf expressed concern over reports that Tigray forces had seized the airports in Mekelle, Axum and Shire, detained federal personnel and disrupted civilian air services. Ethiopian Airlines suspended flights to the three destinations on Wednesday, citing the \"current situation\" in the region, according to Addis Standard. The airline said passengers would be notified when services resume. Separately, officials in northwestern Tigray said a truck carrying grain for displaced families was struck by drones near Adi Daero on the Shire–Sheraro roa",
+          "pubDate": "Wed, 23 Sep 2026 18:54:08 +0300",
+          "source": "Horn Observer",
           "lang": "en",
-          "description": "",
-          "titleIt": "Egypt seeks greater share of Nile water amid rising tension with Ethiopia"
+          "titleIt": "AU, U.S. Call for De-escalation as Tensions Rise in Tigray"
         },
         {
-          "title": "Beyond the Red Sea : Ethiopian - Eritrean Conflict Risks Converging With Yemen Crisis",
-          "link": "https://themedialine.org/top-stories/beyond-the-red-sea-ethiopian-eritrean-conflict-risks-converging-with-yemen-crisis/",
-          "source": "themedialine.org",
-          "pubDate": "2026-09-30T01:15:00Z",
+          "title": "Somali journalist Mohamed Aweys Muudey stabbed to death in exile in Germany",
+          "link": "https://hornobserver.com/articles/3754/Somali-journalist-Mohamed-Aweys-Muudey-stabbed-to-death-in-exile-in-Germany",
+          "description": "According to a joint press release from the Darmstadt Public Prosecutor's Office and the South Hesse Police Headquarters, Mohamed Aweys Muudey, 68, an asylum seeker who had fled Somalia, was stabbed inside his communal accommodation by a 28-year-old suspect who is now in police custody. Muudey left Somalia in search of safety and protection. However, his life was cut short in a violent knife attack, highlighting the dangers many journalists in exile continue to face. He spent several years in prison in Ethiopia where he was arrested while seeking protection in 2014 before he was pardoned. Muud",
+          "pubDate": "Sun, 20 Sep 2026 13:43:07 +0300",
+          "source": "Horn Observer",
           "lang": "en",
-          "description": "",
-          "titleIt": "Beyond the Red Sea : Ethiopian - Eritrean Conflict Risks Converging With Yemen Crisis"
+          "titleIt": "Somali journalist Mohamed Aweys Muudey stabbed to death in exile in Germany"
         },
         {
-          "title": "African leaders to gather in Egypt for business summit",
-          "link": "https://www.al-monitor.com/originals/2026/09/african-leaders-gather-egypt-business-summit",
-          "source": "al-monitor.com",
-          "pubDate": "2026-09-29T14:45:00Z",
+          "title": "Somali Journalist Mohamed Aweys Moodey Dies After Stabbing in Germany",
+          "link": "https://hornobserver.com/articles/3752/Somali-Journalist-Mohamed-Aweys-Moodey-Dies-After-Stabbing-in-Germany",
+          "description": "The incident reportedly occurred at a residential facility. German authorities have identified a 28-year-old Somali man as the suspect. Police and prosecutors are investigating the circumstances of the incident, including the motive and whether it was connected to an earlier dispute between the two men. Moodey was a veteran journalist who worked in Somali media for many years. In 2014, he was arrested in Ethiopia and later sentenced to 27 years in prison under the country's anti-terrorism laws. The International Federation of Journalists and the National Union of Somali Journalists called for ",
+          "pubDate": "Sat, 19 Sep 2026 22:49:53 +0300",
+          "source": "Horn Observer",
           "lang": "en",
-          "description": "",
-          "titleIt": "African leaders to gather in Egypt for business summit"
-        },
-        {
-          "title": "Ethiopia reaffirms support for boosting integration in Horn of Africa",
-          "link": "https://www.plenglish.com/news/2026/09/29/ethiopia-reaffirms-support-for-boosting-integration-in-horn-of-africa/",
-          "source": "plenglish.com",
-          "pubDate": "2026-09-29T14:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia reaffirms support for boosting integration in Horn of Africa"
-        },
-        {
-          "title": "Egypt Denies Backing Rebel Forces After Ethiopian General Allegation",
-          "link": "https://egyptianstreets.com/2026/09/29/egypt-denies-backing-rebel-forces-after-ethiopian-generals-allegation/",
-          "source": "egyptianstreets.com",
-          "pubDate": "2026-09-29T12:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egypt Denies Backing Rebel Forces After Ethiopian General Allegation"
-        },
-        {
-          "title": "African leaders to meet in Egypt for business summit",
-          "link": "https://punchng.com/african-leaders-to-meet-in-egypt-for-business-summit/",
-          "source": "punchng.com",
-          "pubDate": "2026-09-29T10:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "African leaders to meet in Egypt for business summit"
-        },
-        {
-          "title": "Cairo denies Ethiopian army chief accusations of supporting opposition armed groups – Middle East Monitor",
-          "link": "https://www.middleeastmonitor.com/20260929-cairo-denies-ethiopian-army-chiefs-accusations-of-supporting-opposition-armed-groups/",
-          "source": "middleeastmonitor.com",
-          "pubDate": "2026-09-29T09:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Cairo denies Ethiopian army chief accusations of supporting opposition armed groups – Middle East Monitor"
-        },
-        {
-          "title": "Eritrea proxy war against Ethiopia - Israel & Jewish News",
-          "link": "https://www.jns.org/opinion/habtom-ghebrezghiabher/eritreas-proxy-war-against-ethiopia",
-          "source": "jns.org",
-          "pubDate": "2026-09-29T09:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Eritrea proxy war against Ethiopia - Israel & Jewish News"
-        },
-        {
-          "title": "Sudan rejects Ethiopian accusation of backing armed groups",
-          "link": "https://www.radiotamazuj.org/en/news/article/sudan-rejects-ethiopian-accusation-of-backing-armed-groups",
-          "source": "radiotamazuj.org",
-          "pubDate": "2026-09-28T04:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Sudan rejects Ethiopian accusation of backing armed groups"
-        },
-        {
-          "title": "Should Africa Get a United Nations Security Council ( UNSC ) Seat ? Why This Is Not a Good Idea",
-          "link": "https://wardheernews.com/should-africa-get-a-united-nations-security-council-unsc-seat-why-this-is-not-a-good-idea/",
-          "source": "wardheernews.com",
-          "pubDate": "2026-09-28T01:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Should Africa Get a United Nations Security Council ( UNSC ) Seat ? Why This Is Not a Good Idea"
-        },
-        {
-          "title": "Ethiopia Foretold War Arrives",
-          "link": "https://allafrica.com/stories/202609270104.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-09-27T17:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia Foretold War Arrives"
-        },
-        {
-          "title": "Egyptian Source Denies Cairo Involvement in Ethiopia Unrest",
-          "link": "https://english.aawsat.com/arab-world/5323055-egyptian-source-denies-cairo-involvement-ethiopia-unrest",
-          "source": "english.aawsat.com",
-          "pubDate": "2026-09-27T10:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egyptian Source Denies Cairo Involvement in Ethiopia Unrest"
-        },
-        {
-          "title": "Are Ethiopians marching back to war in Tigray?",
-          "link": "https://www.bbc.co.uk/news/articles/c6d94wywx0ypo?at_medium=RSS&at_campaign=rss",
-          "description": "Exploring the issues behind the escalation of tensions between the TPLF and the national army.",
-          "pubDate": "Fri, 25 Sep 2026 23:42:39 GMT",
-          "source": "BBC Africa",
-          "lang": "en",
-          "titleIt": "Are Ethiopians marching back to war in Tigray?"
-        },
-        {
-          "title": "Explainer - Why new war in Ethiopia Tigray threatens to trigger wider conflict",
-          "link": "https://whbl.com/2026/09/23/explainer-why-new-war-in-ethiopias-tigray-threatens-to-trigger-wider-conflict/",
-          "source": "whbl.com",
-          "pubDate": "2026-09-23T18:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Explainer - Why new war in Ethiopia Tigray threatens to trigger wider conflict"
-        },
-        {
-          "title": "Explainer - Why new war in Ethiopia Tigray threatens to trigger wider conflict",
-          "link": "https://www.straitstimes.com/world/explainer-why-new-war-in-ethiopias-tigray-threatens-to-trigger-wider-conflict",
-          "source": "straitstimes.com",
-          "pubDate": "2026-09-23T16:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Explainer - Why new war in Ethiopia Tigray threatens to trigger wider conflict"
+          "titleIt": "Somali Journalist Mohamed Aweys Moodey Dies After Stabbing in Germany"
         }
       ]
     }
