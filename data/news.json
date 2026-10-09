@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T00:24:05.663Z",
+  "generatedAt": "2026-10-09T09:04:32.505Z",
   "feedsChecked": 10,
   "feedsAttempted": 10,
   "topics": {
@@ -32,15 +32,6 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "Somalia: NISA Says Key Al-Shabaab Security Chief Killed in Jilib Operation"
-        },
-        {
-          "title": "Egypt: Interior Ministry denies torture claims of detained journalists",
-          "link": "http://www.africanews.com/2026/10/06/egypt-interior-ministry-denies-torture-claims-of-detained-journalists/",
-          "description": "Egypt on Tuesday rejected accusations that detained journalists from an independent fact-checking platform were tortured or mistreated, referring to the allegations as \"baseless\".",
-          "pubDate": "Tue, 06 Oct 2026 14:39:06 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "Egypt: Interior Ministry denies torture claims of detained journalists"
         },
         {
           "title": "Somali Clans sign peace agreement to end long-running conflict in Galmudug",
@@ -150,10 +141,19 @@
           "title": "Ethiopian drones strike Eritrean forces near Adigrat",
           "link": "http://www.africanews.com/2026/10/08/ethiopian-drones-strike-eritrean-forces-near-adigrat/",
           "description": "Tensions between Ethiopia and Eritrea are escalating with fears of a new regional war growing. Ethiopian drones have reportedly struck Eritrean forces near Adigrat, a city in northern Tigray, according to conflict monitors and witnesses.",
-          "pubDate": "Thu, 08 Oct 2026 14:44:25 +0000",
+          "pubDate": "Fri, 09 Oct 2026 08:17:38 +0000",
           "source": "Africanews",
           "lang": "en",
           "titleIt": "Ethiopian drones strike Eritrean forces near Adigrat"
+        },
+        {
+          "title": "Tigray war: Why peace talks may fail before they even begin {Africanews Debates}",
+          "link": "http://www.africanews.com/2026/10/09/tigray-war-why-peace-talks-may-fail-before-they-even-begin-africanews-debates/",
+          "description": "The November 2022 Pretoria agreement ended the previous war between Ethiopia’s federal government and the Tigray People’s Liberation Front (TPLF). However, the renewed fighting has exposed how fragile that settlement remains.",
+          "pubDate": "Fri, 09 Oct 2026 07:52:38 +0000",
+          "source": "Africanews",
+          "lang": "en",
+          "titleIt": "Tigray war: Why peace talks may fail before they even begin {Africanews Debates}"
         },
         {
           "title": "World anti-doping body seeks tough stance from Kenya ahead of championship",
@@ -316,15 +316,6 @@
           "lang": "en",
           "description": "",
           "titleIt": "Tanzania Removes Special Visa Clearance for Nigerians"
-        },
-        {
-          "title": "Somaliland Pushes to Take Control of Its Airspace and Border Entry System",
-          "link": "https://wardheernews.com/somaliland-pushes-to-take-control-of-its-airspace-and-border-entry-system/",
-          "source": "wardheernews.com",
-          "pubDate": "2026-09-29T09:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Somaliland Pushes to Take Control of Its Airspace and Border Entry System"
         }
       ]
     },
@@ -332,13 +323,31 @@
       "title": "Accesso etiope al mare",
       "items": [
         {
-          "title": "Usa: SpaceX acquisisce spettro radio nazionale per espandere Starlink",
-          "link": "https://www.agenzianova.com/a/0/7864488/2026-10-09/usa-spacex-acquisisce-spettro-radio-nazionale-per-espandere-starlink",
-          "description": "09 ott 00:12 - (Agenzia Nova) - SpaceX ha annunciato un accordo per l'acquisto di un portafoglio nazionale di spettro radio, nell'ambito dell'espansione... (Was)",
-          "pubDate": "2026-10-09T00:12:39+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Usa: SpaceX acquisisce spettro radio nazionale per espandere Starlink"
+          "title": "Ethiopian drones strike Eritrean forces near Adigrat",
+          "link": "http://www.africanews.com/2026/10/08/ethiopian-drones-strike-eritrean-forces-near-adigrat/",
+          "description": "Tensions between Ethiopia and Eritrea are escalating with fears of a new regional war growing. Ethiopian drones have reportedly struck Eritrean forces near Adigrat, a city in northern Tigray, according to conflict monitors and witnesses.",
+          "pubDate": "Fri, 09 Oct 2026 08:17:38 +0000",
+          "source": "Africanews",
+          "lang": "en",
+          "titleIt": "Ethiopian drones strike Eritrean forces near Adigrat"
+        },
+        {
+          "title": "Tigray war: Why peace talks may fail before they even begin {Africanews Debates}",
+          "link": "http://www.africanews.com/2026/10/09/tigray-war-why-peace-talks-may-fail-before-they-even-begin-africanews-debates/",
+          "description": "The November 2022 Pretoria agreement ended the previous war between Ethiopia’s federal government and the Tigray People’s Liberation Front (TPLF). However, the renewed fighting has exposed how fragile that settlement remains.",
+          "pubDate": "Fri, 09 Oct 2026 07:52:38 +0000",
+          "source": "Africanews",
+          "lang": "en",
+          "titleIt": "Tigray war: Why peace talks may fail before they even begin {Africanews Debates}"
+        },
+        {
+          "title": "Africa: How the Houthi-Saudi Conflict is Affecting African Countries",
+          "link": "https://allafrica.com/stories/202610090212.html",
+          "description": "[DW] The Bab el-Mandeb Strait, which Yemeni government forces are trying to take back from the Houthis, is located not far from Djibouti and other African states.",
+          "pubDate": "Fri, 09 Oct 2026 06:54:25 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Africa: How the Houthi-Saudi Conflict is Affecting African Countries"
         },
         {
           "title": "Hundreds of farmers rally in Paris against EU-Mercosur pact and import fears",
@@ -357,15 +366,6 @@
           "source": "AllAfrica",
           "lang": "en",
           "titleIt": "Sudan: Continuing Efforts to Expand the Arms Embargo in Sudan"
-        },
-        {
-          "title": "Ethiopian drones strike Eritrean forces near Adigrat",
-          "link": "http://www.africanews.com/2026/10/08/ethiopian-drones-strike-eritrean-forces-near-adigrat/",
-          "description": "Tensions between Ethiopia and Eritrea are escalating with fears of a new regional war growing. Ethiopian drones have reportedly struck Eritrean forces near Adigrat, a city in northern Tigray, according to conflict monitors and witnesses.",
-          "pubDate": "Thu, 08 Oct 2026 14:44:25 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "Ethiopian drones strike Eritrean forces near Adigrat"
         },
         {
           "title": "Rwanda: Trade to Energy - What Is Driving Stronger Rwanda-Kenya Ties?",
@@ -501,15 +501,6 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "'Your account has been disabled': The new wave of online attacks silencing Somali journalists continues"
-        },
-        {
-          "title": "For Josphine Njeru, Protecting Civilians Is the True Measure of Success in Somalia",
-          "link": "https://hornobserver.com/articles/3763/For-Josphine-Njeru-Protecting-Civilians-Is-the-True-Measure-of-Success-in-Somalia",
-          "description": "As the Senior Civilian Casualty Tracking, Analysis and Response Cell (CCTARC) and Board of Inquiry (BOI) Officer for the African Union Support and Stabilisation Mission in Somalia (AUSSOM), Njeru works behind the scenes. Her role is critical: to protect communities caught in the crossfire, investigate incidents, track civilian injuries, and ensure the mission's accountability to the people it serves. Operating in a complex conflict environment, facts are rarely clear from the outset. \"Information on civilian harm is often incomplete and comes from various sources, each holding only part of the",
-          "pubDate": "Fri, 25 Sep 2026 12:48:52 +0300",
-          "source": "Horn Observer",
-          "lang": "en",
-          "titleIt": "For Josphine Njeru, Protecting Civilians Is the True Measure of Success in Somalia"
         }
       ]
     },
@@ -524,10 +515,19 @@
           "title": "Ethiopian drones strike Eritrean forces near Adigrat",
           "link": "http://www.africanews.com/2026/10/08/ethiopian-drones-strike-eritrean-forces-near-adigrat/",
           "description": "Tensions between Ethiopia and Eritrea are escalating with fears of a new regional war growing. Ethiopian drones have reportedly struck Eritrean forces near Adigrat, a city in northern Tigray, according to conflict monitors and witnesses.",
-          "pubDate": "Thu, 08 Oct 2026 14:44:25 +0000",
+          "pubDate": "Fri, 09 Oct 2026 08:17:38 +0000",
           "source": "Africanews",
           "lang": "en",
           "titleIt": "Ethiopian drones strike Eritrean forces near Adigrat"
+        },
+        {
+          "title": "Tigray war: Why peace talks may fail before they even begin {Africanews Debates}",
+          "link": "http://www.africanews.com/2026/10/09/tigray-war-why-peace-talks-may-fail-before-they-even-begin-africanews-debates/",
+          "description": "The November 2022 Pretoria agreement ended the previous war between Ethiopia’s federal government and the Tigray People’s Liberation Front (TPLF). However, the renewed fighting has exposed how fragile that settlement remains.",
+          "pubDate": "Fri, 09 Oct 2026 07:52:38 +0000",
+          "source": "Africanews",
+          "lang": "en",
+          "titleIt": "Tigray war: Why peace talks may fail before they even begin {Africanews Debates}"
         },
         {
           "title": "Sudan: WFP Strongly Condemns Attack On Trucks In South Kordofan, Killing One Driver",
