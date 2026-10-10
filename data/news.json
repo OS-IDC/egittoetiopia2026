@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T22:39:05.904Z",
+  "generatedAt": "2026-10-10T05:52:49.302Z",
   "feedsChecked": 10,
   "feedsAttempted": 10,
   "topics": {
@@ -138,6 +138,15 @@
       "title": "Dossier Somaliland",
       "items": [
         {
+          "title": "Flydubai attacker began a 'drift towards extremism and terrorism' in Australia, UAE says",
+          "link": "https://www.bbc.co.uk/news/articles/cw3dj5n538jpo?at_medium=RSS&at_campaign=rss",
+          "description": "The United Arab Emirates' attorney-general also alleges the co-pilot was trying to crash the plane into Tel Aviv's airport.",
+          "pubDate": "Sat, 10 Oct 2026 04:34:55 GMT",
+          "source": "BBC World",
+          "lang": "en",
+          "titleIt": "Flydubai attacker began a 'drift towards extremism and terrorism' in Australia, UAE says"
+        },
+        {
           "title": "Kenya: U.S. Report Flags Kenya's Failure to Act On Officials Linked to Human Trafficking",
           "link": "https://allafrica.com/stories/202610090596.html",
           "description": "[Capital FM] Nairobi -- Kenya has failed to report meaningful enforcement action against public officials and recruitment agencies allegedly linked to human trafficking, with a new United States report warning that official complicity continues to undermine the country's efforts to prosecute the crime.",
@@ -199,15 +208,6 @@
           "source": "AllAfrica",
           "lang": "en",
           "titleIt": "Africa: African Ministers to Convene Dialogue With WHO Director-General Candidates in Addis Ababa On 23 November 2026"
-        },
-        {
-          "title": "Africa: Africa CDC Expresses Solidarity With Kenya and Calls for Stronger Regional Ebola Preparedness",
-          "link": "https://allafrica.com/stories/202610070122.html",
-          "description": "[Africa CDC] The Africa Centres for Disease Control and Prevention (Africa CDC) has reaffirmed its support to Kenya following confirmation of the country's first imported case of Bundibugyo Ebola Virus Disease and the subsequent death of the patient.",
-          "pubDate": "Wed, 07 Oct 2026 03:52:46 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Africa: Africa CDC Expresses Solidarity With Kenya and Calls for Stronger Regional Ebola Preparedness"
         },
         {
           "title": "Somalia: Xawaadle Elders and Al-Shabaab Reportedly Reach Truce in Hiiraan",
@@ -295,24 +295,6 @@
     "ethiopia-sea-access": {
       "title": "Accesso etiope al mare",
       "items": [
-        {
-          "title": "Usa-Russia: Trump, accordo sul diesel importantissimo, voglio ringraziare Putin",
-          "link": "https://www.agenzianova.com/a/0/7868764/2026-10-09/usa-russia-trump-accordo-sul-diesel-importantissimo-voglio-ringraziare-putin",
-          "description": "09 ott 23:38 - (Agenzia Nova) - L'accordo sul petrolio con la Russia \"e' estremamente importante. Si tratta di enormi quantita' di petrolio... (Was)",
-          "pubDate": "2026-10-09T23:38:13+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Usa-Russia: Trump, accordo sul diesel importantissimo, voglio ringraziare Putin"
-        },
-        {
-          "title": "Russia: Zelensky, \"attenuare sanzioni palese debolezza, regali a Putin non porteranno pace\"",
-          "link": "https://www.agenzianova.com/a/0/7868689/2026-10-09/russia-zelensky-attenuare-sanzioni-palese-debolezza-regali-a-putin-non-porteranno-pace",
-          "description": "09 ott 21:52 - (Agenzia Nova) - Qualsiasi attenuazione delle sanzioni internazionali contro la Russia \"senza prima un chiaro e duraturo accordo... (Kiu)",
-          "pubDate": "2026-10-09T21:52:16+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Russia: Zelensky, \"attenuare sanzioni palese debolezza, regali a Putin non porteranno pace\""
-        },
         {
           "title": "Vietnam: International Conference on the South China Sea Held in Hanoi",
           "link": "https://www.ansa.it/english/news/news_from_embassies/2026/10/09/vietnam-international-conference-on-the-south-china-sea-held-in-hanoi_7accebed-3bdf-420f-8de8-bd1b730fd5e7.html",
@@ -474,6 +456,24 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "Somalia: Heavy Fighting Erupts in Baidoa as Rival Forces Trade Claims"
+        },
+        {
+          "title": "'Your account has been disabled': The new wave of online attacks silencing Somali journalists continues",
+          "link": "https://hornobserver.com/articles/3764/Your-account-has-been-disabled-The-new-wave-of-online-attacks-silencing-Somali-journalists-continues",
+          "description": "Beyond their immediate impact on individual journalists, the Somali Journalists Syndicate (SJS) is concerned that these attacks now threaten media freedom and the public's access to independent information by disrupting journalists' ability to report on human rights violations, corruption, insecurity and other developments affecting communities across Somalia. At a time when the country is facing overlapping political and humanitarian crises, the silencing, harassment and removal of journalists from digital platforms risks shrinking the space for public reporting, accountability and scrutiny—p",
+          "pubDate": "Mon, 28 Sep 2026 08:29:27 +0300",
+          "source": "Horn Observer",
+          "lang": "en",
+          "titleIt": "'Your account has been disabled': The new wave of online attacks silencing Somali journalists continues"
+        },
+        {
+          "title": "For Josphine Njeru, Protecting Civilians Is the True Measure of Success in Somalia",
+          "link": "https://hornobserver.com/articles/3763/For-Josphine-Njeru-Protecting-Civilians-Is-the-True-Measure-of-Success-in-Somalia",
+          "description": "As the Senior Civilian Casualty Tracking, Analysis and Response Cell (CCTARC) and Board of Inquiry (BOI) Officer for the African Union Support and Stabilisation Mission in Somalia (AUSSOM), Njeru works behind the scenes. Her role is critical: to protect communities caught in the crossfire, investigate incidents, track civilian injuries, and ensure the mission's accountability to the people it serves. Operating in a complex conflict environment, facts are rarely clear from the outset. \"Information on civilian harm is often incomplete and comes from various sources, each holding only part of the",
+          "pubDate": "Fri, 25 Sep 2026 12:48:52 +0300",
+          "source": "Horn Observer",
+          "lang": "en",
+          "titleIt": "For Josphine Njeru, Protecting Civilians Is the True Measure of Success in Somalia"
         }
       ]
     },
