@@ -1,29 +1,11 @@
 {
-  "generatedAt": "2026-10-14T23:14:37.067Z",
+  "generatedAt": "2026-10-15T04:38:50.972Z",
   "feedsChecked": 10,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
-        {
-          "title": "Egitto: trovati i resti di due statue colossali di Ramses II in un campo di cetrioli - foto",
-          "link": "https://www.agenzianova.com/a/0/7886862/2026-10-14/egitto-trovati-i-resti-di-due-statue-colossali-di-ramses-ii-in-un-campo-di-cetrioli-foto",
-          "description": "14 ott 20:38 - (Agenzia Nova) - In Egitto sono stati riportati alla luce da un campo di cetrioli i resti di due colossali statue del faraone... (Cae)",
-          "pubDate": "2026-10-14T20:38:07+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Egitto: trovati i resti di due statue colossali di Ramses II in un campo di cetrioli - foto"
-        },
-        {
-          "title": "Sudan: Commercial Diplomacy Starts With Connections",
-          "link": "https://allafrica.com/stories/202610140403.html",
-          "description": "[U.S. Embassy Khartoum] Chargé d'Affaires Jonathan Howard and the Office of Sudan Affairs hosted a reception in Cairo bringing together approximately 60 Sudanese business leaders, Young African Leaders Initiative (YALI) alumni, and representatives from U.S. Embassy Cairo's Foreign Commercial Service. The gathering focused on strengthening U.S.-Sudanese commercial ties and building networks that can support Sudan's eventual post-war economic recovery.",
-          "pubDate": "Wed, 14 Oct 2026 14:03:46 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Sudan: Commercial Diplomacy Starts With Connections"
-        },
         {
           "title": "Egypt to build a rail link as an alternative to the blocked Suez Canal",
           "link": "http://www.africanews.com/2026/10/14/egypt-to-build-a-rail-link-as-an-alternative-to-the-blocked-suez-canal/",
@@ -219,6 +201,15 @@
           "titleIt": "Kenyans in border town 'afraid' of Ebola risk after first death"
         },
         {
+          "title": "Africa: Africa CDC Introduces New Public Health Training Accreditation Framework",
+          "link": "https://allafrica.com/stories/202610140001.html",
+          "description": "[Africa CDC] Addis Ababa, Ethiopia -- With about 30% of its budget dedicated to training, the Africa Centres for Disease Control and Prevention (Africa CDC) is rolling out a new accreditation framework to improve the quality, credibility and professional recognition of public health training delivered by the organisation and its partners.",
+          "pubDate": "Wed, 14 Oct 2026 04:51:20 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Africa: Africa CDC Introduces New Public Health Training Accreditation Framework"
+        },
+        {
           "title": "Ethiopian Airlines flight denied landing in Israel over Indonesian pilot",
           "link": "http://www.africanews.com/2026/10/13/ethiopian-airlines-flight-denied-landing-in-israel-over-indonesian-pilot/",
           "description": "An Ethiopian Airlines flight bound for Tel Aviv was forced to turn around mid-air because one of its pilots was Indonesian, Israeli broadcaster Channel 12 reported on Monday.",
@@ -322,6 +313,15 @@
     "ethiopia-sea-access": {
       "title": "Accesso etiope al mare",
       "items": [
+        {
+          "title": "Azerbaigian-Cina: presidente Aliyev riceve Wang Yi, focus su connettivita' e Corridoio di mezzo (2)",
+          "link": "https://www.agenzianova.com/a/0/7887022/2026-10-15/azerbaigian-cina-presidente-aliyev-riceve-wang-yi-focus-su-connettivita-e-corridoio-di-mezzo-2",
+          "description": "15 ott 05:18 - (Agenzia Nova) - Wang ha infine trasmesso ad Aliyev i saluti del presidente Xi Jinping, affermando che, grazie alla guida strategica... (Cip)",
+          "pubDate": "2026-10-15T05:18:35+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Azerbaigian-Cina: presidente Aliyev riceve Wang Yi, focus su connettivita' e Corridoio di mezzo (2)"
+        },
         {
           "title": "Investment Forum and Visit by Italian Companies to Côte d’Ivoire",
           "link": "https://www.ansa.it/english/news/news_from_embassies/2026/10/14/investment-forum-and-visit-by-italian-companies-to-cote-divoire_01eb2b3a-eeed-48c0-b2f4-1bf6b364b696.html",
@@ -492,39 +492,12 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "Diplomatic Break: Ethiopia and Eritrea Slide Into a New Crisis"
-        },
-        {
-          "title": "Somalia: Heavy Fighting Erupts in Baidoa as Rival Forces Trade Claims",
-          "link": "https://hornobserver.com/articles/3765/Somalia-Heavy-Fighting-Erupts-in-Baidoa-as-Rival-Forces-Trade-Claims",
-          "description": "Residents reported hearing a series of powerful explosions across Baidoa, with thick plumes of smoke visible over parts of the city. Initial reports indicated that several locations, including a power facility and a base used by federal government forces, were struck during the clashes. Ugaas Hassan, the information minister for the Laftagareen-aligned faction, confirmed that its forces had launched an attack, describing the assault as involving several successive waves. &nbsp; New footage, moment when Laftagaren's militias attacked #Baidoa this morning, one resident recorded. pic.twitter.com/",
-          "pubDate": "Mon, 28 Sep 2026 12:32:52 +0300",
-          "source": "Horn Observer",
-          "lang": "en",
-          "titleIt": "Somalia: Heavy Fighting Erupts in Baidoa as Rival Forces Trade Claims"
         }
       ]
     },
     "egypt-economy": {
       "title": "Fragilità economica egiziana",
       "items": [
-        {
-          "title": "Egitto: Al Sisi, nessuna ambizione o agenda nascosta contro Israele (2)",
-          "link": "https://www.agenzianova.com/a/0/7886930/2026-10-14/egitto-al-sisi-nessuna-ambizione-o-agenda-nascosta-contro-israele-2",
-          "description": "14 ott 21:39 - (Agenzia Nova) - Al Sisi ha quindi affermato che l'Egitto sta lavorando per ridurre l'escalation regionale, risolvere la crisi... (Cae)",
-          "pubDate": "2026-10-14T21:39:51+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Egitto: Al Sisi, nessuna ambizione o agenda nascosta contro Israele (2)"
-        },
-        {
-          "title": "Sudan: Commercial Diplomacy Starts With Connections",
-          "link": "https://allafrica.com/stories/202610140403.html",
-          "description": "[U.S. Embassy Khartoum] Chargé d'Affaires Jonathan Howard and the Office of Sudan Affairs hosted a reception in Cairo bringing together approximately 60 Sudanese business leaders, Young African Leaders Initiative (YALI) alumni, and representatives from U.S. Embassy Cairo's Foreign Commercial Service. The gathering focused on strengthening U.S.-Sudanese commercial ties and building networks that can support Sudan's eventual post-war economic recovery.",
-          "pubDate": "Wed, 14 Oct 2026 14:03:46 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Sudan: Commercial Diplomacy Starts With Connections"
-        },
         {
           "title": "Egypt to build a rail link as an alternative to the blocked Suez Canal",
           "link": "http://www.africanews.com/2026/10/14/egypt-to-build-a-rail-link-as-an-alternative-to-the-blocked-suez-canal/",
@@ -533,159 +506,6 @@
           "source": "Africanews",
           "lang": "en",
           "titleIt": "Egypt to build a rail link as an alternative to the blocked Suez Canal"
-        },
-        {
-          "title": "Voices from the Arab Press : US - Iran tensions , AI dangers , and Israel vote",
-          "link": "http://www.jpost.com/middle-east/article-911021",
-          "source": "jpost.com",
-          "pubDate": "2026-10-10T06:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Voices from the Arab Press : US - Iran tensions , AI dangers , and Israel vote"
-        },
-        {
-          "title": "Dabur India shares jump 3 % as FMCG growth accelerates ; rural demand outpaces urban",
-          "link": "https://www.moneycontrol.com/news/business/stocks/dabur-india-shares-jump-3-as-fmcg-growth-accelerates-rural-demand-outpaces-urban-14045660.html",
-          "source": "moneycontrol.com",
-          "pubDate": "2026-10-06T08:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Dabur India shares jump 3 % as FMCG growth accelerates ; rural demand outpaces urban"
-        },
-        {
-          "title": "Netanyahu , Greatest Orator of the 21st Century",
-          "link": "https://afr.net/podcasts/sandy-rios-247/2026/september/netanyahu-greatest-orator-of-the-21st-century/",
-          "source": "afr.net",
-          "pubDate": "2026-10-02T10:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Netanyahu , Greatest Orator of the 21st Century"
-        },
-        {
-          "title": "Eritrea cuts ties with Ethiopia over Asmara embassy closure",
-          "link": "https://www.cnbcafrica.com/2026/eritrea-cuts-ties-with-ethiopia-over-asmara-embassy-closure",
-          "source": "cnbcafrica.com",
-          "pubDate": "2026-10-02T09:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Eritrea cuts ties with Ethiopia over Asmara embassy closure"
-        },
-        {
-          "title": "APO Group - Africa Newsroom / Press release | Alamein Africa Forum 2026 : Live Coverage on Africa24",
-          "link": "https://www.africa-newsroom.com/press/alamein-africa-forum-2026-live-coverage-on-africa24",
-          "source": "africa-newsroom.com",
-          "pubDate": "2026-10-02T09:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "APO Group - Africa Newsroom / Press release | Alamein Africa Forum 2026 : Live Coverage on Africa24"
-        },
-        {
-          "title": "GEC+Africa 2026 forges connections to fuel entrepreneurship across the continent",
-          "link": "https://www.businessday.co.za/news/2026-10-02-gecafrica-2026-forges-connections-to-fuel-entrepreneurship-across-the-continent/",
-          "source": "businessday.co.za",
-          "pubDate": "2026-10-02T08:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "GEC+Africa 2026 forges connections to fuel entrepreneurship across the continent"
-        },
-        {
-          "title": "US Waives Egypt Military Aid Conditions Over Iran War Role",
-          "link": "http://www.econotimes.com/US-Waives-Egypt-Military-Aid-Conditions-Over-Iran-War-Role-1753779",
-          "source": "econotimes.com",
-          "pubDate": "2026-10-02T08:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "US Waives Egypt Military Aid Conditions Over Iran War Role"
-        },
-        {
-          "title": "US cites Egypt Iran war role in lifting military aid conditions",
-          "link": "https://www.middle-east-online.com/en/us-cites-egypt%E2%80%99s-iran-war-role-lifting-military-aid-conditions",
-          "source": "middle-east-online.com",
-          "pubDate": "2026-10-02T08:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "US cites Egypt Iran war role in lifting military aid conditions"
-        },
-        {
-          "title": "Egypt retaliates against Ethiopia as regional tensions surge",
-          "link": "https://www.middle-east-online.com/en/egypt-retaliates-against-ethiopia-regional-tensions-surge",
-          "source": "middle-east-online.com",
-          "pubDate": "2026-10-02T08:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egypt retaliates against Ethiopia as regional tensions surge"
-        },
-        {
-          "title": "Middle East Escalation Threatens Food Security for 11 . 7M Women and Girls",
-          "link": "https://www.miragenews.com/middle-east-escalation-threatens-food-security-1754288/",
-          "source": "miragenews.com",
-          "pubDate": "2026-10-02T08:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Middle East Escalation Threatens Food Security for 11 . 7M Women and Girls"
-        },
-        {
-          "title": "Eritrea cuts ties with Ethiopia over Asmara embassy closure",
-          "link": "https://www.al-monitor.com/originals/2026/10/eritrea-cuts-ties-ethiopia-over-asmara-embassy-closure",
-          "source": "al-monitor.com",
-          "pubDate": "2026-10-02T08:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Eritrea cuts ties with Ethiopia over Asmara embassy closure"
-        },
-        {
-          "title": "Silvaco CEO Dr . Walden  Wally  Rhines Inducted into the National Academy of Engineering",
-          "link": "https://www.manilatimes.net/2026/10/02/tmt-newswire/globenewswire/silvaco-ceo-dr-walden-wally-rhines-inducted-into-the-national-academy-of-engineering/2437823",
-          "source": "manilatimes.net",
-          "pubDate": "2026-10-02T07:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Silvaco CEO Dr . Walden  Wally  Rhines Inducted into the National Academy of Engineering"
-        },
-        {
-          "title": "Instead of helping the Palestinian people , activists choose to lie about Israel",
-          "link": "https://www.jns.org/opinion/james-sinkinson/instead-of-helping-the-palestinian-people-activists-choose-to-lie-about-israel",
-          "source": "jns.org",
-          "pubDate": "2026-10-02T07:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Instead of helping the Palestinian people , activists choose to lie about Israel"
-        },
-        {
-          "title": "Ethiopia Establishes Abay Compensation Committee to Assess Projects Allegedly  Obstructed By Egypt",
-          "link": "https://allafrica.com/stories/202610020077.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-10-02T07:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia Establishes Abay Compensation Committee to Assess Projects Allegedly  Obstructed By Egypt"
-        },
-        {
-          "title": "Refugee Education Cuts Threaten Million Dreams",
-          "link": "https://www.miragenews.com/refugee-education-cuts-threaten-millions-dreams-1754258/",
-          "source": "miragenews.com",
-          "pubDate": "2026-10-02T07:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Refugee Education Cuts Threaten Million Dreams"
-        },
-        {
-          "title": "The Latest : Trump hits the campaign trail , kicking off blitz before midterms",
-          "link": "https://www.nvdaily.com/associated_press_national/the-latest-trump-hits-the-campaign-trail-kicking-off-blitz-before-midterms/article_f0b7c7ef-5dcd-5a97-b908-2a2455c17136.html",
-          "source": "nvdaily.com",
-          "pubDate": "2026-10-02T07:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The Latest : Trump hits the campaign trail , kicking off blitz before midterms"
-        },
-        {
-          "title": "Uganda to Host 14 African Defence Chiefs for Military Operations Conference",
-          "link": "https://allafrica.com/stories/202610020064.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-10-02T06:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Uganda to Host 14 African Defence Chiefs for Military Operations Conference"
         }
       ]
     },
