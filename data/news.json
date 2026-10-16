@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T07:10:16.777Z",
+  "generatedAt": "2026-10-16T13:16:20.558Z",
   "feedsChecked": 10,
   "feedsAttempted": 10,
   "topics": {
@@ -138,6 +138,33 @@
       "title": "Dossier Somaliland",
       "items": [
         {
+          "title": "Ethiopia: Ethiopia Establishes Six-Month Caretaker Administration in Tigray",
+          "link": "https://allafrica.com/stories/202610160282.html",
+          "description": "[Reporter] New admin tasked with restoring security, rebuilding institutions and preparing for elections",
+          "pubDate": "Fri, 16 Oct 2026 11:30:30 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Ethiopia: Ethiopia Establishes Six-Month Caretaker Administration in Tigray"
+        },
+        {
+          "title": "US State Secretary calls for de-escalation by Ethiopia and Eritrea",
+          "link": "http://www.africanews.com/2026/10/16/us-state-secretary-calls-for-de-escalation-by-ethiopia-and-eritrea/",
+          "description": "US Secretary of State Marco Rubio spoke by phone with Ethiopian Prime Minister Abiy Ahmed on Wednesday, urging dialogue under a peace deal agreed between Ethiopia and Eritrea in 2018.",
+          "pubDate": "Fri, 16 Oct 2026 11:13:15 +0000",
+          "source": "Africanews",
+          "lang": "en",
+          "titleIt": "US State Secretary calls for de-escalation by Ethiopia and Eritrea"
+        },
+        {
+          "title": "Indonesia's skies turn apocalyptic orange as smoke blankets Singapore",
+          "link": "http://www.africanews.com/2026/10/15/indonesias-skies-turn-apocalyptic-orange-as-smoke-blankets-singapore/",
+          "description": "Apocalyptic orange skies engulf Palangkaraya in Indonesia, while Singapore's famous Marina Bay Sands nearly disappears behind thick smoke. Months of wildfires have triggered an air pollution crisis across Southeast Asia.",
+          "pubDate": "Fri, 16 Oct 2026 07:31:07 +0000",
+          "source": "Africanews",
+          "lang": "en",
+          "titleIt": "Indonesia's skies turn apocalyptic orange as smoke blankets Singapore"
+        },
+        {
           "title": "Kenya: WHO Urges Vigilance After Kenya Confirms Second Ebola Case",
           "link": "https://allafrica.com/stories/202610160014.html",
           "description": "[UN News] The World Health Organization (WHO) continues to support Kenya's efforts to contain Ebola after a second person tested positive for the Bundibugyo virus, the UN agency's representative in the country said on Thursday.",
@@ -145,15 +172,6 @@
           "source": "AllAfrica",
           "lang": "en",
           "titleIt": "Kenya: WHO Urges Vigilance After Kenya Confirms Second Ebola Case"
-        },
-        {
-          "title": "Indonesia's skies turn apocalyptic orange as smoke blankets Singapore",
-          "link": "http://www.africanews.com/2026/10/15/indonesias-skies-turn-apocalyptic-orange-as-smoke-blankets-singapore/",
-          "description": "Apocalyptic orange skies engulf Palangkaraya in Indonesia, while Singapore's famous Marina Bay Sands nearly disappears behind thick smoke. Months of wildfires have triggered an air pollution crisis across Southeast Asia.",
-          "pubDate": "Thu, 15 Oct 2026 14:55:16 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "Indonesia's skies turn apocalyptic orange as smoke blankets Singapore"
         },
         {
           "title": "Kenya hikes fuel prices amid higher import costs linked to Middle East conflict",
@@ -183,15 +201,6 @@
           "titleIt": "Vaccines, antibiotics: Africa's push for pharma independence [Business Africa]"
         },
         {
-          "title": "Kenya: Matatu Operators Announce Fare Hikes As Fuel Prices Surge",
-          "link": "https://allafrica.com/stories/202610150317.html",
-          "description": "[Capital FM] Nairobi -- Matatu operators have announced immediate fare increases following a sharp rise in fuel prices, setting the stage for higher transport costs for commuters across the country.",
-          "pubDate": "Thu, 15 Oct 2026 10:34:49 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Kenya: Matatu Operators Announce Fare Hikes As Fuel Prices Surge"
-        },
-        {
           "title": "Hundreds celebrate in Somaliland's capital after Trump comments",
           "link": "http://www.africanews.com/2026/10/15/hundreds-celebrate-in-somalilands-capital-after-trump-comments/",
           "description": "United States President Donald Trump on Monday called Somaliland \"a totally different country\" from Somalia, prompting celebrations in Hargeisa.",
@@ -201,31 +210,13 @@
           "titleIt": "Hundreds celebrate in Somaliland's capital after Trump comments"
         },
         {
-          "title": "Kenya reports second Ebola case, family member of first patient",
-          "link": "http://www.africanews.com/2026/10/14/kenya-reports-second-ebola-case-family-member-of-first-patient/",
-          "description": "Kenya has recorded its second case of Ebola, the health ministry said Wednesday, just over a week after reporting its first ever Ebola case and death.",
-          "pubDate": "Thu, 15 Oct 2026 07:08:20 +0000",
-          "source": "Africanews",
+          "title": "Africa: Africa CDC Introduces New Public Health Training Accreditation Framework",
+          "link": "https://allafrica.com/stories/202610140001.html",
+          "description": "[Africa CDC] Addis Ababa, Ethiopia -- With about 30% of its budget dedicated to training, the Africa Centres for Disease Control and Prevention (Africa CDC) is rolling out a new accreditation framework to improve the quality, credibility and professional recognition of public health training delivered by the organisation and its partners.",
+          "pubDate": "Wed, 14 Oct 2026 04:51:20 GMT",
+          "source": "AllAfrica",
           "lang": "en",
-          "titleIt": "Kenya reports second Ebola case, family member of first patient"
-        },
-        {
-          "title": "Redeployment to Saudi above aboard but Crosetto may still get mandate says Meloni",
-          "link": "https://www.ansa.it/english/news/world/2026/10/14/redeployment-to-saudi-above-aboard-but-crosetto-may-still-get-mandate_5bdeb313-ec9a-45cb-9ca7-31d724baab17.html",
-          "description": "(ANSA) - ROME, 14 OTT - Italy's recent military redeployment from Iraq to Saudi Arabia is fully above board but Defence Minister Guido Crosetto may seek a parliamentary mandate for it if needs be, Premier Giorgia Meloni said Wednesday. Regarding the Italian troops redeployed from Iraq to Saudi Arabia, \"we have adhered to the parliamentary resolution of March 5th concerning support for Gulf nations attacked by Iran\" and \"technically followed all necessary regulatory procedures,\" sh said. However, \"I believe Minister Crosetto would have no issue returning to Parliament—if necessary—to provide a ",
-          "pubDate": "Wed, 14 Oct 2026 13:22:35 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "Redeployment to Saudi above aboard but Crosetto may still get mandate says Meloni"
-        },
-        {
-          "title": "Redeployment to Saudi above aboard but Crosetto may still get mandate says Meloni",
-          "link": "https://www.ansa.it/english/news/2026/10/14/redeployment-to-saudi-above-aboard-but-crosetto-may-still-get-mandate_badfac45-35ac-4792-841a-98363a5491e1.html",
-          "description": "(ANSA) - ROME, 14 OTT - Italy's recent military redeployment from Iraq to Saudi Arabia is fully above board but Defence Minister Guido Crosetto may seek a parliamentary mandate for it if needs be, Premier Giorgia Meloni said Wednesday. Regarding the Italian troops redeployed from Iraq to Saudi Arabia, \"we have adhered to the parliamentary resolution of March 5th concerning support for Gulf nations attacked by Iran\" and \"technically followed all necessary regulatory procedures,\" sh said. However, \"I believe Minister Crosetto would have no issue returning to Parliament—if necessary—to provide a ",
-          "pubDate": "Wed, 14 Oct 2026 13:20:50 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "Redeployment to Saudi above aboard but Crosetto may still get mandate says Meloni"
+          "titleIt": "Africa: Africa CDC Introduces New Public Health Training Accreditation Framework"
         },
         {
           "title": "Somalia national intelligence agency abducts journalist reporting on security tensions in Mogadishu",
@@ -305,6 +296,42 @@
       "title": "Accesso etiope al mare",
       "items": [
         {
+          "title": "The Region of Tuscany renews its agreement with the Italian Consulate in San Francisco and Innovit",
+          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/10/16/the-region-of-tuscany-renews-its-agreement-with-the-italian-consulate_d1fec1e2-e6eb-44c6-a2e1-6908413e9d3c.html",
+          "description": "(ANSA) - ROMA, 16 OTT - The Region of Tuscany has renewed its collaboration agreement with the Consulate General of Italy in San Francisco and Innovit, which connects Silicon Valley’s resources with the opportunities offered by Italian companies. The agreement—signed four years after the previous one—was signed by Consul General Massimo Carnelos, Regional Councilor for Productive Activities Leonardo Marras, and Vice President of the Regional Council Antonio Mazzeo. For the fourth consecutive year, Innovit and the consulate hosted “Casa Toscana”: a week of in-depth discussions and networking op",
+          "pubDate": "Fri, 16 Oct 2026 13:47:05 +0200",
+          "source": "ANSA English",
+          "lang": "en",
+          "titleIt": "The Region of Tuscany renews its agreement with the Italian Consulate in San Francisco and Innovit"
+        },
+        {
+          "title": "Ethiopia: Ethiopia Establishes Six-Month Caretaker Administration in Tigray",
+          "link": "https://allafrica.com/stories/202610160282.html",
+          "description": "[Reporter] New admin tasked with restoring security, rebuilding institutions and preparing for elections",
+          "pubDate": "Fri, 16 Oct 2026 11:30:30 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Ethiopia: Ethiopia Establishes Six-Month Caretaker Administration in Tigray"
+        },
+        {
+          "title": "US State Secretary calls for de-escalation by Ethiopia and Eritrea",
+          "link": "http://www.africanews.com/2026/10/16/us-state-secretary-calls-for-de-escalation-by-ethiopia-and-eritrea/",
+          "description": "US Secretary of State Marco Rubio spoke by phone with Ethiopian Prime Minister Abiy Ahmed on Wednesday, urging dialogue under a peace deal agreed between Ethiopia and Eritrea in 2018.",
+          "pubDate": "Fri, 16 Oct 2026 11:13:15 +0000",
+          "source": "Africanews",
+          "lang": "en",
+          "titleIt": "US State Secretary calls for de-escalation by Ethiopia and Eritrea"
+        },
+        {
+          "title": "Zelensky rallies EU support as Trump says Ukraine leader 'more difficult to deal with than Putin'",
+          "link": "https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss",
+          "description": "The US president launches a new wave of blistering criticism at Volodymyr Zelensky ahead of a meeting of EU leaders in Brussels.",
+          "pubDate": "Fri, 16 Oct 2026 10:37:47 GMT",
+          "source": "BBC World",
+          "lang": "en",
+          "titleIt": "Zelensky rallies EU support as Trump says Ukraine leader 'more difficult to deal with than Putin'"
+        },
+        {
           "title": "Eritrea: UK Threatens Visa Ban on Eritreans Over Deportation Dispute",
           "link": "https://allafrica.com/stories/202610160094.html",
           "description": "[allAfrica] UK Home Secretary Shabana Mahmood has threatened to ban all Eritrean nationals from entering the UK unless the East African country agrees to accept more of its citizens facing deportation, including foreign national offenders.",
@@ -330,15 +357,6 @@
           "source": "ANSA English",
           "lang": "en",
           "titleIt": "In London, Ambassador Cassese meets with members of the Business Club Italia"
-        },
-        {
-          "title": "Mozambique: Japan to Allocate 1.8 Million Dollars for Displaced People in Cabo Delgado",
-          "link": "https://allafrica.com/stories/202610150328.html",
-          "description": "[AIM] Maputo -- The Japanese government has pledged to disburse 1.8 million US dollars to support about 94,000 internally displaced people and other people affected by armed conflict in the northern Mozambican province of Cabo Delgado.",
-          "pubDate": "Thu, 15 Oct 2026 10:43:49 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Mozambique: Japan to Allocate 1.8 Million Dollars for Displaced People in Cabo Delgado"
         },
         {
           "title": "Italy brings together 'Friends of Cohesion' for talks on new EU budget",
@@ -404,69 +422,6 @@
           "titleIt": "Eritrean forces suffer 'heavy losses' in Tigray, Ethiopian militia says"
         },
         {
-          "title": "Investment Forum and Visit by Italian Companies to Côte d’Ivoire",
-          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/10/14/investment-forum-and-visit-by-italian-companies-to-cote-divoire_01eb2b3a-eeed-48c0-b2f4-1bf6b364b696.html",
-          "description": "(ANSA) - ABIDJAN, 14 OTT - For the third year, SACE is organizing, in collaboration with the Italian Embassy in Abidjan, Ivory Coast, a business visit dedicated to Italian companies active in the agribusiness and infrastructure sectors. The initiative aims to highlight business, investment, and collaboration opportunities, as well as the projects and initiatives planned by one of the strategic countries for the Mattei Plan. The initiative will also serve to explore, directly with Ivorian institutions, the main projects, development priorities, and market needs in these two sectors. The meeting",
-          "pubDate": "Wed, 14 Oct 2026 21:24:01 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "Investment Forum and Visit by Italian Companies to Côte d’Ivoire"
-        },
-        {
-          "title": "Meloni says Vannacci MPs flip-flopping on Kyiv, resigning would be more credible",
-          "link": "https://www.ansa.it/english/news/2026/10/14/meloni-says-vannacci-mps-flip-flopping-on-kyiv-resigning-would-be-more_00b339af-667f-4ebb-a590-0712696271c3.html",
-          "description": "(ANSA) - ROME, 14 OTT - Premier Giorgia Meloni said WEdnesday that supporters of far-right general-turned-politician Roberto Vannacci's National Future (FnV) party were flip-flopping on Ukraine and that resigning would be more credible for them. Speaking after she slammed United States President Donald Trump's diesel deal with Russian President Vladmir Putin, Meloni said. \"What we are doing regarding Ukraine is exactly what is written in the manifesto we presented to the Italian people—the one on which both I and all of you were elected. I am certain that this change of position at the end of ",
-          "pubDate": "Wed, 14 Oct 2026 17:54:36 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "Meloni says Vannacci MPs flip-flopping on Kyiv, resigning would be more credible"
-        },
-        {
-          "title": "Meloni says Vannacci MPs flip-flopping on Kyiv, resigning would be more credible",
-          "link": "https://www.ansa.it/english/news/politics/2026/10/14/meloni-says-vannacci-mps-flip-flopping-on-kyiv-resigning-would-be-more_176e7eb8-b502-43ea-97ac-29dc64c5b9a6.html",
-          "description": "(ANSA) - ROME, 14 OTT - Premier Giorgia Meloni said WEdnesday that supporters of far-right general-turned-politician Roberto Vannacci's National Future (FnV) party were flip-flopping on Ukraine and that resigning would be more credible for them. Speaking after she slammed United States President Donald Trump's diesel deal with Russian President Vladmir Putin, Meloni said. \"What we are doing regarding Ukraine is exactly what is written in the manifesto we presented to the Italian people—the one on which both I and all of you were elected. I am certain that this change of position at the end of ",
-          "pubDate": "Wed, 14 Oct 2026 17:48:14 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "Meloni says Vannacci MPs flip-flopping on Kyiv, resigning would be more credible"
-        },
-        {
-          "title": "Salvini says we've given a lot, can't support Kyiv indefinitely'",
-          "link": "https://www.ansa.it/english/news/2026/10/14/salvini-says-weve-given-a-lot-cant-support-kyiv-indefinitely_41eb2b26-77c4-40ec-9945-4d1e17dd7afd.html",
-          "description": "(ANSA) - ROME, 14 OTT - Deputy Premier, Transport Minister and right-wing League party leader Matteo Salvini said Wednesday Italy and Europe had given \"a lot\" to help Ukraine fend off Russian aggression and they could not support Kyiv indefinitely. \"We have given a lot. Italians, the French, and Europeans have given a great deal, hoping that the aid—intended for the defence of the Ukrainian people—was actually used for that purpose rather than ending up in corruption or kickbacks. \"We certainly cannot go on indefinitely gifting billions to Ukraine, and I expect the war to end well before the t",
-          "pubDate": "Wed, 14 Oct 2026 17:31:37 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "Salvini says we've given a lot, can't support Kyiv indefinitely'"
-        },
-        {
-          "title": "'Thank you, Meloni, for the support and unequivocal stance' says Zelensky",
-          "link": "https://www.ansa.it/english/news/2026/10/14/thank-you-meloni-for-the-support-and-unequivocal-stance-says_0e0d6045-b315-4e74-9079-5001d70bc5ec.html",
-          "description": "(ANSA) - ROME, 14 OTT - Ukrainian President Volodymyr Zelensky on Wednesday thanked Italian Premier Giorgia Meloni for her support and unequivocal stance in condemning a diesel deal between United States President Donald Trump and Russian President Vladimir Putin as risky and a legitimisation of Moscow. \"I thank Giorgia Meloni for her support and for her clear, unequivocal, and principled stance. Thank you for understanding who the aggressor is and what it means to build a dignified and lasting peace. This is possible only through strength and joint efforts for our security,\" Zelenskyy stated ",
-          "pubDate": "Wed, 14 Oct 2026 17:25:08 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "'Thank you, Meloni, for the support and unequivocal stance' says Zelensky"
-        },
-        {
-          "title": "Salvini says we've given a lot, can't support Kyiv indefinitely'",
-          "link": "https://www.ansa.it/english/news/world/2026/10/14/salvini-says-weve-given-a-lot-cant-support-kyiv-indefinitely_0369061f-8d59-473e-a1ea-1399784bc767.html",
-          "description": "(ANSA) - ROME, 14 OTT - Deputy Premier, Transport Minister and right-wing League party leader Matteo Salvini said Wednesday Italy and Europe had given \"a lot\" to help Ukraine fend off Russian aggression and they could not support Kyiv indefinitely. \"We have given a lot. Italians, the French, and Europeans have given a great deal, hoping that the aid—intended for the defence of the Ukrainian people—was actually used for that purpose rather than ending up in corruption or kickbacks. \"We certainly cannot go on indefinitely gifting billions to Ukraine, and I expect the war to end well before the t",
-          "pubDate": "Wed, 14 Oct 2026 17:24:43 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "Salvini says we've given a lot, can't support Kyiv indefinitely'"
-        },
-        {
-          "title": "'Thank you, Meloni, for the support and unequivocal stance' says Zelensky",
-          "link": "https://www.ansa.it/english/news/world/2026/10/14/thank-you-meloni-for-the-support-and-unequivocal-stance-says_083adca5-ba37-4202-9ec1-0cbba38486c6.html",
-          "description": "(ANSA) - ROME, 14 OTT - Ukrainian President Volodymyr Zelensky on Wednesday thanked Italian Premier Giorgia Meloni for her support and unequivocal stance in condemning a diesel deal between United States President Donald Trump and Russian President Vladimir Putin as risky and a legitimisation of Moscow. \"I thank Giorgia Meloni for her support and for her clear, unequivocal, and principled stance. Thank you for understanding who the aggressor is and what it means to build a dignified and lasting peace. This is possible only through strength and joint efforts for our security,\" Zelenskyy stated ",
-          "pubDate": "Wed, 14 Oct 2026 17:17:17 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "'Thank you, Meloni, for the support and unequivocal stance' says Zelensky"
-        },
-        {
           "title": "Why Rwanda's deal for F1 race remains controversial",
           "link": "https://www.bbc.co.uk/sport/formula1/articles/c61kdv3k9gm2o?at_medium=RSS&at_campaign=rss",
           "description": "Formula 1 will return to Africa in the early 2030s, but Rwanda's deal to stage a race has prompted accusations of sportswashing against the country.",
@@ -476,13 +431,49 @@
           "titleIt": "Why Rwanda's deal for F1 race remains controversial"
         },
         {
-          "title": "Italian Language Week at the National Library of Georgia",
-          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/10/14/italian-language-week-at-the-national-library-of-georgia_4ef06093-5a50-44c1-89af-f116adf27632.html",
-          "description": "(ANSA) - MOSCA, 14 OTT - The first event celebrating the 26th Week of the Italian Language in the World took place at the historic National Library of Georgia. This initiative, launched in 2001 through an agreement between the Ministry of Foreign Affairs and International Cooperation and the Accademia della Crusca, with the subsequent support of the Swiss Confederation, which takes place annually under the High Patronage of the President of the Italian Republic and aims to promote Italy’s linguistic and cultural heritage abroad. Each Week is dedicated to a different theme, which serves as the ",
-          "pubDate": "Wed, 14 Oct 2026 14:01:26 +0200",
-          "source": "ANSA English",
+          "title": "Somalia national intelligence agency abducts journalist reporting on security tensions in Mogadishu",
+          "link": "https://hornobserver.com/articles/3780/Somalia-national-intelligence-agency-abducts-journalist-reporting-on-security-tensions-in-Mogadishu",
+          "description": "At midday on Sunday, plainclothes NISA officers abducted journalist Khadar Abdirahim Ibrahim of Himilo Media in Mogadishu, according to his colleagues. Khadar was on his lunch break when NISA officers approached him at a restaurant near Himilo Media's offices in the Wadajir district of Mogadishu. A colleague who spoke to SJS said that was the last time they saw him. Earlier on Sunday morning, before Khadar's reported abduction, another Himilo Media journalist, Abdifatah Mohamed Hared, a cameraman, was stopped and slapped by NISA officers who had established a checkpoint on the road leading to ",
+          "pubDate": "Mon, 12 Oct 2026 16:34:06 +0300",
+          "source": "Horn Observer",
           "lang": "en",
-          "titleIt": "Italian Language Week at the National Library of Georgia"
+          "titleIt": "Somalia national intelligence agency abducts journalist reporting on security tensions in Mogadishu"
+        },
+        {
+          "title": "Eritrean incursions raise fears of a wider regional war in Ethiopia",
+          "link": "https://www.thenewhumanitarian.org/analysis/2026/10/12/eritrean-incursions-raise-fears-wider-regional-war-ethiopia",
+          "description": "Three scenarios – all grim – on how the renewed conflict in Tigray could develop.",
+          "pubDate": "Mon, 12 Oct 26 09:44:39 +0000",
+          "source": "The New Humanitarian",
+          "lang": "en",
+          "titleIt": "Eritrean incursions raise fears of a wider regional war in Ethiopia"
+        },
+        {
+          "title": "Somalia: Xawaadle Elders and Al-Shabaab Reportedly Reach Truce in Hiiraan",
+          "link": "https://hornobserver.com/articles/3776/Somalia-Xawaadle-Elders-and-Al-Shabaab-Reportedly-Reach-Truce-in-Hiiraan",
+          "description": "A 16-point joint statement circulated by Al-Shabaab-affiliated media&nbsp; said the sides had resolved their disputes and agreed to maintain peace in areas controlled or influenced by the clan. The reported agreement includes a commitment by Hawadle elders not to allow the recruitment or operation of Macawiisley fighters in their areas or provide them with shelter. Macawiisley forces from Hiiraan have played a key role in supporting Somali government troops against Al-Shabaab. The meeting in Maxaas was attended by dozens of traditional elders, while Al-Shabaab was represented by senior figures",
+          "pubDate": "Tue, 06 Oct 2026 21:41:19 +0300",
+          "source": "Horn Observer",
+          "lang": "en",
+          "titleIt": "Somalia: Xawaadle Elders and Al-Shabaab Reportedly Reach Truce in Hiiraan"
+        },
+        {
+          "title": "Somalia: NISA Says Key Al-Shabaab Security Chief Killed in Jilib Operation",
+          "link": "https://hornobserver.com/articles/3775/Somalia-NISA-Says-Key-Al-Shabaab-Security-Chief-Killed-in-Jilib-Operation",
+          "description": "According to NISA, the operation was carried out by its forces with support from international partners that targeted Nunow who served as the head of Al-Shabaab's intelligence and security wing, known as the \"Amniyat,\" from 2016 to 2024. Nunow also used the aliases Geescadde, Fanax, Gardhuub and Ali Dheere. Somalia's NISA accused Nunow of playing a key role in planning and carrying out attacks targeting Somali civilians. Among the attacks NISA linked to him were the October 14, 2017, bombing at the Zoobe intersection in Mogadishu, the Ex-Control Afgooye attack, the second Zoobe attack, and oth",
+          "pubDate": "Tue, 06 Oct 2026 21:03:29 +0300",
+          "source": "Horn Observer",
+          "lang": "en",
+          "titleIt": "Somalia: NISA Says Key Al-Shabaab Security Chief Killed in Jilib Operation"
+        },
+        {
+          "title": "Press Release: President Isaias of Eritrea holds talks with Somali President",
+          "link": "https://hornobserver.com/articles/3774/Press-Release-President-Isaias-of-Eritrea-holds-talks-with-Somali-President",
+          "description": "The two Heads of State underlined the imperative of consolidating a conducive political climate that rejects external agendas of interference to safeguard and guarantee the territorial integrity, stability, and peace of Somalia and the unity of its people.&nbsp; President Isaias further remarked that federal governance architectures in Somalia and other countries in our region have often failed to meet the peoples' hopes and aspirations for unity and cohesion. Political frameworks that polarize socio-economic, religious, and ethnic differences to foment perennial crises and encourage foreign i",
+          "pubDate": "Tue, 06 Oct 2026 18:48:48 +0300",
+          "source": "Horn Observer",
+          "lang": "en",
+          "titleIt": "Press Release: President Isaias of Eritrea holds talks with Somali President"
         }
       ]
     },
@@ -490,184 +481,184 @@
       "title": "Fragilità economica egiziana",
       "items": [
         {
-          "title": "Drone strikes in the Black Sea raise fears of Russian escalation to test NATO response",
-          "link": "https://www.wboc.com/news/international/drone-strikes-in-the-black-sea-raise-fears-of-russian-escalation-to-test-natos-response/article_dfb8d560-865a-570d-9276-c610fef0ad62.html",
-          "source": "wboc.com",
-          "pubDate": "2026-10-16T06:45:00Z",
+          "title": "Where Politics Happens - NAKED PUNCH",
+          "link": "https://nakedpunch.com/where-politics-happens/",
+          "source": "nakedpunch.com",
+          "pubDate": "2026-10-16T12:30:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Drone strikes in the Black Sea raise fears of Russian escalation to test NATO response"
+          "titleIt": "Where Politics Happens - NAKED PUNCH"
         },
         {
-          "title": "Drone strikes in the Black Sea raise fears of Russian escalation to test NATO response",
-          "link": "https://www.niagarafallsreview.ca/business/drone-strikes-in-the-black-sea-raise-fears-of-russian-escalation-to-test-nato-s-response/article_35fe499b-f8ae-5525-ab7a-fa0772385ea4.html",
-          "source": "niagarafallsreview.ca",
-          "pubDate": "2026-10-16T06:30:00Z",
+          "title": "Fair Observer Monthly : September 2026",
+          "link": "https://www.fairobserver.com/publications/fair-observer-monthly-september-2026/",
+          "source": "fairobserver.com",
+          "pubDate": "2026-10-16T12:30:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Drone strikes in the Black Sea raise fears of Russian escalation to test NATO response"
+          "titleIt": "Fair Observer Monthly : September 2026"
         },
         {
-          "title": "Drone strikes in the Black Sea raise fears of Russian escalation to test NATO response",
-          "link": "https://www.thepeterboroughexaminer.com/business/drone-strikes-in-the-black-sea-raise-fears-of-russian-escalation-to-test-nato-s-response/article_ba5b6d0a-895c-5d08-bdd3-aff2c3c6e8e7.html",
-          "source": "thepeterboroughexaminer.com",
-          "pubDate": "2026-10-16T06:30:00Z",
+          "title": "Vance , Rogers keep up attacks on El - Sayed during Monroe rally",
+          "link": "https://www.wkar.org/election-2026/2026-10-16/vance-rogers-keep-up-attacks-on-el-sayed-during-monroe-rally",
+          "source": "wkar.org",
+          "pubDate": "2026-10-16T11:30:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Drone strikes in the Black Sea raise fears of Russian escalation to test NATO response"
+          "titleIt": "Vance , Rogers keep up attacks on El - Sayed during Monroe rally"
         },
         {
-          "title": "Drone strikes in the Black Sea raise fears of Russian escalation to test NATO response",
-          "link": "https://www.clickondetroit.com/news/world/2026/10/16/drone-strikes-in-the-black-sea-raise-fears-of-russian-escalation-to-test-natos-response/",
-          "source": "clickondetroit.com",
-          "pubDate": "2026-10-16T06:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Drone strikes in the Black Sea raise fears of Russian escalation to test NATO response"
-        },
-        {
-          "title": "Drone strikes in the Black Sea raise fears of Russian escalation to test NATO response",
-          "link": "https://www.clickorlando.com/news/world/2026/10/16/drone-strikes-in-the-black-sea-raise-fears-of-russian-escalation-to-test-natos-response/",
-          "source": "clickorlando.com",
-          "pubDate": "2026-10-16T06:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Drone strikes in the Black Sea raise fears of Russian escalation to test NATO response"
-        },
-        {
-          "title": "Ship Sinks in Hormuz as Iran Targets Transfers , Pushes Corridor",
-          "link": "https://www.hngn.com/articles/273497/20261015/iran-hits-hormuz-oil-transfers-pushes-own-oman-corridor.htm",
-          "source": "hngn.com",
-          "pubDate": "2026-10-16T06:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ship Sinks in Hormuz as Iran Targets Transfers , Pushes Corridor"
-        },
-        {
-          "title": "Drone strikes in the Black Sea raise fears of Russian escalation to test NATO response",
-          "link": "https://www.stcatharinesstandard.ca/business/drone-strikes-in-the-black-sea-raise-fears-of-russian-escalation-to-test-nato-s-response/article_85ebb4a2-1806-527d-9951-d15c80924942.html",
-          "source": "stcatharinesstandard.ca",
-          "pubDate": "2026-10-16T06:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Drone strikes in the Black Sea raise fears of Russian escalation to test NATO response"
-        },
-        {
-          "title": "South Africa : Can You Get TB Care in the Private Sector ? It Is Complicated",
-          "link": "https://allafrica.com/stories/202610160071.html",
+          "title": "Ethiopia : From Sinai to the Nile - Egypt Cannot Demand Peace From Israel While Threatening War Against Ethiopia",
+          "link": "https://allafrica.com/stories/202610160214.html",
           "source": "allafrica.com",
-          "pubDate": "2026-10-16T06:00:00Z",
+          "pubDate": "2026-10-16T11:30:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "South Africa : Can You Get TB Care in the Private Sector ? It Is Complicated"
+          "titleIt": "Ethiopia : From Sinai to the Nile - Egypt Cannot Demand Peace From Israel While Threatening War Against Ethiopia"
+        },
+        {
+          "title": "GOP Senator : Cancel Holiday Break if We Lose",
+          "link": "https://www.newser.com/story/398240/gop-senator-cancel-holiday-break-if-we-lose.html",
+          "source": "newser.com",
+          "pubDate": "2026-10-16T11:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "GOP Senator : Cancel Holiday Break if We Lose"
         },
         {
           "title": "Drone strikes in the Black Sea raise fears of Russian escalation to test NATO response",
-          "link": "https://isp.netscape.com:443/news/world/story/0001/20261016/866f21a940311b13abd9425457edf388",
-          "source": "isp.netscape.com",
-          "pubDate": "2026-10-16T05:45:00Z",
+          "link": "http://www.idahopress.com/news/world/drone-strikes-in-the-black-sea-raise-fears-of-russian-escalation-to-test-natos-response/article_17e4c3da-7807-5819-af9a-dc8ec462083d.html",
+          "source": "idahopress.com",
+          "pubDate": "2026-10-16T11:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Drone strikes in the Black Sea raise fears of Russian escalation to test NATO response"
+        },
+        {
+          "title": "Jonglei Canal could double or triple Egypt and Sudan annual water share : Former Minister",
+          "link": "https://www.egyptindependent.com/jonglei-canal-could-double-or-triple-egypt-and-sudans-annual-water-share-former-minister/",
+          "source": "egyptindependent.com",
+          "pubDate": "2026-10-16T10:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Jonglei Canal could double or triple Egypt and Sudan annual water share : Former Minister"
+        },
+        {
+          "title": "Mohammed bin Salman faces most consequential test yet as Saudi Arabia comes under Houthi fire",
+          "link": "https://economictimes.indiatimes.com/news/international/world-news/crisis-in-saudi-arabia-mohammed-bin-salman-confronts-escalating-houthi-attacks-amidst-regional-chaos-yemen-mbs-donald-trump-riyadh-saudi-aramco/articleshow/134985115.cms",
+          "source": "economictimes.indiatimes.com",
+          "pubDate": "2026-10-16T10:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Mohammed bin Salman faces most consequential test yet as Saudi Arabia comes under Houthi fire"
+        },
+        {
+          "title": "Vance , Rogers keep up attacks on El - Sayed during Monroe rally",
+          "link": "https://www.wnmufm.org/local-regional-news/2026-10-16/vance-rogers-keep-up-attacks-on-el-sayed-during-monroe-rally",
+          "source": "wnmufm.org",
+          "pubDate": "2026-10-16T10:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Vance , Rogers keep up attacks on El - Sayed during Monroe rally"
+        },
+        {
+          "title": "Mideast Stocks : Gulf stocks fall after Houthis threaten more attacks",
+          "link": "https://www.zawya.com/en/capital-markets/mideast-stocks-gulf-stocks-fall-after-houthis-threaten-more-attacks-1691157",
+          "source": "zawya.com",
+          "pubDate": "2026-10-16T10:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Mideast Stocks : Gulf stocks fall after Houthis threaten more attacks"
+        },
+        {
+          "title": "OSCE Brings Asian , Mediterranean Diplomats Together",
+          "link": "https://www.miragenews.com/osce-brings-asian-mediterranean-diplomats-1761806/",
+          "source": "miragenews.com",
+          "pubDate": "2026-10-16T10:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "OSCE Brings Asian , Mediterranean Diplomats Together"
+        },
+        {
+          "title": "World Monuments Watch 2027 Nominations Point to Government Austerity , Climate Impact and Skills Shortages as Main Threats to Heritage",
+          "link": "https://www.archdaily.com/1186995/world-monuments-watch-2027-nominations-point-to-government-austerity-climate-impact-and-skills-shortages-as-main-threats-to-heritage",
+          "source": "archdaily.com",
+          "pubDate": "2026-10-16T10:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "World Monuments Watch 2027 Nominations Point to Government Austerity , Climate Impact and Skills Shortages as Main Threats to Heritage"
+        },
+        {
+          "title": "Chinese open - source AI helps African innovators cut costs , develop local solutions -- China Economic Net",
+          "link": "http://en.ce.cn/main/latest/202610/t20261016_3260691.shtml",
+          "source": "en.ce.cn",
+          "pubDate": "2026-10-16T09:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Chinese open - source AI helps African innovators cut costs , develop local solutions -- China Economic Net"
+        },
+        {
+          "title": "Drone strikes in the Black Sea raise fears of Russian escalation to test NATO response",
+          "link": "https://www.ksat.com/news/world/2026/10/16/drone-strikes-in-the-black-sea-raise-fears-of-russian-escalation-to-test-natos-response/",
+          "source": "ksat.com",
+          "pubDate": "2026-10-16T08:45:00Z",
           "lang": "en",
           "description": "",
           "titleIt": "Drone strikes in the Black Sea raise fears of Russian escalation to test NATO response"
         },
         {
           "title": "Drone strikes in the Black Sea raise fears of Russian escalation to test NATO response",
-          "link": "https://www.news4jax.com/news/world/2026/10/16/drone-strikes-in-the-black-sea-raise-fears-of-russian-escalation-to-test-natos-response/",
-          "source": "news4jax.com",
-          "pubDate": "2026-10-16T05:45:00Z",
+          "link": "https://krmg.com/2026/10/15/drone-strikes-in-the-black-sea-raise-fears-of-russian-escalation-to-test-natos-response/",
+          "source": "krmg.com",
+          "pubDate": "2026-10-16T08:45:00Z",
           "lang": "en",
           "description": "",
           "titleIt": "Drone strikes in the Black Sea raise fears of Russian escalation to test NATO response"
-        },
-        {
-          "title": "Egypt : Minawi Urges Restraint As Fallout From Deadly Sudan - Egypt Border Strikes Widens",
-          "link": "https://allafrica.com/stories/202610160013.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-10-16T05:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egypt : Minawi Urges Restraint As Fallout From Deadly Sudan - Egypt Border Strikes Widens"
-        },
-        {
-          "title": "Defense industry urged to strengthen military , economy : Jauhari",
-          "link": "https://en.antaranews.com/news/435857/defense-industry-urged-to-strengthen-military-economy-jauhari",
-          "source": "en.antaranews.com",
-          "pubDate": "2026-10-16T05:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Defense industry urged to strengthen military , economy : Jauhari"
         },
         {
           "title": "Drone strikes in the Black Sea raise fears of Russian escalation to test NATO response",
-          "link": "http://www.cecildaily.com/ap/world/drone-strikes-in-the-black-sea-raise-fears-of-russian-escalation-to-test-natos-response/article_57b98a72-e72e-5b5f-b61b-f6df75c98032.html",
-          "source": "cecildaily.com",
-          "pubDate": "2026-10-16T05:00:00Z",
+          "link": "https://www.wral.com/news/ap/866f2-drone-strikes-in-the-black-sea-raise-fears-of-russian-escalation-to-test-natos-response/",
+          "source": "wral.com",
+          "pubDate": "2026-10-16T08:00:00Z",
           "lang": "en",
           "description": "",
           "titleIt": "Drone strikes in the Black Sea raise fears of Russian escalation to test NATO response"
         },
         {
-          "title": "Thursday Final Word",
-          "link": "https://hotair.com/ed-morrissey/2026/10/15/thursdays-final-word-n3819971",
-          "source": "hotair.com",
-          "pubDate": "2026-10-16T04:30:00Z",
+          "title": "What history tells us about the closure of vital waterways",
+          "link": "https://www.rte.ie/brainstorm/2026/1015/1595435-suez-canal-1956-strait-of-hormuz-2026-closures-superpowers-economics-geopolitical-influence/",
+          "source": "rte.ie",
+          "pubDate": "2026-10-16T07:45:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Thursday Final Word"
+          "titleIt": "What history tells us about the closure of vital waterways"
         },
         {
-          "title": "Wall Street closes higher Thursday but tech stocks lag",
-          "link": "http://www.europesun.com/news/279377295/wall-street-closes-higher-thursday-but-tech-stocks-lag",
-          "source": "europesun.com",
-          "pubDate": "2026-10-16T01:15:00Z",
+          "title": "Pickalbatros Hotels Announce US$250M Morocco Deal",
+          "link": "https://www.riotimesonline.com/pickalbatros-hotels-us-250-million-morocco-financing-2026/",
+          "source": "riotimesonline.com",
+          "pubDate": "2026-10-16T07:30:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Wall Street closes higher Thursday but tech stocks lag"
+          "titleIt": "Pickalbatros Hotels Announce US$250M Morocco Deal"
         },
         {
-          "title": "U . S . stocks broadly higher Thursday despite bad news on inflation",
-          "link": "http://www.myanmarnews.net/news/279377295/u-s-stocks-broadly-higher-thursday-despite-bad-news-on-inflation",
-          "source": "myanmarnews.net",
-          "pubDate": "2026-10-16T01:15:00Z",
+          "title": "Egypt Wins EU Listing to Sell Farmed Fish",
+          "link": "https://www.riotimesonline.com/egypt-eu-listing-farmed-fish-27-states-2026/",
+          "source": "riotimesonline.com",
+          "pubDate": "2026-10-16T07:30:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "U . S . stocks broadly higher Thursday despite bad news on inflation"
+          "titleIt": "Egypt Wins EU Listing to Sell Farmed Fish"
         },
         {
-          "title": "Xinhua Headlines : Chinese open - source AI helps African innovators cut costs , develop local solutions - Xinhua",
-          "link": "https://english.news.cn/20261015/4964aebddd7e4f08b961806736754b6b/c.html",
-          "source": "english.news.cn",
-          "pubDate": "2026-10-16T01:15:00Z",
+          "title": "Drone strikes in the Black Sea raise fears of Russian escalation to test NATO response",
+          "link": "https://www.thehindu.com/news/international/drone-strikes-in-the-black-sea-raise-fears-of-russian-escalation-to-test-natos-response/article71591367.ece",
+          "source": "thehindu.com",
+          "pubDate": "2026-10-16T07:30:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Xinhua Headlines : Chinese open - source AI helps African innovators cut costs , develop local solutions - Xinhua"
-        },
-        {
-          "title": "Wall Street closes higher Thursday but tech stocks lag",
-          "link": "http://www.mexicostar.com/news/279377295/wall-street-closes-higher-thursday-but-tech-stocks-lag",
-          "source": "mexicostar.com",
-          "pubDate": "2026-10-16T01:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Wall Street closes higher Thursday but tech stocks lag"
-        },
-        {
-          "title": "Israel Cuts Off Commercial Goods From Entering Gaza as It Continues Attacks",
-          "link": "https://news.antiwar.com/2026/10/15/israel-cuts-off-commercial-goods-from-entering-gaza-as-it-continues-attacks/",
-          "source": "news.antiwar.com",
-          "pubDate": "2026-10-16T01:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Israel Cuts Off Commercial Goods From Entering Gaza as It Continues Attacks"
-        },
-        {
-          "title": "Wall Street closes higher Thursday but tech stocks lag",
-          "link": "http://www.iranherald.com/news/279377295/wall-street-closes-higher-thursday-but-tech-stocks-lag",
-          "source": "iranherald.com",
-          "pubDate": "2026-10-16T01:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Wall Street closes higher Thursday but tech stocks lag"
+          "titleIt": "Drone strikes in the Black Sea raise fears of Russian escalation to test NATO response"
         }
       ]
     },
