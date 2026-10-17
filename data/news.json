@@ -1,38 +1,11 @@
 {
-  "generatedAt": "2026-10-17T12:11:15.962Z",
+  "generatedAt": "2026-10-17T15:34:43.513Z",
   "feedsChecked": 10,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
-        {
-          "title": "Difesa: Egitto, forze speciali simulano liberazione ostaggi con elicotteri italiani Agusta (2)",
-          "link": "https://www.agenzianova.com/a/0/7898922/2026-10-17/difesa-egitto-forze-speciali-simulano-liberazione-ostaggi-con-elicotteri-italiani-agusta-2",
-          "description": "17 ott 13:56 - (Agenzia Nova) - L'operazione e' iniziata con l'intervento di due caccia F-16 incaricati di mettere in sicurezza lo spazio aereo,... (Cae)",
-          "pubDate": "2026-10-17T13:56:07+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Difesa: Egitto, forze speciali simulano liberazione ostaggi con elicotteri italiani Agusta (2)"
-        },
-        {
-          "title": "Difesa: Egitto, forze speciali simulano liberazione ostaggi con elicotteri italiani Agusta",
-          "link": "https://www.agenzianova.com/a/0/7898921/2026-10-17/difesa-egitto-forze-speciali-simulano-liberazione-ostaggi-con-elicotteri-italiani-agusta",
-          "description": "17 ott 13:56 - (Agenzia Nova) - Le forze speciali egiziane hanno condotto oggi un'esercitazione antiterrorismo con l'impiego di elicotteri... (Cae)",
-          "pubDate": "2026-10-17T13:56:07+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Difesa: Egitto, forze speciali simulano liberazione ostaggi con elicotteri italiani Agusta"
-        },
-        {
-          "title": "Somalia announces parliamentary and presidential elections for 2027",
-          "link": "http://www.africanews.com/2026/10/15/somalia-announces-parliamentary-and-presidential-elections-for-2027/",
-          "description": "Somalia announced on Thursday that parliamentary and presidential elections would be held next year, despite an increasingly fractured political landscape and worries over mounting instability.",
-          "pubDate": "Thu, 15 Oct 2026 12:59:50 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "Somalia announces parliamentary and presidential elections for 2027"
-        },
         {
           "title": "Opinion: The Horn of Africa Deserves Peace Not Crisis and Instability",
           "link": "https://hornobserver.com/articles/3782/Opinion-The-Horn-of-Africa-Deserves-Peace-Not-Crisis-and-Instability",
@@ -192,6 +165,15 @@
           "titleIt": "Indonesia's skies turn apocalyptic orange as smoke blankets Singapore"
         },
         {
+          "title": "Kenya: WHO Urges Vigilance After Kenya Confirms Second Ebola Case",
+          "link": "https://allafrica.com/stories/202610160014.html",
+          "description": "[UN News] The World Health Organization (WHO) continues to support Kenya's efforts to contain Ebola after a second person tested positive for the Bundibugyo virus, the UN agency's representative in the country said on Thursday.",
+          "pubDate": "Fri, 16 Oct 2026 04:58:07 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Kenya: WHO Urges Vigilance After Kenya Confirms Second Ebola Case"
+        },
+        {
           "title": "Kenya hikes fuel prices amid higher import costs linked to Middle East conflict",
           "link": "http://www.africanews.com/2026/10/15/kenya-hikes-fuel-prices-amid-higher-import-costs-linked-to-middle-east-conflict/",
           "description": "Rising fuel prices are having a negative impact on household budgets and sectors including transport, agriculture, and construction.",
@@ -199,15 +181,6 @@
           "source": "Africanews",
           "lang": "en",
           "titleIt": "Kenya hikes fuel prices amid higher import costs linked to Middle East conflict"
-        },
-        {
-          "title": "Somalia announces parliamentary and presidential elections for 2027",
-          "link": "http://www.africanews.com/2026/10/15/somalia-announces-parliamentary-and-presidential-elections-for-2027/",
-          "description": "Somalia announced on Thursday that parliamentary and presidential elections would be held next year, despite an increasingly fractured political landscape and worries over mounting instability.",
-          "pubDate": "Thu, 15 Oct 2026 12:59:50 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "Somalia announces parliamentary and presidential elections for 2027"
         },
         {
           "title": "Somalia national intelligence agency abducts journalist reporting on security tensions in Mogadishu",
