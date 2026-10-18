@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T18:38:47.673Z",
+  "generatedAt": "2026-10-18T22:27:08.787Z",
   "feedsChecked": 10,
   "feedsAttempted": 10,
   "topics": {
@@ -224,6 +224,15 @@
       "title": "Accesso etiope al mare",
       "items": [
         {
+          "title": "Business news: export Brasile verso l'Ue in crescita del 30,7 per cento dopo accordo",
+          "link": "https://www.agenzianova.com/a/0/7901042/2026-10-18/business-news-export-brasile-verso-l-ue-in-crescita-del-30-7-per-cento-dopo-accordo",
+          "description": "18 ott 22:00 - (Agenzia Nova) - Le esportazioni del Brasile verso l'Unione europea sono cresciute del 30,7 per cento tra maggio e settembre... (Brs)",
+          "pubDate": "2026-10-18T22:00:00+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Business news: export Brasile verso l'Ue in crescita del 30,7 per cento dopo accordo"
+        },
+        {
           "title": "Ethiopian gains in Tigray risk wider war with Eritrea, analyst warns",
           "link": "http://www.africanews.com/2026/10/16/ethiopian-gains-in-tigray-risk-wider-war-with-eritrea-analyst-warns/",
           "description": "Ethiopia’s military advances in northern Tigray do not spell an end to the conflict but have the potential to increase the risk of war with neighboring Eritrea, an analyst with knowledge of the region has warned",
@@ -389,237 +398,11 @@
     },
     "egypt-economy": {
       "title": "Fragilità economica egiziana",
-      "items": [
-        {
-          "title": "Egypt says ready to give Saudi Arabia necessary support amid Houthi conflict",
-          "link": "https://www.channelnewsasia.com/world/egypt-support-saudi-arabia-houthis-6468391",
-          "source": "channelnewsasia.com",
-          "pubDate": "2026-10-18T18:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egypt says ready to give Saudi Arabia necessary support amid Houthi conflict"
-        },
-        {
-          "title": "The Cost of Not Learning : Eritrea , Ethiopia , and the Burden of History",
-          "link": "https://awate.com/the-cost-of-not-learning-eritrea-ethiopia-and-the-burden-of-history/",
-          "source": "awate.com",
-          "pubDate": "2026-10-18T18:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The Cost of Not Learning : Eritrea , Ethiopia , and the Burden of History"
-        },
-        {
-          "title": "Saudi skyscraper closes offices as Houthi disruption spreads",
-          "link": "https://www.yahoo.com/news/world/articles/saudi-landmark-closes-offices-chopper-094005166.html",
-          "source": "yahoo.com",
-          "pubDate": "2026-10-18T17:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Saudi skyscraper closes offices as Houthi disruption spreads"
-        },
-        {
-          "title": "1 . 3 billion people , no credit file : Can a six - factor score built in VS Code actually help ?",
-          "link": "https://www.ibtimes.co.in/1-3-billion-people-no-credit-file-can-six-factor-score-built-vs-code-actually-help-907667",
-          "source": "ibtimes.co.in",
-          "pubDate": "2026-10-18T17:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "1 . 3 billion people , no credit file : Can a six - factor score built in VS Code actually help ?"
-        },
-        {
-          "title": "Egypt says ready to give Saudi Arabia necessary support amid Houthi conflict",
-          "link": "https://www.al-monitor.com/originals/2026/10/egypt-says-ready-give-saudi-arabia-necessary-support-amid-houthi-conflict",
-          "source": "al-monitor.com",
-          "pubDate": "2026-10-18T17:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egypt says ready to give Saudi Arabia necessary support amid Houthi conflict"
-        },
-        {
-          "title": "Egypt pledges support for Saudi Arabia as Houthis warn Cairo against military intervention",
-          "link": "https://www.thenationalnews.com/news/mena/2026/10/18/egypt-pledges-support-for-saudi-arabia-as-houthis-warn-cairo-against-military-intervention/",
-          "source": "thenationalnews.com",
-          "pubDate": "2026-10-18T17:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egypt pledges support for Saudi Arabia as Houthis warn Cairo against military intervention"
-        },
-        {
-          "title": "SA leads Africa 2026 GDP rankings - Channel Africa",
-          "link": "https://www.channelafrica.co.za/channelafrica/news/sa-leads-africas-2026-gdp-rankings/",
-          "source": "channelafrica.co.za",
-          "pubDate": "2026-10-18T17:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "SA leads Africa 2026 GDP rankings - Channel Africa"
-        },
-        {
-          "title": "African civil society urges women , youth lead continental water governance",
-          "link": "https://www.channelafrica.co.za/channelafrica/news/african-civil-society-urges-women-youth-lead-continental-water-governance/",
-          "source": "channelafrica.co.za",
-          "pubDate": "2026-10-18T17:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "African civil society urges women , youth lead continental water governance"
-        },
-        {
-          "title": "Egypt says ready to give Saudi Arabia necessary support amid Houthi conflict",
-          "link": "https://sundayworld.co.za/news/egypt-says-ready-to-give-saudi-arabia-necessary-support-amid-houthi-conflict/",
-          "source": "sundayworld.co.za",
-          "pubDate": "2026-10-18T17:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egypt says ready to give Saudi Arabia necessary support amid Houthi conflict"
-        },
-        {
-          "title": "Chris Matthews Grills Ari Fleischer Like an Enemy of the State",
-          "link": "https://www.newsbusters.org/blogs/nb/noel-sheppard/2009/03/11/chris-matthews-grills-ari-fleischer-enemy-state",
-          "source": "newsbusters.org",
-          "pubDate": "2026-10-18T16:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Chris Matthews Grills Ari Fleischer Like an Enemy of the State"
-        },
-        {
-          "title": "What Does Egypt Pledge to Support Saudi Arabia Mean for Regional Security and Yemen Future ?",
-          "link": "https://english.aawsat.com/gulf/5330890-what-does-egypt%E2%80%99s-pledge-support-saudi-arabia-mean-regional-security-and-yemen%E2%80%99s",
-          "source": "english.aawsat.com",
-          "pubDate": "2026-10-18T16:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "What Does Egypt Pledge to Support Saudi Arabia Mean for Regional Security and Yemen Future ?"
-        },
-        {
-          "title": "US retrenchment and the remaking of the Levant",
-          "link": "https://cyprus-mail.com/2026/10/18/us-retrenchment-and-the-remaking-of-the-levant",
-          "source": "cyprus-mail.com",
-          "pubDate": "2026-10-18T16:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "US retrenchment and the remaking of the Levant"
-        },
-        {
-          "title": "Egypt enters the war",
-          "link": "https://thefrontierpost.com/egypt-enters-the-war/",
-          "source": "thefrontierpost.com",
-          "pubDate": "2026-10-18T16:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egypt enters the war"
-        },
-        {
-          "title": "Egypt Moves Closer to Economic Stability as Moody Upgrades Credit Rating",
-          "link": "https://egyptianstreets.com/2026/10/18/egypt-moves-closer-to-economic-stability-as-moodys-upgrades-credit-rating/",
-          "source": "egyptianstreets.com",
-          "pubDate": "2026-10-18T16:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egypt Moves Closer to Economic Stability as Moody Upgrades Credit Rating"
-        },
-        {
-          "title": "Egypt ready to help Saudi Arabia defend itself , says al - Sisi",
-          "link": "https://www.timeslive.co.za/news/africa/2026-10-18-egypt-ready-to-help-saudi-arabia-defend-itself-says-al-sisi/",
-          "source": "timeslive.co.za",
-          "pubDate": "2026-10-18T15:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egypt ready to help Saudi Arabia defend itself , says al - Sisi"
-        },
-        {
-          "title": "Egypt says ready to give Saudi Arabia necessary support amid Houthi conflict",
-          "link": "https://www.moneycontrol.com/world/egypt-says-ready-to-give-saudi-arabia-necessary-support-amid-houthi-conflict-article-14054889.html",
-          "source": "moneycontrol.com",
-          "pubDate": "2026-10-18T15:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egypt says ready to give Saudi Arabia necessary support amid Houthi conflict"
-        },
-        {
-          "title": "Morocco Secures $250 Million Hotel Investment as Pickalbatros Plans 7 , 000 Rooms",
-          "link": "https://www.rustourismnews.com/2026/10/18/morocco-secures-250-million-hotel-investment-as-pickalbatros-plans-7000-rooms/",
-          "source": "rustourismnews.com",
-          "pubDate": "2026-10-18T15:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Morocco Secures $250 Million Hotel Investment as Pickalbatros Plans 7 , 000 Rooms"
-        },
-        {
-          "title": "UAE Business : Forbes unveils Middle East sustainability leaders list for 2026",
-          "link": "https://www.gdnonline.com:443/Details/1410078",
-          "source": "gdnonline.com",
-          "pubDate": "2026-10-18T15:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "UAE Business : Forbes unveils Middle East sustainability leaders list for 2026"
-        },
-        {
-          "title": "Saudi skyscraper closes offices as Houthi disruption spreads",
-          "link": "https://www.al-monitor.com/originals/2026/10/saudi-skyscraper-closes-offices-houthi-disruption-spreads",
-          "source": "al-monitor.com",
-          "pubDate": "2026-10-18T15:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Saudi skyscraper closes offices as Houthi disruption spreads"
-        },
-        {
-          "title": "Egypt approves sending troops to Saudi amid Houthi attacks",
-          "link": "https://www.siasat.com/egypt-approves-sending-troops-to-saudi-amid-houthi-attacks-3560586/",
-          "source": "siasat.com",
-          "pubDate": "2026-10-18T15:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egypt approves sending troops to Saudi amid Houthi attacks"
-        }
-      ]
+      "items": []
     },
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
       "items": [
-        {
-          "title": "Who Holds the Valve ? Water , War and the Price of Peace - By Kator Ifyalem",
-          "link": "https://www.opinionnigeria.com/who-holds-the-valve-water-war-and-the-price-of-peace-by-kator-ifyalem/",
-          "source": "opinionnigeria.com",
-          "pubDate": "2026-10-18T14:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Who Holds the Valve ? Water , War and the Price of Peace - By Kator Ifyalem"
-        },
-        {
-          "title": "The Region Real Picture , Without AI Beautification",
-          "link": "https://english.aawsat.com/opinion/5330701-region%E2%80%99s-real-picture-without-ai-beautification",
-          "source": "english.aawsat.com",
-          "pubDate": "2026-10-18T08:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The Region Real Picture , Without AI Beautification"
-        },
-        {
-          "title": "El Sisi insists he will leave office in 2030 as he outlines succession plan",
-          "link": "https://www.thenationalnews.com/news/mena/2026/10/17/el-sisi-insists-he-will-leave-office-in-2030-as-he-outlines-succession-plan/",
-          "source": "thenationalnews.com",
-          "pubDate": "2026-10-17T21:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "El Sisi insists he will leave office in 2030 as he outlines succession plan"
-        },
-        {
-          "title": "Why Ethiopia and Eritrea march to war demands global attention – Middle East Monitor",
-          "link": "https://www.middleeastmonitor.com/20261016-why-ethiopia-and-eritreas-march-to-war-demands-global-attention/",
-          "source": "middleeastmonitor.com",
-          "pubDate": "2026-10-16T16:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Why Ethiopia and Eritrea march to war demands global attention – Middle East Monitor"
-        },
-        {
-          "title": "Ethiopia : From Sinai to the Nile - Egypt Cannot Demand Peace From Israel While Threatening War Against Ethiopia",
-          "link": "https://allafrica.com/stories/202610160214.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-10-16T11:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia : From Sinai to the Nile - Egypt Cannot Demand Peace From Israel While Threatening War Against Ethiopia"
-        },
         {
           "title": "Opinion: The Horn of Africa Deserves Peace Not Crisis and Instability",
           "link": "https://hornobserver.com/articles/3782/Opinion-The-Horn-of-Africa-Deserves-Peace-Not-Crisis-and-Instability",
@@ -630,15 +413,6 @@
           "titleIt": "Opinion: The Horn of Africa Deserves Peace Not Crisis and Instability"
         },
         {
-          "title": "Ethiopia Reaffirms Rights Over Nile , Red Sea As Regional Alliances Shift",
-          "link": "https://www.thereporterethiopia.com/53223/",
-          "source": "thereporterethiopia.com",
-          "pubDate": "2026-10-06T08:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia Reaffirms Rights Over Nile , Red Sea As Regional Alliances Shift"
-        },
-        {
           "title": "Sudan: WFP Strongly Condemns Attack On Trucks In South Kordofan, Killing One Driver",
           "link": "https://hornobserver.com/articles/3771/Sudan-WFP-Strongly-Condemns-Attack-On-Trucks-In-South-Kordofan-Killing-One-Driver",
           "description": "One driver was killed in the air strike. We extend our deepest condolences to his family, friends and colleagues. The contracted trucks were en route from Dilling to Kadugli and clearly marked as humanitarian vehicles. Additional details regarding the circumstances of the incident, including the extent of the damage to the food cargo, are still being collected. WFP calls for a prompt and impartial investigation into this incident and for those responsible for any violations to be held accountable. This latest attack comes only one day after a WFP truck struck an explosive device in Dilling, So",
@@ -646,114 +420,6 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "Sudan: WFP Strongly Condemns Attack On Trucks In South Kordofan, Killing One Driver"
-        },
-        {
-          "title": "African Union urges restraint as Ethiopia , Eritrea and Egypt edge toward confrontation",
-          "link": "https://kenya-today.com/report-african-union-urges-restraint-as-ethiopia-eritrea-and-egypt-edge-toward-confrontation-5769/",
-          "source": "kenya-today.com",
-          "pubDate": "2026-10-02T09:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "African Union urges restraint as Ethiopia , Eritrea and Egypt edge toward confrontation"
-        },
-        {
-          "title": "Ethiopia Establishes Abay Compensation Committee to Assess Projects Allegedly  Obstructed By Egypt",
-          "link": "https://allafrica.com/stories/202610020077.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-10-02T07:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia Establishes Abay Compensation Committee to Assess Projects Allegedly  Obstructed By Egypt"
-        },
-        {
-          "title": "Ethiopia expels Egyptian diplomat as regional tensions escalate",
-          "link": "https://www.radiotamazuj.org/en/news/article/ethiopia-expels-egyptian-diplomat-as-regional-tensions-escalate",
-          "source": "radiotamazuj.org",
-          "pubDate": "2026-10-01T23:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia expels Egyptian diplomat as regional tensions escalate"
-        },
-        {
-          "title": "Ethiopia : Beyond GERD - Ethiopia Next Move On the Nile",
-          "link": "https://allafrica.com/stories/202610010633.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-10-01T22:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia : Beyond GERD - Ethiopia Next Move On the Nile"
-        },
-        {
-          "title": "Ethiopia claims over 22 development projects blocked by external opposition , citing collected evidence",
-          "link": "https://capitalethiopia.com/2026/10/01/ethiopia-claims-over-22-development-projects-blocked-by-external-opposition-citing-collected-evidence/",
-          "source": "capitalethiopia.com",
-          "pubDate": "2026-10-01T22:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia claims over 22 development projects blocked by external opposition , citing collected evidence"
-        },
-        {
-          "title": "Egypt seeks greater share of Nile water amid rising tension with Ethiopia",
-          "link": "https://www.thenationalnews.com/news/mena/2026/09/30/egypt-seeks-greater-share-of-nile-water-amid-rising-tension-with-ethiopia/",
-          "source": "thenationalnews.com",
-          "pubDate": "2026-09-30T14:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egypt seeks greater share of Nile water amid rising tension with Ethiopia"
-        },
-        {
-          "title": "Beyond the Red Sea : Ethiopian - Eritrean Conflict Risks Converging With Yemen Crisis",
-          "link": "https://themedialine.org/top-stories/beyond-the-red-sea-ethiopian-eritrean-conflict-risks-converging-with-yemen-crisis/",
-          "source": "themedialine.org",
-          "pubDate": "2026-09-30T01:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Beyond the Red Sea : Ethiopian - Eritrean Conflict Risks Converging With Yemen Crisis"
-        },
-        {
-          "title": "African leaders to gather in Egypt for business summit",
-          "link": "https://www.al-monitor.com/originals/2026/09/african-leaders-gather-egypt-business-summit",
-          "source": "al-monitor.com",
-          "pubDate": "2026-09-29T14:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "African leaders to gather in Egypt for business summit"
-        },
-        {
-          "title": "Ethiopia reaffirms support for boosting integration in Horn of Africa",
-          "link": "https://www.plenglish.com/news/2026/09/29/ethiopia-reaffirms-support-for-boosting-integration-in-horn-of-africa/",
-          "source": "plenglish.com",
-          "pubDate": "2026-09-29T14:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia reaffirms support for boosting integration in Horn of Africa"
-        },
-        {
-          "title": "Egypt Denies Backing Rebel Forces After Ethiopian General Allegation",
-          "link": "https://egyptianstreets.com/2026/09/29/egypt-denies-backing-rebel-forces-after-ethiopian-generals-allegation/",
-          "source": "egyptianstreets.com",
-          "pubDate": "2026-09-29T12:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egypt Denies Backing Rebel Forces After Ethiopian General Allegation"
-        },
-        {
-          "title": "African leaders to meet in Egypt for business summit",
-          "link": "https://punchng.com/african-leaders-to-meet-in-egypt-for-business-summit/",
-          "source": "punchng.com",
-          "pubDate": "2026-09-29T10:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "African leaders to meet in Egypt for business summit"
-        },
-        {
-          "title": "Cairo denies Ethiopian army chief accusations of supporting opposition armed groups – Middle East Monitor",
-          "link": "https://www.middleeastmonitor.com/20260929-cairo-denies-ethiopian-army-chiefs-accusations-of-supporting-opposition-armed-groups/",
-          "source": "middleeastmonitor.com",
-          "pubDate": "2026-09-29T09:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Cairo denies Ethiopian army chief accusations of supporting opposition armed groups – Middle East Monitor"
         }
       ]
     }
