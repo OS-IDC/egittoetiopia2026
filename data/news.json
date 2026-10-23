@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T21:36:15.229Z",
+  "generatedAt": "2026-10-23T00:41:08.418Z",
   "feedsChecked": 10,
   "feedsAttempted": 10,
   "topics": {
@@ -425,192 +425,29 @@
     },
     "egypt-economy": {
       "title": "Fragilità economica egiziana",
-      "items": [
-        {
-          "title": "Europe Red Autumn",
-          "link": "https://marxist.com/europes-red-autumn.htm",
-          "source": "marxist.com",
-          "pubDate": "2026-10-22T21:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Europe Red Autumn"
-        },
-        {
-          "title": "Nasdaq dives 2 . 6 % as U . S . and Israel gear up for more attacks on Iran",
-          "link": "http://www.russiaherald.com/news/279393163/nasdaq-dives-2-6-as-u-s-and-israel-gear-up-for-more-attacks-on-iran",
-          "source": "russiaherald.com",
-          "pubDate": "2026-10-22T21:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Nasdaq dives 2 . 6 % as U . S . and Israel gear up for more attacks on Iran"
-        },
-        {
-          "title": "Nasdaq dives 2 . 6 % as U . S . and Israel gear up for more attacks on Iran",
-          "link": "http://www.europesun.com/news/279393163/nasdaq-dives-2-6-as-u-s-and-israel-gear-up-for-more-attacks-on-iran",
-          "source": "europesun.com",
-          "pubDate": "2026-10-22T21:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Nasdaq dives 2 . 6 % as U . S . and Israel gear up for more attacks on Iran"
-        },
-        {
-          "title": "Iran says 7 tankers damaged in Strait of Hormuz , and other Mideast news - Las Vegas Sun News",
-          "link": "https://lasvegassun.com/news/2026/oct/22/iran-says-7-tankers-damaged-in-strait-of-hormuz-an/",
-          "source": "lasvegassun.com",
-          "pubDate": "2026-10-22T21:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Iran says 7 tankers damaged in Strait of Hormuz , and other Mideast news - Las Vegas Sun News"
-        },
-        {
-          "title": "Connect The Dot Between Street Protests And Global Turmoil , Urges Guterres",
-          "link": "https://www.scoop.co.nz/stories/WO2610/S00168/connect-the-dots-between-street-protests-and-global-turmoil-urges-guterres.htm",
-          "source": "scoop.co.nz",
-          "pubDate": "2026-10-22T21:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Connect The Dot Between Street Protests And Global Turmoil , Urges Guterres"
-        },
-        {
-          "title": "Nasdaq dives 2 . 6 % as U . S . and Israel gear up for more attacks on Iran",
-          "link": "http://www.ohiostandard.com/news/279393163/nasdaq-dives-2-6-as-u-s-and-israel-gear-up-for-more-attacks-on-iran",
-          "source": "ohiostandard.com",
-          "pubDate": "2026-10-22T21:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Nasdaq dives 2 . 6 % as U . S . and Israel gear up for more attacks on Iran"
-        },
-        {
-          "title": "Nasdaq dives 2 . 6 % as U . S . and Israel gear up for more attacks on Iran",
-          "link": "http://www.mainemirror.com/news/279393163/nasdaq-dives-2-6-as-u-s-and-israel-gear-up-for-more-attacks-on-iran",
-          "source": "mainemirror.com",
-          "pubDate": "2026-10-22T21:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Nasdaq dives 2 . 6 % as U . S . and Israel gear up for more attacks on Iran"
-        },
-        {
-          "title": "Egypt tiny Catholic minority punches above its weight",
-          "link": "https://www.indcatholicnews.com/news/56135",
-          "source": "indcatholicnews.com",
-          "pubDate": "2026-10-22T21:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egypt tiny Catholic minority punches above its weight"
-        },
-        {
-          "title": "Arab News | Egypt and Greece reject Libyan parliament ratification of 2019 maritime boundaries deal with Turkiye",
-          "link": "https://www.arabnews.com/middle-east/egypt-and-greece-reject-libyan-parliament-ratification-of-2019-maritime-boundaries-deal-with-turkiye-3007783",
-          "source": "arabnews.com",
-          "pubDate": "2026-10-22T20:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Arab News | Egypt and Greece reject Libyan parliament ratification of 2019 maritime boundaries deal with Turkiye"
-        },
-        {
-          "title": "EBRD and Scatec ASA support large - scale renewable energy in SEMED region",
-          "link": "https://www.ebrd.com/home/news-and-events/news/2026/ebrd-and-scatec-asa-back-renewable-energy-in-semed.html",
-          "source": "ebrd.com",
-          "pubDate": "2026-10-22T19:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "EBRD and Scatec ASA support large - scale renewable energy in SEMED region"
-        },
-        {
-          "title": "If Modi Ends the Ukraine War - Northlines",
-          "link": "https://thenorthlines.com/if-modi-ends-the-ukraine-war/",
-          "source": "thenorthlines.com",
-          "pubDate": "2026-10-22T19:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "If Modi Ends the Ukraine War - Northlines"
-        },
-        {
-          "title": "Netherlands Closes Cairo Embassy Until Further Notice",
-          "link": "https://www.riotimesonline.com/netherlands-closes-cairo-embassy-until-further-notice-2026/",
-          "source": "riotimesonline.com",
-          "pubDate": "2026-10-22T19:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Netherlands Closes Cairo Embassy Until Further Notice"
-        },
-        {
-          "title": "Tanzania Plans Nuclear Technology in 6 to 9 Hospitals",
-          "link": "https://www.riotimesonline.com/tanzania-plans-6-to-9-nuclear-hospitals-2026/",
-          "source": "riotimesonline.com",
-          "pubDate": "2026-10-22T19:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Tanzania Plans Nuclear Technology in 6 to 9 Hospitals"
-        },
-        {
-          "title": "Best Online Casino UAE 2026 , Judged on Payouts and Trust",
-          "link": "https://thenationonlineng.net/best-online-casino-uae-2026-judged-on-payouts-and-trust/",
-          "source": "thenationonlineng.net",
-          "pubDate": "2026-10-22T17:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Best Online Casino UAE 2026 , Judged on Payouts and Trust"
-        },
-        {
-          "title": "BRICS Nuclear Platform advises Africa to expand women participation in advancing nuclear energy",
-          "link": "https://dailynews.co.tz/brics-nuclear-platform-advises-africa-to-expand-womens-participation-in-advancing-nuclear-energy/",
-          "source": "dailynews.co.tz",
-          "pubDate": "2026-10-22T17:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "BRICS Nuclear Platform advises Africa to expand women participation in advancing nuclear energy"
-        },
-        {
-          "title": "Arab News | Arab states condemn deadly Houthi attacks on Saudi airport and oilfield",
-          "link": "https://www.arabnews.com/saudi-arabia/arab-states-condemn-deadly-houthi-attacks-on-saudi-airport-and-oilfield-3007763",
-          "source": "arabnews.com",
-          "pubDate": "2026-10-22T17:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Arab News | Arab states condemn deadly Houthi attacks on Saudi airport and oilfield"
-        },
-        {
-          "title": "Foreign ministers to meet in Istanbul for talks on Iran , Yemen and regional security",
-          "link": "https://horizonweekly.ca/en/foreign-ministers-to-meet-in-istanbul-for-talks-on-iran-yemen-and-regional-security/",
-          "source": "horizonweekly.ca",
-          "pubDate": "2026-10-22T16:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Foreign ministers to meet in Istanbul for talks on Iran , Yemen and regional security"
-        },
-        {
-          "title": "Groupe SEB : Nine - Month 2026 Sales and Financial Data",
-          "link": "https://www.finanznachrichten.de/nachrichten-2026-10/69911028-groupe-seb-nine-month-2026-sales-and-financial-data-004.htm",
-          "source": "finanznachrichten.de",
-          "pubDate": "2026-10-22T16:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Groupe SEB : Nine - Month 2026 Sales and Financial Data"
-        },
-        {
-          "title": "Iran threatens to strike oil and AI facilities across Gulf if US and Israel renew attacks",
-          "link": "https://www.theguardian.com/world/2026/oct/22/iran-threatens-seven-gulf-countries-us-israel-renew-attacks",
-          "source": "theguardian.com",
-          "pubDate": "2026-10-22T16:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Iran threatens to strike oil and AI facilities across Gulf if US and Israel renew attacks"
-        },
-        {
-          "title": "What behind Hamas threat , and can it strike Israel ?  The capabilities are there",
-          "link": "https://www.ynetnews.com/article/rkh00luv2ml",
-          "source": "ynetnews.com",
-          "pubDate": "2026-10-22T16:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "What behind Hamas threat , and can it strike Israel ?  The capabilities are there"
-        }
-      ]
+      "items": []
     },
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
       "items": [
+        {
+          "title": "Fighting in Ethiopia and the Risk of Regional Spillover",
+          "link": "https://warontherocks.com/fighting-in-ethiopia-and-the-risk-of-regional-spillover/",
+          "source": "warontherocks.com",
+          "pubDate": "2026-10-21T20:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Fighting in Ethiopia and the Risk of Regional Spillover"
+        },
+        {
+          "title": "Ethiopia Abiy Pushes Nuclear Power Development After Russia Deal",
+          "link": "https://chimpreports.com/ethiopias-abiy-pushes-nuclear-power-development-after-russia-deal/",
+          "source": "chimpreports.com",
+          "pubDate": "2026-10-21T12:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia Abiy Pushes Nuclear Power Development After Russia Deal"
+        },
         {
           "title": "United Nations condemns drone strikes on civilians and infrastructure in Sudan",
           "link": "http://www.africanews.com/2026/10/21/united-nations-condemns-drone-strikes-on-civilians-and-infrastructure-in-sudan/",
@@ -621,6 +458,132 @@
           "titleIt": "United Nations condemns drone strikes on civilians and infrastructure in Sudan"
         },
         {
+          "title": "Yemen war : Why Egypt vow to defend Saudi Arabia is a risky gamble",
+          "link": "https://www.middleeasteye.net/opinion/yemen-war-why-egypts-vow-defend-saudi-arabia-risky-gamble",
+          "source": "middleeasteye.net",
+          "pubDate": "2026-10-20T09:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Yemen war : Why Egypt vow to defend Saudi Arabia is a risky gamble"
+        },
+        {
+          "title": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict",
+          "link": "https://www.newsday.com/news/nation/ethiopia-tigray-eritrea-abiy-ahmed-nile-t67567",
+          "source": "newsday.com",
+          "pubDate": "2026-10-20T06:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict"
+        },
+        {
+          "title": "US Ambassador Urges Ethiopia Talks 19 Oct",
+          "link": "https://www.riotimesonline.com/us-ambassador-ethiopia-massinga-peace-talks-2026/",
+          "source": "riotimesonline.com",
+          "pubDate": "2026-10-20T02:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "US Ambassador Urges Ethiopia Talks 19 Oct"
+        },
+        {
+          "title": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict",
+          "link": "http://www.sitkasentinel.com/stories/a-look-at-how-ethiopias-wars-sea-ambitions-and-nile-dam-fuel-fears-of-wider-conflict,179778",
+          "source": "sitkasentinel.com",
+          "pubDate": "2026-10-19T16:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict"
+        },
+        {
+          "title": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict :: WRAL . com",
+          "link": "https://www.wral.com/news/ap/18294-a-look-at-how-ethiopia-s-wars-sea-ambitions-and-nile-dam-fuel-fears-of-wider-conflict/",
+          "source": "wral.com",
+          "pubDate": "2026-10-19T15:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict :: WRAL . com"
+        },
+        {
+          "title": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict",
+          "link": "https://www.thepeterboroughexaminer.com/business/a-look-at-how-ethiopia-s-wars-sea-ambitions-and-nile-dam-fuel-fears-of-wider-conflict/article_800473c7-bbd4-535b-a9c8-31b345bc3e75.html",
+          "source": "thepeterboroughexaminer.com",
+          "pubDate": "2026-10-19T15:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict"
+        },
+        {
+          "title": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict",
+          "link": "https://www.niagarafallsreview.ca/business/a-look-at-how-ethiopia-s-wars-sea-ambitions-and-nile-dam-fuel-fears-of-wider-conflict/article_e45aa027-36b8-5163-9ef8-56822c7c6e16.html",
+          "source": "niagarafallsreview.ca",
+          "pubDate": "2026-10-19T15:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict"
+        },
+        {
+          "title": "Arab News | A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict",
+          "link": "https://www.arabnews.com/world/a-look-at-how-ethiopias-wars-sea-ambitions-and-nile-dam-fuel-fears-of-wider-conflict-3007181",
+          "source": "arabnews.com",
+          "pubDate": "2026-10-19T14:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Arab News | A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict"
+        },
+        {
+          "title": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict – Winnipeg Free Press",
+          "link": "https://www.winnipegfreepress.com/business/2026/10/19/a-look-at-how-ethiopias-wars-sea-ambitions-and-nile-dam-fuel-fears-of-wider-conflict",
+          "source": "winnipegfreepress.com",
+          "pubDate": "2026-10-19T13:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict – Winnipeg Free Press"
+        },
+        {
+          "title": "Who Holds the Valve ? Water , War and the Price of Peace - By Kator Ifyalem",
+          "link": "https://www.opinionnigeria.com/who-holds-the-valve-water-war-and-the-price-of-peace-by-kator-ifyalem/",
+          "source": "opinionnigeria.com",
+          "pubDate": "2026-10-18T14:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Who Holds the Valve ? Water , War and the Price of Peace - By Kator Ifyalem"
+        },
+        {
+          "title": "The Region Real Picture , Without AI Beautification",
+          "link": "https://english.aawsat.com/opinion/5330701-region%E2%80%99s-real-picture-without-ai-beautification",
+          "source": "english.aawsat.com",
+          "pubDate": "2026-10-18T08:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The Region Real Picture , Without AI Beautification"
+        },
+        {
+          "title": "El Sisi insists he will leave office in 2030 as he outlines succession plan",
+          "link": "https://www.thenationalnews.com/news/mena/2026/10/17/el-sisi-insists-he-will-leave-office-in-2030-as-he-outlines-succession-plan/",
+          "source": "thenationalnews.com",
+          "pubDate": "2026-10-17T21:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "El Sisi insists he will leave office in 2030 as he outlines succession plan"
+        },
+        {
+          "title": "Why Ethiopia and Eritrea march to war demands global attention – Middle East Monitor",
+          "link": "https://www.middleeastmonitor.com/20261016-why-ethiopia-and-eritreas-march-to-war-demands-global-attention/",
+          "source": "middleeastmonitor.com",
+          "pubDate": "2026-10-16T16:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Why Ethiopia and Eritrea march to war demands global attention – Middle East Monitor"
+        },
+        {
+          "title": "Ethiopia : From Sinai to the Nile - Egypt Cannot Demand Peace From Israel While Threatening War Against Ethiopia",
+          "link": "https://allafrica.com/stories/202610160214.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-10-16T11:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia : From Sinai to the Nile - Egypt Cannot Demand Peace From Israel While Threatening War Against Ethiopia"
+        },
+        {
           "title": "Opinion: The Horn of Africa Deserves Peace Not Crisis and Instability",
           "link": "https://hornobserver.com/articles/3782/Opinion-The-Horn-of-Africa-Deserves-Peace-Not-Crisis-and-Instability",
           "description": "Yet, behind these crises are millions of people who share deep historical, cultural, economic, and social ties. The region's greatest need today is not another confrontation or competing alliance, but sustainable peace, mutual respect, and regional cooperation. A Region Under Immense Pressure. The situation across the Horn of Africa and its neighboring countries illustrates how deeply interconnected regional security has become. Sudan is devastated by a crippling war, with millions displaced and its state institutions and social fabric severely damaged. Somalia continues its difficult fight ag",
@@ -628,6 +591,15 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "Opinion: The Horn of Africa Deserves Peace Not Crisis and Instability"
+        },
+        {
+          "title": "Ethiopia Reaffirms Rights Over Nile , Red Sea As Regional Alliances Shift",
+          "link": "https://www.thereporterethiopia.com/53223/",
+          "source": "thereporterethiopia.com",
+          "pubDate": "2026-10-06T08:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia Reaffirms Rights Over Nile , Red Sea As Regional Alliances Shift"
         },
         {
           "title": "Sudan: WFP Strongly Condemns Attack On Trucks In South Kordofan, Killing One Driver",
