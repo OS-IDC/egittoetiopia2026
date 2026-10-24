@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T18:47:59.711Z",
+  "generatedAt": "2026-10-24T22:30:07.032Z",
   "feedsChecked": 10,
   "feedsAttempted": 10,
   "topics": {
@@ -138,13 +138,13 @@
       "title": "Dossier Somaliland",
       "items": [
         {
-          "title": "Watch as fire engulfs Hitler's mountaintop Eagle's Nest retreat",
+          "title": "Fire engulfs Hitler's mountaintop Eagle's Nest retreat",
           "link": "https://www.bbc.co.uk/news/videos/cq98z9xxy2n2o?at_medium=RSS&at_campaign=rss",
           "description": "Police in the southern German state of Bavaria have detained a 33-year-old German man following the fire.",
           "pubDate": "Sat, 24 Oct 2026 15:56:48 GMT",
           "source": "BBC World",
           "lang": "en",
-          "titleIt": "Watch as fire engulfs Hitler's mountaintop Eagle's Nest retreat"
+          "titleIt": "Fire engulfs Hitler's mountaintop Eagle's Nest retreat"
         },
         {
           "title": "Ethiopia: Ethiopia's Abiy Inaugurates Major Megech Irrigation Dam",
@@ -250,6 +250,15 @@
     "ethiopia-sea-access": {
       "title": "Accesso etiope al mare",
       "items": [
+        {
+          "title": "Business news: Hd Hyundai costruira' un cantiere navale negli Usa con Kiewit, previsti 3 mila posti di lavoro",
+          "link": "https://www.agenzianova.com/a/0/7925742/2026-10-25/business-news-hd-hyundai-costruira-un-cantiere-navale-negli-usa-con-kiewit-previsti-3-mila-posti-di-lavoro",
+          "description": "25 ott 00:00 - (Agenzia Nova) - Il gruppo sudcoreano Hd Hyundai ha firmato un accordo con la statunitense Kiewit per avviare nel 2027 la costruzione... (Git)",
+          "pubDate": "2026-10-25T00:00:59+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Business news: Hd Hyundai costruira' un cantiere navale negli Usa con Kiewit, previsti 3 mila posti di lavoro"
+        },
         {
           "title": "Ethiopia: Ethiopia's Abiy Inaugurates Major Megech Irrigation Dam",
           "link": "https://allafrica.com/stories/202610230515.html",
@@ -380,7 +389,188 @@
     },
     "egypt-economy": {
       "title": "Fragilità economica egiziana",
-      "items": []
+      "items": [
+        {
+          "title": "Drawings From the Studios of Louis C . Tiffany  Dazzle at The Met",
+          "link": "https://www.theepochtimes.com/bright/drawings-from-the-studios-of-louis-c-tiffany-dazzle-at-the-met-6107006",
+          "source": "theepochtimes.com",
+          "pubDate": "2026-10-24T22:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Drawings From the Studios of Louis C . Tiffany  Dazzle at The Met"
+        },
+        {
+          "title": "EXCLUSIVE Mike Rogers Warns of Abdul El - Sayed Radical Ideology :  This Is About the Heart and Soul of America",
+          "link": "https://www.breitbart.com/politics/2026/10/24/exclusive-mike-rogers-warns-of-abdul-el-sayeds-radical-ideology-this-is-about-the-heart-and-soul-of-america/",
+          "source": "breitbart.com",
+          "pubDate": "2026-10-24T22:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "EXCLUSIVE Mike Rogers Warns of Abdul El - Sayed Radical Ideology :  This Is About the Heart and Soul of America"
+        },
+        {
+          "title": "Libya signals readiness for talks with Egypt amid dispute over maritime deal with Türkiye",
+          "link": "https://news.az/news/libya-signals-readiness-for-talks-with-egypt-amid-dispute-over-maritime-deal-with-turkiye",
+          "source": "news.az",
+          "pubDate": "2026-10-24T21:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Libya signals readiness for talks with Egypt amid dispute over maritime deal with Türkiye"
+        },
+        {
+          "title": "Abu Dhabi Firm in Talks for Eni Libya Stake",
+          "link": "https://www.riotimesonline.com/abu-dhabi-firm-eni-libya-stake-2026/",
+          "source": "riotimesonline.com",
+          "pubDate": "2026-10-24T18:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Abu Dhabi Firm in Talks for Eni Libya Stake"
+        },
+        {
+          "title": "Tirsam Passenger Cars : Algeria Talks With Global Makers",
+          "link": "https://www.riotimesonline.com/algeria-tirsam-passenger-cars-talks-2026/",
+          "source": "riotimesonline.com",
+          "pubDate": "2026-10-24T18:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Tirsam Passenger Cars : Algeria Talks With Global Makers"
+        },
+        {
+          "title": "Egypt Targets 6 Billion Cubic Feet of Gas a Day",
+          "link": "https://www.riotimesonline.com/egypt-targets-6-billion-cubic-feet-gas-2026/",
+          "source": "riotimesonline.com",
+          "pubDate": "2026-10-24T18:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt Targets 6 Billion Cubic Feet of Gas a Day"
+        },
+        {
+          "title": "Is prophecy now unfolding in Europe riots ?",
+          "link": "https://www.manilatimes.net/2026/10/25/opinion/columns/is-prophecy-now-unfolding-in-europes-riots/2453298",
+          "source": "manilatimes.net",
+          "pubDate": "2026-10-24T17:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Is prophecy now unfolding in Europe riots ?"
+        },
+        {
+          "title": "Border demarcation between Egypt - Turkey requires consultation : Foreign Ministry",
+          "link": "https://www.egyptindependent.com/border-demarcation-between-egypt-turkey-requires-consultation-foreign-ministry/",
+          "source": "egyptindependent.com",
+          "pubDate": "2026-10-24T15:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Border demarcation between Egypt - Turkey requires consultation : Foreign Ministry"
+        },
+        {
+          "title": "ENI ( NYSE : E ) Issues Quarterly Earnings Results , Beats Estimates By $0 . 26 EPS",
+          "link": "https://www.dailypolitical.com/2026/10/24/eni-nysee-issues-quarterly-earnings-results-beats-estimates-by-0-26-eps.html",
+          "source": "dailypolitical.com",
+          "pubDate": "2026-10-24T15:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "ENI ( NYSE : E ) Issues Quarterly Earnings Results , Beats Estimates By $0 . 26 EPS"
+        },
+        {
+          "title": "Albania agrees to contribute to Gaza International Stabilization Force - Israel & Jewish News",
+          "link": "https://www.jns.org/news/israel-news/albania-agrees-to-contribute-to-gazas-international-stabilization-force",
+          "source": "jns.org",
+          "pubDate": "2026-10-24T15:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Albania agrees to contribute to Gaza International Stabilization Force - Israel & Jewish News"
+        },
+        {
+          "title": "D - 8 Chief Says Members Can Support Regional Mediation Efforts",
+          "link": "https://econotimes.com/D-8-Chief-Says-Members-Can-Support-Regional-Mediation-Efforts-1762546",
+          "source": "econotimes.com",
+          "pubDate": "2026-10-24T15:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "D - 8 Chief Says Members Can Support Regional Mediation Efforts"
+        },
+        {
+          "title": "On Egypt visit , UN chief Guterres says",
+          "link": "http://www.israelherald.com/news/279396017/on-egypt-visit-un-chief-guterres-says-we-need-to-stop-the-widening-of-war",
+          "source": "israelherald.com",
+          "pubDate": "2026-10-24T15:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "On Egypt visit , UN chief Guterres says"
+        },
+        {
+          "title": "Pakistan , Saudi Arabia , European powers urge diplomacy amid Middle East conflicts",
+          "link": "https://thefrontierpost.com/pakistan-saudi-arabia-european-powers-urge-diplomacy-amid-middle-east-conflicts/",
+          "source": "thefrontierpost.com",
+          "pubDate": "2026-10-24T14:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Pakistan , Saudi Arabia , European powers urge diplomacy amid Middle East conflicts"
+        },
+        {
+          "title": "On Egypt visit , UN chief Guterres says",
+          "link": "http://www.azerbaijannews.net/news/279396017/on-egypt-visit-un-chief-guterres-says-we-need-to-stop-the-widening-of-war",
+          "source": "azerbaijannews.net",
+          "pubDate": "2026-10-24T14:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "On Egypt visit , UN chief Guterres says"
+        },
+        {
+          "title": "IVF and Surrogacy : Faith , ethics and the business of parenthood",
+          "link": "https://organiser.org/2026/10/24/420129/bharat/ivf-and-surrogacy-a-critical-examination-of-the-biblical-ideas-reproductive-technology-and-the-business-of-parenthood/",
+          "source": "organiser.org",
+          "pubDate": "2026-10-24T14:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "IVF and Surrogacy : Faith , ethics and the business of parenthood"
+        },
+        {
+          "title": "D8 countries play key role in promoting peace , stability : Secretary - General",
+          "link": "https://aa.com.tr/en/world/d8-countries-play-key-role-in-promoting-peace-stability-secretary-general/4099471",
+          "source": "aa.com.tr",
+          "pubDate": "2026-10-24T13:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "D8 countries play key role in promoting peace , stability : Secretary - General"
+        },
+        {
+          "title": "On Egypt visit , UN chief Guterres says",
+          "link": "http://www.sierraleonetimes.com/news/279396017/on-egypt-visit-un-chief-guterres-says-we-need-to-stop-the-widening-of-war",
+          "source": "sierraleonetimes.com",
+          "pubDate": "2026-10-24T13:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "On Egypt visit , UN chief Guterres says"
+        },
+        {
+          "title": "On Egypt visit , UN chief Guterres says",
+          "link": "http://www.bruneinews.net/news/279396017/on-egypt-visit-un-chief-guterres-says-we-need-to-stop-the-widening-of-war",
+          "source": "bruneinews.net",
+          "pubDate": "2026-10-24T13:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "On Egypt visit , UN chief Guterres says"
+        },
+        {
+          "title": "Arab News | Startup Wrap : MENA attracts fresh funding across technology sectors",
+          "link": "https://www.arabnews.com/startups/startup-wrap-mena-attracts-fresh-funding-across-technology-sectors-3007746",
+          "source": "arabnews.com",
+          "pubDate": "2026-10-24T13:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Arab News | Startup Wrap : MENA attracts fresh funding across technology sectors"
+        },
+        {
+          "title": "On Egypt visit , UN chief Guterres says",
+          "link": "http://www.zimbabwestar.com/news/279396017/on-egypt-visit-un-chief-guterres-says-we-need-to-stop-the-widening-of-war",
+          "source": "zimbabwestar.com",
+          "pubDate": "2026-10-24T13:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "On Egypt visit , UN chief Guterres says"
+        }
+      ]
     },
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
@@ -411,6 +601,15 @@
           "source": "ANSA English",
           "lang": "en",
           "titleIt": "Israel's detention of Italian women in West Bank unacceptable says Tajani"
+        },
+        {
+          "title": "Uganda: Former Busiro South MP Charles Matovu to Be Buried On Sunday",
+          "link": "https://allafrica.com/stories/202610230385.html",
+          "description": "[Nile Post] Former Busiro South Member of Parliament Charles Matovu will be buried on Sunday, October 25, 2026, at his ancestral home in Kungu-Lutale along Nakawuka Road, according to a send-off programme released by the National Unity Platform (NUP).",
+          "pubDate": "Fri, 23 Oct 2026 12:12:19 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Uganda: Former Busiro South MP Charles Matovu to Be Buried On Sunday"
         },
         {
           "title": "Opinion: The Horn of Africa Deserves Peace Not Crisis and Instability",
