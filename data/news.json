@@ -1,11 +1,29 @@
 {
-  "generatedAt": "2026-10-27T12:11:24.170Z",
+  "generatedAt": "2026-10-27T18:01:15.183Z",
   "feedsChecked": 10,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
+        {
+          "title": "Egypt detains journalist Lina Attalah after court ruling",
+          "link": "http://www.africanews.com/2026/10/27/egypt-detains-journalist-lina-attalah-after-court-ruling/",
+          "description": "Egyptian journalist Lina Attalah, editor-in-chief of the country's leading independent news outlet Mada Masr, was detained by security forces after being fined in a swift trial on Tuesday, the publication said.",
+          "pubDate": "Tue, 27 Oct 2026 14:48:52 +0000",
+          "source": "Africanews",
+          "lang": "en",
+          "titleIt": "Egypt detains journalist Lina Attalah after court ruling"
+        },
+        {
+          "title": "Ambassador to Senegal Presents Credentials, ‘New Momentum for Relations’",
+          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/10/27/ambassador-to-senegal-presents-credentials-new-momentum-for-relations_d9de3497-0226-4ee0-a11b-c204afd8cbde.html",
+          "description": "(ANSA) - IL CAIRO, 27 OTT - The Italian Ambassador to Senegal, Michele Tommasi, presented his credentials to President Bassirou Diomaye Faye in recent days. On that occasion, the ambassador expressed his “determination to work toward a partnership among equals, based on mutual respect, listening, and dialogue, in the belief that each party’s success must also contribute to the other’s.” “It is in this spirit,” he added in a message posted on social media, “that Italy intends to give new impetus to its relations with Senegal, so that together, in trust and friendship, we may build the condition",
+          "pubDate": "Tue, 27 Oct 2026 14:42:02 +0100",
+          "source": "ANSA English",
+          "lang": "en",
+          "titleIt": "Ambassador to Senegal Presents Credentials, ‘New Momentum for Relations’"
+        },
         {
           "title": "Egypt approves military support for Saudi Arabia amid escalating Houthi attacks",
           "link": "http://www.africanews.com/2026/10/26/egypt-approves-military-support-for-saudi-arabia-amid-escalating-houthi-attacks/",
@@ -32,24 +50,6 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "SJS says Somali journalists detained, allegedly beaten and forced into hiding amid political crisis"
-        },
-        {
-          "title": "Israel's detention of Italian women in West Bank unacceptable says Tajani",
-          "link": "https://www.ansa.it/english/news/2026/10/23/israels-detention-of-italian-women-in-west-bank-unacceptable-says-tajani_dc182961-8820-4e8d-aa83-db962e86c0d6.html",
-          "description": "(ANSA) - ROME, 23 OTT - Deputy Premier and Foreign Minister Antonio Tajani on Friday blasted Israel for detaining five female Italian activists on Thursday in the West Bank village of al-Bweib while they were accompanying Palestinian farmers during the olive harvest. \"We demand the immediate release of the five Italian women detained by the Israeli Defense Forces,\" Tajani said in Istanbul, where he is taking part in the 4+4 ministerial meeting with his counterparts from France, Germany, the United Kingdom, Turkey, Saudi Arabia, Pakistan and Egypt. \"We hope they can be sent back to Italy in the",
-          "pubDate": "Fri, 23 Oct 2026 16:28:44 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "Israel's detention of Italian women in West Bank unacceptable says Tajani"
-        },
-        {
-          "title": "Israel's detention of Italian women in West Bank unacceptable says Tajani",
-          "link": "https://www.ansa.it/english/news/world/2026/10/23/israels-detention-of-italian-women-in-west-bank-unacceptable-says-tajani_2bf759c7-385e-44b6-8d7c-e41fe032feca.html",
-          "description": "(ANSA) - ROME, 23 OTT - Deputy Premier and Foreign Minister Antonio Tajani on Friday blasted Israel for detaining five female Italian activists on Thursday in the West Bank village of al-Bweib while they were accompanying Palestinian farmers during the olive harvest. \"We demand the immediate release of the five Italian women detained by the Israeli Defense Forces,\" Tajani said in Istanbul, where he is taking part in the 4+4 ministerial meeting with his counterparts from France, Germany, the United Kingdom, Turkey, Saudi Arabia, Pakistan and Egypt. \"We hope they can be sent back to Italy in the",
-          "pubDate": "Fri, 23 Oct 2026 16:28:24 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "Israel's detention of Italian women in West Bank unacceptable says Tajani"
         },
         {
           "title": "Somalia: AI-altered photo falsely claims Al-Shabaab leader appeared among fighters seen in Diinsoor during capture by pro-Laftagareen's forces",
@@ -156,6 +156,24 @@
       "title": "Dossier Somaliland",
       "items": [
         {
+          "title": "Kenya: No Evidence Kenyan President Said He'll Never Trust Luo Community for 'Supporting' His Political Opponent - Viral Quote Fabricated",
+          "link": "https://allafrica.com/stories/202610270578.html",
+          "description": "[Africa Check] No evidence Kenyan president said he'll never trust Luo community for 'supporting' his political opponent - viral quote fabricated",
+          "pubDate": "Tue, 27 Oct 2026 13:42:19 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Kenya: No Evidence Kenyan President Said He'll Never Trust Luo Community for 'Supporting' His Political Opponent - Viral Quote Fabricated"
+        },
+        {
+          "title": "Kenya: Specialised Rescue Team Deployed to Eastleigh Building Collapse",
+          "link": "https://allafrica.com/stories/202610270463.html",
+          "description": "[Capital FM] Nairobi -- The Kenya Defence Forces (KDF) has deployed specialised rescue teams, canine units and equipment to support ongoing efforts to locate survivors following the collapse of a building along 9th Street in Eastleigh, Nairobi.",
+          "pubDate": "Tue, 27 Oct 2026 12:22:17 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Kenya: Specialised Rescue Team Deployed to Eastleigh Building Collapse"
+        },
+        {
           "title": "Somalia's Eritrean-trained naval chief appointment risks further straining ties with Ethiopia",
           "link": "https://hornobserver.com/articles/3790/Somalias-Eritrean-trained-naval-chief-appointment-risks-further-straining-ties-with-Ethiopia",
           "description": "Mohamed Abdulqadir \"Shariif\" has been appointed commander of the Somali Navy and Coastal Defence Forces, replacing Brig. Gen. Abdiwahab Omar. His military training in Eritrea comes at a sensitive time for the region, with relations between Ethiopia and Eritrea deteriorating and renewed fighting in northern Ethiopia raising fears of a wider confrontation.&nbsp; The appointment could cause concern in Addis Ababa, particularly as Somalia has strengthened its engagement with Eritrea and Egypt amid longstanding disputes with Ethiopia over sovereignty, regional security and access to the Red Sea. Th",
@@ -163,15 +181,6 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "Somalia's Eritrean-trained naval chief appointment risks further straining ties with Ethiopia"
-        },
-        {
-          "title": "Red Cross trains staff as Kenya records its second death from Ebola",
-          "link": "http://www.africanews.com/2026/10/25/red-cross-trains-staff-as-kenya-records-its-second-death-from-ebola/",
-          "description": "It says the fight to contain the virus does not end when a patient dies, saying the handling and burial of the body is just as important.",
-          "pubDate": "Sun, 25 Oct 2026 10:45:43 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "Red Cross trains staff as Kenya records its second death from Ebola"
         },
         {
           "title": "Somalia: AI-altered photo falsely claims Al-Shabaab leader appeared among fighters seen in Diinsoor during capture by pro-Laftagareen's forces",
@@ -260,6 +269,15 @@
       "title": "Accesso etiope al mare",
       "items": [
         {
+          "title": "Csm: Craxi-Costa (FI), con Di Pietro nessun accordo, incompatibile con quel ruolo",
+          "link": "https://www.agenzianova.com/a/0/7941776/2026-10-27/csm-craxi-costa-fi-con-di-pietro-nessun-accordo-incompatibile-con-quel-ruolo",
+          "description": "27 ott 18:37 - (Agenzia Nova) - \"Forza Italia non votera' Antonio Di Pietro quale membro del Csm. Non e' una questione nominale, ma di principio.... (Com)",
+          "pubDate": "2026-10-27T18:37:44+01:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Csm: Craxi-Costa (FI), con Di Pietro nessun accordo, incompatibile con quel ruolo"
+        },
+        {
           "title": "Sustainable Economy: Italy Takes Center Stage at the 2026 Global Bioeconomy Summit in Dublin",
           "link": "https://www.ansa.it/english/news/news_from_embassies/2026/10/27/sustainable-economy-italy-takes-center-stage-at-the-2026-global-bioeconomy_5b929d8f-cbfc-47a4-a33f-7c7d152e2674.html",
           "description": "(ANSA) - LONDRA, 27 OTT - Italy took center stage at the Global Bioeconomy Summit 2026, an international summit dedicated to sustainable innovation and the bioeconomy held in Dublin in recent days, where Italian industrial excellence was combined with strategic support from local institutions during two days of high-level meetings. On the first day of the event, Mirella Senatore, representing the Italian Embassy in Dublin, participated in the plenary session, which featured among its keynote speakers Catia Bastioli, CEO of Novamont (Eni Group), an international leader in the development and pr",
@@ -314,130 +332,85 @@
           "titleIt": "SJS says Somali journalists detained, allegedly beaten and forced into hiding amid political crisis"
         },
         {
-          "title": "Eritrea Gambia Diplomatic Relations Set Up in New York",
-          "link": "https://www.riotimesonline.com/eritrea-gambia-diplomatic-relations-2026/",
-          "source": "riotimesonline.com",
-          "pubDate": "2026-10-25T09:45:00Z",
+          "title": "Somalia: AI-altered photo falsely claims Al-Shabaab leader appeared among fighters seen in Diinsoor during capture by pro-Laftagareen's forces",
+          "link": "https://hornobserver.com/articles/3787/Somalia-AI-altered-photo-falsely-claims-Al-Shabaab-leader-appeared-among-fighters-seen-in-Diinsoor-during-capture-by-pro-Laftagareens-forces",
+          "description": "Some news sites and social media accounts went further, claiming that the conflict across Southwest State \"was part of a foreign-funded campaign\" allegedly \"facilitated by Ethiopia and Kenya\". These posts and the AI-altered photo garnered thousands of views across various platforms, including Facebook, X (formerly Twitter), and YouTube. The images were also shared by accounts supportive of Aden Mohamed Nur (Aden Madobe) and the Somali Federal Government. The Somali Journalists Syndicate (SJS) was alerted to the images by local journalists and ordinary citizens, prompting SJS to investigate the",
+          "pubDate": "Mon, 19 Oct 2026 14:13:50 +0300",
+          "source": "Horn Observer",
           "lang": "en",
-          "description": "",
-          "titleIt": "Eritrea Gambia Diplomatic Relations Set Up in New York"
+          "titleIt": "Somalia: AI-altered photo falsely claims Al-Shabaab leader appeared among fighters seen in Diinsoor during capture by pro-Laftagareen's forces"
         },
         {
-          "title": "Starlink and new era of digital connectivity and inclusion",
-          "link": "https://capitalethiopia.com/2026/10/25/starlink-and-new-era-of-digital-connectivity-and-inclusion/",
-          "source": "capitalethiopia.com",
-          "pubDate": "2026-10-25T05:30:00Z",
+          "title": "Ethiopia-Eritrea war fears, Gaza military base blocked, and Kabila’s new coalition: The Cheat Sheet",
+          "link": "https://www.thenewhumanitarian.org/news/2026/10/16/ethiopia-eritrea-war-fears-gaza-base-blocked-kabila-new-coalition-cheat-sheet",
+          "description": "A weekly read to keep you in the loop on humanitarian issues.",
+          "pubDate": "Fri, 16 Oct 26 14:59:14 +0000",
+          "source": "The New Humanitarian",
           "lang": "en",
-          "description": "",
-          "titleIt": "Starlink and new era of digital connectivity and inclusion"
+          "titleIt": "Ethiopia-Eritrea war fears, Gaza military base blocked, and Kabila’s new coalition: The Cheat Sheet"
         },
         {
-          "title": "Several dead in clashes between rival Ethiopia armies",
-          "link": "https://www.omanobserver.om/article/1198471/world/africa/several-dead-in-clashes-between-rival-ethiopia-armies",
-          "source": "omanobserver.om",
-          "pubDate": "2026-10-24T16:00:00Z",
+          "title": "Why Rwanda's deal for F1 race remains controversial",
+          "link": "https://www.bbc.co.uk/sport/formula1/articles/c61kdv3k9gm2o?at_medium=RSS&at_campaign=rss",
+          "description": "Formula 1 will return to Africa in the early 2030s, but Rwanda's deal to stage a race has prompted accusations of sportswashing against the country.",
+          "pubDate": "Wed, 14 Oct 2026 14:47:31 GMT",
+          "source": "BBC Africa",
           "lang": "en",
-          "description": "",
-          "titleIt": "Several dead in clashes between rival Ethiopia armies"
+          "titleIt": "Why Rwanda's deal for F1 race remains controversial"
         },
         {
-          "title": "Ethiopia Calls for Shared Red Sea Security",
-          "link": "https://www.riotimesonline.com/ethiopia-calls-for-shared-red-sea-security-2026/",
-          "source": "riotimesonline.com",
-          "pubDate": "2026-10-24T15:00:00Z",
+          "title": "Somalia national intelligence agency abducts journalist reporting on security tensions in Mogadishu",
+          "link": "https://hornobserver.com/articles/3780/Somalia-national-intelligence-agency-abducts-journalist-reporting-on-security-tensions-in-Mogadishu",
+          "description": "At midday on Sunday, plainclothes NISA officers abducted journalist Khadar Abdirahim Ibrahim of Himilo Media in Mogadishu, according to his colleagues. Khadar was on his lunch break when NISA officers approached him at a restaurant near Himilo Media's offices in the Wadajir district of Mogadishu. A colleague who spoke to SJS said that was the last time they saw him. Earlier on Sunday morning, before Khadar's reported abduction, another Himilo Media journalist, Abdifatah Mohamed Hared, a cameraman, was stopped and slapped by NISA officers who had established a checkpoint on the road leading to ",
+          "pubDate": "Mon, 12 Oct 2026 16:34:06 +0300",
+          "source": "Horn Observer",
           "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia Calls for Shared Red Sea Security"
+          "titleIt": "Somalia national intelligence agency abducts journalist reporting on security tensions in Mogadishu"
         },
         {
-          "title": "Arab News | Several dead in clashes between rival Ethiopia regional armies",
-          "link": "https://www.arabnews.com/world/several-dead-in-clashes-between-rival-ethiopia-regional-armies-3008023",
-          "source": "arabnews.com",
-          "pubDate": "2026-10-24T11:45:00Z",
+          "title": "Somalia: Xawaadle Elders and Al-Shabaab Reportedly Reach Truce in Hiiraan",
+          "link": "https://hornobserver.com/articles/3776/Somalia-Xawaadle-Elders-and-Al-Shabaab-Reportedly-Reach-Truce-in-Hiiraan",
+          "description": "A 16-point joint statement circulated by Al-Shabaab-affiliated media&nbsp; said the sides had resolved their disputes and agreed to maintain peace in areas controlled or influenced by the clan. The reported agreement includes a commitment by Hawadle elders not to allow the recruitment or operation of Macawiisley fighters in their areas or provide them with shelter. Macawiisley forces from Hiiraan have played a key role in supporting Somali government troops against Al-Shabaab. The meeting in Maxaas was attended by dozens of traditional elders, while Al-Shabaab was represented by senior figures",
+          "pubDate": "Tue, 06 Oct 2026 21:41:19 +0300",
+          "source": "Horn Observer",
           "lang": "en",
-          "description": "",
-          "titleIt": "Arab News | Several dead in clashes between rival Ethiopia regional armies"
+          "titleIt": "Somalia: Xawaadle Elders and Al-Shabaab Reportedly Reach Truce in Hiiraan"
         },
         {
-          "title": "IMF Voting Power Heavily Skewed Against Developing Regions : Report",
-          "link": "https://www.thereporterethiopia.com/53645/",
-          "source": "thereporterethiopia.com",
-          "pubDate": "2026-10-24T08:15:00Z",
+          "title": "Somalia: NISA Says Key Al-Shabaab Security Chief Killed in Jilib Operation",
+          "link": "https://hornobserver.com/articles/3775/Somalia-NISA-Says-Key-Al-Shabaab-Security-Chief-Killed-in-Jilib-Operation",
+          "description": "According to NISA, the operation was carried out by its forces with support from international partners that targeted Nunow who served as the head of Al-Shabaab's intelligence and security wing, known as the \"Amniyat,\" from 2016 to 2024. Nunow also used the aliases Geescadde, Fanax, Gardhuub and Ali Dheere. Somalia's NISA accused Nunow of playing a key role in planning and carrying out attacks targeting Somali civilians. Among the attacks NISA linked to him were the October 14, 2017, bombing at the Zoobe intersection in Mogadishu, the Ex-Control Afgooye attack, the second Zoobe attack, and oth",
+          "pubDate": "Tue, 06 Oct 2026 21:03:29 +0300",
+          "source": "Horn Observer",
           "lang": "en",
-          "description": "",
-          "titleIt": "IMF Voting Power Heavily Skewed Against Developing Regions : Report"
+          "titleIt": "Somalia: NISA Says Key Al-Shabaab Security Chief Killed in Jilib Operation"
         },
         {
-          "title": "Conflict Should Never Be The First Option : | The Reporter Ethiopia",
-          "link": "https://www.thereporterethiopia.com/53621/",
-          "source": "thereporterethiopia.com",
-          "pubDate": "2026-10-24T08:15:00Z",
+          "title": "Press Release: President Isaias of Eritrea holds talks with Somali President",
+          "link": "https://hornobserver.com/articles/3774/Press-Release-President-Isaias-of-Eritrea-holds-talks-with-Somali-President",
+          "description": "The two Heads of State underlined the imperative of consolidating a conducive political climate that rejects external agendas of interference to safeguard and guarantee the territorial integrity, stability, and peace of Somalia and the unity of its people.&nbsp; President Isaias further remarked that federal governance architectures in Somalia and other countries in our region have often failed to meet the peoples' hopes and aspirations for unity and cohesion. Political frameworks that polarize socio-economic, religious, and ethnic differences to foment perennial crises and encourage foreign i",
+          "pubDate": "Tue, 06 Oct 2026 18:48:48 +0300",
+          "source": "Horn Observer",
           "lang": "en",
-          "description": "",
-          "titleIt": "Conflict Should Never Be The First Option : | The Reporter Ethiopia"
+          "titleIt": "Press Release: President Isaias of Eritrea holds talks with Somali President"
         },
         {
-          "title": "Ethiopia Intelligence Chief Warns of Red Sea Militarisation , Foreign Rivalries",
-          "link": "https://chimpreports.com/ethiopia-intelligence-chief-warns-of-red-sea-militarisation-foreign-rivalries/",
-          "source": "chimpreports.com",
-          "pubDate": "2026-10-24T06:00:00Z",
+          "title": "Journalists face arrests and alleged assaults while covering evictions in Somalia and Somaliland",
+          "link": "https://hornobserver.com/articles/3770/Journalists-face-arrests-and-alleged-assaults-while-covering-evictions-in-Somalia-and-Somaliland",
+          "description": "The Somali Journalists Syndicate (SJS) says it has documented 13 arbitrary arrests of journalists in Mogadishu since Jan. 1, 2026, while 10 journalists have been arrested in Somaliland during the same period. Many of the cases involved reporters covering protests, forced evictions or criticism of government officials. In the latest incident, two journalists working for Somaliland-based Eryal TV said they were physically assaulted by Somali police and National Intelligence and Security Agency officers on Sept. 29 while reporting on forced evictions in Mogadishu's Yaqshiid district. Journalist M",
+          "pubDate": "Fri, 02 Oct 2026 23:26:00 +0300",
+          "source": "Horn Observer",
           "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia Intelligence Chief Warns of Red Sea Militarisation , Foreign Rivalries"
+          "titleIt": "Journalists face arrests and alleged assaults while covering evictions in Somalia and Somaliland"
         },
         {
-          "title": "Naira devaluation made Nigeria poor , Obasanjo says - New African Magazine",
-          "link": "https://newafricanmagazine.com/economy/naira-devaluation-made-nigeria-poor-obasanjo-says/",
-          "source": "newafricanmagazine.com",
-          "pubDate": "2026-10-24T02:45:00Z",
+          "title": "Containing the New War in Northern Ethiopia",
+          "link": "https://www.crisisgroup.org/cmt/europe/european-union-ethiopia-eritrea-sudan/containing-new-war-northern-ethiopia",
+          "description": "War has returned to northern Ethiopia, raising fears of a wider conflict involving Eritrea. In this excerpt from the EU Watch List 2026 – Autumn Edition , Crisis Group explains how the EU and member states can facilitate talks and prevent escalation.",
+          "pubDate": "Thursday, October 15, 2026 - 11:12",
+          "source": "Crisis Group",
           "lang": "en",
-          "description": "",
-          "titleIt": "Naira devaluation made Nigeria poor , Obasanjo says - New African Magazine"
-        },
-        {
-          "title": "10 great East African films",
-          "link": "https://www.bfi.org.uk/lists/10-great-east-african-films",
-          "source": "bfi.org.uk",
-          "pubDate": "2026-10-23T15:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "10 great East African films"
-        },
-        {
-          "title": "Tigray rebel leader vows to continue war against Ethiopian forces despite territorial losses",
-          "link": "https://aa.com.tr/en/africa/tigray-rebel-leader-vows-to-continue-war-against-ethiopian-forces-despite-territorial-losses/4098511",
-          "source": "aa.com.tr",
-          "pubDate": "2026-10-23T13:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Tigray rebel leader vows to continue war against Ethiopian forces despite territorial losses"
-        },
-        {
-          "title": "Diplomacy remains Türkiye priority from Ukraine to Africa : Erdoğan",
-          "link": "https://www.dailysabah.com/politics/diplomacy-remains-turkiyes-priority-from-ukraine-to-africa-erdogan/news",
-          "source": "dailysabah.com",
-          "pubDate": "2026-10-23T13:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Diplomacy remains Türkiye priority from Ukraine to Africa : Erdoğan"
-        },
-        {
-          "title": "South Africa : Kaizer Chiefs , Raja and CS Sfaxien Face Tricky Return Ties As TotalEnergies CAF Confederation Cup Group Stage Places Go On the Line",
-          "link": "https://allafrica.com/stories/202610230241.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-10-23T12:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "South Africa : Kaizer Chiefs , Raja and CS Sfaxien Face Tricky Return Ties As TotalEnergies CAF Confederation Cup Group Stage Places Go On the Line"
-        },
-        {
-          "title": "China and Djibouti stress need to protect Red Sea shipping lanes | Hellenic Shipping News Worldwide",
-          "link": "https://www.hellenicshippingnews.com/china-and-djibouti-stress-need-to-protect-red-sea-shipping-lanes/",
-          "source": "hellenicshippingnews.com",
-          "pubDate": "2026-10-23T12:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "China and Djibouti stress need to protect Red Sea shipping lanes | Hellenic Shipping News Worldwide"
+          "titleIt": "Containing the New War in Northern Ethiopia"
         }
       ]
     },
@@ -468,6 +441,15 @@
       "title": "Opacità sui rilasci GERD",
       "items": [
         {
+          "title": "West warns of famine risk in Sudan as civil war grinds on",
+          "link": "https://www.bbc.co.uk/news/articles/cj5ynkk6v3pzo?at_medium=RSS&at_campaign=rss",
+          "description": "Millions face acute hunger in Sudan as conflict, drought and funding cuts aggravate the humanitarian crisis.",
+          "pubDate": "Tue, 27 Oct 2026 15:41:46 GMT",
+          "source": "BBC Africa",
+          "lang": "en",
+          "titleIt": "West warns of famine risk in Sudan as civil war grinds on"
+        },
+        {
           "title": "Ethiopia: Drought, Food Shortages and Child Malnutrition Deepen Humanitarian Needs in Afar, Amhara and Tigray",
           "link": "https://allafrica.com/stories/202610270284.html",
           "description": "[Addis Standard] Addis Abeba -- Drought, rising food prices, shortages of essential medicines and disruptions to health services are compounding humanitarian needs across northern Ethiopia's Afar, Amhara and Tigray regions, with displaced children particularly vulnerable to acute malnutrition, according to a humanitarian assessment document seen by Addis Standard.",
@@ -484,24 +466,6 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "Somalia's Eritrean-trained naval chief appointment risks further straining ties with Ethiopia"
-        },
-        {
-          "title": "Israel's detention of Italian women in West Bank unacceptable says Tajani",
-          "link": "https://www.ansa.it/english/news/2026/10/23/israels-detention-of-italian-women-in-west-bank-unacceptable-says-tajani_dc182961-8820-4e8d-aa83-db962e86c0d6.html",
-          "description": "(ANSA) - ROME, 23 OTT - Deputy Premier and Foreign Minister Antonio Tajani on Friday blasted Israel for detaining five female Italian activists on Thursday in the West Bank village of al-Bweib while they were accompanying Palestinian farmers during the olive harvest. \"We demand the immediate release of the five Italian women detained by the Israeli Defense Forces,\" Tajani said in Istanbul, where he is taking part in the 4+4 ministerial meeting with his counterparts from France, Germany, the United Kingdom, Turkey, Saudi Arabia, Pakistan and Egypt. \"We hope they can be sent back to Italy in the",
-          "pubDate": "Fri, 23 Oct 2026 16:28:44 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "Israel's detention of Italian women in West Bank unacceptable says Tajani"
-        },
-        {
-          "title": "Israel's detention of Italian women in West Bank unacceptable says Tajani",
-          "link": "https://www.ansa.it/english/news/world/2026/10/23/israels-detention-of-italian-women-in-west-bank-unacceptable-says-tajani_2bf759c7-385e-44b6-8d7c-e41fe032feca.html",
-          "description": "(ANSA) - ROME, 23 OTT - Deputy Premier and Foreign Minister Antonio Tajani on Friday blasted Israel for detaining five female Italian activists on Thursday in the West Bank village of al-Bweib while they were accompanying Palestinian farmers during the olive harvest. \"We demand the immediate release of the five Italian women detained by the Israeli Defense Forces,\" Tajani said in Istanbul, where he is taking part in the 4+4 ministerial meeting with his counterparts from France, Germany, the United Kingdom, Turkey, Saudi Arabia, Pakistan and Egypt. \"We hope they can be sent back to Italy in the",
-          "pubDate": "Fri, 23 Oct 2026 16:28:24 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "Israel's detention of Italian women in West Bank unacceptable says Tajani"
         },
         {
           "title": "Opinion: The Horn of Africa Deserves Peace Not Crisis and Instability",
