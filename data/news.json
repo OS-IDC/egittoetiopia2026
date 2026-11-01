@@ -1,11 +1,47 @@
 {
-  "generatedAt": "2026-11-01T13:23:08.160Z",
+  "generatedAt": "2026-11-01T18:57:27.195Z",
   "feedsChecked": 10,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
+        {
+          "title": "Somalia: Centro sicurezza marittima Oceano Indiano, peschereccio iraniano sequestrato da pirati",
+          "link": "https://www.agenzianova.com/a/0/7958529/2026-11-01/somalia-centro-sicurezza-marittima-oceano-indiano-peschereccio-iraniano-sequestrato-da-pirati",
+          "description": "01 nov 18:20 - (Agenzia Nova) - Il Centro per la sicurezza marittima dell'Oceano Indiano (Mscio) ha fatto sapere di avere ricevuto informazioni... (Suk)",
+          "pubDate": "2026-11-01T18:20:05+01:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Somalia: Centro sicurezza marittima Oceano Indiano, peschereccio iraniano sequestrato da pirati"
+        },
+        {
+          "title": "Egitto: siglato un accordo di finanziamento da un miliardo di dollari con la Banca Mondiale (2)",
+          "link": "https://www.agenzianova.com/a/0/7958422/2026-11-01/egitto-siglato-un-accordo-di-finanziamento-da-un-miliardo-di-dollari-con-la-banca-mondiale-2",
+          "description": "01 nov 17:28 - (Agenzia Nova) - Il finanziamento rientra nel programma denominato \"Generating Resilience, Opportunities, and Welfare for a... (Cae)",
+          "pubDate": "2026-11-01T17:28:59+01:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Egitto: siglato un accordo di finanziamento da un miliardo di dollari con la Banca Mondiale (2)"
+        },
+        {
+          "title": "Egitto: siglato un accordo di finanziamento da un miliardo di dollari con la Banca Mondiale",
+          "link": "https://www.agenzianova.com/a/0/7958421/2026-11-01/egitto-siglato-un-accordo-di-finanziamento-da-un-miliardo-di-dollari-con-la-banca-mondiale",
+          "description": "01 nov 17:28 - (Agenzia Nova) - L'Egitto ha firmato un accordo di finanziamento da un miliardo di dollari con la Banca mondiale, nell'ambito... (Cae)",
+          "pubDate": "2026-11-01T17:28:59+01:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Egitto: siglato un accordo di finanziamento da un miliardo di dollari con la Banca Mondiale"
+        },
+        {
+          "title": "More than 175,000 affected by floods as Somalia faces further heavy rains",
+          "link": "https://hornobserver.com/articles/3799/More-than-175-000-affected-by-floods-as-Somalia-faces-further-heavy-rains",
+          "description": "Gaalkacyo, Abudwaq and Baidoa were among the hardest-hit areas. Area-Based Coordination teams reported that floods destroyed 1,515 shelters and damaged another 4,498 during the month. Floodwaters also damaged or inundated 2,110 latrines, 137 water points, 72 schools and 55 health facilities, disrupting access to essential services. Water levels in the Shabelle River rose significantly during the final week of October, approaching moderate flood-risk thresholds in Belet Weyne district in Hiraan region. Levels also increased in Bulo Burto, while the Juba River remained relatively low. The Food a",
+          "pubDate": "Sun, 01 Nov 2026 18:22:12 +0300",
+          "source": "Horn Observer",
+          "lang": "en",
+          "titleIt": "More than 175,000 affected by floods as Somalia faces further heavy rains"
+        },
         {
           "title": "U.S. adds Somalia to port security watch list amid Trump's escalating criticism of Somali community",
           "link": "https://hornobserver.com/articles/3798/US-adds-Somalia-to-port-security-watch-list-amid-Trumps-escalating-criticism-of-Somali-community",
@@ -147,6 +183,24 @@
       "title": "Dossier Somaliland",
       "items": [
         {
+          "title": "Golfo: Consiglio cooperazione condanna attacco contro nave Gnl del Qatar",
+          "link": "https://www.agenzianova.com/a/0/7958497/2026-11-01/golfo-consiglio-cooperazione-condanna-attacco-contro-nave-gnl-del-qatar",
+          "description": "01 nov 17:55 - (Agenzia Nova) - Il Consiglio di cooperazione del Golfo (Gcc) ha condannato \"fermamente\" l'attacco contro una nave per il trasporto... (Res)",
+          "pubDate": "2026-11-01T17:55:42+01:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Golfo: Consiglio cooperazione condanna attacco contro nave Gnl del Qatar"
+        },
+        {
+          "title": "More than 175,000 affected by floods as Somalia faces further heavy rains",
+          "link": "https://hornobserver.com/articles/3799/More-than-175-000-affected-by-floods-as-Somalia-faces-further-heavy-rains",
+          "description": "Gaalkacyo, Abudwaq and Baidoa were among the hardest-hit areas. Area-Based Coordination teams reported that floods destroyed 1,515 shelters and damaged another 4,498 during the month. Floodwaters also damaged or inundated 2,110 latrines, 137 water points, 72 schools and 55 health facilities, disrupting access to essential services. Water levels in the Shabelle River rose significantly during the final week of October, approaching moderate flood-risk thresholds in Belet Weyne district in Hiraan region. Levels also increased in Bulo Burto, while the Juba River remained relatively low. The Food a",
+          "pubDate": "Sun, 01 Nov 2026 18:22:12 +0300",
+          "source": "Horn Observer",
+          "lang": "en",
+          "titleIt": "More than 175,000 affected by floods as Somalia faces further heavy rains"
+        },
+        {
           "title": "U.S. adds Somalia to port security watch list amid Trump's escalating criticism of Somali community",
           "link": "https://hornobserver.com/articles/3798/US-adds-Somalia-to-port-security-watch-list-amid-Trumps-escalating-criticism-of-Somali-community",
           "description": "The U.S. Coast Guard announced the designation in a Federal Register notice published October.27, 2026 and&nbsp; took effect upon announcement. The measure allows U.S. authorities to impose additional entry requirements on vessels arriving from Somali ports. The announcement comes against the backdrop of Trump's increasingly hostile rhetoric toward Somalis and his repeated attacks on Democratic Rep. Ilhan Omar, a Somali-born U.S. citizen representing Minnesota.&nbsp; Trump has also repeatedly targeted Somali immigrants in Minnesota, at times making sweeping negative statements about the commun",
@@ -181,6 +235,15 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "Somalia: Press Freedom Under Pressure as Puntland Journalists Face Police Action Over Security Reporting"
+        },
+        {
+          "title": "East Africa: CMA CGM Launches a New Dedicated Rail Service in Kenya, Strengthening Its Presence in East Africa",
+          "link": "https://allafrica.com/stories/202610290248.html",
+          "description": "[InfoWire] CMA CGM launches its first dedicated full block train service between the Port of Mombasa and the Nairobi-Embakasi Inland Container Depot, strengthening connections between Kenya's main maritime gateway and its inland markets. With 54 wagons and a capacity of 108 containers (Twenty-foot Equivalent Units), the service will initially operate one train per week, with potential to increase frequency and introduce a return service. Developed in partnership with the Kenya Ports Authority and Kenya",
+          "pubDate": "Thu, 29 Oct 2026 09:51:56 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "East Africa: CMA CGM Launches a New Dedicated Rail Service in Kenya, Strengthening Its Presence in East Africa"
         },
         {
           "title": "U.S. Troops Withdraw from Belidogle Military Airfield as Security Situation Evolves in Southwest Somalia",
@@ -219,15 +282,6 @@
           "titleIt": "Somalia national intelligence agency abducts journalist reporting on security tensions in Mogadishu"
         },
         {
-          "title": "Death toll rises to 139 after migrant boat capsizes off Djibouti",
-          "link": "https://hornobserver.com/articles/3779/Death-toll-rises-to-139-after-migrant-boat-capsizes-off-Djibouti",
-          "description": "The boat went down during the night of Oct. 8-9 near Guehere, north of the port town of Obock. The death toll rose from 109 after 30 more bodies were recovered, the International Organization for Migration said. About 82 people survived, while search and recovery operations continued. The shipwreck is among the deadliest recorded on the Eastern Route, a migration corridor used by people traveling from the Horn of Africa toward Yemen and other destinations in the Arabian Peninsula. The African Union Commission expressed sorrow over the disaster in a statement issued Sunday. Its chairperson, Mah",
-          "pubDate": "Mon, 12 Oct 2026 13:44:28 +0300",
-          "source": "Horn Observer",
-          "lang": "en",
-          "titleIt": "Death toll rises to 139 after migrant boat capsizes off Djibouti"
-        },
-        {
           "title": "Mourners killed by Kenya police at Odinga national farewell not part of violence, BBC finds",
           "link": "https://www.bbc.co.uk/news/articles/c962y4ld1d7do?at_medium=RSS&at_campaign=rss",
           "description": "After analysing 1,500 videos and images of the Raila Odinga memorial, Africa Eye finds that those killed were far from the scuffles.",
@@ -241,6 +295,33 @@
     "ethiopia-sea-access": {
       "title": "Accesso etiope al mare",
       "items": [
+        {
+          "title": "Somalia: Centro sicurezza marittima Oceano Indiano, peschereccio iraniano sequestrato da pirati",
+          "link": "https://www.agenzianova.com/a/0/7958529/2026-11-01/somalia-centro-sicurezza-marittima-oceano-indiano-peschereccio-iraniano-sequestrato-da-pirati",
+          "description": "01 nov 18:20 - (Agenzia Nova) - Il Centro per la sicurezza marittima dell'Oceano Indiano (Mscio) ha fatto sapere di avere ricevuto informazioni... (Suk)",
+          "pubDate": "2026-11-01T18:20:05+01:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Somalia: Centro sicurezza marittima Oceano Indiano, peschereccio iraniano sequestrato da pirati"
+        },
+        {
+          "title": "Egitto: siglato un accordo di finanziamento da un miliardo di dollari con la Banca Mondiale (2)",
+          "link": "https://www.agenzianova.com/a/0/7958422/2026-11-01/egitto-siglato-un-accordo-di-finanziamento-da-un-miliardo-di-dollari-con-la-banca-mondiale-2",
+          "description": "01 nov 17:28 - (Agenzia Nova) - Il finanziamento rientra nel programma denominato \"Generating Resilience, Opportunities, and Welfare for a... (Cae)",
+          "pubDate": "2026-11-01T17:28:59+01:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Egitto: siglato un accordo di finanziamento da un miliardo di dollari con la Banca Mondiale (2)"
+        },
+        {
+          "title": "More than 175,000 affected by floods as Somalia faces further heavy rains",
+          "link": "https://hornobserver.com/articles/3799/More-than-175-000-affected-by-floods-as-Somalia-faces-further-heavy-rains",
+          "description": "Gaalkacyo, Abudwaq and Baidoa were among the hardest-hit areas. Area-Based Coordination teams reported that floods destroyed 1,515 shelters and damaged another 4,498 during the month. Floodwaters also damaged or inundated 2,110 latrines, 137 water points, 72 schools and 55 health facilities, disrupting access to essential services. Water levels in the Shabelle River rose significantly during the final week of October, approaching moderate flood-risk thresholds in Belet Weyne district in Hiraan region. Levels also increased in Bulo Burto, while the Juba River remained relatively low. The Food a",
+          "pubDate": "Sun, 01 Nov 2026 18:22:12 +0300",
+          "source": "Horn Observer",
+          "lang": "en",
+          "titleIt": "More than 175,000 affected by floods as Somalia faces further heavy rains"
+        },
         {
           "title": "U.S. adds Somalia to port security watch list amid Trump's escalating criticism of Somali community",
           "link": "https://hornobserver.com/articles/3798/US-adds-Somalia-to-port-security-watch-list-amid-Trumps-escalating-criticism-of-Somali-community",
@@ -359,50 +440,96 @@
           "titleIt": "SJS says Somali journalists detained, allegedly beaten and forced into hiding amid political crisis"
         },
         {
-          "title": "Somalia: AI-altered photo falsely claims Al-Shabaab leader appeared among fighters seen in Diinsoor during capture by pro-Laftagareen's forces",
-          "link": "https://hornobserver.com/articles/3787/Somalia-AI-altered-photo-falsely-claims-Al-Shabaab-leader-appeared-among-fighters-seen-in-Diinsoor-during-capture-by-pro-Laftagareens-forces",
-          "description": "Some news sites and social media accounts went further, claiming that the conflict across Southwest State \"was part of a foreign-funded campaign\" allegedly \"facilitated by Ethiopia and Kenya\". These posts and the AI-altered photo garnered thousands of views across various platforms, including Facebook, X (formerly Twitter), and YouTube. The images were also shared by accounts supportive of Aden Mohamed Nur (Aden Madobe) and the Somali Federal Government. The Somali Journalists Syndicate (SJS) was alerted to the images by local journalists and ordinary citizens, prompting SJS to investigate the",
-          "pubDate": "Mon, 19 Oct 2026 14:13:50 +0300",
-          "source": "Horn Observer",
+          "title": "Eritrea Gambia Diplomatic Relations Set Up in New York",
+          "link": "https://www.riotimesonline.com/eritrea-gambia-diplomatic-relations-2026/",
+          "source": "riotimesonline.com",
+          "pubDate": "2026-10-25T09:45:00Z",
           "lang": "en",
-          "titleIt": "Somalia: AI-altered photo falsely claims Al-Shabaab leader appeared among fighters seen in Diinsoor during capture by pro-Laftagareen's forces"
+          "description": "",
+          "titleIt": "Eritrea Gambia Diplomatic Relations Set Up in New York"
         },
         {
-          "title": "Why Rwanda's deal for F1 race remains controversial",
-          "link": "https://www.bbc.co.uk/sport/formula1/articles/c61kdv3k9gm2o?at_medium=RSS&at_campaign=rss",
-          "description": "Formula 1 will return to Africa in the early 2030s, but Rwanda's deal to stage a race has prompted accusations of sportswashing against the country.",
-          "pubDate": "Wed, 14 Oct 2026 14:47:31 GMT",
-          "source": "BBC Africa",
+          "title": "Starlink and new era of digital connectivity and inclusion",
+          "link": "https://capitalethiopia.com/2026/10/25/starlink-and-new-era-of-digital-connectivity-and-inclusion/",
+          "source": "capitalethiopia.com",
+          "pubDate": "2026-10-25T05:30:00Z",
           "lang": "en",
-          "titleIt": "Why Rwanda's deal for F1 race remains controversial"
+          "description": "",
+          "titleIt": "Starlink and new era of digital connectivity and inclusion"
         },
         {
-          "title": "Somalia national intelligence agency abducts journalist reporting on security tensions in Mogadishu",
-          "link": "https://hornobserver.com/articles/3780/Somalia-national-intelligence-agency-abducts-journalist-reporting-on-security-tensions-in-Mogadishu",
-          "description": "At midday on Sunday, plainclothes NISA officers abducted journalist Khadar Abdirahim Ibrahim of Himilo Media in Mogadishu, according to his colleagues. Khadar was on his lunch break when NISA officers approached him at a restaurant near Himilo Media's offices in the Wadajir district of Mogadishu. A colleague who spoke to SJS said that was the last time they saw him. Earlier on Sunday morning, before Khadar's reported abduction, another Himilo Media journalist, Abdifatah Mohamed Hared, a cameraman, was stopped and slapped by NISA officers who had established a checkpoint on the road leading to ",
-          "pubDate": "Mon, 12 Oct 2026 16:34:06 +0300",
-          "source": "Horn Observer",
+          "title": "Several dead in clashes between rival Ethiopia armies",
+          "link": "https://www.omanobserver.om/article/1198471/world/africa/several-dead-in-clashes-between-rival-ethiopia-armies",
+          "source": "omanobserver.om",
+          "pubDate": "2026-10-24T16:00:00Z",
           "lang": "en",
-          "titleIt": "Somalia national intelligence agency abducts journalist reporting on security tensions in Mogadishu"
+          "description": "",
+          "titleIt": "Several dead in clashes between rival Ethiopia armies"
         },
         {
-          "title": "Containing the New War in Northern Ethiopia",
-          "link": "https://www.crisisgroup.org/cmt/europe/european-union-ethiopia-eritrea-sudan/containing-new-war-northern-ethiopia",
-          "description": "War has returned to northern Ethiopia, raising fears of a wider conflict involving Eritrea. In this excerpt from the EU Watch List 2026 – Autumn Edition , Crisis Group explains how the EU and member states can facilitate talks and prevent escalation.",
-          "pubDate": "Thursday, October 15, 2026 - 11:12",
-          "source": "Crisis Group",
+          "title": "Ethiopia Calls for Shared Red Sea Security",
+          "link": "https://www.riotimesonline.com/ethiopia-calls-for-shared-red-sea-security-2026/",
+          "source": "riotimesonline.com",
+          "pubDate": "2026-10-24T15:00:00Z",
           "lang": "en",
-          "titleIt": "Containing the New War in Northern Ethiopia"
+          "description": "",
+          "titleIt": "Ethiopia Calls for Shared Red Sea Security"
         }
       ]
     },
     "egypt-economy": {
       "title": "Fragilità economica egiziana",
-      "items": []
+      "items": [
+        {
+          "title": "Egitto: siglato un accordo di finanziamento da un miliardo di dollari con la Banca Mondiale (2)",
+          "link": "https://www.agenzianova.com/a/0/7958422/2026-11-01/egitto-siglato-un-accordo-di-finanziamento-da-un-miliardo-di-dollari-con-la-banca-mondiale-2",
+          "description": "01 nov 17:28 - (Agenzia Nova) - Il finanziamento rientra nel programma denominato \"Generating Resilience, Opportunities, and Welfare for a... (Cae)",
+          "pubDate": "2026-11-01T17:28:59+01:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Egitto: siglato un accordo di finanziamento da un miliardo di dollari con la Banca Mondiale (2)"
+        },
+        {
+          "title": "Egitto: siglato un accordo di finanziamento da un miliardo di dollari con la Banca Mondiale",
+          "link": "https://www.agenzianova.com/a/0/7958421/2026-11-01/egitto-siglato-un-accordo-di-finanziamento-da-un-miliardo-di-dollari-con-la-banca-mondiale",
+          "description": "01 nov 17:28 - (Agenzia Nova) - L'Egitto ha firmato un accordo di finanziamento da un miliardo di dollari con la Banca mondiale, nell'ambito... (Cae)",
+          "pubDate": "2026-11-01T17:28:59+01:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Egitto: siglato un accordo di finanziamento da un miliardo di dollari con la Banca Mondiale"
+        }
+      ]
     },
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
       "items": [
+        {
+          "title": "Medio Oriente: ministro Esteri egiziano, intensifichiamo sforzi diplomatici per prevenire escalation",
+          "link": "https://www.agenzianova.com/a/0/7958530/2026-11-01/medio-oriente-ministro-esteri-egiziano-intensifichiamo-sforzi-diplomatici-per-prevenire-escalation",
+          "description": "01 nov 18:23 - (Agenzia Nova) - L'Egitto sta intensificando i suoi sforzi diplomatici per allentare le tensioni regionali e prevenire qualsiasi... (Cae)",
+          "pubDate": "2026-11-01T18:23:09+01:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Medio Oriente: ministro Esteri egiziano, intensifichiamo sforzi diplomatici per prevenire escalation"
+        },
+        {
+          "title": "Egitto: siglato un accordo di finanziamento da un miliardo di dollari con la Banca Mondiale (2)",
+          "link": "https://www.agenzianova.com/a/0/7958422/2026-11-01/egitto-siglato-un-accordo-di-finanziamento-da-un-miliardo-di-dollari-con-la-banca-mondiale-2",
+          "description": "01 nov 17:28 - (Agenzia Nova) - Il finanziamento rientra nel programma denominato \"Generating Resilience, Opportunities, and Welfare for a... (Cae)",
+          "pubDate": "2026-11-01T17:28:59+01:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Egitto: siglato un accordo di finanziamento da un miliardo di dollari con la Banca Mondiale (2)"
+        },
+        {
+          "title": "Egitto: siglato un accordo di finanziamento da un miliardo di dollari con la Banca Mondiale",
+          "link": "https://www.agenzianova.com/a/0/7958421/2026-11-01/egitto-siglato-un-accordo-di-finanziamento-da-un-miliardo-di-dollari-con-la-banca-mondiale",
+          "description": "01 nov 17:28 - (Agenzia Nova) - L'Egitto ha firmato un accordo di finanziamento da un miliardo di dollari con la Banca mondiale, nell'ambito... (Cae)",
+          "pubDate": "2026-11-01T17:28:59+01:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Egitto: siglato un accordo di finanziamento da un miliardo di dollari con la Banca Mondiale"
+        },
         {
           "title": "Ethiopia: U.S. Customs Releases Ethiopia-Made Solar Cell Shipments After Supply Chain Review",
           "link": "https://allafrica.com/stories/202610300527.html",
@@ -440,148 +567,13 @@
           "titleIt": "Somalia's Eritrean-trained naval chief appointment risks further straining ties with Ethiopia"
         },
         {
-          "title": "Conflict Should Never Be The First Option : | The Reporter Ethiopia",
-          "link": "https://www.thereporterethiopia.com/53621/",
-          "source": "thereporterethiopia.com",
-          "pubDate": "2026-10-24T08:15:00Z",
+          "title": "Opinion: The Horn of Africa Deserves Peace Not Crisis and Instability",
+          "link": "https://hornobserver.com/articles/3782/Opinion-The-Horn-of-Africa-Deserves-Peace-Not-Crisis-and-Instability",
+          "description": "Yet, behind these crises are millions of people who share deep historical, cultural, economic, and social ties. The region's greatest need today is not another confrontation or competing alliance, but sustainable peace, mutual respect, and regional cooperation. A Region Under Immense Pressure. The situation across the Horn of Africa and its neighboring countries illustrates how deeply interconnected regional security has become. Sudan is devastated by a crippling war, with millions displaced and its state institutions and social fabric severely damaged. Somalia continues its difficult fight ag",
+          "pubDate": "Tue, 13 Oct 2026 15:21:04 +0300",
+          "source": "Horn Observer",
           "lang": "en",
-          "description": "",
-          "titleIt": "Conflict Should Never Be The First Option : | The Reporter Ethiopia"
-        },
-        {
-          "title": "Fighting in Ethiopia and the Risk of Regional Spillover",
-          "link": "https://warontherocks.com/fighting-in-ethiopia-and-the-risk-of-regional-spillover/",
-          "source": "warontherocks.com",
-          "pubDate": "2026-10-21T20:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Fighting in Ethiopia and the Risk of Regional Spillover"
-        },
-        {
-          "title": "Ethiopia Abiy Pushes Nuclear Power Development After Russia Deal",
-          "link": "https://chimpreports.com/ethiopias-abiy-pushes-nuclear-power-development-after-russia-deal/",
-          "source": "chimpreports.com",
-          "pubDate": "2026-10-21T12:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia Abiy Pushes Nuclear Power Development After Russia Deal"
-        },
-        {
-          "title": "Yemen war : Why Egypt vow to defend Saudi Arabia is a risky gamble",
-          "link": "https://www.middleeasteye.net/opinion/yemen-war-why-egypts-vow-defend-saudi-arabia-risky-gamble",
-          "source": "middleeasteye.net",
-          "pubDate": "2026-10-20T09:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Yemen war : Why Egypt vow to defend Saudi Arabia is a risky gamble"
-        },
-        {
-          "title": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict",
-          "link": "https://www.newsday.com/news/nation/ethiopia-tigray-eritrea-abiy-ahmed-nile-t67567",
-          "source": "newsday.com",
-          "pubDate": "2026-10-20T06:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict"
-        },
-        {
-          "title": "US Ambassador Urges Ethiopia Talks 19 Oct",
-          "link": "https://www.riotimesonline.com/us-ambassador-ethiopia-massinga-peace-talks-2026/",
-          "source": "riotimesonline.com",
-          "pubDate": "2026-10-20T02:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "US Ambassador Urges Ethiopia Talks 19 Oct"
-        },
-        {
-          "title": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict",
-          "link": "http://www.sitkasentinel.com/stories/a-look-at-how-ethiopias-wars-sea-ambitions-and-nile-dam-fuel-fears-of-wider-conflict,179778",
-          "source": "sitkasentinel.com",
-          "pubDate": "2026-10-19T16:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict"
-        },
-        {
-          "title": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict :: WRAL . com",
-          "link": "https://www.wral.com/news/ap/18294-a-look-at-how-ethiopia-s-wars-sea-ambitions-and-nile-dam-fuel-fears-of-wider-conflict/",
-          "source": "wral.com",
-          "pubDate": "2026-10-19T15:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict :: WRAL . com"
-        },
-        {
-          "title": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict",
-          "link": "https://www.thepeterboroughexaminer.com/business/a-look-at-how-ethiopia-s-wars-sea-ambitions-and-nile-dam-fuel-fears-of-wider-conflict/article_800473c7-bbd4-535b-a9c8-31b345bc3e75.html",
-          "source": "thepeterboroughexaminer.com",
-          "pubDate": "2026-10-19T15:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict"
-        },
-        {
-          "title": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict",
-          "link": "https://www.niagarafallsreview.ca/business/a-look-at-how-ethiopia-s-wars-sea-ambitions-and-nile-dam-fuel-fears-of-wider-conflict/article_e45aa027-36b8-5163-9ef8-56822c7c6e16.html",
-          "source": "niagarafallsreview.ca",
-          "pubDate": "2026-10-19T15:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict"
-        },
-        {
-          "title": "Arab News | A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict",
-          "link": "https://www.arabnews.com/world/a-look-at-how-ethiopias-wars-sea-ambitions-and-nile-dam-fuel-fears-of-wider-conflict-3007181",
-          "source": "arabnews.com",
-          "pubDate": "2026-10-19T14:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Arab News | A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict"
-        },
-        {
-          "title": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict – Winnipeg Free Press",
-          "link": "https://www.winnipegfreepress.com/business/2026/10/19/a-look-at-how-ethiopias-wars-sea-ambitions-and-nile-dam-fuel-fears-of-wider-conflict",
-          "source": "winnipegfreepress.com",
-          "pubDate": "2026-10-19T13:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict – Winnipeg Free Press"
-        },
-        {
-          "title": "Who Holds the Valve ? Water , War and the Price of Peace - By Kator Ifyalem",
-          "link": "https://www.opinionnigeria.com/who-holds-the-valve-water-war-and-the-price-of-peace-by-kator-ifyalem/",
-          "source": "opinionnigeria.com",
-          "pubDate": "2026-10-18T14:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Who Holds the Valve ? Water , War and the Price of Peace - By Kator Ifyalem"
-        },
-        {
-          "title": "The Region Real Picture , Without AI Beautification",
-          "link": "https://english.aawsat.com/opinion/5330701-region%E2%80%99s-real-picture-without-ai-beautification",
-          "source": "english.aawsat.com",
-          "pubDate": "2026-10-18T08:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The Region Real Picture , Without AI Beautification"
-        },
-        {
-          "title": "El Sisi insists he will leave office in 2030 as he outlines succession plan",
-          "link": "https://www.thenationalnews.com/news/mena/2026/10/17/el-sisi-insists-he-will-leave-office-in-2030-as-he-outlines-succession-plan/",
-          "source": "thenationalnews.com",
-          "pubDate": "2026-10-17T21:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "El Sisi insists he will leave office in 2030 as he outlines succession plan"
-        },
-        {
-          "title": "Why Ethiopia and Eritrea march to war demands global attention – Middle East Monitor",
-          "link": "https://www.middleeastmonitor.com/20261016-why-ethiopia-and-eritreas-march-to-war-demands-global-attention/",
-          "source": "middleeastmonitor.com",
-          "pubDate": "2026-10-16T16:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Why Ethiopia and Eritrea march to war demands global attention – Middle East Monitor"
+          "titleIt": "Opinion: The Horn of Africa Deserves Peace Not Crisis and Instability"
         }
       ]
     }
