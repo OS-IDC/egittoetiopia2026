@@ -1,11 +1,47 @@
 {
-  "generatedAt": "2026-11-04T12:08:17.865Z",
+  "generatedAt": "2026-11-04T19:45:46.288Z",
   "feedsChecked": 10,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
+        {
+          "title": "Egitto: analista Al Qassas a \"Nova\", \"da escludere che gli Usa blocchino gli aiuti militari\" (3)",
+          "link": "https://www.agenzianova.com/a/0/7976563/2026-11-04/egitto-analista-al-qassas-a-nova-da-escludere-che-gli-usa-blocchino-gli-aiuti-militari-3",
+          "description": "04 nov 19:25 - (Agenzia Nova) - Il giornalista e conduttore egiziano Ahmed Moussa, noto per i suoi stretti legami con le istituzioni egiziane... (Cae)",
+          "pubDate": "2026-11-04T19:25:37+01:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Egitto: analista Al Qassas a \"Nova\", \"da escludere che gli Usa blocchino gli aiuti militari\" (3)"
+        },
+        {
+          "title": "Egitto: analista Al Qassas a \"Nova\", \"da escludere che gli Usa blocchino gli aiuti militari\" (2)",
+          "link": "https://www.agenzianova.com/a/0/7976562/2026-11-04/egitto-analista-al-qassas-a-nova-da-escludere-che-gli-usa-blocchino-gli-aiuti-militari-2",
+          "description": "04 nov 19:25 - (Agenzia Nova) - Tra i nuovi eletti al Congresso c'e' anche Abdul El Sayed, primo senatore musulmano di origine egiziana nella... (Cae)",
+          "pubDate": "2026-11-04T19:25:37+01:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Egitto: analista Al Qassas a \"Nova\", \"da escludere che gli Usa blocchino gli aiuti militari\" (2)"
+        },
+        {
+          "title": "Somalia: Somaliland's Envoy Pays Courtesy Visit to Ethiopian Ambassador Teshome Shunde",
+          "link": "https://allafrica.com/stories/202611040663.html",
+          "description": "[Horn Diplomat] Hargeisa -- Somaliland's representative-designate to Ethiopia, Sharmarke Gelle, paid a courtesy visit to Ethiopian Ambassador Teshome Shunde at the Ethiopian mission in Somaliland as he prepared to begin his assignment in Addis Ababa, Gelle said on Wednesday.",
+          "pubDate": "Wed, 04 Nov 2026 17:17:45 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Somalia: Somaliland's Envoy Pays Courtesy Visit to Ethiopian Ambassador Teshome Shunde"
+        },
+        {
+          "title": "Egyptian president calls Iran, US to resolve conflict",
+          "link": "http://www.africanews.com/2026/11/04/egyptian-president-calls-iran-us-to-resolve-conflict/",
+          "description": "Egyptian president Abdel-Fattah el-Sissi on Tuesday called on Iran and the United States to engage in dialogue and reach an agreement to resolve their ongoing conflict, warning against further military escalation in the region.",
+          "pubDate": "Wed, 04 Nov 2026 16:36:57 +0000",
+          "source": "Africanews",
+          "lang": "en",
+          "titleIt": "Egyptian president calls Iran, US to resolve conflict"
+        },
         {
           "title": "Somalia: Somalia Condemns Israel's Appointment of Ambassador to Hargeisa, Embassy Construction Move",
           "link": "https://allafrica.com/stories/202611040327.html",
@@ -149,30 +185,39 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "Somalia Opposition leaders reject 2027 election timetable"
-        },
-        {
-          "title": "Opinion: The Horn of Africa Deserves Peace Not Crisis and Instability",
-          "link": "https://hornobserver.com/articles/3782/Opinion-The-Horn-of-Africa-Deserves-Peace-Not-Crisis-and-Instability",
-          "description": "Yet, behind these crises are millions of people who share deep historical, cultural, economic, and social ties. The region's greatest need today is not another confrontation or competing alliance, but sustainable peace, mutual respect, and regional cooperation. A Region Under Immense Pressure. The situation across the Horn of Africa and its neighboring countries illustrates how deeply interconnected regional security has become. Sudan is devastated by a crippling war, with millions displaced and its state institutions and social fabric severely damaged. Somalia continues its difficult fight ag",
-          "pubDate": "Tue, 13 Oct 2026 15:21:04 +0300",
-          "source": "Horn Observer",
-          "lang": "en",
-          "titleIt": "Opinion: The Horn of Africa Deserves Peace Not Crisis and Instability"
-        },
-        {
-          "title": "Somalia Awaits a New Security Order as Mission Drawdown Looms",
-          "link": "https://www.crisisgroup.org/cmt/africa/somalia/somalia-awaits-new-security-order-mission-drawdown-looms",
-          "description": "The multilateral missions that have helped the Somali government fight Al-Shabaab for nearly two decades may be coming to an end. Mogadishu and its partners should get started now developing a plan for what they will do next.",
-          "pubDate": "Friday, September 18, 2026 - 21:00",
-          "source": "Crisis Group",
-          "lang": "en",
-          "titleIt": "Somalia Awaits a New Security Order as Mission Drawdown Looms"
         }
       ]
     },
     "somaliland": {
       "title": "Dossier Somaliland",
       "items": [
+        {
+          "title": "Somalia: Somaliland's Envoy Pays Courtesy Visit to Ethiopian Ambassador Teshome Shunde",
+          "link": "https://allafrica.com/stories/202611040663.html",
+          "description": "[Horn Diplomat] Hargeisa -- Somaliland's representative-designate to Ethiopia, Sharmarke Gelle, paid a courtesy visit to Ethiopian Ambassador Teshome Shunde at the Ethiopian mission in Somaliland as he prepared to begin his assignment in Addis Ababa, Gelle said on Wednesday.",
+          "pubDate": "Wed, 04 Nov 2026 17:17:45 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Somalia: Somaliland's Envoy Pays Courtesy Visit to Ethiopian Ambassador Teshome Shunde"
+        },
+        {
+          "title": "Ethiopia: Ethiopia Expels Sudanese Diplomats As Regional Tensions Deepen",
+          "link": "https://allafrica.com/stories/202611040529.html",
+          "description": "[Addis Standard] Addis Abeba -- Ethiopia has ordered six Sudanese diplomatic staff members to leave the country within 48 hours, a senior Ethiopian official told Reuters on Wednesday, further escalating tensions between the two neighbors amid competing allegations of support for armed groups and growing fears of a wider regional conflict.",
+          "pubDate": "Wed, 04 Nov 2026 15:07:20 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Ethiopia: Ethiopia Expels Sudanese Diplomats As Regional Tensions Deepen"
+        },
+        {
+          "title": "Africa: Dakar 2026 Youth Olympic Games - Kenya on Top, Madagascar on Podium, Senegal Looks to Future",
+          "link": "https://allafrica.com/stories/202611040426.html",
+          "description": "[allAfrica] Dakar -- African women's rugby made its mark at the Dakar 2026 Youth Olympic Games. At the Iba Mar Diop complex, Kenya secured gold after a spectacular final against Australia, while Madagascar took bronze. For Senegal, the host country, this first international experience opens new avenues for the development of the sport among young girls.",
+          "pubDate": "Wed, 04 Nov 2026 12:56:15 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Africa: Dakar 2026 Youth Olympic Games - Kenya on Top, Madagascar on Podium, Senegal Looks to Future"
+        },
         {
           "title": "Somalia: Somalia Condemns Israel's Appointment of Ambassador to Hargeisa, Embassy Construction Move",
           "link": "https://allafrica.com/stories/202611040327.html",
@@ -192,15 +237,6 @@
           "titleIt": "Editorial: Somalia's Security Dilemma: Can a Nation Dependent on Foreign Forces Defend Itself?"
         },
         {
-          "title": "Kenya: Kenya Begins Registering Ethiopian Refugees Fleeing Moyale Clashes - Arrivals Surpass 50,000",
-          "link": "https://allafrica.com/stories/202611040081.html",
-          "description": "[Addis Standard] Addis Abeba -- Kenyan authorities, in collaboration with the United Nations High Commissioner for Refugees (UNHCR) and the Kenya Red Cross Society (KRCS), have begun registering Ethiopian refugees fleeing renewed clashes in the border town of Moyale, as more than 50,000 people have reportedly crossed into Kenya since fighting intensified in late October.",
-          "pubDate": "Wed, 04 Nov 2026 04:57:59 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Kenya: Kenya Begins Registering Ethiopian Refugees Fleeing Moyale Clashes - Arrivals Surpass 50,000"
-        },
-        {
           "title": "Ethiopia suspends leading independent newspaper The Reporter",
           "link": "http://www.africanews.com/2026/11/03/ethiopia-suspends-leading-independent-newspaper-the-reporter/",
           "description": "Ethiopian authorities on Monday indefinitely suspended the licence of independent print and online newspaper The Reporter, accusing the outlet of carrying \"unbalanced and biased\" reports.",
@@ -208,24 +244,6 @@
           "source": "Africanews",
           "lang": "en",
           "titleIt": "Ethiopia suspends leading independent newspaper The Reporter"
-        },
-        {
-          "title": "Israel’s first ambassador presents credentials in Somaliland",
-          "link": "http://www.africanews.com/2026/11/02/israels-first-ambassador-presents-credentials-in-somaliland/",
-          "description": "Israel’s first ambassador to Somaliland has presented his credentials to President Abdirahman Mohamed Abdullahi, known as Cirro, in Hargeisa. The ceremony also marked the laying of the cornerstone for an Israeli embassy.",
-          "pubDate": "Mon, 02 Nov 2026 14:57:27 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "Israel’s first ambassador presents credentials in Somaliland"
-        },
-        {
-          "title": "TPLF loses popular support after fresh fighting in Ethiopia's Tigray",
-          "link": "http://www.africanews.com/2026/11/02/tplf-loses-popular-support-after-fresh-fighting-in-ethiopias-tigray/",
-          "description": "The Tigray People's Liberation Front was once Ethiopia's ruling party, but the movement is now facing a backlash from former supporters in the region.",
-          "pubDate": "Mon, 02 Nov 2026 09:42:04 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "TPLF loses popular support after fresh fighting in Ethiopia's Tigray"
         },
         {
           "title": "Saudi Arabia Tightens Ebola Travel Restrictions on Kenya as Nairobi Defends Outbreak Response",
@@ -305,13 +323,31 @@
       "title": "Accesso etiope al mare",
       "items": [
         {
-          "title": "Speciale difesa: intesa tra Fincantieri e Leonardo per rafforzare ruolo di Orizzonte sistemi navali",
-          "link": "https://www.agenzianova.com/a/0/7967715/2026-11-04/speciale-difesa-intesa-tra-fincantieri-e-leonardo-per-rafforzare-ruolo-di-orizzonte-sistemi-navali",
-          "description": "04 nov 13:00 - (Agenzia Nova) - In occasione di Euronaval, la principale manifestazione europea dedicata alla difesa navale in corso a Parigi,... (Com)",
-          "pubDate": "2026-11-04T13:00:08+01:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Speciale difesa: intesa tra Fincantieri e Leonardo per rafforzare ruolo di Orizzonte sistemi navali"
+          "title": "Somalia: Somaliland's Envoy Pays Courtesy Visit to Ethiopian Ambassador Teshome Shunde",
+          "link": "https://allafrica.com/stories/202611040663.html",
+          "description": "[Horn Diplomat] Hargeisa -- Somaliland's representative-designate to Ethiopia, Sharmarke Gelle, paid a courtesy visit to Ethiopian Ambassador Teshome Shunde at the Ethiopian mission in Somaliland as he prepared to begin his assignment in Addis Ababa, Gelle said on Wednesday.",
+          "pubDate": "Wed, 04 Nov 2026 17:17:45 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Somalia: Somaliland's Envoy Pays Courtesy Visit to Ethiopian Ambassador Teshome Shunde"
+        },
+        {
+          "title": "Nigeria: Atiku Arrives Sokoto Amid Campaign Dispute As Adc Urges Nigerians to Reject APC",
+          "link": "https://allafrica.com/stories/202611040662.html",
+          "description": "[Premium Times] Atiku Abubakar arrived in Sokoto for the ADC's presidential campaign launch, with his entourage delayed by traffic as supporters gathered along the airport route.",
+          "pubDate": "Wed, 04 Nov 2026 17:16:52 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Nigeria: Atiku Arrives Sokoto Amid Campaign Dispute As Adc Urges Nigerians to Reject APC"
+        },
+        {
+          "title": "Ethiopia: Ethiopia Expels Sudanese Diplomats As Regional Tensions Deepen",
+          "link": "https://allafrica.com/stories/202611040529.html",
+          "description": "[Addis Standard] Addis Abeba -- Ethiopia has ordered six Sudanese diplomatic staff members to leave the country within 48 hours, a senior Ethiopian official told Reuters on Wednesday, further escalating tensions between the two neighbors amid competing allegations of support for armed groups and growing fears of a wider regional conflict.",
+          "pubDate": "Wed, 04 Nov 2026 15:07:20 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Ethiopia: Ethiopia Expels Sudanese Diplomats As Regional Tensions Deepen"
         },
         {
           "title": "Somalia: Somalia Condemns Israel's Appointment of Ambassador to Hargeisa, Embassy Construction Move",
@@ -323,6 +359,15 @@
           "titleIt": "Somalia: Somalia Condemns Israel's Appointment of Ambassador to Hargeisa, Embassy Construction Move"
         },
         {
+          "title": "Africa: Yango Group Makes The Case For African-Led Digital Infrastructure At Moonshot 2026",
+          "link": "https://allafrica.com/stories/202611040304.html",
+          "description": "[InfoWire] Speaking at Moonshot by TechCabal in Lagos, Adeniyi Adebayo, Chief Executive of RideTech and Chief Business Officer at Yango Group, highlighted the importance of locally developed infrastructure, strategic partnerships and new approaches to financing for scaling Africa's digital economy, drawing on Yango's experience across 15 African markets.",
+          "pubDate": "Wed, 04 Nov 2026 10:45:50 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Africa: Yango Group Makes The Case For African-Led Digital Infrastructure At Moonshot 2026"
+        },
+        {
           "title": "Editorial: Somalia's Security Dilemma: Can a Nation Dependent on Foreign Forces Defend Itself?",
           "link": "https://hornobserver.com/articles/3801/Editorial-Somalias-Security-Dilemma-Can-a-Nation-Dependent-on-Foreign-Forces-Defend-Itself",
           "description": "For years, international partners have helped Somalia fight Al-Shabaab, train troops and strengthen its security institutions. Yet this support has also exposed a serious weakness: the country's security remains deeply dependent on external funding, equipment, training and political commitments. The withdrawal of Ugandan forces from several forward operating bases in Lower Shabelle has brought this challenge into sharper focus. Somali forces are expected to assume greater responsibility, but concerns remain about whether they have the personnel, equipment, experience and financial resources to",
@@ -330,33 +375,6 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "Editorial: Somalia's Security Dilemma: Can a Nation Dependent on Foreign Forces Defend Itself?"
-        },
-        {
-          "title": "Kenya: Kenya Begins Registering Ethiopian Refugees Fleeing Moyale Clashes - Arrivals Surpass 50,000",
-          "link": "https://allafrica.com/stories/202611040081.html",
-          "description": "[Addis Standard] Addis Abeba -- Kenyan authorities, in collaboration with the United Nations High Commissioner for Refugees (UNHCR) and the Kenya Red Cross Society (KRCS), have begun registering Ethiopian refugees fleeing renewed clashes in the border town of Moyale, as more than 50,000 people have reportedly crossed into Kenya since fighting intensified in late October.",
-          "pubDate": "Wed, 04 Nov 2026 04:57:59 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Kenya: Kenya Begins Registering Ethiopian Refugees Fleeing Moyale Clashes - Arrivals Surpass 50,000"
-        },
-        {
-          "title": "Weapon or wine bottle? China disputes reports of artillery shell in Papua New Guinea",
-          "link": "https://www.bbc.co.uk/news/articles/cm0qkxzv3j99o?at_medium=RSS&at_campaign=rss",
-          "description": "Papua New Guinea police had earlier dismissed speculation that the 32kg object was \"merely a dummy\".",
-          "pubDate": "Wed, 04 Nov 2026 03:46:10 GMT",
-          "source": "BBC World",
-          "lang": "en",
-          "titleIt": "Weapon or wine bottle? China disputes reports of artillery shell in Papua New Guinea"
-        },
-        {
-          "title": "How sporting events are being affected by Middle East conflict",
-          "link": "https://www.bbc.co.uk/sport/articles/ck0j0l65nzlvo?at_medium=RSS&at_campaign=rss",
-          "description": "BBC Sport takes a look at how the ongoing conflict in the Middle East has affected sporting events in Saudi Arabia, Qatar, Bahrain and the wider area.",
-          "pubDate": "Tue, 03 Nov 2026 16:01:24 GMT",
-          "source": "BBC World",
-          "lang": "en",
-          "titleIt": "How sporting events are being affected by Middle East conflict"
         },
         {
           "title": "Ethiopia suspends leading independent newspaper The Reporter",
@@ -375,15 +393,6 @@
           "source": "Africanews",
           "lang": "en",
           "titleIt": "Displaced Ethiopians await registration in Kenya after fleeing clashes"
-        },
-        {
-          "title": "TPLF loses popular support after fresh fighting in Ethiopia's Tigray",
-          "link": "http://www.africanews.com/2026/11/02/tplf-loses-popular-support-after-fresh-fighting-in-ethiopias-tigray/",
-          "description": "The Tigray People's Liberation Front was once Ethiopia's ruling party, but the movement is now facing a backlash from former supporters in the region.",
-          "pubDate": "Mon, 02 Nov 2026 09:42:04 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "TPLF loses popular support after fresh fighting in Ethiopia's Tigray"
         },
         {
           "title": "More than 175,000 affected by floods as Somalia faces further heavy rains",
@@ -449,15 +458,6 @@
           "titleIt": "Somalia: AI-altered photo falsely claims Al-Shabaab leader appeared among fighters seen in Diinsoor during capture by pro-Laftagareen's forces"
         },
         {
-          "title": "Why Rwanda's deal for F1 race remains controversial",
-          "link": "https://www.bbc.co.uk/sport/formula1/articles/c61kdv3k9gm2o?at_medium=RSS&at_campaign=rss",
-          "description": "Formula 1 will return to Africa in the early 2030s, but Rwanda's deal to stage a race has prompted accusations of sportswashing against the country.",
-          "pubDate": "Wed, 14 Oct 2026 14:47:31 GMT",
-          "source": "BBC Africa",
-          "lang": "en",
-          "titleIt": "Why Rwanda's deal for F1 race remains controversial"
-        },
-        {
           "title": "Containing the New War in Northern Ethiopia",
           "link": "https://www.crisisgroup.org/cmt/europe/european-union-ethiopia-eritrea-sudan/containing-new-war-northern-ethiopia",
           "description": "War has returned to northern Ethiopia, raising fears of a wider conflict involving Eritrea. In this excerpt from the EU Watch List 2026 – Autumn Edition , Crisis Group explains how the EU and member states can facilitate talks and prevent escalation.",
@@ -485,6 +485,24 @@
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
       "items": [
+        {
+          "title": "Egyptian president calls Iran, US to resolve conflict",
+          "link": "http://www.africanews.com/2026/11/04/egyptian-president-calls-iran-us-to-resolve-conflict/",
+          "description": "Egyptian president Abdel-Fattah el-Sissi on Tuesday called on Iran and the United States to engage in dialogue and reach an agreement to resolve their ongoing conflict, warning against further military escalation in the region.",
+          "pubDate": "Wed, 04 Nov 2026 16:36:57 +0000",
+          "source": "Africanews",
+          "lang": "en",
+          "titleIt": "Egyptian president calls Iran, US to resolve conflict"
+        },
+        {
+          "title": "Ethiopia: Ethiopia Expels Sudanese Diplomats As Regional Tensions Deepen",
+          "link": "https://allafrica.com/stories/202611040529.html",
+          "description": "[Addis Standard] Addis Abeba -- Ethiopia has ordered six Sudanese diplomatic staff members to leave the country within 48 hours, a senior Ethiopian official told Reuters on Wednesday, further escalating tensions between the two neighbors amid competing allegations of support for armed groups and growing fears of a wider regional conflict.",
+          "pubDate": "Wed, 04 Nov 2026 15:07:20 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Ethiopia: Ethiopia Expels Sudanese Diplomats As Regional Tensions Deepen"
+        },
         {
           "title": "Sudan: 'This Is Not About Politics. This Is About People' - UN Warns of Impact of Deadly Drone Strikes in Sudan",
           "link": "https://allafrica.com/stories/202611040185.html",
