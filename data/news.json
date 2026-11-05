@@ -1,29 +1,11 @@
 {
-  "generatedAt": "2026-11-05T00:54:29.378Z",
+  "generatedAt": "2026-11-05T09:30:33.629Z",
   "feedsChecked": 10,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
-        {
-          "title": "Egitto-Usa: firmato accordo di cooperazione economica da 625 milioni di dollari",
-          "link": "https://www.agenzianova.com/a/0/7977042/2026-11-04/egitto-usa-firmato-accordo-di-cooperazione-economica-da-625-milioni-di-dollari",
-          "description": "04 nov 21:23 - (Agenzia Nova) - L'Egitto e gli Stati Uniti hanno firmato un accordo quadro strategico quinquennale da 625 milioni di dollari... (Cae)",
-          "pubDate": "2026-11-04T21:23:19+01:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Egitto-Usa: firmato accordo di cooperazione economica da 625 milioni di dollari"
-        },
-        {
-          "title": "Somalia: Somaliland's Envoy Pays Courtesy Visit to Ethiopian Ambassador Teshome Shunde",
-          "link": "https://allafrica.com/stories/202611040663.html",
-          "description": "[Horn Diplomat] Hargeisa -- Somaliland's representative-designate to Ethiopia, Sharmarke Gelle, paid a courtesy visit to Ethiopian Ambassador Teshome Shunde at the Ethiopian mission in Somaliland as he prepared to begin his assignment in Addis Ababa, Gelle said on Wednesday.",
-          "pubDate": "Wed, 04 Nov 2026 17:17:45 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Somalia: Somaliland's Envoy Pays Courtesy Visit to Ethiopian Ambassador Teshome Shunde"
-        },
         {
           "title": "Egyptian president calls Iran, US to resolve conflict",
           "link": "http://www.africanews.com/2026/11/04/egyptian-president-calls-iran-us-to-resolve-conflict/",
@@ -32,15 +14,6 @@
           "source": "Africanews",
           "lang": "en",
           "titleIt": "Egyptian president calls Iran, US to resolve conflict"
-        },
-        {
-          "title": "Somalia: Somalia Condemns Israel's Appointment of Ambassador to Hargeisa, Embassy Construction Move",
-          "link": "https://allafrica.com/stories/202611040327.html",
-          "description": "[Shabelle] Mogadishu -- Somalia's Ministry of Foreign Affairs and International Cooperation has strongly condemned Israel's reported appointment of an ambassador to Hargeisa and the laying of a foundation stone for a building it described as an embassy in the Somali territory.",
-          "pubDate": "Wed, 04 Nov 2026 11:03:47 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Somalia: Somalia Condemns Israel's Appointment of Ambassador to Hargeisa, Embassy Construction Move"
         },
         {
           "title": "Editorial: Somalia's Security Dilemma: Can a Nation Dependent on Foreign Forces Defend Itself?",
@@ -185,6 +158,15 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "Opinion: The Horn of Africa Deserves Peace Not Crisis and Instability"
+        },
+        {
+          "title": "Somalia Awaits a New Security Order as Mission Drawdown Looms",
+          "link": "https://www.crisisgroup.org/cmt/africa/somalia/somalia-awaits-new-security-order-mission-drawdown-looms",
+          "description": "The multilateral missions that have helped the Somali government fight Al-Shabaab for nearly two decades may be coming to an end. Mogadishu and its partners should get started now developing a plan for what they will do next.",
+          "pubDate": "Friday, September 18, 2026 - 21:00",
+          "source": "Crisis Group",
+          "lang": "en",
+          "titleIt": "Somalia Awaits a New Security Order as Mission Drawdown Looms"
         }
       ]
     },
@@ -192,22 +174,22 @@
       "title": "Dossier Somaliland",
       "items": [
         {
-          "title": "Somalia: Somaliland's Envoy Pays Courtesy Visit to Ethiopian Ambassador Teshome Shunde",
-          "link": "https://allafrica.com/stories/202611040663.html",
-          "description": "[Horn Diplomat] Hargeisa -- Somaliland's representative-designate to Ethiopia, Sharmarke Gelle, paid a courtesy visit to Ethiopian Ambassador Teshome Shunde at the Ethiopian mission in Somaliland as he prepared to begin his assignment in Addis Ababa, Gelle said on Wednesday.",
-          "pubDate": "Wed, 04 Nov 2026 17:17:45 GMT",
+          "title": "Somalia: Somalia Rejects Israeli Ambassador, Planned Embassy in Somaliland",
+          "link": "https://allafrica.com/stories/202611050066.html",
+          "description": "[Radio Dalsan] Somalia has rejected Israel's appointment of an ambassador to Somaliland and plans to establish an embassy in Hargeisa, describing the moves as a violation of its sovereignty and territorial integrity.",
+          "pubDate": "Thu, 05 Nov 2026 04:24:21 GMT",
           "source": "AllAfrica",
           "lang": "en",
-          "titleIt": "Somalia: Somaliland's Envoy Pays Courtesy Visit to Ethiopian Ambassador Teshome Shunde"
+          "titleIt": "Somalia: Somalia Rejects Israeli Ambassador, Planned Embassy in Somaliland"
         },
         {
-          "title": "Ethiopia: Ethiopia Expels Sudanese Diplomats As Regional Tensions Deepen",
-          "link": "https://allafrica.com/stories/202611040529.html",
-          "description": "[Addis Standard] Addis Abeba -- Ethiopia has ordered six Sudanese diplomatic staff members to leave the country within 48 hours, a senior Ethiopian official told Reuters on Wednesday, further escalating tensions between the two neighbors amid competing allegations of support for armed groups and growing fears of a wider regional conflict.",
-          "pubDate": "Wed, 04 Nov 2026 15:07:20 GMT",
+          "title": "Kenya: Corruption in Kenya Taking Massive Toll On Economic Growth, Warns World Bank",
+          "link": "https://allafrica.com/stories/202611050007.html",
+          "description": "[RFI] Corruption is costing Kenya billions of dollars each year in lost revenue, inflated business costs, and lost earnings for workers, while taking a huge toll on investment and economic growth, the World Bank said in a report published Wednesday.",
+          "pubDate": "Thu, 05 Nov 2026 03:54:14 GMT",
           "source": "AllAfrica",
           "lang": "en",
-          "titleIt": "Ethiopia: Ethiopia Expels Sudanese Diplomats As Regional Tensions Deepen"
+          "titleIt": "Kenya: Corruption in Kenya Taking Massive Toll On Economic Growth, Warns World Bank"
         },
         {
           "title": "Africa: Dakar 2026 Youth Olympic Games - Kenya on Top, Madagascar on Podium, Senegal Looks to Future",
@@ -217,15 +199,6 @@
           "source": "AllAfrica",
           "lang": "en",
           "titleIt": "Africa: Dakar 2026 Youth Olympic Games - Kenya on Top, Madagascar on Podium, Senegal Looks to Future"
-        },
-        {
-          "title": "Somalia: Somalia Condemns Israel's Appointment of Ambassador to Hargeisa, Embassy Construction Move",
-          "link": "https://allafrica.com/stories/202611040327.html",
-          "description": "[Shabelle] Mogadishu -- Somalia's Ministry of Foreign Affairs and International Cooperation has strongly condemned Israel's reported appointment of an ambassador to Hargeisa and the laying of a foundation stone for a building it described as an embassy in the Somali territory.",
-          "pubDate": "Wed, 04 Nov 2026 11:03:47 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Somalia: Somalia Condemns Israel's Appointment of Ambassador to Hargeisa, Embassy Construction Move"
         },
         {
           "title": "Editorial: Somalia's Security Dilemma: Can a Nation Dependent on Foreign Forces Defend Itself?",
@@ -323,49 +296,22 @@
       "title": "Accesso etiope al mare",
       "items": [
         {
-          "title": "Somalia: Somaliland's Envoy Pays Courtesy Visit to Ethiopian Ambassador Teshome Shunde",
-          "link": "https://allafrica.com/stories/202611040663.html",
-          "description": "[Horn Diplomat] Hargeisa -- Somaliland's representative-designate to Ethiopia, Sharmarke Gelle, paid a courtesy visit to Ethiopian Ambassador Teshome Shunde at the Ethiopian mission in Somaliland as he prepared to begin his assignment in Addis Ababa, Gelle said on Wednesday.",
-          "pubDate": "Wed, 04 Nov 2026 17:17:45 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Somalia: Somaliland's Envoy Pays Courtesy Visit to Ethiopian Ambassador Teshome Shunde"
+          "title": "Tunisia: olio d'oliva, dopo stagione record sfida e' aumentare valore esportazioni (4)",
+          "link": "https://www.agenzianova.com/a/0/7978250/2026-11-05/tunisia-olio-d-oliva-dopo-stagione-record-sfida-e-aumentare-valore-esportazioni-4",
+          "description": "05 nov 10:04 - (Agenzia Nova) - Sul fronte commerciale, i risultati della campagna 2025-2026 confermano il ruolo strategico del prodotto. Nei... (Tut)",
+          "pubDate": "2026-11-05T10:04:07+01:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Tunisia: olio d'oliva, dopo stagione record sfida e' aumentare valore esportazioni (4)"
         },
         {
-          "title": "Nigeria: Atiku Arrives Sokoto Amid Campaign Dispute As Adc Urges Nigerians to Reject APC",
-          "link": "https://allafrica.com/stories/202611040662.html",
-          "description": "[Premium Times] Atiku Abubakar arrived in Sokoto for the ADC's presidential campaign launch, with his entourage delayed by traffic as supporters gathered along the airport route.",
-          "pubDate": "Wed, 04 Nov 2026 17:16:52 GMT",
+          "title": "Africa: Persisting Acute Food Insecurity in Africa Tied to Conflict",
+          "link": "https://allafrica.com/stories/202611050073.html",
+          "description": "[ACSS] Record levels of acute food insecurity persist in Africa due to ongoing conflicts and a series of economic shocks from the COVID pandemic to the constriction of maritime traffic that have kept food prices elevated.",
+          "pubDate": "Thu, 05 Nov 2026 04:24:26 GMT",
           "source": "AllAfrica",
           "lang": "en",
-          "titleIt": "Nigeria: Atiku Arrives Sokoto Amid Campaign Dispute As Adc Urges Nigerians to Reject APC"
-        },
-        {
-          "title": "Ethiopia: Ethiopia Expels Sudanese Diplomats As Regional Tensions Deepen",
-          "link": "https://allafrica.com/stories/202611040529.html",
-          "description": "[Addis Standard] Addis Abeba -- Ethiopia has ordered six Sudanese diplomatic staff members to leave the country within 48 hours, a senior Ethiopian official told Reuters on Wednesday, further escalating tensions between the two neighbors amid competing allegations of support for armed groups and growing fears of a wider regional conflict.",
-          "pubDate": "Wed, 04 Nov 2026 15:07:20 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Ethiopia: Ethiopia Expels Sudanese Diplomats As Regional Tensions Deepen"
-        },
-        {
-          "title": "Somalia: Somalia Condemns Israel's Appointment of Ambassador to Hargeisa, Embassy Construction Move",
-          "link": "https://allafrica.com/stories/202611040327.html",
-          "description": "[Shabelle] Mogadishu -- Somalia's Ministry of Foreign Affairs and International Cooperation has strongly condemned Israel's reported appointment of an ambassador to Hargeisa and the laying of a foundation stone for a building it described as an embassy in the Somali territory.",
-          "pubDate": "Wed, 04 Nov 2026 11:03:47 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Somalia: Somalia Condemns Israel's Appointment of Ambassador to Hargeisa, Embassy Construction Move"
-        },
-        {
-          "title": "Africa: Yango Group Makes The Case For African-Led Digital Infrastructure At Moonshot 2026",
-          "link": "https://allafrica.com/stories/202611040304.html",
-          "description": "[InfoWire] Speaking at Moonshot by TechCabal in Lagos, Adeniyi Adebayo, Chief Executive of RideTech and Chief Business Officer at Yango Group, highlighted the importance of locally developed infrastructure, strategic partnerships and new approaches to financing for scaling Africa's digital economy, drawing on Yango's experience across 15 African markets.",
-          "pubDate": "Wed, 04 Nov 2026 10:45:50 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Africa: Yango Group Makes The Case For African-Led Digital Infrastructure At Moonshot 2026"
+          "titleIt": "Africa: Persisting Acute Food Insecurity in Africa Tied to Conflict"
         },
         {
           "title": "Editorial: Somalia's Security Dilemma: Can a Nation Dependent on Foreign Forces Defend Itself?",
@@ -377,15 +323,6 @@
           "titleIt": "Editorial: Somalia's Security Dilemma: Can a Nation Dependent on Foreign Forces Defend Itself?"
         },
         {
-          "title": "Young voices carry Mazu legacy - Chinadaily . com . cn",
-          "link": "http://europe.chinadaily.com.cn/a/202611/04/WS6aea6971e4b06d4aa0566df5.html",
-          "source": "europe.chinadaily.com.cn",
-          "pubDate": "2026-11-04T01:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Young voices carry Mazu legacy - Chinadaily . com . cn"
-        },
-        {
           "title": "Ethiopia suspends leading independent newspaper The Reporter",
           "link": "http://www.africanews.com/2026/11/03/ethiopia-suspends-leading-independent-newspaper-the-reporter/",
           "description": "Ethiopian authorities on Monday indefinitely suspended the licence of independent print and online newspaper The Reporter, accusing the outlet of carrying \"unbalanced and biased\" reports.",
@@ -393,15 +330,6 @@
           "source": "Africanews",
           "lang": "en",
           "titleIt": "Ethiopia suspends leading independent newspaper The Reporter"
-        },
-        {
-          "title": "Displaced Ethiopians await registration in Kenya after fleeing clashes",
-          "link": "http://www.africanews.com/2026/11/03/displaced-ethiopians-await-registration-in-kenya-after-fleeing-clashes/",
-          "description": "Thousands of displaced Ethiopians were expected to be registered in the Kenyan border city of Moyale on Monday, after they fled tensions between the leaders of Ethiopia's Oromia and Somali regions.",
-          "pubDate": "Tue, 03 Nov 2026 05:57:22 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "Displaced Ethiopians await registration in Kenya after fleeing clashes"
         },
         {
           "title": "More than 175,000 affected by floods as Somalia faces further heavy rains",
@@ -458,249 +386,32 @@
           "titleIt": "SJS says Somali journalists detained, allegedly beaten and forced into hiding amid political crisis"
         },
         {
-          "title": "Eritrea Gambia Diplomatic Relations Set Up in New York",
-          "link": "https://www.riotimesonline.com/eritrea-gambia-diplomatic-relations-2026/",
-          "source": "riotimesonline.com",
-          "pubDate": "2026-10-25T09:45:00Z",
+          "title": "Somalia: AI-altered photo falsely claims Al-Shabaab leader appeared among fighters seen in Diinsoor during capture by pro-Laftagareen's forces",
+          "link": "https://hornobserver.com/articles/3787/Somalia-AI-altered-photo-falsely-claims-Al-Shabaab-leader-appeared-among-fighters-seen-in-Diinsoor-during-capture-by-pro-Laftagareens-forces",
+          "description": "Some news sites and social media accounts went further, claiming that the conflict across Southwest State \"was part of a foreign-funded campaign\" allegedly \"facilitated by Ethiopia and Kenya\". These posts and the AI-altered photo garnered thousands of views across various platforms, including Facebook, X (formerly Twitter), and YouTube. The images were also shared by accounts supportive of Aden Mohamed Nur (Aden Madobe) and the Somali Federal Government. The Somali Journalists Syndicate (SJS) was alerted to the images by local journalists and ordinary citizens, prompting SJS to investigate the",
+          "pubDate": "Mon, 19 Oct 2026 14:13:50 +0300",
+          "source": "Horn Observer",
           "lang": "en",
-          "description": "",
-          "titleIt": "Eritrea Gambia Diplomatic Relations Set Up in New York"
+          "titleIt": "Somalia: AI-altered photo falsely claims Al-Shabaab leader appeared among fighters seen in Diinsoor during capture by pro-Laftagareen's forces"
         },
         {
-          "title": "Starlink and new era of digital connectivity and inclusion",
-          "link": "https://capitalethiopia.com/2026/10/25/starlink-and-new-era-of-digital-connectivity-and-inclusion/",
-          "source": "capitalethiopia.com",
-          "pubDate": "2026-10-25T05:30:00Z",
+          "title": "Containing the New War in Northern Ethiopia",
+          "link": "https://www.crisisgroup.org/cmt/europe/european-union-ethiopia-eritrea-sudan/containing-new-war-northern-ethiopia",
+          "description": "War has returned to northern Ethiopia, raising fears of a wider conflict involving Eritrea. In this excerpt from the EU Watch List 2026 – Autumn Edition , Crisis Group explains how the EU and member states can facilitate talks and prevent escalation.",
+          "pubDate": "Thursday, October 15, 2026 - 11:12",
+          "source": "Crisis Group",
           "lang": "en",
-          "description": "",
-          "titleIt": "Starlink and new era of digital connectivity and inclusion"
-        },
-        {
-          "title": "Several dead in clashes between rival Ethiopia armies",
-          "link": "https://www.omanobserver.om/article/1198471/world/africa/several-dead-in-clashes-between-rival-ethiopia-armies",
-          "source": "omanobserver.om",
-          "pubDate": "2026-10-24T16:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Several dead in clashes between rival Ethiopia armies"
-        },
-        {
-          "title": "Ethiopia Calls for Shared Red Sea Security",
-          "link": "https://www.riotimesonline.com/ethiopia-calls-for-shared-red-sea-security-2026/",
-          "source": "riotimesonline.com",
-          "pubDate": "2026-10-24T15:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia Calls for Shared Red Sea Security"
-        },
-        {
-          "title": "Arab News | Several dead in clashes between rival Ethiopia regional armies",
-          "link": "https://www.arabnews.com/world/several-dead-in-clashes-between-rival-ethiopia-regional-armies-3008023",
-          "source": "arabnews.com",
-          "pubDate": "2026-10-24T11:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Arab News | Several dead in clashes between rival Ethiopia regional armies"
+          "titleIt": "Containing the New War in Northern Ethiopia"
         }
       ]
     },
     "egypt-economy": {
       "title": "Fragilità economica egiziana",
-      "items": [
-        {
-          "title": "Egitto-Usa: firmato accordo di cooperazione economica da 625 milioni di dollari",
-          "link": "https://www.agenzianova.com/a/0/7977042/2026-11-04/egitto-usa-firmato-accordo-di-cooperazione-economica-da-625-milioni-di-dollari",
-          "description": "04 nov 21:23 - (Agenzia Nova) - L'Egitto e gli Stati Uniti hanno firmato un accordo quadro strategico quinquennale da 625 milioni di dollari... (Cae)",
-          "pubDate": "2026-11-04T21:23:19+01:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Egitto-Usa: firmato accordo di cooperazione economica da 625 milioni di dollari"
-        },
-        {
-          "title": "Trump says US will halt $4B in aid to Israel but will sell arms",
-          "link": "https://www.denverpost.com/2026/11/03/trump-halts-israel-aid/",
-          "source": "denverpost.com",
-          "pubDate": "2026-11-04T01:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Trump says US will halt $4B in aid to Israel but will sell arms"
-        },
-        {
-          "title": "US Launches Airstrikes on Iran in Strait of Hormuz Ahead of Midterms",
-          "link": "https://www.wthitv.com:443/2026/11/03/us-strikes-strait-hormuz-create-more-questions-about-whats-ahead/",
-          "source": "wthitv.com",
-          "pubDate": "2026-11-04T01:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "US Launches Airstrikes on Iran in Strait of Hormuz Ahead of Midterms"
-        },
-        {
-          "title": "If our people vote , we win in a landslide : Trump urges Republicans to turn out ahead of US midterms",
-          "link": "http://www.texasguardian.com/news/279408958/if-our-people-vote-we-win-in-a-landslide-trump-urges-republicans-to-turn-out-ahead-of-us-midterms",
-          "source": "texasguardian.com",
-          "pubDate": "2026-11-03T11:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "If our people vote , we win in a landslide : Trump urges Republicans to turn out ahead of US midterms"
-        },
-        {
-          "title": "Algeria to send troops to Niger in first foreign deployment since 1973",
-          "link": "https://www.namibian.com.na/algeria-to-send-troops-to-niger-in-first-foreign-deployment-since-1973/",
-          "source": "namibian.com.na",
-          "pubDate": "2026-10-27T05:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Algeria to send troops to Niger in first foreign deployment since 1973"
-        },
-        {
-          "title": "Trump escalates anti - Muslim attacks against El - Sayed in Michigan",
-          "link": "https://www.sentinelandenterprise.com/2026/10/26/trump-anti-muslim-attacks-el-sayed-michigan-rally/",
-          "source": "sentinelandenterprise.com",
-          "pubDate": "2026-10-27T05:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Trump escalates anti - Muslim attacks against El - Sayed in Michigan"
-        },
-        {
-          "title": "Trump dials up Islamophobia against Abdul El - Sayed at Michigan Senate rally",
-          "link": "https://www.aljazeera.com/news/2026/10/26/trump-dials-up-islamophobia-at-michigan-senate-rally-against-abdul-el-sayed",
-          "source": "aljazeera.com",
-          "pubDate": "2026-10-26T07:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Trump dials up Islamophobia against Abdul El - Sayed at Michigan Senate rally"
-        },
-        {
-          "title": "El Salvador : how the country became a safe place for travellers | South Coast Register",
-          "link": "https://www.southcoastregister.com.au/story/9370069/el-salvador-how-the-country-became-a-safe-place-for-travellers/",
-          "source": "southcoastregister.com.au",
-          "pubDate": "2026-10-26T07:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "El Salvador : how the country became a safe place for travellers | South Coast Register"
-        },
-        {
-          "title": "Trump midterm swing brings him to Michigan as Republicans aim to undermine El - Sayed in Senate race",
-          "link": "https://www.ksat.com/news/politics/2026/10/25/trumps-midterm-swing-brings-him-to-michigan-as-republicans-aim-to-undermine-el-sayed-in-senate-race/",
-          "source": "ksat.com",
-          "pubDate": "2026-10-25T19:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Trump midterm swing brings him to Michigan as Republicans aim to undermine El - Sayed in Senate race"
-        },
-        {
-          "title": "Netanyahu pitch : Can Israel use crypto to evade economic sanctions ? - Grenada Chronicle – Daily Grenada And Caribbean News",
-          "link": "https://grenadachronicle.com/netanyahus-pitch-can-israel-use-crypto-to-evade-economic-sanctions/",
-          "source": "grenadachronicle.com",
-          "pubDate": "2026-10-25T19:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Netanyahu pitch : Can Israel use crypto to evade economic sanctions ? - Grenada Chronicle – Daily Grenada And Caribbean News"
-        },
-        {
-          "title": "Trump midterm swing brings him to Michigan as Republicans aim to undermine El - Sayed in Senate race",
-          "link": "https://www.wdio.com/ap-top-news/ap-top-news-political/trumps-midterm-swing-brings-him-to-michigan-as-republicans-aim-to-undermine-el-sayed-in-senate-race/",
-          "source": "wdio.com",
-          "pubDate": "2026-10-25T18:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Trump midterm swing brings him to Michigan as Republicans aim to undermine El - Sayed in Senate race"
-        },
-        {
-          "title": "Saudi Arabia , Israel normalization still possible , expert tells  Post",
-          "link": "https://www.jpost.com/middle-east/article-912818",
-          "source": "jpost.com",
-          "pubDate": "2026-10-25T18:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Saudi Arabia , Israel normalization still possible , expert tells  Post"
-        },
-        {
-          "title": "Trump midterm swing brings him to Michigan as Republicans aim to undermine El - Sayed in Senate race",
-          "link": "https://mymotherlode.com/news/national/11251281/trumps-midterm-swing-brings-him-to-michigan-as-republicans-aim-to-undermine-el-sayed-in-senate-race.html",
-          "source": "mymotherlode.com",
-          "pubDate": "2026-10-25T18:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Trump midterm swing brings him to Michigan as Republicans aim to undermine El - Sayed in Senate race"
-        },
-        {
-          "title": "Could Hormuz become America Suez ? – Middle East Monitor",
-          "link": "https://www.middleeastmonitor.com/20261025-could-hormuz-become-americas-suez/",
-          "source": "middleeastmonitor.com",
-          "pubDate": "2026-10-25T12:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Could Hormuz become America Suez ? – Middle East Monitor"
-        },
-        {
-          "title": "President Sisi attends closing ceremony of Egypt Forum 2026",
-          "link": "https://www.egyptindependent.com/president-sisi-attends-closing-ceremony-of-egypt-forum-2026/",
-          "source": "egyptindependent.com",
-          "pubDate": "2026-10-25T11:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "President Sisi attends closing ceremony of Egypt Forum 2026"
-        },
-        {
-          "title": "Kakar Says Renewed U . S .- Iran Fighting Could Raise Pakistan Inflation",
-          "link": "https://econotimes.com/Kakar-Says-Renewed-U-S-Iran-Fighting-Could-Raise-Pakistan-s-Inflation-1762927",
-          "source": "econotimes.com",
-          "pubDate": "2026-10-25T11:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Kakar Says Renewed U . S .- Iran Fighting Could Raise Pakistan Inflation"
-        },
-        {
-          "title": "Libya Dbeibah says ready to address Egypt maritime concerns",
-          "link": "https://sundayworld.co.za/news/libyas-dbeibah-says-ready-to-address-egypts-maritime-concerns/",
-          "source": "sundayworld.co.za",
-          "pubDate": "2026-10-25T11:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Libya Dbeibah says ready to address Egypt maritime concerns"
-        },
-        {
-          "title": "Egyptian Cinema Eyes Its Future at El Gouna Film Festival",
-          "link": "https://variety.com/2026/film/global/egyptian-cinema-el-gouna-film-industry-future-1236930557/",
-          "source": "variety.com",
-          "pubDate": "2026-10-25T11:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egyptian Cinema Eyes Its Future at El Gouna Film Festival"
-        },
-        {
-          "title": "Iran prepares to plunge the planet into the 19th century with a 37T dollar weapon",
-          "link": "https://www.bankingnews.gr/diethni/articles/907041/iran-prepares-to-plunge-the-planet-into-the-19th-century-with-a-37t-dollar-weapon",
-          "source": "bankingnews.gr",
-          "pubDate": "2026-10-25T10:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Iran prepares to plunge the planet into the 19th century with a 37T dollar weapon"
-        },
-        {
-          "title": "Egyptian Firm Cheiron to Run Peru Lot 192 Oil Field",
-          "link": "https://www.riotimesonline.com/peru-lot-192-cheiron-egyptian-operator-2026/",
-          "source": "riotimesonline.com",
-          "pubDate": "2026-10-25T09:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egyptian Firm Cheiron to Run Peru Lot 192 Oil Field"
-        }
-      ]
+      "items": []
     },
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
       "items": [
-        {
-          "title": "Egitto-Usa: firmato accordo di cooperazione economica da 625 milioni di dollari",
-          "link": "https://www.agenzianova.com/a/0/7977042/2026-11-04/egitto-usa-firmato-accordo-di-cooperazione-economica-da-625-milioni-di-dollari",
-          "description": "04 nov 21:23 - (Agenzia Nova) - L'Egitto e gli Stati Uniti hanno firmato un accordo quadro strategico quinquennale da 625 milioni di dollari... (Cae)",
-          "pubDate": "2026-11-04T21:23:19+01:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Egitto-Usa: firmato accordo di cooperazione economica da 625 milioni di dollari"
-        },
         {
           "title": "Egyptian president calls Iran, US to resolve conflict",
           "link": "http://www.africanews.com/2026/11/04/egyptian-president-calls-iran-us-to-resolve-conflict/",
@@ -709,24 +420,6 @@
           "source": "Africanews",
           "lang": "en",
           "titleIt": "Egyptian president calls Iran, US to resolve conflict"
-        },
-        {
-          "title": "Ethiopia: Ethiopia Expels Sudanese Diplomats As Regional Tensions Deepen",
-          "link": "https://allafrica.com/stories/202611040529.html",
-          "description": "[Addis Standard] Addis Abeba -- Ethiopia has ordered six Sudanese diplomatic staff members to leave the country within 48 hours, a senior Ethiopian official told Reuters on Wednesday, further escalating tensions between the two neighbors amid competing allegations of support for armed groups and growing fears of a wider regional conflict.",
-          "pubDate": "Wed, 04 Nov 2026 15:07:20 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Ethiopia: Ethiopia Expels Sudanese Diplomats As Regional Tensions Deepen"
-        },
-        {
-          "title": "Displaced Ethiopians await registration in Kenya after fleeing clashes",
-          "link": "http://www.africanews.com/2026/11/03/displaced-ethiopians-await-registration-in-kenya-after-fleeing-clashes/",
-          "description": "Thousands of displaced Ethiopians were expected to be registered in the Kenyan border city of Moyale on Monday, after they fled tensions between the leaders of Ethiopia's Oromia and Somali regions.",
-          "pubDate": "Tue, 03 Nov 2026 05:57:22 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "Displaced Ethiopians await registration in Kenya after fleeing clashes"
         },
         {
           "title": "Somalia's Eritrean-trained naval chief appointment risks further straining ties with Ethiopia",
