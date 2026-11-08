@@ -1,11 +1,20 @@
 {
-  "generatedAt": "2026-11-08T01:27:45.784Z",
+  "generatedAt": "2026-11-08T08:59:41.433Z",
   "feedsChecked": 10,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
+        {
+          "title": "Libia: Egitto riapre la sua ambasciata a Tripoli dopo 12 anni (5)",
+          "link": "https://www.agenzianova.com/a/0/7988289/2026-11-08/libia-egitto-riapre-la-sua-ambasciata-a-tripoli-dopo-12-anni-5",
+          "description": "08 nov 09:03 - (Agenzia Nova) - Durante il colloquio, e' stata affrontata anche la questione del memorandum d'intesa marittimo siglato tra... (Cae)",
+          "pubDate": "2026-11-08T09:03:05+01:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Libia: Egitto riapre la sua ambasciata a Tripoli dopo 12 anni (5)"
+        },
         {
           "title": "Egypt army says hundreds of illegal gold miners arrested",
           "link": "http://www.africanews.com/2026/11/05/egypt-army-says-hundreds-of-illegal-gold-miners-arrested/",
@@ -255,19 +264,109 @@
           "titleIt": "Somalia's Eritrean-trained naval chief appointment risks further straining ties with Ethiopia"
         },
         {
-          "title": "Somalia: AI-altered photo falsely claims Al-Shabaab leader appeared among fighters seen in Diinsoor during capture by pro-Laftagareen's forces",
-          "link": "https://hornobserver.com/articles/3787/Somalia-AI-altered-photo-falsely-claims-Al-Shabaab-leader-appeared-among-fighters-seen-in-Diinsoor-during-capture-by-pro-Laftagareens-forces",
-          "description": "Some news sites and social media accounts went further, claiming that the conflict across Southwest State \"was part of a foreign-funded campaign\" allegedly \"facilitated by Ethiopia and Kenya\". These posts and the AI-altered photo garnered thousands of views across various platforms, including Facebook, X (formerly Twitter), and YouTube. The images were also shared by accounts supportive of Aden Mohamed Nur (Aden Madobe) and the Somali Federal Government. The Somali Journalists Syndicate (SJS) was alerted to the images by local journalists and ordinary citizens, prompting SJS to investigate the",
-          "pubDate": "Mon, 19 Oct 2026 14:13:50 +0300",
-          "source": "Horn Observer",
+          "title": "Somaliland journalist detained after interviewing Somalia presidential hopeful",
+          "link": "https://horseedmedia.net/somaliland-journalist-detained-after-interviewing-somalia-presidential-hopeful/426800/",
+          "source": "horseedmedia.net",
+          "pubDate": "2026-10-24T18:00:00Z",
           "lang": "en",
-          "titleIt": "Somalia: AI-altered photo falsely claims Al-Shabaab leader appeared among fighters seen in Diinsoor during capture by pro-Laftagareen's forces"
+          "description": "",
+          "titleIt": "Somaliland journalist detained after interviewing Somalia presidential hopeful"
+        },
+        {
+          "title": "Conflict Should Never Be The First Option : | The Reporter Ethiopia",
+          "link": "https://www.thereporterethiopia.com/53621/",
+          "source": "thereporterethiopia.com",
+          "pubDate": "2026-10-24T08:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Conflict Should Never Be The First Option : | The Reporter Ethiopia"
+        },
+        {
+          "title": "China and Djibouti Send Clear Message to Israel Over Somaliland Recognition",
+          "link": "https://www.garoweonline.com/en/world/africa/china-and-djibouti-send-clear-message-to-israel-over-somaliland-recognition",
+          "source": "garoweonline.com",
+          "pubDate": "2026-10-24T06:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "China and Djibouti Send Clear Message to Israel Over Somaliland Recognition"
+        },
+        {
+          "title": "Why Israeli recognition has been a double - edged sword for Somaliland",
+          "link": "https://www.csmonitor.com/World/Africa/2026/1022/somaliland-recognition-israel-trump",
+          "source": "csmonitor.com",
+          "pubDate": "2026-10-22T09:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Why Israeli recognition has been a double - edged sword for Somaliland"
+        },
+        {
+          "title": "Somalia : Somaliland Leads Abraham Accords Predictions On Polymarket",
+          "link": "https://allafrica.com/stories/202610220051.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-10-22T06:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Somalia : Somaliland Leads Abraham Accords Predictions On Polymarket"
+        },
+        {
+          "title": "From the Scramble for Africa to Somalia Fragmentation : Will History Repeat Itself ?",
+          "link": "https://wardheernews.com/from-the-scramble-for-africa-to-somalias-fragmentation-will-history-repeat-itself/",
+          "source": "wardheernews.com",
+          "pubDate": "2026-10-22T06:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "From the Scramble for Africa to Somalia Fragmentation : Will History Repeat Itself ?"
+        },
+        {
+          "title": "Somalia Says Somaliland Visa Row Is Over , 21 Oct 2026",
+          "link": "https://www.riotimesonline.com/somalia-somaliland-visa-row-ends-2026/",
+          "source": "riotimesonline.com",
+          "pubDate": "2026-10-21T20:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Somalia Says Somaliland Visa Row Is Over , 21 Oct 2026"
+        },
+        {
+          "title": "Ethiopia : Prisoner of History , Not Geography",
+          "link": "https://allafrica.com/stories/202610200686.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-10-20T21:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia : Prisoner of History , Not Geography"
+        },
+        {
+          "title": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict",
+          "link": "https://www.newsday.com/news/nation/ethiopia-tigray-eritrea-abiy-ahmed-nile-t67567",
+          "source": "newsday.com",
+          "pubDate": "2026-10-20T06:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict"
+        },
+        {
+          "title": "US Ambassador Urges Ethiopia Talks 19 Oct",
+          "link": "https://www.riotimesonline.com/us-ambassador-ethiopia-massinga-peace-talks-2026/",
+          "source": "riotimesonline.com",
+          "pubDate": "2026-10-20T02:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "US Ambassador Urges Ethiopia Talks 19 Oct"
         }
       ]
     },
     "ethiopia-sea-access": {
       "title": "Accesso etiope al mare",
       "items": [
+        {
+          "title": "Libia: Egitto riapre la sua ambasciata a Tripoli dopo 12 anni (5)",
+          "link": "https://www.agenzianova.com/a/0/7988289/2026-11-08/libia-egitto-riapre-la-sua-ambasciata-a-tripoli-dopo-12-anni-5",
+          "description": "08 nov 09:03 - (Agenzia Nova) - Durante il colloquio, e' stata affrontata anche la questione del memorandum d'intesa marittimo siglato tra... (Cae)",
+          "pubDate": "2026-11-08T09:03:05+01:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Libia: Egitto riapre la sua ambasciata a Tripoli dopo 12 anni (5)"
+        },
         {
           "title": "Ethiopia Power Explained , Who Dominates Elites and Regions",
           "link": "https://www.riotimesonline.com/ethiopia-power-structure-explained-2026/",
@@ -285,15 +384,6 @@
           "lang": "en",
           "description": "",
           "titleIt": "Africa : AI , Terrorism Top AU - EU Security Talks in Addis Ababa"
-        },
-        {
-          "title": "Nigeria: Nigerian Military Denies Ceasefire Deal With Boko Haram",
-          "link": "https://allafrica.com/stories/202611060084.html",
-          "description": "[Premium Times] The denial came nearly two months after The New Humanitarian reported that the Nigerian government entered into a secret ceasefire agreement with the Boko Haram faction led by Bakura Doro.",
-          "pubDate": "Fri, 06 Nov 2026 04:16:00 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Nigeria: Nigerian Military Denies Ceasefire Deal With Boko Haram"
         },
         {
           "title": "Africa: Call for Volunteers - Session Rapporteurs - CPHIA 2026",
@@ -330,6 +420,15 @@
           "source": "ANSA English",
           "lang": "en",
           "titleIt": "EU must decide its Russia negotiator by December, Meloni says in letter to Costa"
+        },
+        {
+          "title": "Africa: Yango Group Makes The Case For African-Led Digital Infrastructure At Moonshot 2026",
+          "link": "https://allafrica.com/stories/202611040304.html",
+          "description": "[InfoWire] Speaking at Moonshot by TechCabal in Lagos, Adeniyi Adebayo, Chief Executive of RideTech and Chief Business Officer at Yango Group, highlighted the importance of locally developed infrastructure, strategic partnerships and new approaches to financing for scaling Africa's digital economy, drawing on Yango's experience across 15 African markets.",
+          "pubDate": "Wed, 04 Nov 2026 10:45:50 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Africa: Yango Group Makes The Case For African-Led Digital Infrastructure At Moonshot 2026"
         },
         {
           "title": "Editorial: Somalia's Security Dilemma: Can a Nation Dependent on Foreign Forces Defend Itself?",
@@ -438,43 +537,197 @@
           "lang": "en",
           "description": "",
           "titleIt": "Ethiopia Calls for Shared Red Sea Security"
-        },
-        {
-          "title": "Arab News | Several dead in clashes between rival Ethiopia regional armies",
-          "link": "https://www.arabnews.com/world/several-dead-in-clashes-between-rival-ethiopia-regional-armies-3008023",
-          "source": "arabnews.com",
-          "pubDate": "2026-10-24T11:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Arab News | Several dead in clashes between rival Ethiopia regional armies"
         }
       ]
     },
     "egypt-economy": {
       "title": "Fragilità economica egiziana",
-      "items": []
+      "items": [
+        {
+          "title": "Andhra Pradesh : Visakhapatnam to host CII Partnership Summit on November 12 - 13 , representatives from 59 countries expected",
+          "link": "http://www.russiaherald.com/news/279418602/andhra-pradesh-visakhapatnam-to-host-cii-partnership-summit-on-november-12-13-representatives-from-59-countries-expected",
+          "source": "russiaherald.com",
+          "pubDate": "2026-11-07T18:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Andhra Pradesh : Visakhapatnam to host CII Partnership Summit on November 12 - 13 , representatives from 59 countries expected"
+        },
+        {
+          "title": "Andhra Pradesh : Visakhapatnam to host CII Partnership Summit on November 12 - 13 , representatives from 59 countries expected",
+          "link": "http://www.azerbaijannews.net/news/279418602/andhra-pradesh-visakhapatnam-to-host-cii-partnership-summit-on-november-12-13-representatives-from-59-countries-expected",
+          "source": "azerbaijannews.net",
+          "pubDate": "2026-11-07T18:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Andhra Pradesh : Visakhapatnam to host CII Partnership Summit on November 12 - 13 , representatives from 59 countries expected"
+        },
+        {
+          "title": "Andhra Pradesh : Visakhapatnam to host CII Partnership Summit on November 12 - 13 , representatives from 59 countries expected",
+          "link": "http://www.laosnews.net/news/279418602/andhra-pradesh-visakhapatnam-to-host-cii-partnership-summit-on-november-12-13-representatives-from-59-countries-expected",
+          "source": "laosnews.net",
+          "pubDate": "2026-11-07T18:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Andhra Pradesh : Visakhapatnam to host CII Partnership Summit on November 12 - 13 , representatives from 59 countries expected"
+        },
+        {
+          "title": "Andhra Pradesh : Visakhapatnam to host CII Partnership Summit on November 12 - 13 , representatives from 59 countries expected",
+          "link": "http://www.bruneinews.net/news/279418602/andhra-pradesh-visakhapatnam-to-host-cii-partnership-summit-on-november-12-13-representatives-from-59-countries-expected",
+          "source": "bruneinews.net",
+          "pubDate": "2026-11-07T18:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Andhra Pradesh : Visakhapatnam to host CII Partnership Summit on November 12 - 13 , representatives from 59 countries expected"
+        },
+        {
+          "title": "Andhra Pradesh : Visakhapatnam to host CII Partnership Summit on November 12 - 13 , representatives from 59 countries expected",
+          "link": "http://www.nigeriasun.com/news/279418602/andhra-pradesh-visakhapatnam-to-host-cii-partnership-summit-on-november-12-13-representatives-from-59-countries-expected",
+          "source": "nigeriasun.com",
+          "pubDate": "2026-11-07T17:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Andhra Pradesh : Visakhapatnam to host CII Partnership Summit on November 12 - 13 , representatives from 59 countries expected"
+        },
+        {
+          "title": "Andhra Pradesh : Visakhapatnam to host CII Partnership Summit on November 12 - 13 , representatives from 59 countries expected",
+          "link": "http://www.heraldglobe.com/news/279418602/andhra-pradesh-visakhapatnam-to-host-cii-partnership-summit-on-november-12-13-representatives-from-59-countries-expected",
+          "source": "heraldglobe.com",
+          "pubDate": "2026-11-07T17:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Andhra Pradesh : Visakhapatnam to host CII Partnership Summit on November 12 - 13 , representatives from 59 countries expected"
+        },
+        {
+          "title": "2027 : Obi is coming to stop erosion of Nigeria commonwealth , NDC replies Tinubu",
+          "link": "https://www.vanguardngr.com/2026/11/2027-obi-is-coming-to-stop-erosion-of-nigerias-commonwealth-ndc-replies-tinubu/",
+          "source": "vanguardngr.com",
+          "pubDate": "2026-11-07T17:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "2027 : Obi is coming to stop erosion of Nigeria commonwealth , NDC replies Tinubu"
+        },
+        {
+          "title": "The forgotten Coventry hotel that was once a celebrity hotspot - and is now student housing",
+          "link": "https://www.coventrytelegraph.net/news/coventry-news/forgotten-coventry-hotel-once-celebrity-34867579",
+          "source": "coventrytelegraph.net",
+          "pubDate": "2026-11-07T17:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The forgotten Coventry hotel that was once a celebrity hotspot - and is now student housing"
+        },
+        {
+          "title": "Trump Iran war has changed the future of Social Security",
+          "link": "https://www.morningstar.com/news/marketwatch/2026110792/trumps-iran-war-has-changed-the-future-of-social-security",
+          "source": "morningstar.com",
+          "pubDate": "2026-11-07T16:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Trump Iran war has changed the future of Social Security"
+        },
+        {
+          "title": "US in new targeted strikes on Iran as Tehran leaders weigh mediator proposals",
+          "link": "https://www.naharnet.com/stories/en/323622-us-in-new-targeted-strikes-on-iran-as-tehran-leaders-weigh-mediator-s-proposals",
+          "source": "naharnet.com",
+          "pubDate": "2026-11-07T11:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "US in new targeted strikes on Iran as Tehran leaders weigh mediator proposals"
+        },
+        {
+          "title": "Russian Creative Week - Eurasia Proposes International Framework for Creative Economy Development",
+          "link": "http://www.oklahomacitysun.com/news/279418235/russian-creative-week-eurasia-proposes-international-framework-for-creative-economy-development",
+          "source": "oklahomacitysun.com",
+          "pubDate": "2026-11-07T11:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Russian Creative Week - Eurasia Proposes International Framework for Creative Economy Development"
+        },
+        {
+          "title": "Russian Creative Week - Eurasia Proposes International Framework for Creative Economy Development",
+          "link": "http://www.hongkongherald.com/news/279418235/russian-creative-week-eurasia-proposes-international-framework-for-creative-economy-development",
+          "source": "hongkongherald.com",
+          "pubDate": "2026-11-07T11:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Russian Creative Week - Eurasia Proposes International Framework for Creative Economy Development"
+        },
+        {
+          "title": "Russian Creative Week - Eurasia Proposes International Framework for Creative Economy Development",
+          "link": "http://www.asiabulletin.com/news/279418235/russian-creative-week-eurasia-proposes-international-framework-for-creative-economy-development",
+          "source": "asiabulletin.com",
+          "pubDate": "2026-11-07T11:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Russian Creative Week - Eurasia Proposes International Framework for Creative Economy Development"
+        },
+        {
+          "title": "Read the complete transcript of Trump 2026 State of the Union",
+          "link": "https://www.timescall.com/2026/02/25/state-of-the-union-transcript/",
+          "source": "timescall.com",
+          "pubDate": "2026-11-07T11:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Read the complete transcript of Trump 2026 State of the Union"
+        },
+        {
+          "title": "Russian Creative Week - Eurasia Proposes International Framework for Creative Economy Development",
+          "link": "http://www.iranherald.com/news/279418235/russian-creative-week-eurasia-proposes-international-framework-for-creative-economy-development",
+          "source": "iranherald.com",
+          "pubDate": "2026-11-07T11:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Russian Creative Week - Eurasia Proposes International Framework for Creative Economy Development"
+        },
+        {
+          "title": "Russian Creative Week - Eurasia Proposes International Framework for Creative Economy Development",
+          "link": "http://www.malaysiasun.com/news/279418235/russian-creative-week-eurasia-proposes-international-framework-for-creative-economy-development",
+          "source": "malaysiasun.com",
+          "pubDate": "2026-11-07T10:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Russian Creative Week - Eurasia Proposes International Framework for Creative Economy Development"
+        },
+        {
+          "title": "Russian Creative Week - Eurasia Proposes International Framework for Creative Economy Development",
+          "link": "http://www.haitisun.com/news/279418235/russian-creative-week-eurasia-proposes-international-framework-for-creative-economy-development",
+          "source": "haitisun.com",
+          "pubDate": "2026-11-07T10:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Russian Creative Week - Eurasia Proposes International Framework for Creative Economy Development"
+        },
+        {
+          "title": "Russian Creative Week - Eurasia Proposes International Framework for Creative Economy Development",
+          "link": "http://www.taiwansun.com/news/279418235/russian-creative-week-eurasia-proposes-international-framework-for-creative-economy-development",
+          "source": "taiwansun.com",
+          "pubDate": "2026-11-07T10:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Russian Creative Week - Eurasia Proposes International Framework for Creative Economy Development"
+        },
+        {
+          "title": "Read the complete transcript of Trump 2026 State of the Union",
+          "link": "https://www.saratogian.com/2026/02/25/state-of-the-union-transcript/",
+          "source": "saratogian.com",
+          "pubDate": "2026-11-07T10:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Read the complete transcript of Trump 2026 State of the Union"
+        },
+        {
+          "title": "Russian Creative Week - Eurasia Proposes International Framework for Creative Economy Development",
+          "link": "http://www.ohiostandard.com/news/279418235/russian-creative-week-eurasia-proposes-international-framework-for-creative-economy-development",
+          "source": "ohiostandard.com",
+          "pubDate": "2026-11-07T10:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Russian Creative Week - Eurasia Proposes International Framework for Creative Economy Development"
+        }
+      ]
     },
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
       "items": [
-        {
-          "title": "Business news: Unilever cede partecipazione nella joint venture in Myanmar",
-          "link": "https://www.agenzianova.com/a/0/7985942/2026-11-08/business-news-unilever-cede-partecipazione-nella-joint-venture-in-myanmar",
-          "description": "08 nov 00:00 - (Agenzia Nova) - Unilever ha raggiunto un accordo per vendere la propria partecipazione in Unilever EAC Myanmar Company Limited... (Fim)",
-          "pubDate": "2026-11-08T00:00:39+01:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Business news: Unilever cede partecipazione nella joint venture in Myanmar"
-        },
-        {
-          "title": "Sudan: Abyei - Deadly Drone Strikes Mark 'New and Concerning' Threat, UN Peacekeeping Chief Warns",
-          "link": "https://allafrica.com/stories/202611060037.html",
-          "description": "[UN News] Drone strikes that killed at least 30 people in Abyei last month have added \"a new and concerning dimension\" to security in the disputed area, the UN's peacekeeping chief told the Security Council on Thursday.",
-          "pubDate": "Fri, 06 Nov 2026 03:44:58 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Sudan: Abyei - Deadly Drone Strikes Mark 'New and Concerning' Threat, UN Peacekeeping Chief Warns"
-        },
         {
           "title": "Somalia's Eritrean-trained naval chief appointment risks further straining ties with Ethiopia",
           "link": "https://hornobserver.com/articles/3790/Somalias-Eritrean-trained-naval-chief-appointment-risks-further-straining-ties-with-Ethiopia",
