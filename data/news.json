@@ -1,20 +1,11 @@
 {
-  "generatedAt": "2026-11-09T20:44:37.741Z",
-  "feedsChecked": 10,
+  "generatedAt": "2026-11-10T04:07:39.560Z",
+  "feedsChecked": 9,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
-        {
-          "title": "Somalia: Somali Opposition Accuses President of Using Force to Seize Supreme Court",
-          "link": "https://allafrica.com/stories/202611090223.html",
-          "description": "[Shabelle] Mogadishu, Somalia -- Somalia's opposition coalition, the Somali Future Council, has accused President Hassan Sheikh Mohamud of using security forces to take control of the country's Supreme Court, escalating a political confrontation over the independence of the judiciary and the president's mandate.",
-          "pubDate": "Mon, 09 Nov 2026 10:31:08 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Somalia: Somali Opposition Accuses President of Using Force to Seize Supreme Court"
-        },
         {
           "title": "From Abu Dhabi to Beledweyne: Sanbaloolshe Names Irro, Deni and Madobe in Opposition Alliance Claims",
           "link": "https://hornobserver.com/articles/3803/From-Abu-Dhabi-to-Beledweyne-Sanbaloolshe-Names-Irro-Deni-and-Madobe-in-Opposition-Alliance-Claims",
@@ -165,6 +156,15 @@
       "title": "Dossier Somaliland",
       "items": [
         {
+          "title": "Iran: Trump, Paesi Golfo favorevoli a mantenere blocco navale, Usa armati e pronti ad intervenire",
+          "link": "https://www.agenzianova.com/a/0/7995032/2026-11-09/iran-trump-paesi-golfo-favorevoli-a-mantenere-blocco-navale-usa-armati-e-pronti-ad-intervenire",
+          "description": "09 nov 22:37 - (Agenzia Nova) - Ho avuto un'eccellente conversazione con lo sceicco Mohammed bin Abdulrahman bin Jassim Al Thani, primo ministro... (Was)",
+          "pubDate": "2026-11-09T22:37:51+01:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Iran: Trump, Paesi Golfo favorevoli a mantenere blocco navale, Usa armati e pronti ad intervenire"
+        },
+        {
           "title": "Ethiopia: Reusable sanitary pads help girls break the silence around menstruation",
           "link": "http://www.africanews.com/2026/11/09/ethiopia-reusable-sanitary-pads-help-girls-break-the-silence-around-menstruation/",
           "description": "In a country that imports all its sanitary pads, their high cost puts them beyond the reach of many women and girls. For those unable to afford them, periods can mean missed school days, lost income and, in some cases, resorting to unsafe alternatives.",
@@ -172,33 +172,6 @@
           "source": "Africanews",
           "lang": "en",
           "titleIt": "Ethiopia: Reusable sanitary pads help girls break the silence around menstruation"
-        },
-        {
-          "title": "Ethiopia: Ethiopia Advances COP32 Preparations As COP31 Opens Amid Climate Finance Disputes",
-          "link": "https://allafrica.com/stories/202611090553.html",
-          "description": "[Addis Standard] Addis Abeba -- Ethiopia is using its participation in the 31st United Nations Climate Change Conference (COP31), which opened on Monday in Antalya, Türkiye, to advance preparations for hosting COP32 in Addis Abeba in November 2027, as developing countries push for stronger climate finance commitments amid widening disagreements over how to address the climate crisis.",
-          "pubDate": "Mon, 09 Nov 2026 15:25:37 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Ethiopia: Ethiopia Advances COP32 Preparations As COP31 Opens Amid Climate Finance Disputes"
-        },
-        {
-          "title": "Kenya: Food Crisis Hits Ethiopians Fleeing Violence Into Kenya's Moyale",
-          "link": "https://allafrica.com/stories/202611090419.html",
-          "description": "[Capital FM] Nairobi -- Thousands of Ethiopian families who fled violent clashes in their country and sought refuge in Kenya's Moyale area are facing acute food shortages, with more than seven in ten households reporting insufficient food, a new humanitarian assessment has found.",
-          "pubDate": "Mon, 09 Nov 2026 12:45:52 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Kenya: Food Crisis Hits Ethiopians Fleeing Violence Into Kenya's Moyale"
-        },
-        {
-          "title": "Somalia: Somali Opposition Accuses President of Using Force to Seize Supreme Court",
-          "link": "https://allafrica.com/stories/202611090223.html",
-          "description": "[Shabelle] Mogadishu, Somalia -- Somalia's opposition coalition, the Somali Future Council, has accused President Hassan Sheikh Mohamud of using security forces to take control of the country's Supreme Court, escalating a political confrontation over the independence of the judiciary and the president's mandate.",
-          "pubDate": "Mon, 09 Nov 2026 10:31:08 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Somalia: Somali Opposition Accuses President of Using Force to Seize Supreme Court"
         },
         {
           "title": "Editorial: Somalia's Security Dilemma: Can a Nation Dependent on Foreign Forces Defend Itself?",
@@ -278,6 +251,15 @@
       "title": "Accesso etiope al mare",
       "items": [
         {
+          "title": "Israele: media, Eisenkot e Liberman concordano avvio colloqui con ultraortodossi (2)",
+          "link": "https://www.agenzianova.com/a/0/7995008/2026-11-09/israele-media-eisenkot-e-liberman-concordano-avvio-colloqui-con-ultraortodossi-2",
+          "description": "09 nov 21:59 - (Agenzia Nova) - Stando a quanto riportato dall'emittente \"Channel 12\", i partiti ultraortodossi potrebbero richiedere un accordo... (Res)",
+          "pubDate": "2026-11-09T21:59:55+01:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Israele: media, Eisenkot e Liberman concordano avvio colloqui con ultraortodossi (2)"
+        },
+        {
           "title": "Ethiopia: Reusable sanitary pads help girls break the silence around menstruation",
           "link": "http://www.africanews.com/2026/11/09/ethiopia-reusable-sanitary-pads-help-girls-break-the-silence-around-menstruation/",
           "description": "In a country that imports all its sanitary pads, their high cost puts them beyond the reach of many women and girls. For those unable to afford them, periods can mean missed school days, lost income and, in some cases, resorting to unsafe alternatives.",
@@ -287,15 +269,6 @@
           "titleIt": "Ethiopia: Reusable sanitary pads help girls break the silence around menstruation"
         },
         {
-          "title": "Ethiopia: Ethiopia Advances COP32 Preparations As COP31 Opens Amid Climate Finance Disputes",
-          "link": "https://allafrica.com/stories/202611090553.html",
-          "description": "[Addis Standard] Addis Abeba -- Ethiopia is using its participation in the 31st United Nations Climate Change Conference (COP31), which opened on Monday in Antalya, Türkiye, to advance preparations for hosting COP32 in Addis Abeba in November 2027, as developing countries push for stronger climate finance commitments amid widening disagreements over how to address the climate crisis.",
-          "pubDate": "Mon, 09 Nov 2026 15:25:37 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Ethiopia: Ethiopia Advances COP32 Preparations As COP31 Opens Amid Climate Finance Disputes"
-        },
-        {
           "title": "Trump says \"tough\" US deportation policy may explain midterm losses",
           "link": "http://www.africanews.com/2026/11/09/trump-says-tough-us-deportation-policy-may-explain-midterm-losses/",
           "description": "President Donald Trump in his first major interview since his party lost control of the House and Senate in the midterm elections said he thinks his administration was too aggressive on deportations and that he thinks he can work with Democrats in the new Congress on some kind of immigration deal.",
@@ -303,15 +276,6 @@
           "source": "Africanews",
           "lang": "en",
           "titleIt": "Trump says \"tough\" US deportation policy may explain midterm losses"
-        },
-        {
-          "title": "Kenya: Food Crisis Hits Ethiopians Fleeing Violence Into Kenya's Moyale",
-          "link": "https://allafrica.com/stories/202611090419.html",
-          "description": "[Capital FM] Nairobi -- Thousands of Ethiopian families who fled violent clashes in their country and sought refuge in Kenya's Moyale area are facing acute food shortages, with more than seven in ten households reporting insufficient food, a new humanitarian assessment has found.",
-          "pubDate": "Mon, 09 Nov 2026 12:45:52 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Kenya: Food Crisis Hits Ethiopians Fleeing Violence Into Kenya's Moyale"
         },
         {
           "title": "Regional conflicts raise fears of renewed piracy in the Gulf of Aden",
@@ -332,33 +296,6 @@
           "titleIt": "From Abu Dhabi to Beledweyne: Sanbaloolshe Names Irro, Deni and Madobe in Opposition Alliance Claims"
         },
         {
-          "title": "Federal Register :: Removing 30 - Day Refugee Termination Notice",
-          "link": "https://www.federalregister.gov/documents/2026/10/14/2026-20956/removing-30-day-refugee-termination-notice",
-          "source": "federalregister.gov",
-          "pubDate": "2026-11-09T06:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Federal Register :: Removing 30 - Day Refugee Termination Notice"
-        },
-        {
-          "title": "Ethiopia Power Explained , Who Dominates Elites and Regions",
-          "link": "https://www.riotimesonline.com/ethiopia-power-structure-explained-2026/",
-          "source": "riotimesonline.com",
-          "pubDate": "2026-11-07T22:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia Power Explained , Who Dominates Elites and Regions"
-        },
-        {
-          "title": "Africa : AI , Terrorism Top AU - EU Security Talks in Addis Ababa",
-          "link": "https://allafrica.com/stories/202611060192.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-11-06T12:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Africa : AI , Terrorism Top AU - EU Security Talks in Addis Ababa"
-        },
-        {
           "title": "Editorial: Somalia's Security Dilemma: Can a Nation Dependent on Foreign Forces Defend Itself?",
           "link": "https://hornobserver.com/articles/3801/Editorial-Somalias-Security-Dilemma-Can-a-Nation-Dependent-on-Foreign-Forces-Defend-Itself",
           "description": "For years, international partners have helped Somalia fight Al-Shabaab, train troops and strengthen its security institutions. Yet this support has also exposed a serious weakness: the country's security remains deeply dependent on external funding, equipment, training and political commitments. The withdrawal of Ugandan forces from several forward operating bases in Lower Shabelle has brought this challenge into sharper focus. Somali forces are expected to assume greater responsibility, but concerns remain about whether they have the personnel, equipment, experience and financial resources to",
@@ -366,15 +303,6 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "Editorial: Somalia's Security Dilemma: Can a Nation Dependent on Foreign Forces Defend Itself?"
-        },
-        {
-          "title": "Young voices carry Mazu legacy - Chinadaily . com . cn",
-          "link": "http://europe.chinadaily.com.cn/a/202611/04/WS6aea6971e4b06d4aa0566df5.html",
-          "source": "europe.chinadaily.com.cn",
-          "pubDate": "2026-11-04T01:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Young voices carry Mazu legacy - Chinadaily . com . cn"
         },
         {
           "title": "More than 175,000 affected by floods as Somalia faces further heavy rains",
@@ -431,31 +359,22 @@
           "titleIt": "SJS says Somali journalists detained, allegedly beaten and forced into hiding amid political crisis"
         },
         {
-          "title": "Eritrea Gambia Diplomatic Relations Set Up in New York",
-          "link": "https://www.riotimesonline.com/eritrea-gambia-diplomatic-relations-2026/",
-          "source": "riotimesonline.com",
-          "pubDate": "2026-10-25T09:45:00Z",
+          "title": "Somalia: AI-altered photo falsely claims Al-Shabaab leader appeared among fighters seen in Diinsoor during capture by pro-Laftagareen's forces",
+          "link": "https://hornobserver.com/articles/3787/Somalia-AI-altered-photo-falsely-claims-Al-Shabaab-leader-appeared-among-fighters-seen-in-Diinsoor-during-capture-by-pro-Laftagareens-forces",
+          "description": "Some news sites and social media accounts went further, claiming that the conflict across Southwest State \"was part of a foreign-funded campaign\" allegedly \"facilitated by Ethiopia and Kenya\". These posts and the AI-altered photo garnered thousands of views across various platforms, including Facebook, X (formerly Twitter), and YouTube. The images were also shared by accounts supportive of Aden Mohamed Nur (Aden Madobe) and the Somali Federal Government. The Somali Journalists Syndicate (SJS) was alerted to the images by local journalists and ordinary citizens, prompting SJS to investigate the",
+          "pubDate": "Mon, 19 Oct 2026 14:13:50 +0300",
+          "source": "Horn Observer",
           "lang": "en",
-          "description": "",
-          "titleIt": "Eritrea Gambia Diplomatic Relations Set Up in New York"
+          "titleIt": "Somalia: AI-altered photo falsely claims Al-Shabaab leader appeared among fighters seen in Diinsoor during capture by pro-Laftagareen's forces"
         },
         {
-          "title": "Starlink and new era of digital connectivity and inclusion",
-          "link": "https://capitalethiopia.com/2026/10/25/starlink-and-new-era-of-digital-connectivity-and-inclusion/",
-          "source": "capitalethiopia.com",
-          "pubDate": "2026-10-25T05:30:00Z",
+          "title": "Containing the New War in Northern Ethiopia",
+          "link": "https://www.crisisgroup.org/cmt/europe/european-union-ethiopia-eritrea-sudan/containing-new-war-northern-ethiopia",
+          "description": "War has returned to northern Ethiopia, raising fears of a wider conflict involving Eritrea. In this excerpt from the EU Watch List 2026 – Autumn Edition , Crisis Group explains how the EU and member states can facilitate talks and prevent escalation.",
+          "pubDate": "Thursday, October 15, 2026 - 11:12",
+          "source": "Crisis Group",
           "lang": "en",
-          "description": "",
-          "titleIt": "Starlink and new era of digital connectivity and inclusion"
-        },
-        {
-          "title": "Several dead in clashes between rival Ethiopia armies",
-          "link": "https://www.omanobserver.om/article/1198471/world/africa/several-dead-in-clashes-between-rival-ethiopia-armies",
-          "source": "omanobserver.om",
-          "pubDate": "2026-10-24T16:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Several dead in clashes between rival Ethiopia armies"
+          "titleIt": "Containing the New War in Northern Ethiopia"
         }
       ]
     },
@@ -466,15 +385,6 @@
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
       "items": [
-        {
-          "title": "Ethiopia: Ethiopia Advances COP32 Preparations As COP31 Opens Amid Climate Finance Disputes",
-          "link": "https://allafrica.com/stories/202611090553.html",
-          "description": "[Addis Standard] Addis Abeba -- Ethiopia is using its participation in the 31st United Nations Climate Change Conference (COP31), which opened on Monday in Antalya, Türkiye, to advance preparations for hosting COP32 in Addis Abeba in November 2027, as developing countries push for stronger climate finance commitments amid widening disagreements over how to address the climate crisis.",
-          "pubDate": "Mon, 09 Nov 2026 15:25:37 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Ethiopia: Ethiopia Advances COP32 Preparations As COP31 Opens Amid Climate Finance Disputes"
-        },
         {
           "title": "Egypt: Seven dead, 125 injured in collision between two trains",
           "link": "http://www.africanews.com/2026/11/09/egypt-seven-dead-125-injured-in-collision-between-two-trains/",
