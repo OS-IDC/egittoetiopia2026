@@ -1,11 +1,20 @@
 {
-  "generatedAt": "2026-11-16T06:28:03.886Z",
+  "generatedAt": "2026-11-16T18:32:24.824Z",
   "feedsChecked": 10,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
+        {
+          "title": "Somalia: Airstrikes Target Al-Shabaab Weapons and Explosives Depots in Somalia's Lower Shabelle",
+          "link": "https://allafrica.com/stories/202611160815.html",
+          "description": "[Shabelle] Lower Shabelle -- International partners carried out airstrikes targeting locations allegedly used by Al-Shabaab to store weapons and explosives in Leego village in Somalia's Lower Shabelle region, following planned military operations by Somali special forces.",
+          "pubDate": "Mon, 16 Nov 2026 17:52:00 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Somalia: Airstrikes Target Al-Shabaab Weapons and Explosives Depots in Somalia's Lower Shabelle"
+        },
         {
           "title": "Mediterranean Cuisine Day Celebrated for the First Time in Niger",
           "link": "https://www.ansa.it/english/news/news_from_embassies/2026/11/14/mediterranean-cuisine-day-celebrated-for-the-first-time-in-niger_e8ba57ac-3765-4d04-8f76-78c161239727.html",
@@ -41,15 +50,6 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "Somali Police Open Fire on Protesters in Mogadishu, Killing Two"
-        },
-        {
-          "title": "'I can't believe he is one of us' - inside Salah's life in Trabzon",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cmwyqzy934lxo?at_medium=RSS&at_campaign=rss",
-          "description": "BBC Sport travels to Turkey to watch Mohamed Salah play for Trabzonspor and discover how the 'Egyptian King' is settling into life by the Black Sea.",
-          "pubDate": "Sun, 08 Nov 2026 07:30:01 GMT",
-          "source": "BBC Africa",
-          "lang": "en",
-          "titleIt": "'I can't believe he is one of us' - inside Salah's life in Trabzon"
         },
         {
           "title": "Editorial: Somalia's Security Dilemma: Can a Nation Dependent on Foreign Forces Defend Itself?",
@@ -165,13 +165,40 @@
       "title": "Dossier Somaliland",
       "items": [
         {
-          "title": "Kenya: Ruto Hits Back At Opposition Over SGR Corruption Claims",
-          "link": "https://allafrica.com/stories/202611160101.html",
-          "description": "[Capital FM] Nairobi -- President William Ruto has challenged opposition leaders over their interpretation of a World Bank report that raises concerns about corruption and procurement weaknesses in the construction of the Standard Gauge Railway (SGR), arguing that the project was undertaken under a previous administration.",
-          "pubDate": "Mon, 16 Nov 2026 05:34:27 GMT",
+          "title": "Ethiopia: Ethiopia's Second Tigray War - Same Battlefield, Different Political Reality",
+          "link": "https://allafrica.com/stories/202611160588.html",
+          "description": "[Addis Standard] Addis Abeba -- In November 2020, federal forces entered Mekelle, and Addis Abeba declared the war in Tigray finished. Seven months later, Tigrayan fighters walked back into the city, and within a year they were pushing towards the capital. In October 2026, federal troops and their Tigrayan allies took Mekelle again. The government now speaks of restoring order and installing a new regional administration. The Tigray People's Liberation Front (TPLF) says it will keep fighting from the mountains.",
+          "pubDate": "Mon, 16 Nov 2026 15:11:36 GMT",
           "source": "AllAfrica",
           "lang": "en",
-          "titleIt": "Kenya: Ruto Hits Back At Opposition Over SGR Corruption Claims"
+          "titleIt": "Ethiopia: Ethiopia's Second Tigray War - Same Battlefield, Different Political Reality"
+        },
+        {
+          "title": "AU Chief Urges African Leaders to Create More Opportunities for Young People",
+          "link": "https://hornobserver.com/articles/3808/AU-Chief-Urges-African-Leaders-to-Create-More-Opportunities-for-Young-People",
+          "description": "Speaking at the opening of the ninth Pan-African Youth Forum in Addis Ababa, Youssouf said that despite progress in education and technology, many young Africans still struggle to find employment, access financing and acquire the skills needed for today's job market. Marking 20 years since the adoption of the African Youth Charter, he urged governments to turn their commitments into action. Youssouf said Africa must invest in local industries rather than continue exporting raw materials, a practice he described as exporting jobs and wealth. He said the AU's 1 Million Next Level Initiative aims",
+          "pubDate": "Mon, 16 Nov 2026 15:09:49 +0300",
+          "source": "Horn Observer",
+          "lang": "en",
+          "titleIt": "AU Chief Urges African Leaders to Create More Opportunities for Young People"
+        },
+        {
+          "title": "“Italian Cuisine Week Around the World” has come to a close in Mogadishu",
+          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/11/16/italian-cuisine-week-around-the-world-has-come-to-a-close-in-mogadishu_45a9679e-e801-4631-b07a-27dbfbaf8d83.html",
+          "description": "(ANSA) - NAIROBI, 16 NOV - The eleventh edition of Italian Cuisine Week in the World has concluded in Mogadishu. Building on the success of the two previous editions, the Italian Embassy organized two eveningsto celebrate UNESCO’s recognition of Italian cuisine as an Intangible Cultural Heritage of Humanity and, at the same time, to highlight the deep cultural bond that unites Italy and Somalia—a bond also reflected in the cuisine and the presence of numerous Italian restaurants in Mogadishu. The event’s program of activities included masterclasses, led by a chef who had traveled from Italy sp",
+          "pubDate": "Mon, 16 Nov 2026 12:57:31 +0100",
+          "source": "ANSA English",
+          "lang": "en",
+          "titleIt": "“Italian Cuisine Week Around the World” has come to a close in Mogadishu"
+        },
+        {
+          "title": "Sudan and Ethiopia trade accusations over armed groups",
+          "link": "http://www.africanews.com/2026/11/16/sudan-and-ethiopia-trade-accusations-over-armed-groups/",
+          "description": "Tensions between Sudan and Ethiopia have escalated, with each accusing the other of supporting armed groups that wage war within its borders, undermining efforts to resolve the conflicts that have gripped the two neighboring African countries.",
+          "pubDate": "Mon, 16 Nov 2026 07:41:58 +0000",
+          "source": "Africanews",
+          "lang": "en",
+          "titleIt": "Sudan and Ethiopia trade accusations over armed groups"
         },
         {
           "title": "Nigeria cautions against travel via Ethiopia's main airport due to altitude",
@@ -192,24 +219,6 @@
           "titleIt": "Somalian Government must respect judicial independence and rule of law: UN experts"
         },
         {
-          "title": "Ethiopia in Africa , Its Role , Weight and Alliances",
-          "link": "https://www.riotimesonline.com/ethiopia-role-in-africa-explained-2026/",
-          "source": "riotimesonline.com",
-          "pubDate": "2026-11-12T05:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia in Africa , Its Role , Weight and Alliances"
-        },
-        {
-          "title": "America 250 : Trump Issues  Victory Day for WWI  Message – PJ Media",
-          "link": "https://pjmedia.com/catherinesalgado/2026/11/11/america-250-trump-issues-victory-day-for-wwi-message-n4959266",
-          "source": "pjmedia.com",
-          "pubDate": "2026-11-12T03:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "America 250 : Trump Issues  Victory Day for WWI  Message – PJ Media"
-        },
-        {
           "title": "From Jersey to Somalia... via Liverpool & Man City",
           "link": "https://www.bbc.co.uk/sport/football/articles/cm5ynnklgl9xo?at_medium=RSS&at_campaign=rss",
           "description": "BBC Sport charts Jarma Mohamed's surprising football journey from Premier League academies to the Somalia national team, via an app and Jersey Bulls.",
@@ -219,15 +228,6 @@
           "titleIt": "From Jersey to Somalia... via Liverpool & Man City"
         },
         {
-          "title": "Hakim Adi  Pan - Africanism and Communism : A pro - Stalinist attempt to erase the Trotskyist alternative Part Eight",
-          "link": "https://www.wsws.org/en/articles/2026/11/10/uael-n10.html",
-          "source": "wsws.org",
-          "pubDate": "2026-11-11T01:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Hakim Adi  Pan - Africanism and Communism : A pro - Stalinist attempt to erase the Trotskyist alternative Part Eight"
-        },
-        {
           "title": "'It can kill us': Kenyans fear impact of El Niño with floods predicted",
           "link": "https://www.bbc.co.uk/news/articles/c8wy9y37z30vo?at_medium=RSS&at_campaign=rss",
           "description": "Forecasters warn that this year's El Niño could be one of the strongest on record, with heavy rain and flooding in Kenya.",
@@ -235,15 +235,6 @@
           "source": "BBC Africa",
           "lang": "en",
           "titleIt": "'It can kill us': Kenyans fear impact of El Niño with floods predicted"
-        },
-        {
-          "title": "Somalia : Somaliland President Honours Officer Who Handed Over Suspect in Brother Killing",
-          "link": "https://allafrica.com/stories/202611100061.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-11-10T06:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Somalia : Somaliland President Honours Officer Who Handed Over Suspect in Brother Killing"
         },
         {
           "title": "Editorial: Somalia's Security Dilemma: Can a Nation Dependent on Foreign Forces Defend Itself?",
@@ -307,42 +298,6 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "Somalia's Eritrean-trained naval chief appointment risks further straining ties with Ethiopia"
-        },
-        {
-          "title": "Somaliland journalist detained after interviewing Somalia presidential hopeful",
-          "link": "https://horseedmedia.net/somaliland-journalist-detained-after-interviewing-somalia-presidential-hopeful/426800/",
-          "source": "horseedmedia.net",
-          "pubDate": "2026-10-24T18:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Somaliland journalist detained after interviewing Somalia presidential hopeful"
-        },
-        {
-          "title": "Conflict Should Never Be The First Option : | The Reporter Ethiopia",
-          "link": "https://www.thereporterethiopia.com/53621/",
-          "source": "thereporterethiopia.com",
-          "pubDate": "2026-10-24T08:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Conflict Should Never Be The First Option : | The Reporter Ethiopia"
-        },
-        {
-          "title": "China and Djibouti Send Clear Message to Israel Over Somaliland Recognition",
-          "link": "https://www.garoweonline.com/en/world/africa/china-and-djibouti-send-clear-message-to-israel-over-somaliland-recognition",
-          "source": "garoweonline.com",
-          "pubDate": "2026-10-24T06:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "China and Djibouti Send Clear Message to Israel Over Somaliland Recognition"
-        },
-        {
-          "title": "Why Israeli recognition has been a double - edged sword for Somaliland",
-          "link": "https://www.csmonitor.com/World/Africa/2026/1022/somaliland-recognition-israel-trump",
-          "source": "csmonitor.com",
-          "pubDate": "2026-10-22T09:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Why Israeli recognition has been a double - edged sword for Somaliland"
         }
       ]
     },
@@ -350,13 +305,49 @@
       "title": "Accesso etiope al mare",
       "items": [
         {
-          "title": "Zimbabwe: South African Police's Own Report Clears Job Sikhala and His Uncle in Explosives Case",
-          "link": "https://allafrica.com/stories/202611160118.html",
-          "description": "[New Zimbabwe] A SOUTH African Police Service (SAPS) fingerprint analysis has dealt a major blow to the State's explosives case against Zimbabwean opposition leader Job Sikhala and his uncle Alexander Thema.",
-          "pubDate": "Mon, 16 Nov 2026 05:48:46 GMT",
+          "title": "Africa: Japan Signs $583 Million Loan Agreement to Support African Development Fund",
+          "link": "https://allafrica.com/stories/202611160626.html",
+          "description": "[African Development Bank (AfDB)] <The African Development Bank Group and the Japan International Cooperation Agency (JICA) have signed a JPY 86.6 billion (approximately $583.4 million) concessional loan agreement to support the African Development Fund's seventeenth replenishment (ADF-17).",
+          "pubDate": "Mon, 16 Nov 2026 15:33:54 GMT",
           "source": "AllAfrica",
           "lang": "en",
-          "titleIt": "Zimbabwe: South African Police's Own Report Clears Job Sikhala and His Uncle in Explosives Case"
+          "titleIt": "Africa: Japan Signs $583 Million Loan Agreement to Support African Development Fund"
+        },
+        {
+          "title": "AU Chief Urges African Leaders to Create More Opportunities for Young People",
+          "link": "https://hornobserver.com/articles/3808/AU-Chief-Urges-African-Leaders-to-Create-More-Opportunities-for-Young-People",
+          "description": "Speaking at the opening of the ninth Pan-African Youth Forum in Addis Ababa, Youssouf said that despite progress in education and technology, many young Africans still struggle to find employment, access financing and acquire the skills needed for today's job market. Marking 20 years since the adoption of the African Youth Charter, he urged governments to turn their commitments into action. Youssouf said Africa must invest in local industries rather than continue exporting raw materials, a practice he described as exporting jobs and wealth. He said the AU's 1 Million Next Level Initiative aims",
+          "pubDate": "Mon, 16 Nov 2026 15:09:49 +0300",
+          "source": "Horn Observer",
+          "lang": "en",
+          "titleIt": "AU Chief Urges African Leaders to Create More Opportunities for Young People"
+        },
+        {
+          "title": "New wave of bomb threats to Italian schools, no evacuations",
+          "link": "https://www.ansa.it/english/news/general_news/2026/11/16/new-wave-of-bomb-threats-to-italian-schools-no-evacuations_9d92253d-33b8-441f-99b9-aa6578b44e49.html",
+          "description": "(ANSA) - ROME, 16 NOV - Schools in several Italian cities received emails with bomb threats on Monday, the latest in a wave of such messages, but as the time of writing there were no reports of any schools having been evacuated. The interior ministry on Friday sent out a circular letter with guidance on how to deal with threatening messages after thousands of Italian schools received hoax bomb threats last week. The circular letter said that threats sent via bulk email messages, like those that triggered hundreds of buildings to be evacuated on Wednesday and dozens on Thursday, should not be c",
+          "pubDate": "Mon, 16 Nov 2026 12:26:45 +0100",
+          "source": "ANSA English",
+          "lang": "en",
+          "titleIt": "New wave of bomb threats to Italian schools, no evacuations"
+        },
+        {
+          "title": "New wave of bomb threats to Italian schools, no evacuations",
+          "link": "https://www.ansa.it/english/news/2026/11/16/new-wave-of-bomb-threats-to-italian-schools-no-evacuations_0b40a9b8-e37f-4a60-b884-6fd3ac86394b.html",
+          "description": "(ANSA) - ROME, 16 NOV - Schools in several Italian cities received emails with bomb threats on Monday, the latest in a wave of such messages, but as the time of writing there were no reports of any schools having been evacuated. The interior ministry on Friday sent out a circular letter with guidance on how to deal with threatening messages after thousands of Italian schools received hoax bomb threats last week. The circular letter said that threats sent via bulk email messages, like those that triggered hundreds of buildings to be evacuated on Wednesday and dozens on Thursday, should not be c",
+          "pubDate": "Mon, 16 Nov 2026 12:08:21 +0100",
+          "source": "ANSA English",
+          "lang": "en",
+          "titleIt": "New wave of bomb threats to Italian schools, no evacuations"
+        },
+        {
+          "title": "Sudan and Ethiopia trade accusations over armed groups",
+          "link": "http://www.africanews.com/2026/11/16/sudan-and-ethiopia-trade-accusations-over-armed-groups/",
+          "description": "Tensions between Sudan and Ethiopia have escalated, with each accusing the other of supporting armed groups that wage war within its borders, undermining efforts to resolve the conflicts that have gripped the two neighboring African countries.",
+          "pubDate": "Mon, 16 Nov 2026 07:41:58 +0000",
+          "source": "Africanews",
+          "lang": "en",
+          "titleIt": "Sudan and Ethiopia trade accusations over armed groups"
         },
         {
           "title": "Nigeria cautions against travel via Ethiopia's main airport due to altitude",
@@ -492,25 +483,35 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "SJS says Somali journalists detained, allegedly beaten and forced into hiding amid political crisis"
-        },
-        {
-          "title": "Containing the New War in Northern Ethiopia",
-          "link": "https://www.crisisgroup.org/cmt/europe/european-union-ethiopia-eritrea-sudan/containing-new-war-northern-ethiopia",
-          "description": "War has returned to northern Ethiopia, raising fears of a wider conflict involving Eritrea. In this excerpt from the EU Watch List 2026 – Autumn Edition , Crisis Group explains how the EU and member states can facilitate talks and prevent escalation.",
-          "pubDate": "Thursday, October 15, 2026 - 11:12",
-          "source": "Crisis Group",
-          "lang": "en",
-          "titleIt": "Containing the New War in Northern Ethiopia"
         }
       ]
     },
     "egypt-economy": {
       "title": "Fragilità economica egiziana",
-      "items": []
+      "items": [
+        {
+          "title": "“Italians in Egypt: History, Identity, and Memory,” Conversations in Cairo",
+          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/11/16/italians-in-egypt-history-identity-and-memory-conversations-in-cairo_99a71712-7e74-4d06-8be5-26336178e6fb.html",
+          "description": "(ANSA) - IL CAIRO, 16 NOV - For many Italians, especially during certain periods of history, Egypt has been a second homeland—a place to seek fortune, inspiration, or even just a job. Others were born there by chance, absorbing its atmosphere and landscapes, as well as worldviews from both sides of the Mediterranean. This was the case for Giuseppe Ungaretti and Filippo Tommaso Marinetti, who were born in Alexandria. But many others left their mark here: architects, archaeologists, merchants, philanthropists, as well as ordinary bricklayers, bakers, and laborers who worked on the Suez Canal. We",
+          "pubDate": "Mon, 16 Nov 2026 14:27:20 +0100",
+          "source": "ANSA English",
+          "lang": "en",
+          "titleIt": "“Italians in Egypt: History, Identity, and Memory,” Conversations in Cairo"
+        }
+      ]
     },
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
       "items": [
+        {
+          "title": "Sudan and Ethiopia trade accusations over armed groups",
+          "link": "http://www.africanews.com/2026/11/16/sudan-and-ethiopia-trade-accusations-over-armed-groups/",
+          "description": "Tensions between Sudan and Ethiopia have escalated, with each accusing the other of supporting armed groups that wage war within its borders, undermining efforts to resolve the conflicts that have gripped the two neighboring African countries.",
+          "pubDate": "Mon, 16 Nov 2026 07:41:58 +0000",
+          "source": "Africanews",
+          "lang": "en",
+          "titleIt": "Sudan and Ethiopia trade accusations over armed groups"
+        },
         {
           "title": "From Abu Dhabi to Beledweyne: Sanbaloolshe Names Irro, Deni and Madobe in Opposition Alliance Claims",
           "link": "https://hornobserver.com/articles/3803/From-Abu-Dhabi-to-Beledweyne-Sanbaloolshe-Names-Irro-Deni-and-Madobe-in-Opposition-Alliance-Claims",
