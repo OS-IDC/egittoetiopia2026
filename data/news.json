@@ -1,20 +1,11 @@
 {
-  "generatedAt": "2026-11-17T22:23:59.373Z",
+  "generatedAt": "2026-11-18T07:27:55.693Z",
   "feedsChecked": 10,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
-        {
-          "title": "Egitto: Al Sisi riceve presidente Bers per discutere cooperazione economica",
-          "link": "https://www.agenzianova.com/a/0/8028132/2026-11-17/egitto-al-sisi-riceve-presidente-bers-per-discutere-cooperazione-economica",
-          "description": "17 nov 21:02 - (Agenzia Nova) - Il presidente dell'Egitto, Abdel Fattah al Sisi, ha ricevuto la presidente della Banca europea per la ricostruzione... (Cae)",
-          "pubDate": "2026-11-17T21:02:31+01:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Egitto: Al Sisi riceve presidente Bers per discutere cooperazione economica"
-        },
         {
           "title": "Djibouti: Six Survivors Reach Berbera Port After Boat Sailing From Djibouti Sinks",
           "link": "https://allafrica.com/stories/202611170678.html",
@@ -23,15 +14,6 @@
           "source": "AllAfrica",
           "lang": "en",
           "titleIt": "Djibouti: Six Survivors Reach Berbera Port After Boat Sailing From Djibouti Sinks"
-        },
-        {
-          "title": "Somalia: Somaliland Vice President Meets UK Africa Director to Discuss Cooperation",
-          "link": "https://allafrica.com/stories/202611170677.html",
-          "description": "[Horn Diplomat] Hargeisa -- Somaliland's Vice President Mohamed Ali Aw Abdi met Britain's Director for Africa, Charlotte Pierre, to discuss strengthening cooperation on regional security, development and humanitarian assistance, according to a Somaliland government statement.",
-          "pubDate": "Tue, 17 Nov 2026 17:53:41 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Somalia: Somaliland Vice President Meets UK Africa Director to Discuss Cooperation"
         },
         {
           "title": "Somalia: Somali Army Carries Out an Operation Against Al-Shabaab in Bakool Region",
@@ -192,6 +174,15 @@
       "title": "Dossier Somaliland",
       "items": [
         {
+          "title": "Kenya: 'Hunger Should Not Be a Concern' - WFP Steps in for Families in Kenya Who Fled Ethiopia Violence",
+          "link": "https://allafrica.com/stories/202611180010.html",
+          "description": "[UN News] The World Food Programme (WFP) is assisting thousands of families who fled recent violence in Ethiopia for the Moyale area in neighbouring Kenya, the UN agency reported on Tuesday.",
+          "pubDate": "Wed, 18 Nov 2026 04:45:53 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Kenya: 'Hunger Should Not Be a Concern' - WFP Steps in for Families in Kenya Who Fled Ethiopia Violence"
+        },
+        {
           "title": "Djibouti: Six Survivors Reach Berbera Port After Boat Sailing From Djibouti Sinks",
           "link": "https://allafrica.com/stories/202611170678.html",
           "description": "[Horn Diplomat] Berbera -- Six crew members rescued after a cargo boat sank near the Bab al-Mandeb Strait have arrived safely at Somaliland's Berbera Port, where medical personnel and emergency teams are providing care, the Somaliland Ports Authority said on Tuesday.",
@@ -199,33 +190,6 @@
           "source": "AllAfrica",
           "lang": "en",
           "titleIt": "Djibouti: Six Survivors Reach Berbera Port After Boat Sailing From Djibouti Sinks"
-        },
-        {
-          "title": "Somalia: Somaliland Vice President Meets UK Africa Director to Discuss Cooperation",
-          "link": "https://allafrica.com/stories/202611170677.html",
-          "description": "[Horn Diplomat] Hargeisa -- Somaliland's Vice President Mohamed Ali Aw Abdi met Britain's Director for Africa, Charlotte Pierre, to discuss strengthening cooperation on regional security, development and humanitarian assistance, according to a Somaliland government statement.",
-          "pubDate": "Tue, 17 Nov 2026 17:53:41 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Somalia: Somaliland Vice President Meets UK Africa Director to Discuss Cooperation"
-        },
-        {
-          "title": "Ethiopia: Ethiopia Wins Int'l Award for Institutionalizing Climate-Responsive Auditing",
-          "link": "https://allafrica.com/stories/202611170427.html",
-          "description": "[ENA] Addis Ababa -- The Office of the Federal Auditor General has won international recognition for its efforts to institutionalize climate-responsive auditing at the 2026 ClimateScanner Impact Awards held in Rio de Janeiro, Brazil.",
-          "pubDate": "Tue, 17 Nov 2026 12:20:22 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Ethiopia: Ethiopia Wins Int'l Award for Institutionalizing Climate-Responsive Auditing"
-        },
-        {
-          "title": "Kenya: Gachagua Faults Ruto's 'Usawa Ni Sawa' Over 'Tribal' State Appointments",
-          "link": "https://allafrica.com/stories/202611170160.html",
-          "description": "[Capital FM] Nairobi -- DCP leader Rigathi Gachagua has taken a swipe at President William Ruto's \"Usawa ni Sawa\" campaign, questioning the government's commitment to equal opportunities following a series of appointments involving people from the Kalenjin community.",
-          "pubDate": "Tue, 17 Nov 2026 05:58:10 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Kenya: Gachagua Faults Ruto's 'Usawa Ni Sawa' Over 'Tribal' State Appointments"
         },
         {
           "title": "AU Chief Urges African Leaders to Create More Opportunities for Young People",
@@ -370,12 +334,39 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "U.S. Troops Withdraw from Belidogle Military Airfield as Security Situation Evolves in Southwest Somalia"
+        },
+        {
+          "title": "Somalia's Eritrean-trained naval chief appointment risks further straining ties with Ethiopia",
+          "link": "https://hornobserver.com/articles/3790/Somalias-Eritrean-trained-naval-chief-appointment-risks-further-straining-ties-with-Ethiopia",
+          "description": "Mohamed Abdulqadir \"Shariif\" has been appointed commander of the Somali Navy and Coastal Defence Forces, replacing Brig. Gen. Abdiwahab Omar. His military training in Eritrea comes at a sensitive time for the region, with relations between Ethiopia and Eritrea deteriorating and renewed fighting in northern Ethiopia raising fears of a wider confrontation.&nbsp; The appointment could cause concern in Addis Ababa, particularly as Somalia has strengthened its engagement with Eritrea and Egypt amid longstanding disputes with Ethiopia over sovereignty, regional security and access to the Red Sea. Th",
+          "pubDate": "Mon, 26 Oct 2026 12:01:56 +0300",
+          "source": "Horn Observer",
+          "lang": "en",
+          "titleIt": "Somalia's Eritrean-trained naval chief appointment risks further straining ties with Ethiopia"
+        },
+        {
+          "title": "Somaliland journalist detained after interviewing Somalia presidential hopeful",
+          "link": "https://horseedmedia.net/somaliland-journalist-detained-after-interviewing-somalia-presidential-hopeful/426800/",
+          "source": "horseedmedia.net",
+          "pubDate": "2026-10-24T18:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Somaliland journalist detained after interviewing Somalia presidential hopeful"
         }
       ]
     },
     "ethiopia-sea-access": {
       "title": "Accesso etiope al mare",
       "items": [
+        {
+          "title": "Kenya: 'Hunger Should Not Be a Concern' - WFP Steps in for Families in Kenya Who Fled Ethiopia Violence",
+          "link": "https://allafrica.com/stories/202611180010.html",
+          "description": "[UN News] The World Food Programme (WFP) is assisting thousands of families who fled recent violence in Ethiopia for the Moyale area in neighbouring Kenya, the UN agency reported on Tuesday.",
+          "pubDate": "Wed, 18 Nov 2026 04:45:53 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Kenya: 'Hunger Should Not Be a Concern' - WFP Steps in for Families in Kenya Who Fled Ethiopia Violence"
+        },
         {
           "title": "Djibouti: Six Survivors Reach Berbera Port After Boat Sailing From Djibouti Sinks",
           "link": "https://allafrica.com/stories/202611170678.html",
@@ -420,15 +411,6 @@
           "source": "Africanews",
           "lang": "en",
           "titleIt": "Botswana and Ivory Coast sign mining, energy and trade deals"
-        },
-        {
-          "title": "Africa: Japan Signs $583 Million Loan Agreement to Support African Development Fund",
-          "link": "https://allafrica.com/stories/202611160626.html",
-          "description": "[African Development Bank (AfDB)] <The African Development Bank Group and the Japan International Cooperation Agency (JICA) have signed a JPY 86.6 billion (approximately $583.4 million) concessional loan agreement to support the African Development Fund's seventeenth replenishment (ADF-17).",
-          "pubDate": "Mon, 16 Nov 2026 15:33:54 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Africa: Japan Signs $583 Million Loan Agreement to Support African Development Fund"
         },
         {
           "title": "AU Chief Urges African Leaders to Create More Opportunities for Young People",
@@ -562,15 +544,6 @@
       "title": "Fragilità economica egiziana",
       "items": [
         {
-          "title": "Egitto: Al Sisi riceve presidente Bers per discutere cooperazione economica",
-          "link": "https://www.agenzianova.com/a/0/8028132/2026-11-17/egitto-al-sisi-riceve-presidente-bers-per-discutere-cooperazione-economica",
-          "description": "17 nov 21:02 - (Agenzia Nova) - Il presidente dell'Egitto, Abdel Fattah al Sisi, ha ricevuto la presidente della Banca europea per la ricostruzione... (Cae)",
-          "pubDate": "2026-11-17T21:02:31+01:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Egitto: Al Sisi riceve presidente Bers per discutere cooperazione economica"
-        },
-        {
           "title": "“Italians in Egypt: History, Identity, and Memory,” Conversations in Cairo",
           "link": "https://www.ansa.it/english/news/news_from_embassies/2026/11/16/italians-in-egypt-history-identity-and-memory-conversations-in-cairo_99a71712-7e74-4d06-8be5-26336178e6fb.html",
           "description": "(ANSA) - IL CAIRO, 16 NOV - For many Italians, especially during certain periods of history, Egypt has been a second homeland—a place to seek fortune, inspiration, or even just a job. Others were born there by chance, absorbing its atmosphere and landscapes, as well as worldviews from both sides of the Mediterranean. This was the case for Giuseppe Ungaretti and Filippo Tommaso Marinetti, who were born in Alexandria. But many others left their mark here: architects, archaeologists, merchants, philanthropists, as well as ordinary bricklayers, bakers, and laborers who worked on the Suez Canal. We",
@@ -585,6 +558,15 @@
       "title": "Opacità sui rilasci GERD",
       "items": [
         {
+          "title": "Sudan: 2,230 Civilian Deaths in Sudan in 10 Months, Most From Drone Strikes - UN",
+          "link": "https://allafrica.com/stories/202611180005.html",
+          "description": "[Dabanga] Amsterdam / Geneva -- At least 2,230 civilians were killed in Sudan between January and October 2026, including more than 1,630 in drone strikes, according to the UN Human Rights Office. Its latest findings point to the growing role of drones in the war, with attacks increasingly reaching beyond the front lines to strike markets, hospitals, schools, and infrastructure essential to civilian survival.",
+          "pubDate": "Wed, 18 Nov 2026 04:44:20 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Sudan: 2,230 Civilian Deaths in Sudan in 10 Months, Most From Drone Strikes - UN"
+        },
+        {
           "title": "Sudan and Ethiopia trade accusations over armed groups",
           "link": "http://www.africanews.com/2026/11/16/sudan-and-ethiopia-trade-accusations-over-armed-groups/",
           "description": "Tensions between Sudan and Ethiopia have escalated, with each accusing the other of supporting armed groups that wage war within its borders, undermining efforts to resolve the conflicts that have gripped the two neighboring African countries.",
@@ -592,42 +574,6 @@
           "source": "Africanews",
           "lang": "en",
           "titleIt": "Sudan and Ethiopia trade accusations over armed groups"
-        },
-        {
-          "title": "Ethiopia Green Legacy Showcases Commitment to Global Climate Action - Pmo Press Secretary",
-          "link": "https://allafrica.com/stories/202611130515.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-11-13T18:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia Green Legacy Showcases Commitment to Global Climate Action - Pmo Press Secretary"
-        },
-        {
-          "title": "Egypt Regions and Provinces Explained",
-          "link": "https://www.riotimesonline.com/egypt-regions-provinces-explained-2026/",
-          "source": "riotimesonline.com",
-          "pubDate": "2026-11-12T05:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egypt Regions and Provinces Explained"
-        },
-        {
-          "title": "Ethiopia in Africa , Its Role , Weight and Alliances",
-          "link": "https://www.riotimesonline.com/ethiopia-role-in-africa-explained-2026/",
-          "source": "riotimesonline.com",
-          "pubDate": "2026-11-12T05:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia in Africa , Its Role , Weight and Alliances"
-        },
-        {
-          "title": "Sudan : Proxy Politics and Border Clashes - an Escalating Crisis Between Sudan and Ethiopia",
-          "link": "https://allafrica.com/stories/202611100043.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-11-10T06:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Sudan : Proxy Politics and Border Clashes - an Escalating Crisis Between Sudan and Ethiopia"
         },
         {
           "title": "From Abu Dhabi to Beledweyne: Sanbaloolshe Names Irro, Deni and Madobe in Opposition Alliance Claims",
@@ -639,15 +585,6 @@
           "titleIt": "From Abu Dhabi to Beledweyne: Sanbaloolshe Names Irro, Deni and Madobe in Opposition Alliance Claims"
         },
         {
-          "title": "Deadly RSF drone attacks reveal deep divisions between Sudan and Ethiopia",
-          "link": "https://www.aljazeera.com/news/2026/11/3/deadly-rsf-drone-strikes-reveal-deep-divisions-between-sudan-and-ethiopia",
-          "source": "aljazeera.com",
-          "pubDate": "2026-11-03T11:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Deadly RSF drone attacks reveal deep divisions between Sudan and Ethiopia"
-        },
-        {
           "title": "Somalia's Eritrean-trained naval chief appointment risks further straining ties with Ethiopia",
           "link": "https://hornobserver.com/articles/3790/Somalias-Eritrean-trained-naval-chief-appointment-risks-further-straining-ties-with-Ethiopia",
           "description": "Mohamed Abdulqadir \"Shariif\" has been appointed commander of the Somali Navy and Coastal Defence Forces, replacing Brig. Gen. Abdiwahab Omar. His military training in Eritrea comes at a sensitive time for the region, with relations between Ethiopia and Eritrea deteriorating and renewed fighting in northern Ethiopia raising fears of a wider confrontation.&nbsp; The appointment could cause concern in Addis Ababa, particularly as Somalia has strengthened its engagement with Eritrea and Egypt amid longstanding disputes with Ethiopia over sovereignty, regional security and access to the Red Sea. Th",
@@ -655,114 +592,6 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "Somalia's Eritrean-trained naval chief appointment risks further straining ties with Ethiopia"
-        },
-        {
-          "title": "Conflict Should Never Be The First Option : | The Reporter Ethiopia",
-          "link": "https://www.thereporterethiopia.com/53621/",
-          "source": "thereporterethiopia.com",
-          "pubDate": "2026-10-24T08:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Conflict Should Never Be The First Option : | The Reporter Ethiopia"
-        },
-        {
-          "title": "Fighting in Ethiopia and the Risk of Regional Spillover",
-          "link": "https://warontherocks.com/fighting-in-ethiopia-and-the-risk-of-regional-spillover/",
-          "source": "warontherocks.com",
-          "pubDate": "2026-10-21T20:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Fighting in Ethiopia and the Risk of Regional Spillover"
-        },
-        {
-          "title": "Ethiopia Abiy Pushes Nuclear Power Development After Russia Deal",
-          "link": "https://chimpreports.com/ethiopias-abiy-pushes-nuclear-power-development-after-russia-deal/",
-          "source": "chimpreports.com",
-          "pubDate": "2026-10-21T12:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia Abiy Pushes Nuclear Power Development After Russia Deal"
-        },
-        {
-          "title": "Yemen war : Why Egypt vow to defend Saudi Arabia is a risky gamble",
-          "link": "https://www.middleeasteye.net/opinion/yemen-war-why-egypts-vow-defend-saudi-arabia-risky-gamble",
-          "source": "middleeasteye.net",
-          "pubDate": "2026-10-20T09:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Yemen war : Why Egypt vow to defend Saudi Arabia is a risky gamble"
-        },
-        {
-          "title": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict",
-          "link": "https://www.newsday.com/news/nation/ethiopia-tigray-eritrea-abiy-ahmed-nile-t67567",
-          "source": "newsday.com",
-          "pubDate": "2026-10-20T06:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict"
-        },
-        {
-          "title": "US Ambassador Urges Ethiopia Talks 19 Oct",
-          "link": "https://www.riotimesonline.com/us-ambassador-ethiopia-massinga-peace-talks-2026/",
-          "source": "riotimesonline.com",
-          "pubDate": "2026-10-20T02:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "US Ambassador Urges Ethiopia Talks 19 Oct"
-        },
-        {
-          "title": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict",
-          "link": "http://www.sitkasentinel.com/stories/a-look-at-how-ethiopias-wars-sea-ambitions-and-nile-dam-fuel-fears-of-wider-conflict,179778",
-          "source": "sitkasentinel.com",
-          "pubDate": "2026-10-19T16:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict"
-        },
-        {
-          "title": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict :: WRAL . com",
-          "link": "https://www.wral.com/news/ap/18294-a-look-at-how-ethiopia-s-wars-sea-ambitions-and-nile-dam-fuel-fears-of-wider-conflict/",
-          "source": "wral.com",
-          "pubDate": "2026-10-19T15:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict :: WRAL . com"
-        },
-        {
-          "title": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict",
-          "link": "https://www.thepeterboroughexaminer.com/business/a-look-at-how-ethiopia-s-wars-sea-ambitions-and-nile-dam-fuel-fears-of-wider-conflict/article_800473c7-bbd4-535b-a9c8-31b345bc3e75.html",
-          "source": "thepeterboroughexaminer.com",
-          "pubDate": "2026-10-19T15:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict"
-        },
-        {
-          "title": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict",
-          "link": "https://www.niagarafallsreview.ca/business/a-look-at-how-ethiopia-s-wars-sea-ambitions-and-nile-dam-fuel-fears-of-wider-conflict/article_e45aa027-36b8-5163-9ef8-56822c7c6e16.html",
-          "source": "niagarafallsreview.ca",
-          "pubDate": "2026-10-19T15:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict"
-        },
-        {
-          "title": "Arab News | A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict",
-          "link": "https://www.arabnews.com/world/a-look-at-how-ethiopias-wars-sea-ambitions-and-nile-dam-fuel-fears-of-wider-conflict-3007181",
-          "source": "arabnews.com",
-          "pubDate": "2026-10-19T14:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Arab News | A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict"
-        },
-        {
-          "title": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict – Winnipeg Free Press",
-          "link": "https://www.winnipegfreepress.com/business/2026/10/19/a-look-at-how-ethiopias-wars-sea-ambitions-and-nile-dam-fuel-fears-of-wider-conflict",
-          "source": "winnipegfreepress.com",
-          "pubDate": "2026-10-19T13:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict – Winnipeg Free Press"
         }
       ]
     }
