@@ -1,11 +1,20 @@
 {
-  "generatedAt": "2026-11-19T00:23:23.798Z",
+  "generatedAt": "2026-11-19T10:20:50.902Z",
   "feedsChecked": 10,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
+        {
+          "title": "Egypt secures $2.3 Billion IMF deal as economic recovery gains momentum",
+          "link": "http://www.africanews.com/2026/11/19/egypt-secures-23-billion-imf-deal-as-economic-recovery-gains-momentum/",
+          "description": "The agreement comes as Egypt shows signs of economic recovery, with GDP growth reaching 5.1 percent in the 2025–2026 fiscal year, supported by stronger activity in tourism, manufacturing and the Suez Canal.",
+          "pubDate": "Thu, 19 Nov 2026 09:34:00 +0000",
+          "source": "Africanews",
+          "lang": "en",
+          "titleIt": "Egypt secures $2.3 Billion IMF deal as economic recovery gains momentum"
+        },
         {
           "title": "Somalia: Somalia Alone Votes Against UN Draft On Violence Against Women",
           "link": "https://allafrica.com/stories/202611180651.html",
@@ -165,24 +174,6 @@
       "title": "Dossier Somaliland",
       "items": [
         {
-          "title": "Kenya: Road Upgrade Eases Farmers' Access to Markets Along Waunifor-Flax Road",
-          "link": "https://allafrica.com/stories/202611180678.html",
-          "description": "[Capital FM] Nairobi -- Waunifor-Flax Road winding through productive agricultural land. The road is strengthening connectivity for farming communities, easing the transportation of tea, milk and other agricultural produce to markets while linking residents to wider economic opportunities.",
-          "pubDate": "Wed, 18 Nov 2026 18:15:55 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Kenya: Road Upgrade Eases Farmers' Access to Markets Along Waunifor-Flax Road"
-        },
-        {
-          "title": "Kenya: Ruto Tells Parliament Nairobi-Mombasa Highway Dualling Plan At Advanced Stage",
-          "link": "https://allafrica.com/stories/202611180660.html",
-          "description": "[Capital FM] Nairobi -- President William Ruto says plans to dual the Nairobi-Mombasa Highway have reached an advanced stage, with the government targeting the expansion of the approximately 460-kilometre corridor as part of a wider programme to improve transport infrastructure and lower the cost of doing business.",
-          "pubDate": "Wed, 18 Nov 2026 18:02:19 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Kenya: Ruto Tells Parliament Nairobi-Mombasa Highway Dualling Plan At Advanced Stage"
-        },
-        {
           "title": "Somalia: Somalia Alone Votes Against UN Draft On Violence Against Women",
           "link": "https://allafrica.com/stories/202611180651.html",
           "description": "[Horn Diplomat] Somalia cast the only vote against a United Nations draft resolution aimed at strengthening efforts to prevent and eliminate violence against women and girls, while 175 countries supported the measure and six abstained.",
@@ -201,15 +192,6 @@
           "titleIt": "Kenya: Ruto Promises Public Order Reforms, Accountability for Police Abuses"
         },
         {
-          "title": "Ethiopia: El Niño, Iran War Shocks Could Push Nearly One Million More Ethiopians Into Poverty, New Report Warns",
-          "link": "https://allafrica.com/stories/202611180198.html",
-          "description": "[Addis Standard] Addis Abeba -- Nearly 905,000 additional people in Ethiopia could be pushed into poverty and 2.8 million into undernourishment in 2027 as the effects of a potentially exceptionally strong El Niño converge with higher global fuel prices linked to the Iran war, according to a new analysis by the International Food Policy Research Institute (IFPRI).",
-          "pubDate": "Wed, 18 Nov 2026 10:24:57 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Ethiopia: El Niño, Iran War Shocks Could Push Nearly One Million More Ethiopians Into Poverty, New Report Warns"
-        },
-        {
           "title": "Hassan Sheikh Knew About the UAE for Years. Now It Is Useful",
           "link": "https://hornobserver.com/articles/3809/Hassan-Sheikh-Knew-About-the-UAE-for-Years-Now-It-Is-Useful",
           "description": "On Tuesday, 17 November, the president of Somalia went on television and, as I heard it in Somali, said that a brother does not burn your house. Hassan Sheikh Mohamud told Somalis at home and abroad that the United Arab Emirates had signed port deals at Berbera, Bosaso and Kismayo without Mogadishu, built armed units that do not take orders from the state, and helped bring about Israel's recognition of Somaliland. He ended by saying that the Somalia of yesterday is not the Somalia of today. Anadolu Agency reported the accusations. Here is what does not fit. He has known about the UAE for years",
@@ -226,15 +208,6 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "AU Chief Urges African Leaders to Create More Opportunities for Young People"
-        },
-        {
-          "title": "Sudan and Ethiopia trade accusations over armed groups",
-          "link": "http://www.africanews.com/2026/11/16/sudan-and-ethiopia-trade-accusations-over-armed-groups/",
-          "description": "Tensions between Sudan and Ethiopia have escalated, with each accusing the other of supporting armed groups that wage war within its borders, undermining efforts to resolve the conflicts that have gripped the two neighboring African countries.",
-          "pubDate": "Mon, 16 Nov 2026 07:41:58 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "Sudan and Ethiopia trade accusations over armed groups"
         },
         {
           "title": "Somalian Government must respect judicial independence and rule of law: UN experts",
@@ -332,6 +305,15 @@
       "title": "Accesso etiope al mare",
       "items": [
         {
+          "title": "Egypt secures $2.3 Billion IMF deal as economic recovery gains momentum",
+          "link": "http://www.africanews.com/2026/11/19/egypt-secures-23-billion-imf-deal-as-economic-recovery-gains-momentum/",
+          "description": "The agreement comes as Egypt shows signs of economic recovery, with GDP growth reaching 5.1 percent in the 2025–2026 fiscal year, supported by stronger activity in tourism, manufacturing and the Suez Canal.",
+          "pubDate": "Thu, 19 Nov 2026 09:34:00 +0000",
+          "source": "Africanews",
+          "lang": "en",
+          "titleIt": "Egypt secures $2.3 Billion IMF deal as economic recovery gains momentum"
+        },
+        {
           "title": "Somalia: Somalia Alone Votes Against UN Draft On Violence Against Women",
           "link": "https://allafrica.com/stories/202611180651.html",
           "description": "[Horn Diplomat] Somalia cast the only vote against a United Nations draft resolution aimed at strengthening efforts to prevent and eliminate violence against women and girls, while 175 countries supported the measure and six abstained.",
@@ -348,15 +330,6 @@
           "source": "AllAfrica",
           "lang": "en",
           "titleIt": "Ethiopia: In-Depth Analysis - Emptied of Civilians, No End in Sight - How the Escalating Moyale Conflict Is Deepening a Humanitarian Crisis"
-        },
-        {
-          "title": "Ethiopia: El Niño, Iran War Shocks Could Push Nearly One Million More Ethiopians Into Poverty, New Report Warns",
-          "link": "https://allafrica.com/stories/202611180198.html",
-          "description": "[Addis Standard] Addis Abeba -- Nearly 905,000 additional people in Ethiopia could be pushed into poverty and 2.8 million into undernourishment in 2027 as the effects of a potentially exceptionally strong El Niño converge with higher global fuel prices linked to the Iran war, according to a new analysis by the International Food Policy Research Institute (IFPRI).",
-          "pubDate": "Wed, 18 Nov 2026 10:24:57 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Ethiopia: El Niño, Iran War Shocks Could Push Nearly One Million More Ethiopians Into Poverty, New Report Warns"
         },
         {
           "title": "Hassan Sheikh Knew About the UAE for Years. Now It Is Useful",
@@ -386,15 +359,6 @@
           "titleIt": "Tajani presents 2026 edition of Week of Italian Cuisine in the World"
         },
         {
-          "title": "Sardinia Signs Agreement to Participate in Expo 2027 in Belgrade",
-          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/11/17/sardinia-signs-agreement-to-participate-in-expo-2027-in-belgrade_0372b74b-0b35-46ec-b22e-1a9eb2ee43d0.html",
-          "description": "(ANSA) - BELGRADO, 17 NOV - The Commissioner of the Italian Pavilion at Expo 2027 Belgrade, Ambassador to Serbia Luca Gori, and the Director of the Department for Development Policies, Productive Activities, Industrial Research, and Technological Innovation of the Autonomous Region of Sardinia, Marco Palmas, signed the agreement outlining the terms of the Region’s participation in the International Specialized Exhibition, scheduled to take place in the Serbian capital from May 15 to August 15, 2027. Expo 2027 Belgrade, titled “Playing for Humanity: Sports and Music for All,” will feature the p",
-          "pubDate": "Tue, 17 Nov 2026 10:38:20 +0100",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "Sardinia Signs Agreement to Participate in Expo 2027 in Belgrade"
-        },
-        {
           "title": "Botswana and Ivory Coast sign mining, energy and trade deals",
           "link": "http://www.africanews.com/2026/11/17/botswana-and-ivory-coast-sign-mining-energy-and-trade-deals/",
           "description": "Botswana’s President Duma Boko arrived in Abidjan on Monday at the start of a three-day state visit. He was welcomed to the presidential palace by Ivorian leader Alassane Outtara. The two men signed a number of agreements spanning mining, energy, agriculture and trade.",
@@ -411,15 +375,6 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "AU Chief Urges African Leaders to Create More Opportunities for Young People"
-        },
-        {
-          "title": "Sudan and Ethiopia trade accusations over armed groups",
-          "link": "http://www.africanews.com/2026/11/16/sudan-and-ethiopia-trade-accusations-over-armed-groups/",
-          "description": "Tensions between Sudan and Ethiopia have escalated, with each accusing the other of supporting armed groups that wage war within its borders, undermining efforts to resolve the conflicts that have gripped the two neighboring African countries.",
-          "pubDate": "Mon, 16 Nov 2026 07:41:58 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "Sudan and Ethiopia trade accusations over armed groups"
         },
         {
           "title": "Neither war nor peace in Tigray - is Ethiopia's latest conflict really over?",
@@ -515,19 +470,65 @@
     },
     "egypt-economy": {
       "title": "Fragilità economica egiziana",
-      "items": []
+      "items": [
+        {
+          "title": "Egypt secures $2.3 Billion IMF deal as economic recovery gains momentum",
+          "link": "http://www.africanews.com/2026/11/19/egypt-secures-23-billion-imf-deal-as-economic-recovery-gains-momentum/",
+          "description": "The agreement comes as Egypt shows signs of economic recovery, with GDP growth reaching 5.1 percent in the 2025–2026 fiscal year, supported by stronger activity in tourism, manufacturing and the Suez Canal.",
+          "pubDate": "Thu, 19 Nov 2026 09:34:00 +0000",
+          "source": "Africanews",
+          "lang": "en",
+          "titleIt": "Egypt secures $2.3 Billion IMF deal as economic recovery gains momentum"
+        }
+      ]
     },
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
       "items": [
         {
-          "title": "Sudan and Ethiopia trade accusations over armed groups",
-          "link": "http://www.africanews.com/2026/11/16/sudan-and-ethiopia-trade-accusations-over-armed-groups/",
-          "description": "Tensions between Sudan and Ethiopia have escalated, with each accusing the other of supporting armed groups that wage war within its borders, undermining efforts to resolve the conflicts that have gripped the two neighboring African countries.",
-          "pubDate": "Mon, 16 Nov 2026 07:41:58 +0000",
+          "title": "Egypt secures $2.3 Billion IMF deal as economic recovery gains momentum",
+          "link": "http://www.africanews.com/2026/11/19/egypt-secures-23-billion-imf-deal-as-economic-recovery-gains-momentum/",
+          "description": "The agreement comes as Egypt shows signs of economic recovery, with GDP growth reaching 5.1 percent in the 2025–2026 fiscal year, supported by stronger activity in tourism, manufacturing and the Suez Canal.",
+          "pubDate": "Thu, 19 Nov 2026 09:34:00 +0000",
           "source": "Africanews",
           "lang": "en",
-          "titleIt": "Sudan and Ethiopia trade accusations over armed groups"
+          "titleIt": "Egypt secures $2.3 Billion IMF deal as economic recovery gains momentum"
+        },
+        {
+          "title": "Ethiopia Green Legacy Showcases Commitment to Global Climate Action - Pmo Press Secretary",
+          "link": "https://allafrica.com/stories/202611130515.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-11-13T18:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia Green Legacy Showcases Commitment to Global Climate Action - Pmo Press Secretary"
+        },
+        {
+          "title": "Egypt Regions and Provinces Explained",
+          "link": "https://www.riotimesonline.com/egypt-regions-provinces-explained-2026/",
+          "source": "riotimesonline.com",
+          "pubDate": "2026-11-12T05:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt Regions and Provinces Explained"
+        },
+        {
+          "title": "Ethiopia in Africa , Its Role , Weight and Alliances",
+          "link": "https://www.riotimesonline.com/ethiopia-role-in-africa-explained-2026/",
+          "source": "riotimesonline.com",
+          "pubDate": "2026-11-12T05:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia in Africa , Its Role , Weight and Alliances"
+        },
+        {
+          "title": "Sudan : Proxy Politics and Border Clashes - an Escalating Crisis Between Sudan and Ethiopia",
+          "link": "https://allafrica.com/stories/202611100043.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-11-10T06:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Sudan : Proxy Politics and Border Clashes - an Escalating Crisis Between Sudan and Ethiopia"
         },
         {
           "title": "From Abu Dhabi to Beledweyne: Sanbaloolshe Names Irro, Deni and Madobe in Opposition Alliance Claims",
@@ -539,6 +540,15 @@
           "titleIt": "From Abu Dhabi to Beledweyne: Sanbaloolshe Names Irro, Deni and Madobe in Opposition Alliance Claims"
         },
         {
+          "title": "Deadly RSF drone attacks reveal deep divisions between Sudan and Ethiopia",
+          "link": "https://www.aljazeera.com/news/2026/11/3/deadly-rsf-drone-strikes-reveal-deep-divisions-between-sudan-and-ethiopia",
+          "source": "aljazeera.com",
+          "pubDate": "2026-11-03T11:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Deadly RSF drone attacks reveal deep divisions between Sudan and Ethiopia"
+        },
+        {
           "title": "Somalia's Eritrean-trained naval chief appointment risks further straining ties with Ethiopia",
           "link": "https://hornobserver.com/articles/3790/Somalias-Eritrean-trained-naval-chief-appointment-risks-further-straining-ties-with-Ethiopia",
           "description": "Mohamed Abdulqadir \"Shariif\" has been appointed commander of the Somali Navy and Coastal Defence Forces, replacing Brig. Gen. Abdiwahab Omar. His military training in Eritrea comes at a sensitive time for the region, with relations between Ethiopia and Eritrea deteriorating and renewed fighting in northern Ethiopia raising fears of a wider confrontation.&nbsp; The appointment could cause concern in Addis Ababa, particularly as Somalia has strengthened its engagement with Eritrea and Egypt amid longstanding disputes with Ethiopia over sovereignty, regional security and access to the Red Sea. Th",
@@ -546,6 +556,114 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "Somalia's Eritrean-trained naval chief appointment risks further straining ties with Ethiopia"
+        },
+        {
+          "title": "Conflict Should Never Be The First Option : | The Reporter Ethiopia",
+          "link": "https://www.thereporterethiopia.com/53621/",
+          "source": "thereporterethiopia.com",
+          "pubDate": "2026-10-24T08:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Conflict Should Never Be The First Option : | The Reporter Ethiopia"
+        },
+        {
+          "title": "Fighting in Ethiopia and the Risk of Regional Spillover",
+          "link": "https://warontherocks.com/fighting-in-ethiopia-and-the-risk-of-regional-spillover/",
+          "source": "warontherocks.com",
+          "pubDate": "2026-10-21T20:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Fighting in Ethiopia and the Risk of Regional Spillover"
+        },
+        {
+          "title": "Ethiopia Abiy Pushes Nuclear Power Development After Russia Deal",
+          "link": "https://chimpreports.com/ethiopias-abiy-pushes-nuclear-power-development-after-russia-deal/",
+          "source": "chimpreports.com",
+          "pubDate": "2026-10-21T12:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia Abiy Pushes Nuclear Power Development After Russia Deal"
+        },
+        {
+          "title": "Yemen war : Why Egypt vow to defend Saudi Arabia is a risky gamble",
+          "link": "https://www.middleeasteye.net/opinion/yemen-war-why-egypts-vow-defend-saudi-arabia-risky-gamble",
+          "source": "middleeasteye.net",
+          "pubDate": "2026-10-20T09:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Yemen war : Why Egypt vow to defend Saudi Arabia is a risky gamble"
+        },
+        {
+          "title": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict",
+          "link": "https://www.newsday.com/news/nation/ethiopia-tigray-eritrea-abiy-ahmed-nile-t67567",
+          "source": "newsday.com",
+          "pubDate": "2026-10-20T06:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict"
+        },
+        {
+          "title": "US Ambassador Urges Ethiopia Talks 19 Oct",
+          "link": "https://www.riotimesonline.com/us-ambassador-ethiopia-massinga-peace-talks-2026/",
+          "source": "riotimesonline.com",
+          "pubDate": "2026-10-20T02:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "US Ambassador Urges Ethiopia Talks 19 Oct"
+        },
+        {
+          "title": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict",
+          "link": "http://www.sitkasentinel.com/stories/a-look-at-how-ethiopias-wars-sea-ambitions-and-nile-dam-fuel-fears-of-wider-conflict,179778",
+          "source": "sitkasentinel.com",
+          "pubDate": "2026-10-19T16:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict"
+        },
+        {
+          "title": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict :: WRAL . com",
+          "link": "https://www.wral.com/news/ap/18294-a-look-at-how-ethiopia-s-wars-sea-ambitions-and-nile-dam-fuel-fears-of-wider-conflict/",
+          "source": "wral.com",
+          "pubDate": "2026-10-19T15:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict :: WRAL . com"
+        },
+        {
+          "title": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict",
+          "link": "https://www.thepeterboroughexaminer.com/business/a-look-at-how-ethiopia-s-wars-sea-ambitions-and-nile-dam-fuel-fears-of-wider-conflict/article_800473c7-bbd4-535b-a9c8-31b345bc3e75.html",
+          "source": "thepeterboroughexaminer.com",
+          "pubDate": "2026-10-19T15:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict"
+        },
+        {
+          "title": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict",
+          "link": "https://www.niagarafallsreview.ca/business/a-look-at-how-ethiopia-s-wars-sea-ambitions-and-nile-dam-fuel-fears-of-wider-conflict/article_e45aa027-36b8-5163-9ef8-56822c7c6e16.html",
+          "source": "niagarafallsreview.ca",
+          "pubDate": "2026-10-19T15:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict"
+        },
+        {
+          "title": "Arab News | A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict",
+          "link": "https://www.arabnews.com/world/a-look-at-how-ethiopias-wars-sea-ambitions-and-nile-dam-fuel-fears-of-wider-conflict-3007181",
+          "source": "arabnews.com",
+          "pubDate": "2026-10-19T14:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Arab News | A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict"
+        },
+        {
+          "title": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict – Winnipeg Free Press",
+          "link": "https://www.winnipegfreepress.com/business/2026/10/19/a-look-at-how-ethiopias-wars-sea-ambitions-and-nile-dam-fuel-fears-of-wider-conflict",
+          "source": "winnipegfreepress.com",
+          "pubDate": "2026-10-19T13:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict – Winnipeg Free Press"
         }
       ]
     }
