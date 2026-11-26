@@ -1,19 +1,28 @@
 {
-  "generatedAt": "2026-11-25T14:21:40.767Z",
-  "feedsChecked": 9,
+  "generatedAt": "2026-11-26T00:21:07.849Z",
+  "feedsChecked": 8,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
         {
-          "title": "Uganda: Uganda, Somalia Agree to Intensify Military Offensive Against Al-Shabaab",
-          "link": "https://allafrica.com/stories/202611250346.html",
-          "description": "[Independent (Kampala)] Kampala -- Uganda and Somalia have agreed to intensify military operations against Al-Shabaab militants and explore alternative funding mechanisms to sustain security operations in Somalia. The agreement was reached during a meeting between President Yoweri Museveni and his Somali counterpart, Hassan Sheikh Mohamud, who was on a one-day official visit to Uganda on November 23, 2026.",
-          "pubDate": "Wed, 25 Nov 2026 12:29:11 GMT",
-          "source": "AllAfrica",
+          "title": "Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway",
+          "link": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss",
+          "description": "Another 21 are injured after the tanker reportedly overturns on a busy ring road in the Egyptian capital.",
+          "pubDate": "Wed, 25 Nov 2026 22:18:06 GMT",
+          "source": "BBC Africa",
           "lang": "en",
-          "titleIt": "Uganda: Uganda, Somalia Agree to Intensify Military Offensive Against Al-Shabaab"
+          "titleIt": "Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway"
+        },
+        {
+          "title": "Egitto: Tajani esprime solidarieta' per le vittime dell'incendio sulla tangenziale del Cairo",
+          "link": "https://www.agenzianova.com/a/0/8061853/2026-11-25/egitto-tajani-esprime-solidarieta-per-le-vittime-dell-incendio-sulla-tangenziale-del-cairo",
+          "description": "25 nov 21:37 - (Agenzia Nova) - Il ministro degli Affari esteri e della Cooperazione internazionale, Antonio Tajani, ha espresso il proprio... (Res)",
+          "pubDate": "2026-11-25T21:37:15+01:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Egitto: Tajani esprime solidarieta' per le vittime dell'incendio sulla tangenziale del Cairo"
         },
         {
           "title": "Italian cooperation supports the empowerment of women in Egypt",
@@ -23,15 +32,6 @@
           "source": "ANSA English",
           "lang": "en",
           "titleIt": "Italian cooperation supports the empowerment of women in Egypt"
-        },
-        {
-          "title": "Somalia: An Italian-Funded Master’s Program Launches",
-          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/11/23/somalia-an-italian-funded-masters-program-launches_11776034-919f-4d5c-a619-8a7937953569.html",
-          "description": "(ANSA) - NAIROBI, 24 NOV - An Executive Master’s program dedicated to the health and justice sectors was inaugurated today at the Somali National University in Mogadishu, as part of the “Public Administration Italy–Somalia Project – Training of Somali Government Officials,” funded by Italian Cooperation and implemented by the University of Palermo. The launch ceremony was attended by the Italian Ambassador to Somalia, Pier Mario Daccò Coppi; the representative of the Italian Agency for Development Cooperation (AICS) in Somalia, Alessandro Dadomo, and high-level officials from the Somali Federa",
-          "pubDate": "Mon, 23 Nov 2026 22:12:15 +0100",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "Somalia: An Italian-Funded Master’s Program Launches"
         }
       ]
     },
@@ -39,31 +39,13 @@
       "title": "Dossier Somaliland",
       "items": [
         {
-          "title": "Kenya: IEBC Denies Clearing Gachagua for 2027 Presidential Race",
-          "link": "https://allafrica.com/stories/202611250395.html",
-          "description": "[Capital FM] Nairobi -- The Independent Electoral and Boundaries Commission (IEBC) has dismissed reports claiming it has cleared former Deputy President Rigathi Gachagua to contest the 2027 Presidential Election.",
-          "pubDate": "Wed, 25 Nov 2026 12:44:48 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Kenya: IEBC Denies Clearing Gachagua for 2027 Presidential Race"
-        },
-        {
-          "title": "Uganda: Uganda, Somalia Agree to Intensify Military Offensive Against Al-Shabaab",
-          "link": "https://allafrica.com/stories/202611250346.html",
-          "description": "[Independent (Kampala)] Kampala -- Uganda and Somalia have agreed to intensify military operations against Al-Shabaab militants and explore alternative funding mechanisms to sustain security operations in Somalia. The agreement was reached during a meeting between President Yoweri Museveni and his Somali counterpart, Hassan Sheikh Mohamud, who was on a one-day official visit to Uganda on November 23, 2026.",
-          "pubDate": "Wed, 25 Nov 2026 12:29:11 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Uganda: Uganda, Somalia Agree to Intensify Military Offensive Against Al-Shabaab"
-        },
-        {
-          "title": "Investigation underway into cause of Zanzibar hotel blaze",
-          "link": "http://www.africanews.com/2026/11/23/investigation-underway-into-cause-of-zanzibar-hotel-blaze/",
-          "description": "Investigations continued Monday into the cause of a huge fire that engulfed six hotels along a popular beach in Tanzania ’s semiautonomous archipelago of Zanzibar. Several hotel workers were injured in the blaze over the weekend. Authorities said about 180 tourists were safely evacuated.",
-          "pubDate": "Mon, 23 Nov 2026 16:38:03 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "Investigation underway into cause of Zanzibar hotel blaze"
+          "title": "Trasporti: Emirates punta a collegamento Dubai-Milano-Lima, atteso il via libera italiano",
+          "link": "https://www.agenzianova.com/a/0/8061858/2026-11-25/trasporti-emirates-punta-a-collegamento-dubai-milano-lima-atteso-il-via-libera-italiano",
+          "description": "25 nov 21:51 - (Agenzia Nova) - La compagnia aerea emiratina Emirates e' interessata ad attivare un collegamento tra Dubai e Lima, con scalo... (Res)",
+          "pubDate": "2026-11-25T21:51:21+01:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Trasporti: Emirates punta a collegamento Dubai-Milano-Lima, atteso il via libera italiano"
         }
       ]
     },
@@ -71,49 +53,22 @@
       "title": "Accesso etiope al mare",
       "items": [
         {
-          "title": "Russia-Brunei: Putin e sultano Bolkiah elevano relazioni al livello di partenariato strategico (2)",
-          "link": "https://www.agenzianova.com/a/0/8060435/2026-11-25/russia-brunei-putin-e-sultano-bolkiah-elevano-relazioni-al-livello-di-partenariato-strategico-2",
-          "description": "25 nov 15:04 - (Agenzia Nova) - \"Le relazioni bilaterali si stanno sviluppando in modo costante e progressivo. Esse si fondano sui principi... (Rum)",
-          "pubDate": "2026-11-25T15:04:35+01:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Russia-Brunei: Putin e sultano Bolkiah elevano relazioni al livello di partenariato strategico (2)"
+          "title": "South Africa's Ramaphosa says talks ongoing with US over AGOA exclusion",
+          "link": "http://www.africanews.com/2026/11/25/south-africas-ramaphosa-says-talks-ongoing-with-us-over-agoa-exclusion/",
+          "description": "South African President Cyril Ramaphosa said Tuesday that his government continues to negotiate with Washington over the future of a major US duty-free deal, a few weeks after the US announced South Africa's exclusion from the African Growth and Opportunity Act.",
+          "pubDate": "Wed, 25 Nov 2026 16:45:30 +0000",
+          "source": "Africanews",
+          "lang": "en",
+          "titleIt": "South Africa's Ramaphosa says talks ongoing with US over AGOA exclusion"
         },
         {
-          "title": "Ethiopia: Ethiopia, Pakistan Agree to Deepen Defence and Aviation Cooperation",
-          "link": "https://allafrica.com/stories/202611250391.html",
-          "description": "[ENA] Addis Ababa -- Ethiopia and Pakistan have agreed to strengthen bilateral cooperation in defence and aviation, opening further avenues for strategic partnership between the two countries.",
-          "pubDate": "Wed, 25 Nov 2026 12:42:58 GMT",
-          "source": "AllAfrica",
+          "title": "UNIDO: Italy’s Commitment to Industrial Development",
+          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/11/25/unido-italys-commitment-to-industrial-development_a2e1fecf-f353-42e3-8976-baa19ad6da56.html",
+          "description": "(ANSA) - VIENNA, 25 NOV - The 54th session of UNIDO’s Industrial Development Board (Industrial Development Board – IDB) of UNIDO was held in Vienna, coinciding with the celebrations for the 60th anniversary of the United Nations Industrial Development Organization, in which Italy plays a leading role as a strategic partner. During the proceedings, Italy’s Permanent Representative to the International Organizations in Vienna, Ambassador Debora Lepre, reaffirmed Italy’s support for UNIDO’s mandate and its contribution to the transformation of production systems, the dissemination of technologica",
+          "pubDate": "Wed, 25 Nov 2026 16:25:14 +0100",
+          "source": "ANSA English",
           "lang": "en",
-          "titleIt": "Ethiopia: Ethiopia, Pakistan Agree to Deepen Defence and Aviation Cooperation"
-        },
-        {
-          "title": "East Africa: Somalia's Parliament Speaker Accuses Kenya, Ethiopia, Uganda of Colluding With Al-Shabaab",
-          "link": "https://allafrica.com/stories/202611250227.html",
-          "description": "[Addis Standard] Addis Abeba -- Somalia's parliamentary speaker Abdulkadir Mohamed Nur, also known as Jaamac, has accused Kenya, Ethiopia and Uganda of colluding with Al-Shabaab, alleging that Israel had brought together the three countries, the militant group and forces loyal to former South West State leader Abdiaziz Hassan Mohamed Laftagareen in a coordinated front against the federal government.",
-          "pubDate": "Wed, 25 Nov 2026 10:18:15 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "East Africa: Somalia's Parliament Speaker Accuses Kenya, Ethiopia, Uganda of Colluding With Al-Shabaab"
-        },
-        {
-          "title": "Africa: Rwanda's Return Hub Plan Risks Making Africa Europe's 'Drop-Off Zone'",
-          "link": "https://allafrica.com/stories/202611250226.html",
-          "description": "[ISS] Offshore deportation deals will produce opacity, shield authoritarian governments and drive more political signalling than reduce migration pressures.",
-          "pubDate": "Wed, 25 Nov 2026 10:17:37 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Africa: Rwanda's Return Hub Plan Risks Making Africa Europe's 'Drop-Off Zone'"
-        },
-        {
-          "title": "Sudan: Violations Against Women, Girls Escalates",
-          "link": "https://allafrica.com/stories/202611250063.html",
-          "description": "[Dabanga] Blue Nile State -- The Strategic Initiative for Women in the Horn of Africa (SIHA Network) has reported the abduction of 28 women and girls fleeing fighting in Damazin and 15 cases of conflict-related sexual violence against girls under the age of 18 in Blue Nile state. In a statement published yesterday, the organisation has warned of escalating violations against women and girls as fighting intensifies, with thousands of families fleeing their homes and facing growing humanitarian risks.",
-          "pubDate": "Wed, 25 Nov 2026 04:55:46 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Sudan: Violations Against Women, Girls Escalates"
+          "titleIt": "UNIDO: Italy’s Commitment to Industrial Development"
         },
         {
           "title": "'Major strides' on a wealth tax at the progressive coalition's policy talks",
@@ -170,15 +125,6 @@
           "titleIt": "Tensions in Libya and COP31 climate challenges [Africanews Today]"
         },
         {
-          "title": "China warns against turning Horn of Africa into geopolitical battleground",
-          "link": "http://www.africanews.com/2026/11/23/china-warns-against-turning-horn-of-africa-into-geopolitical-battleground/",
-          "description": "With tensions in the Middle East threatening peace in the Horn of Africa, China is warning against turning the region into a geopolitical battleground. Chinese envoys have visited Ethiopia, Djibouti, Egypt and Eritrea this month.",
-          "pubDate": "Mon, 23 Nov 2026 12:04:55 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "China warns against turning Horn of Africa into geopolitical battleground"
-        },
-        {
           "title": "Containing the New War in Northern Ethiopia",
           "link": "https://www.crisisgroup.org/cmt/europe/european-union-ethiopia-eritrea-sudan/containing-new-war-northern-ethiopia",
           "description": "War has returned to northern Ethiopia, raising fears of a wider conflict involving Eritrea. In this excerpt from the EU Watch List 2026 – Autumn Edition , Crisis Group explains how the EU and member states can facilitate talks and prevent escalation.",
@@ -205,26 +151,7 @@
     },
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
-      "items": [
-        {
-          "title": "Sudan: Violations Against Women, Girls Escalates",
-          "link": "https://allafrica.com/stories/202611250063.html",
-          "description": "[Dabanga] Blue Nile State -- The Strategic Initiative for Women in the Horn of Africa (SIHA Network) has reported the abduction of 28 women and girls fleeing fighting in Damazin and 15 cases of conflict-related sexual violence against girls under the age of 18 in Blue Nile state. In a statement published yesterday, the organisation has warned of escalating violations against women and girls as fighting intensifies, with thousands of families fleeing their homes and facing growing humanitarian risks.",
-          "pubDate": "Wed, 25 Nov 2026 04:55:46 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Sudan: Violations Against Women, Girls Escalates"
-        },
-        {
-          "title": "China warns against turning Horn of Africa into geopolitical battleground",
-          "link": "http://www.africanews.com/2026/11/23/china-warns-against-turning-horn-of-africa-into-geopolitical-battleground/",
-          "description": "With tensions in the Middle East threatening peace in the Horn of Africa, China is warning against turning the region into a geopolitical battleground. Chinese envoys have visited Ethiopia, Djibouti, Egypt and Eritrea this month.",
-          "pubDate": "Mon, 23 Nov 2026 12:04:55 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "China warns against turning Horn of Africa into geopolitical battleground"
-        }
-      ]
+      "items": []
     }
   }
 }
