@@ -1,20 +1,11 @@
 {
-  "generatedAt": "2026-11-27T04:16:04.377Z",
+  "generatedAt": "2026-11-27T13:54:47.071Z",
   "feedsChecked": 9,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
-        {
-          "title": "Somalia: Somalia PM Says Country Moving Towards Peace-Based Economy",
-          "link": "https://allafrica.com/stories/202611260295.html",
-          "description": "[Shabelle] Mogadishu -- Somali Prime Minister Hamza Abdi Barre on Wednesday opened the ninth National Economic Policy Forum, saying the country must move beyond economic practices shaped by decades of civil conflict and build an economy driven by peace, stability and private investment.",
-          "pubDate": "Thu, 26 Nov 2026 11:00:10 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Somalia: Somalia PM Says Country Moving Towards Peace-Based Economy"
-        },
         {
           "title": "As foreign troops withdraw from Somalia, could al-Shabab take over?",
           "link": "https://www.bbc.co.uk/news/articles/ck62y23z58yeo?at_medium=RSS&at_campaign=rss",
@@ -30,6 +21,24 @@
       "title": "Dossier Somaliland",
       "items": [
         {
+          "title": "Africa: El Niño Adds New Hunger Hotspots As Conflict Continues to Drive Risk of Famine, Warn FAO and WFP",
+          "link": "https://allafrica.com/stories/202611270343.html",
+          "description": "[WFP] Rome -- Sudan, South Sudan, Somalia, parts of Nigeria and Yemen remain hotspots of highest concern with Southern Africa and the Central American Dry Corridor among new additions",
+          "pubDate": "Fri, 27 Nov 2026 12:21:02 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Africa: El Niño Adds New Hunger Hotspots As Conflict Continues to Drive Risk of Famine, Warn FAO and WFP"
+        },
+        {
+          "title": "Eritrea: Eritrea Accuses Ethiopia of Using Maritime Diplomacy to 'Camouflage Its Irredentist Ambitions'",
+          "link": "https://allafrica.com/stories/202611270280.html",
+          "description": "[Addis Standard] Addis Abeba -- Eritrea has accused Ethiopia of using maritime diplomacy and regional security forums to mask what it described as territorial ambitions in the Horn of Africa, escalating tensions amid renewed disagreements over Ethiopia's pursuit of Red Sea access.",
+          "pubDate": "Fri, 27 Nov 2026 10:44:31 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Eritrea: Eritrea Accuses Ethiopia of Using Maritime Diplomacy to 'Camouflage Its Irredentist Ambitions'"
+        },
+        {
           "title": "US-backed Ebola quarantine centre violated constitution, Kenyan court rules",
           "link": "http://www.africanews.com/2026/11/26/us-backed-ebola-quarantine-centre-violated-constitution-kenyan-court-rules/",
           "description": "A Kenyan court on Thursday ruled that the government had breached the constitution by allowing the construction of a US-backed Ebola quarantine site at a military base in Laikipia.",
@@ -37,15 +46,6 @@
           "source": "Africanews",
           "lang": "en",
           "titleIt": "US-backed Ebola quarantine centre violated constitution, Kenyan court rules"
-        },
-        {
-          "title": "Somalia: Somalia PM Says Country Moving Towards Peace-Based Economy",
-          "link": "https://allafrica.com/stories/202611260295.html",
-          "description": "[Shabelle] Mogadishu -- Somali Prime Minister Hamza Abdi Barre on Wednesday opened the ninth National Economic Policy Forum, saying the country must move beyond economic practices shaped by decades of civil conflict and build an economy driven by peace, stability and private investment.",
-          "pubDate": "Thu, 26 Nov 2026 11:00:10 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Somalia: Somalia PM Says Country Moving Towards Peace-Based Economy"
         },
         {
           "title": "Kenya: Ambassador Del Monaco Unveils Work of Art at the Residence in Nairobi",
@@ -71,22 +71,49 @@
       "title": "Accesso etiope al mare",
       "items": [
         {
-          "title": "Ue: Costa, Stati membri fanno il loro lavoro nei negoziati per budget, e' normale",
-          "link": "https://www.agenzianova.com/a/0/8067567/2026-11-27/ue-costa-stati-membri-fanno-il-loro-lavoro-nei-negoziati-per-budget-e-normale",
-          "description": "27 nov 01:06 - (Agenzia Nova) - Per il presidente del Consiglio europeo Antonio Costa, nel contesto dei negoziati per il prossimo Quadro finanziario... (Brs)",
-          "pubDate": "2026-11-27T01:06:09+01:00",
+          "title": "Ucraina: Sybiha, Russia vuole includere export petrolio in accordo tregua nel Mar Nero",
+          "link": "https://www.agenzianova.com/a/0/8069911/2026-11-27/ucraina-sybiha-russia-vuole-includere-export-petrolio-in-accordo-tregua-nel-mar-nero",
+          "description": "27 nov 14:46 - (Agenzia Nova) - L'Ucraina propone di incentrare un accordo per il cessate il fuoco nel Mar Nero sulla sicurezza marittima e... (Kiu)",
+          "pubDate": "2026-11-27T14:46:49+01:00",
           "source": "Agenzia Nova",
           "lang": "it",
-          "titleIt": "Ue: Costa, Stati membri fanno il loro lavoro nei negoziati per budget, e' normale"
+          "titleIt": "Ucraina: Sybiha, Russia vuole includere export petrolio in accordo tregua nel Mar Nero"
         },
         {
-          "title": "Ue: Costa, nessun accordo sul prossimo budget",
-          "link": "https://www.agenzianova.com/a/0/8067565/2026-11-27/ue-costa-nessun-accordo-sul-prossimo-budget",
-          "description": "27 nov 01:04 - (Agenzia Nova) - \"Le discussioni, sia in sessione plenaria che nei vari gruppi di lavoro, sono state molto interessanti. Non... (Brs)",
-          "pubDate": "2026-11-27T01:04:34+01:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Ue: Costa, nessun accordo sul prossimo budget"
+          "title": "Africa: El Niño Adds New Hunger Hotspots As Conflict Continues to Drive Risk of Famine, Warn FAO and WFP",
+          "link": "https://allafrica.com/stories/202611270343.html",
+          "description": "[WFP] Rome -- Sudan, South Sudan, Somalia, parts of Nigeria and Yemen remain hotspots of highest concern with Southern Africa and the Central American Dry Corridor among new additions",
+          "pubDate": "Fri, 27 Nov 2026 12:21:02 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Africa: El Niño Adds New Hunger Hotspots As Conflict Continues to Drive Risk of Famine, Warn FAO and WFP"
+        },
+        {
+          "title": "Eritrea: Eritrea Accuses Ethiopia of Using Maritime Diplomacy to 'Camouflage Its Irredentist Ambitions'",
+          "link": "https://allafrica.com/stories/202611270280.html",
+          "description": "[Addis Standard] Addis Abeba -- Eritrea has accused Ethiopia of using maritime diplomacy and regional security forums to mask what it described as territorial ambitions in the Horn of Africa, escalating tensions amid renewed disagreements over Ethiopia's pursuit of Red Sea access.",
+          "pubDate": "Fri, 27 Nov 2026 10:44:31 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Eritrea: Eritrea Accuses Ethiopia of Using Maritime Diplomacy to 'Camouflage Its Irredentist Ambitions'"
+        },
+        {
+          "title": "BURUNDI - AFRICA / INTERNATIONAL : 04 MAI 2010 [ Bashir Slate Carries Sudan , Angering The West ]",
+          "link": "https://burundi-agnews.org/burundi-africa-international-04-mai-2010-bashir-slate-carries-sudan-angering-the-west/",
+          "source": "burundi-agnews.org",
+          "pubDate": "2026-11-27T00:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "BURUNDI - AFRICA / INTERNATIONAL : 04 MAI 2010 [ Bashir Slate Carries Sudan , Angering The West ]"
+        },
+        {
+          "title": "Sex , drugs , Israeli tech and Trump rivalries : Five explosive claims from Kushner - UAE book",
+          "link": "https://www.middleeasteye.net/news/sex-drugs-israeli-tech-and-trump-rivalries-five-explosive-claims-kushner-uae-book",
+          "source": "middleeasteye.net",
+          "pubDate": "2026-11-27T00:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Sex , drugs , Israeli tech and Trump rivalries : Five explosive claims from Kushner - UAE book"
         },
         {
           "title": "Aosta Valley Region Signs Agreement to Participate in Expo 2027 Belgrade",
@@ -125,6 +152,15 @@
           "titleIt": "UK sent Sri Lankan refugee to Eswatini in secret deal, the BBC says"
         },
         {
+          "title": "Global Water Monitor and Forecast Watch List",
+          "link": "https://www.circleofblue.org/2026/world/global-water-monitor-and-forecast-watch-list/",
+          "source": "circleofblue.org",
+          "pubDate": "2026-11-26T02:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Global Water Monitor and Forecast Watch List"
+        },
+        {
           "title": "As foreign troops withdraw from Somalia, could al-Shabab take over?",
           "link": "https://www.bbc.co.uk/news/articles/ck62y23z58yeo?at_medium=RSS&at_campaign=rss",
           "description": "Somalia relies heavily on foreign funding and military support for its very survival.",
@@ -134,13 +170,13 @@
           "titleIt": "As foreign troops withdraw from Somalia, could al-Shabab take over?"
         },
         {
-          "title": "South Africa's Ramaphosa says talks ongoing with US over AGOA exclusion",
-          "link": "http://www.africanews.com/2026/11/25/south-africas-ramaphosa-says-talks-ongoing-with-us-over-agoa-exclusion/",
-          "description": "South African President Cyril Ramaphosa said Tuesday that his government continues to negotiate with Washington over the future of a major US duty-free deal, a few weeks after the US announced South Africa's exclusion from the African Growth and Opportunity Act.",
-          "pubDate": "Wed, 25 Nov 2026 16:45:30 +0000",
-          "source": "Africanews",
+          "title": "Africa: COP31 - New African Development Bank Report Calls for Climate Finance That Promotes Peace",
+          "link": "https://allafrica.com/stories/202611260001.html",
+          "description": "[African Development Bank (AfDB)] Climate and development finance for Africa's fragile and conflict-affected settings must be designed from the outset to prevent conflict and strengthen social cohesion.",
+          "pubDate": "Thu, 26 Nov 2026 02:01:30 GMT",
+          "source": "AllAfrica",
           "lang": "en",
-          "titleIt": "South Africa's Ramaphosa says talks ongoing with US over AGOA exclusion"
+          "titleIt": "Africa: COP31 - New African Development Bank Report Calls for Climate Finance That Promotes Peace"
         },
         {
           "title": "UNIDO: Italy’s Commitment to Industrial Development",
@@ -152,13 +188,67 @@
           "titleIt": "UNIDO: Italy’s Commitment to Industrial Development"
         },
         {
-          "title": "Containing the New War in Northern Ethiopia",
-          "link": "https://www.crisisgroup.org/cmt/europe/european-union-ethiopia-eritrea-sudan/containing-new-war-northern-ethiopia",
-          "description": "War has returned to northern Ethiopia, raising fears of a wider conflict involving Eritrea. In this excerpt from the EU Watch List 2026 – Autumn Edition , Crisis Group explains how the EU and member states can facilitate talks and prevent escalation.",
-          "pubDate": "Thursday, October 15, 2026 - 11:12",
-          "source": "Crisis Group",
+          "title": "The Gen - Z struggles in Africa and the European working class",
+          "link": "https://www.wsws.org/en/articles/2026/11/24/nlll-n24.html",
+          "source": "wsws.org",
+          "pubDate": "2026-11-25T02:30:00Z",
           "lang": "en",
-          "titleIt": "Containing the New War in Northern Ethiopia"
+          "description": "",
+          "titleIt": "The Gen - Z struggles in Africa and the European working class"
+        },
+        {
+          "title": "Drone Strikes Hit Khartoum Homes and UN Facility as Civilian Toll Rises in Sudan",
+          "link": "https://www.latintimes.com/sudan-drone-strikes-khartoum-un-facility-601738",
+          "source": "latintimes.com",
+          "pubDate": "2026-11-25T00:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Drone Strikes Hit Khartoum Homes and UN Facility as Civilian Toll Rises in Sudan"
+        },
+        {
+          "title": "ILO , IGAD Champion Ethical Migration , Worker Rights",
+          "link": "https://www.miragenews.com/ilo-igad-champion-ethical-migration-workers-1783156/",
+          "source": "miragenews.com",
+          "pubDate": "2026-11-24T23:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "ILO , IGAD Champion Ethical Migration , Worker Rights"
+        },
+        {
+          "title": "ILO , IGAD Promote Ethical Reporting on Migrant Worker Rights",
+          "link": "https://www.miragenews.com/ilo-igad-promote-ethical-reporting-on-migrant-1783177/",
+          "source": "miragenews.com",
+          "pubDate": "2026-11-24T23:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "ILO , IGAD Promote Ethical Reporting on Migrant Worker Rights"
+        },
+        {
+          "title": "The Erosion Of Institutional Memory And The Crisis Of Governance In Somalia And Puntland - Analysis",
+          "link": "https://www.eurasiareview.com/24112026-the-erosion-of-institutional-memory-and-the-crisis-of-governance-in-somalia-and-puntland-analysis/",
+          "source": "eurasiareview.com",
+          "pubDate": "2026-11-24T07:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The Erosion Of Institutional Memory And The Crisis Of Governance In Somalia And Puntland - Analysis"
+        },
+        {
+          "title": "Statement by Foreign Minister Osman Saleh at the Sixth Edition of the Aswan Forum for Sustainable Peace and Development",
+          "link": "https://shabait.com/2026/11/22/statement-by-at-the-sixth-edition-of-the-aswan-forum-for-sustainable-peace-and-development/",
+          "source": "shabait.com",
+          "pubDate": "2026-11-22T12:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Statement by Foreign Minister Osman Saleh at the Sixth Edition of the Aswan Forum for Sustainable Peace and Development"
+        },
+        {
+          "title": "Turkey aids Somalia in breaking ground on new naval facilities",
+          "link": "http://www.jpost.com/international/article-915680",
+          "source": "jpost.com",
+          "pubDate": "2026-11-22T12:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Turkey aids Somalia in breaking ground on new naval facilities"
         }
       ]
     },
@@ -168,7 +258,188 @@
     },
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
-      "items": []
+      "items": [
+        {
+          "title": "Eritrea: Eritrea Accuses Ethiopia of Using Maritime Diplomacy to 'Camouflage Its Irredentist Ambitions'",
+          "link": "https://allafrica.com/stories/202611270280.html",
+          "description": "[Addis Standard] Addis Abeba -- Eritrea has accused Ethiopia of using maritime diplomacy and regional security forums to mask what it described as territorial ambitions in the Horn of Africa, escalating tensions amid renewed disagreements over Ethiopia's pursuit of Red Sea access.",
+          "pubDate": "Fri, 27 Nov 2026 10:44:31 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Eritrea: Eritrea Accuses Ethiopia of Using Maritime Diplomacy to 'Camouflage Its Irredentist Ambitions'"
+        },
+        {
+          "title": "Ethiopia Green Legacy Showcases Commitment to Global Climate Action - Pmo Press Secretary",
+          "link": "https://allafrica.com/stories/202611130515.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-11-13T18:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia Green Legacy Showcases Commitment to Global Climate Action - Pmo Press Secretary"
+        },
+        {
+          "title": "Egypt Regions and Provinces Explained",
+          "link": "https://www.riotimesonline.com/egypt-regions-provinces-explained-2026/",
+          "source": "riotimesonline.com",
+          "pubDate": "2026-11-12T05:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt Regions and Provinces Explained"
+        },
+        {
+          "title": "Ethiopia in Africa , Its Role , Weight and Alliances",
+          "link": "https://www.riotimesonline.com/ethiopia-role-in-africa-explained-2026/",
+          "source": "riotimesonline.com",
+          "pubDate": "2026-11-12T05:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia in Africa , Its Role , Weight and Alliances"
+        },
+        {
+          "title": "Sudan : Proxy Politics and Border Clashes - an Escalating Crisis Between Sudan and Ethiopia",
+          "link": "https://allafrica.com/stories/202611100043.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-11-10T06:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Sudan : Proxy Politics and Border Clashes - an Escalating Crisis Between Sudan and Ethiopia"
+        },
+        {
+          "title": "Deadly RSF drone attacks reveal deep divisions between Sudan and Ethiopia",
+          "link": "https://www.aljazeera.com/news/2026/11/3/deadly-rsf-drone-strikes-reveal-deep-divisions-between-sudan-and-ethiopia",
+          "source": "aljazeera.com",
+          "pubDate": "2026-11-03T11:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Deadly RSF drone attacks reveal deep divisions between Sudan and Ethiopia"
+        },
+        {
+          "title": "Conflict Should Never Be The First Option : | The Reporter Ethiopia",
+          "link": "https://www.thereporterethiopia.com/53621/",
+          "source": "thereporterethiopia.com",
+          "pubDate": "2026-10-24T08:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Conflict Should Never Be The First Option : | The Reporter Ethiopia"
+        },
+        {
+          "title": "Fighting in Ethiopia and the Risk of Regional Spillover",
+          "link": "https://warontherocks.com/fighting-in-ethiopia-and-the-risk-of-regional-spillover/",
+          "source": "warontherocks.com",
+          "pubDate": "2026-10-21T20:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Fighting in Ethiopia and the Risk of Regional Spillover"
+        },
+        {
+          "title": "Ethiopia Abiy Pushes Nuclear Power Development After Russia Deal",
+          "link": "https://chimpreports.com/ethiopias-abiy-pushes-nuclear-power-development-after-russia-deal/",
+          "source": "chimpreports.com",
+          "pubDate": "2026-10-21T12:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia Abiy Pushes Nuclear Power Development After Russia Deal"
+        },
+        {
+          "title": "Yemen war : Why Egypt vow to defend Saudi Arabia is a risky gamble",
+          "link": "https://www.middleeasteye.net/opinion/yemen-war-why-egypts-vow-defend-saudi-arabia-risky-gamble",
+          "source": "middleeasteye.net",
+          "pubDate": "2026-10-20T09:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Yemen war : Why Egypt vow to defend Saudi Arabia is a risky gamble"
+        },
+        {
+          "title": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict",
+          "link": "https://www.newsday.com/news/nation/ethiopia-tigray-eritrea-abiy-ahmed-nile-t67567",
+          "source": "newsday.com",
+          "pubDate": "2026-10-20T06:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict"
+        },
+        {
+          "title": "US Ambassador Urges Ethiopia Talks 19 Oct",
+          "link": "https://www.riotimesonline.com/us-ambassador-ethiopia-massinga-peace-talks-2026/",
+          "source": "riotimesonline.com",
+          "pubDate": "2026-10-20T02:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "US Ambassador Urges Ethiopia Talks 19 Oct"
+        },
+        {
+          "title": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict",
+          "link": "http://www.sitkasentinel.com/stories/a-look-at-how-ethiopias-wars-sea-ambitions-and-nile-dam-fuel-fears-of-wider-conflict,179778",
+          "source": "sitkasentinel.com",
+          "pubDate": "2026-10-19T16:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict"
+        },
+        {
+          "title": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict :: WRAL . com",
+          "link": "https://www.wral.com/news/ap/18294-a-look-at-how-ethiopia-s-wars-sea-ambitions-and-nile-dam-fuel-fears-of-wider-conflict/",
+          "source": "wral.com",
+          "pubDate": "2026-10-19T15:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict :: WRAL . com"
+        },
+        {
+          "title": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict",
+          "link": "https://www.thepeterboroughexaminer.com/business/a-look-at-how-ethiopia-s-wars-sea-ambitions-and-nile-dam-fuel-fears-of-wider-conflict/article_800473c7-bbd4-535b-a9c8-31b345bc3e75.html",
+          "source": "thepeterboroughexaminer.com",
+          "pubDate": "2026-10-19T15:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict"
+        },
+        {
+          "title": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict",
+          "link": "https://www.niagarafallsreview.ca/business/a-look-at-how-ethiopia-s-wars-sea-ambitions-and-nile-dam-fuel-fears-of-wider-conflict/article_e45aa027-36b8-5163-9ef8-56822c7c6e16.html",
+          "source": "niagarafallsreview.ca",
+          "pubDate": "2026-10-19T15:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict"
+        },
+        {
+          "title": "Arab News | A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict",
+          "link": "https://www.arabnews.com/world/a-look-at-how-ethiopias-wars-sea-ambitions-and-nile-dam-fuel-fears-of-wider-conflict-3007181",
+          "source": "arabnews.com",
+          "pubDate": "2026-10-19T14:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Arab News | A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict"
+        },
+        {
+          "title": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict – Winnipeg Free Press",
+          "link": "https://www.winnipegfreepress.com/business/2026/10/19/a-look-at-how-ethiopias-wars-sea-ambitions-and-nile-dam-fuel-fears-of-wider-conflict",
+          "source": "winnipegfreepress.com",
+          "pubDate": "2026-10-19T13:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict – Winnipeg Free Press"
+        },
+        {
+          "title": "Who Holds the Valve ? Water , War and the Price of Peace - By Kator Ifyalem",
+          "link": "https://www.opinionnigeria.com/who-holds-the-valve-water-war-and-the-price-of-peace-by-kator-ifyalem/",
+          "source": "opinionnigeria.com",
+          "pubDate": "2026-10-18T14:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Who Holds the Valve ? Water , War and the Price of Peace - By Kator Ifyalem"
+        },
+        {
+          "title": "The Region Real Picture , Without AI Beautification",
+          "link": "https://english.aawsat.com/opinion/5330701-region%E2%80%99s-real-picture-without-ai-beautification",
+          "source": "english.aawsat.com",
+          "pubDate": "2026-10-18T08:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The Region Real Picture , Without AI Beautification"
+        }
+      ]
     }
   }
 }
