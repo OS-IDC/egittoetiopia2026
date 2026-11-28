@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T22:43:24.420Z",
+  "generatedAt": "2026-11-28T07:47:09.048Z",
   "feedsChecked": 9,
   "feedsAttempted": 10,
   "topics": {
@@ -37,6 +37,15 @@
           "source": "AllAfrica",
           "lang": "en",
           "titleIt": "Africa: El Niño Adds New Hunger Hotspots As Conflict Continues to Drive Risk of Famine, Warn FAO and WFP"
+        },
+        {
+          "title": "Kenya: Obado to Appeal 25-Year Jail Term, Lawyers Cite Impact On Sharon Otieno's Family",
+          "link": "https://allafrica.com/stories/202611270323.html",
+          "description": "[Capital FM] Nairobi -- Former Migori Governor Okoth Obado's lawyers have announced plans to appeal his 25-year prison sentence over the murder of former Rongo University student Sharon Otieno, describing the punishment as unfair.",
+          "pubDate": "Fri, 27 Nov 2026 11:18:44 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Kenya: Obado to Appeal 25-Year Jail Term, Lawyers Cite Impact On Sharon Otieno's Family"
         },
         {
           "title": "Eritrea: Eritrea Accuses Ethiopia of Using Maritime Diplomacy to 'Camouflage Its Irredentist Ambitions'",
@@ -79,6 +88,15 @@
     "ethiopia-sea-access": {
       "title": "Accesso etiope al mare",
       "items": [
+        {
+          "title": "Mediterraneo: sicurezza marittima e flotte ombra al centro di Shade Med 2026 a Roma (7)",
+          "link": "https://www.agenzianova.com/a/0/8070732/2026-11-28/mediterraneo-sicurezza-marittima-e-flotte-ombra-al-centro-di-shade-med-2026-a-roma-7",
+          "description": "28 nov 08:00 - (Agenzia Nova) - La conferenza Shade Med (Shared Awareness and De-confliction in the Mediterranean) nasce come piattaforma di... (Res)",
+          "pubDate": "2026-11-28T08:00:00+01:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Mediterraneo: sicurezza marittima e flotte ombra al centro di Shade Med 2026 a Roma (7)"
+        },
         {
           "title": "Africa: 5 Hunger Hotspots the World Cannot Afford to Ignore in 2027",
           "link": "https://allafrica.com/stories/202611270344.html",
@@ -164,188 +182,7 @@
     },
     "egypt-economy": {
       "title": "Fragilità economica egiziana",
-      "items": [
-        {
-          "title": "Sinking  African megacities will expose seven million people to flooding by 2050",
-          "link": "https://www.carbonbrief.org/sinking-african-megacities-will-expose-seven-million-people-to-flooding-by-2050",
-          "source": "carbonbrief.org",
-          "pubDate": "2026-11-27T20:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Sinking  African megacities will expose seven million people to flooding by 2050"
-        },
-        {
-          "title": "Finery Markets & LINK expand stablecoin pricing access",
-          "link": "https://cfotech.news/story/finery-markets-link-expand-stablecoin-pricing-access",
-          "source": "cfotech.news",
-          "pubDate": "2026-11-27T20:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Finery Markets & LINK expand stablecoin pricing access"
-        },
-        {
-          "title": "Rajnath calls for preparedness against emerging security threats",
-          "link": "https://nagalandpost.com/rajnath-calls-for-preparedness-against-emerging-security-threats/",
-          "source": "nagalandpost.com",
-          "pubDate": "2026-11-27T06:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Rajnath calls for preparedness against emerging security threats"
-        },
-        {
-          "title": "Foreign Powers and Investors in The Gambia",
-          "link": "https://www.riotimesonline.com/gambia-foreign-players-2026/",
-          "source": "riotimesonline.com",
-          "pubDate": "2026-11-27T06:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Foreign Powers and Investors in The Gambia"
-        },
-        {
-          "title": "Cabo Verde PM Pitches US$1 Billion Budget",
-          "link": "https://www.riotimesonline.com/cabo-verde-pm-presents-2027-budget/",
-          "source": "riotimesonline.com",
-          "pubDate": "2026-11-27T06:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Cabo Verde PM Pitches US$1 Billion Budget"
-        },
-        {
-          "title": "Senegal Speaker Urges Parliament Dissolution",
-          "link": "https://www.riotimesonline.com/sonko-says-senegal-elections-2027-dissolve-assembly/",
-          "source": "riotimesonline.com",
-          "pubDate": "2026-11-27T06:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Senegal Speaker Urges Parliament Dissolution"
-        },
-        {
-          "title": "Tiger Brands Income Up 12 . 6 %, El Niño a Risk",
-          "link": "https://www.riotimesonline.com/tiger-brands-flags-el-nino-risk-food-supply/",
-          "source": "riotimesonline.com",
-          "pubDate": "2026-11-27T06:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Tiger Brands Income Up 12 . 6 %, El Niño a Risk"
-        },
-        {
-          "title": "EU Lawmakers Reject Turkey - Libya Sea Deal",
-          "link": "https://www.riotimesonline.com/european-parliament-sanctions-libya-turkey-sea-deal/",
-          "source": "riotimesonline.com",
-          "pubDate": "2026-11-27T06:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "EU Lawmakers Reject Turkey - Libya Sea Deal"
-        },
-        {
-          "title": "Mozambique Owes Suppliers US$1 . 29 Billion",
-          "link": "https://www.riotimesonline.com/mozambique-owes-suppliers-us-1-29-billion/",
-          "source": "riotimesonline.com",
-          "pubDate": "2026-11-27T06:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Mozambique Owes Suppliers US$1 . 29 Billion"
-        },
-        {
-          "title": "Barrick Chief Meets Mali Prime Minister",
-          "link": "https://www.riotimesonline.com/barrick-chief-meets-mali-prime-minister-gold-dispute/",
-          "source": "riotimesonline.com",
-          "pubDate": "2026-11-27T06:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Barrick Chief Meets Mali Prime Minister"
-        },
-        {
-          "title": "Cabo Verde Changes Prosecutor Security",
-          "link": "https://www.riotimesonline.com/cabo-verde-prosecutor-security-changed/",
-          "source": "riotimesonline.com",
-          "pubDate": "2026-11-27T06:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Cabo Verde Changes Prosecutor Security"
-        },
-        {
-          "title": "Nigeria Says Fuel Sector Needs US$30 Billion",
-          "link": "https://www.riotimesonline.com/nigeria-nmdpra-30-billion-petroleum-infrastructure-2030/",
-          "source": "riotimesonline.com",
-          "pubDate": "2026-11-27T06:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Nigeria Says Fuel Sector Needs US$30 Billion"
-        },
-        {
-          "title": "Discovery Bank Targets 3 Million Clients",
-          "link": "https://www.riotimesonline.com/discovery-bank-3-million-clients-target/",
-          "source": "riotimesonline.com",
-          "pubDate": "2026-11-27T06:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Discovery Bank Targets 3 Million Clients"
-        },
-        {
-          "title": "Lomé Port Finishes US$22M Quay Upgrade",
-          "link": "https://www.riotimesonline.com/togo-lome-port-quay-upgrade-lct-eiffage/",
-          "source": "riotimesonline.com",
-          "pubDate": "2026-11-27T06:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Lomé Port Finishes US$22M Quay Upgrade"
-        },
-        {
-          "title": "Mozambique Flood Dike Repairs Fall Behind",
-          "link": "https://www.riotimesonline.com/mozambique-flood-dike-repairs-fall-behind/",
-          "source": "riotimesonline.com",
-          "pubDate": "2026-11-27T06:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Mozambique Flood Dike Repairs Fall Behind"
-        },
-        {
-          "title": "Guinea - Bissau Delays Elections by Two Years",
-          "link": "https://www.riotimesonline.com/guinea-bissau-junta-delays-election-to-2028/",
-          "source": "riotimesonline.com",
-          "pubDate": "2026-11-27T06:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Guinea - Bissau Delays Elections by Two Years"
-        },
-        {
-          "title": "Nigeria Promises Crash Families Homes , Cash",
-          "link": "https://www.riotimesonline.com/tinubu-flats-n100m-air-force-crash-families/",
-          "source": "riotimesonline.com",
-          "pubDate": "2026-11-27T06:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Nigeria Promises Crash Families Homes , Cash"
-        },
-        {
-          "title": "India to host 25th IORA Council of Ministers meeting in Delhi today",
-          "link": "https://www.mangalorean.com/india-to-host-25th-iora-council-of-ministers-meeting-in-delhi-today/",
-          "source": "mangalorean.com",
-          "pubDate": "2026-11-27T05:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "India to host 25th IORA Council of Ministers meeting in Delhi today"
-        },
-        {
-          "title": "India to host 25th IORA Council of Ministers meeting in Delhi today",
-          "link": "https://ianslive.in/india-to-host-25th-iora-council-of-ministers-meeting-in-delhi-today--20261127061941",
-          "source": "ianslive.in",
-          "pubDate": "2026-11-27T01:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "India to host 25th IORA Council of Ministers meeting in Delhi today"
-        },
-        {
-          "title": "Emir of Daura and the Hand of God",
-          "link": "https://punchng.com/emir-of-daura-and-the-hand-of-god/",
-          "source": "punchng.com",
-          "pubDate": "2026-11-27T01:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Emir of Daura and the Hand of God"
-        }
-      ]
+      "items": []
     },
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
@@ -358,177 +195,6 @@
           "source": "AllAfrica",
           "lang": "en",
           "titleIt": "Eritrea: Eritrea Accuses Ethiopia of Using Maritime Diplomacy to 'Camouflage Its Irredentist Ambitions'"
-        },
-        {
-          "title": "Ethiopia Green Legacy Showcases Commitment to Global Climate Action - Pmo Press Secretary",
-          "link": "https://allafrica.com/stories/202611130515.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-11-13T18:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia Green Legacy Showcases Commitment to Global Climate Action - Pmo Press Secretary"
-        },
-        {
-          "title": "Egypt Regions and Provinces Explained",
-          "link": "https://www.riotimesonline.com/egypt-regions-provinces-explained-2026/",
-          "source": "riotimesonline.com",
-          "pubDate": "2026-11-12T05:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egypt Regions and Provinces Explained"
-        },
-        {
-          "title": "Ethiopia in Africa , Its Role , Weight and Alliances",
-          "link": "https://www.riotimesonline.com/ethiopia-role-in-africa-explained-2026/",
-          "source": "riotimesonline.com",
-          "pubDate": "2026-11-12T05:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia in Africa , Its Role , Weight and Alliances"
-        },
-        {
-          "title": "Sudan : Proxy Politics and Border Clashes - an Escalating Crisis Between Sudan and Ethiopia",
-          "link": "https://allafrica.com/stories/202611100043.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-11-10T06:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Sudan : Proxy Politics and Border Clashes - an Escalating Crisis Between Sudan and Ethiopia"
-        },
-        {
-          "title": "Deadly RSF drone attacks reveal deep divisions between Sudan and Ethiopia",
-          "link": "https://www.aljazeera.com/news/2026/11/3/deadly-rsf-drone-strikes-reveal-deep-divisions-between-sudan-and-ethiopia",
-          "source": "aljazeera.com",
-          "pubDate": "2026-11-03T11:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Deadly RSF drone attacks reveal deep divisions between Sudan and Ethiopia"
-        },
-        {
-          "title": "Conflict Should Never Be The First Option : | The Reporter Ethiopia",
-          "link": "https://www.thereporterethiopia.com/53621/",
-          "source": "thereporterethiopia.com",
-          "pubDate": "2026-10-24T08:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Conflict Should Never Be The First Option : | The Reporter Ethiopia"
-        },
-        {
-          "title": "Fighting in Ethiopia and the Risk of Regional Spillover",
-          "link": "https://warontherocks.com/fighting-in-ethiopia-and-the-risk-of-regional-spillover/",
-          "source": "warontherocks.com",
-          "pubDate": "2026-10-21T20:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Fighting in Ethiopia and the Risk of Regional Spillover"
-        },
-        {
-          "title": "Ethiopia Abiy Pushes Nuclear Power Development After Russia Deal",
-          "link": "https://chimpreports.com/ethiopias-abiy-pushes-nuclear-power-development-after-russia-deal/",
-          "source": "chimpreports.com",
-          "pubDate": "2026-10-21T12:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia Abiy Pushes Nuclear Power Development After Russia Deal"
-        },
-        {
-          "title": "Yemen war : Why Egypt vow to defend Saudi Arabia is a risky gamble",
-          "link": "https://www.middleeasteye.net/opinion/yemen-war-why-egypts-vow-defend-saudi-arabia-risky-gamble",
-          "source": "middleeasteye.net",
-          "pubDate": "2026-10-20T09:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Yemen war : Why Egypt vow to defend Saudi Arabia is a risky gamble"
-        },
-        {
-          "title": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict",
-          "link": "https://www.newsday.com/news/nation/ethiopia-tigray-eritrea-abiy-ahmed-nile-t67567",
-          "source": "newsday.com",
-          "pubDate": "2026-10-20T06:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict"
-        },
-        {
-          "title": "US Ambassador Urges Ethiopia Talks 19 Oct",
-          "link": "https://www.riotimesonline.com/us-ambassador-ethiopia-massinga-peace-talks-2026/",
-          "source": "riotimesonline.com",
-          "pubDate": "2026-10-20T02:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "US Ambassador Urges Ethiopia Talks 19 Oct"
-        },
-        {
-          "title": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict",
-          "link": "http://www.sitkasentinel.com/stories/a-look-at-how-ethiopias-wars-sea-ambitions-and-nile-dam-fuel-fears-of-wider-conflict,179778",
-          "source": "sitkasentinel.com",
-          "pubDate": "2026-10-19T16:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict"
-        },
-        {
-          "title": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict :: WRAL . com",
-          "link": "https://www.wral.com/news/ap/18294-a-look-at-how-ethiopia-s-wars-sea-ambitions-and-nile-dam-fuel-fears-of-wider-conflict/",
-          "source": "wral.com",
-          "pubDate": "2026-10-19T15:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict :: WRAL . com"
-        },
-        {
-          "title": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict",
-          "link": "https://www.thepeterboroughexaminer.com/business/a-look-at-how-ethiopia-s-wars-sea-ambitions-and-nile-dam-fuel-fears-of-wider-conflict/article_800473c7-bbd4-535b-a9c8-31b345bc3e75.html",
-          "source": "thepeterboroughexaminer.com",
-          "pubDate": "2026-10-19T15:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict"
-        },
-        {
-          "title": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict",
-          "link": "https://www.niagarafallsreview.ca/business/a-look-at-how-ethiopia-s-wars-sea-ambitions-and-nile-dam-fuel-fears-of-wider-conflict/article_e45aa027-36b8-5163-9ef8-56822c7c6e16.html",
-          "source": "niagarafallsreview.ca",
-          "pubDate": "2026-10-19T15:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict"
-        },
-        {
-          "title": "Arab News | A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict",
-          "link": "https://www.arabnews.com/world/a-look-at-how-ethiopias-wars-sea-ambitions-and-nile-dam-fuel-fears-of-wider-conflict-3007181",
-          "source": "arabnews.com",
-          "pubDate": "2026-10-19T14:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Arab News | A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict"
-        },
-        {
-          "title": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict – Winnipeg Free Press",
-          "link": "https://www.winnipegfreepress.com/business/2026/10/19/a-look-at-how-ethiopias-wars-sea-ambitions-and-nile-dam-fuel-fears-of-wider-conflict",
-          "source": "winnipegfreepress.com",
-          "pubDate": "2026-10-19T13:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict – Winnipeg Free Press"
-        },
-        {
-          "title": "Who Holds the Valve ? Water , War and the Price of Peace - By Kator Ifyalem",
-          "link": "https://www.opinionnigeria.com/who-holds-the-valve-water-war-and-the-price-of-peace-by-kator-ifyalem/",
-          "source": "opinionnigeria.com",
-          "pubDate": "2026-10-18T14:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Who Holds the Valve ? Water , War and the Price of Peace - By Kator Ifyalem"
-        },
-        {
-          "title": "The Region Real Picture , Without AI Beautification",
-          "link": "https://english.aawsat.com/opinion/5330701-region%E2%80%99s-real-picture-without-ai-beautification",
-          "source": "english.aawsat.com",
-          "pubDate": "2026-10-18T08:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The Region Real Picture , Without AI Beautification"
         }
       ]
     }
